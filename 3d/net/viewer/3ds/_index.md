@@ -79,6 +79,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View 3DS" sectionDescription="Check our live demos to [View 3DS](https://products.aspose.app/3d/viewer/3ds) with following benefits." >}}
@@ -94,6 +96,9 @@ A file with 3DS extension represents 3D Sudio (DOS) mesh file format used by Aut
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

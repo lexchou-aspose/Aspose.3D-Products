@@ -17,7 +17,310 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-object-ungroup">
+    </i>
+    Object Model
+   </header>
+   <ul>
+    <li>
+     Scene
+    </li>
+    <li>
+     Mesh
+    </li>
+    <li>
+     PolygonBuilder
+    </li>
+    <li>
+     Node
+    </li>
+    <li>
+     Transform
+    </li>
+    <li>
+     Quaternion
+    </li>
+    <li>
+     Property
+    </li>
+    <li>
+     VertexElementUV
+    </li>
+    <li>
+     VertexElementNormal
+    </li>
+    <li>
+     Vertex
+    </li>
+    <li>
+     Box
+    </li>
+    <li>
+     Cylinder
+    </li>
+    <li>
+     Plane
+    </li>
+    <li>
+     Sphere
+    </li>
+    <li>
+     Torus
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    General
+   </header>
+   <ul>
+    <li>
+     Create Scenes
+    </li>
+    <li>
+     Create Mesh Surface
+    </li>
+    <li>
+     Polygon Triangulation
+    </li>
+    <li>
+     Split Mesh by Material
+    </li>
+    <li>
+     Setup Normal for Graphics
+    </li>
+    <li>
+     Set up UV for Graphics
+    </li>
+    <li>
+     Triangulate Mesh
+    </li>
+    <li>
+     Share Mesh Geometry Data
+    </li>
+    <li>
+     Add Material to Object
+    </li>
+    <li>
+     Add Target Camera
+    </li>
+    <li>
+     Cast &amp; Receive Shadows
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java 3D APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <header>
+   Aspose.3d
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.3D for Java supports the Java runtime." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="3D CAD API for Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <header>
+   Aspose.3d
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports [listed file formats](https://docs.aspose.com/3d/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Autodesk:
+     </b>
+     FBX 7.2 to 7.5 (ASCII/Binary)
+    </li>
+    <li>
+     STL (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Wavefront:
+     </b>
+     OBJ
+    </li>
+    <li>
+     3DS
+    </li>
+    <li>
+     <b>
+      Universal3D
+     </b>
+    </li>
+    <li>
+     <b>
+      Collada:
+     </b>
+     DAE
+    </li>
+    <li>
+     <b>
+      GL Transmission:
+     </b>
+     glTF (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Google Draco:
+     </b>
+     DRC
+    </li>
+    <li>
+     <b>
+      RVM
+     </b>
+     (Text/Binary)
+    </li>
+    <li>
+     <b>
+      Portable Document Format:
+     </b>
+     PDF
+    </li>
+    <li>
+     AMF
+    </li>
+    <li>
+     PLY
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <br/>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      DirectX:
+     </b>
+     X (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Siemens:
+     </b>
+     JT
+    </li>
+    <li>
+     DXF
+    </li>
+    <li>
+     3MF
+    </li>
+    <li>
+     ASE
+    </li>
+    <li>
+     VRML
+    </li>
+    <li>
+     DirectX: X
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     HTML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <header>
+   Aspose.3d
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

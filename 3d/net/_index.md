@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the capabilities of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.3D for .NET supports the .NET framework." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -146,7 +143,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for .NET supports famous 3D file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.3D for .NET supports the .NET framework." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -184,6 +181,151 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="3D CAD API for .NET" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png"/>
+  <header>
+   Aspose.3d
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for .NET [supports famous 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  file formats." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Autodesk:
+     </b>
+     FBX 7.2 to 7.5 (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      3D Systems CAD:
+     </b>
+     STL (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Wavefront:
+     </b>
+     OBJ
+    </li>
+    <li>
+     <b>
+      Discreet 3D Studio:
+     </b>
+     3DS
+    </li>
+    <li>
+     <b>
+      Universal3D:
+     </b>
+     U3D
+    </li>
+    <li>
+     <b>
+      Collada:
+     </b>
+     DAE
+    </li>
+    <li>
+     <b>
+      GL Transmission:
+     </b>
+     glTF (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Google Draco:
+     </b>
+     DRC
+    </li>
+    <li>
+     <b>
+      RVM
+     </b>
+     (Text/Binary)
+    </li>
+    <li>
+     <b>
+      Portable Document Format:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     AMF, PLY (ASCII/Binary), A3DW
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <br/>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      DirectX:
+     </b>
+     X (ASCII/Binary)
+    </li>
+    <li>
+     <b>
+      Siemens:
+     </b>
+     JT
+    </li>
+    <li>
+     DXF
+    </li>
+    <li>
+     3MF (3D Manufacturing Format)
+    </li>
+    <li>
+     ASE
+    </li>
+    <li>
+     VRML
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     HTML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png"/>
   <header>
    Aspose.3d
   </header>
