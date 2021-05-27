@@ -2,6 +2,7 @@
 title: Java 3D API | 3D Files Manipulation and Conversion 
 weight: 1820
 url: /java/ 
+description: Gameware and CAD 3D library to create read convert and modify 3D file formats within Java applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
