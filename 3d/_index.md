@@ -52,14 +52,28 @@ Free App offers features to convert 3D files to Autodesk, Wavefront, 3D Studio &
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-The API’s ease of use gives the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy. We would definitely recommend Aspose for any .Net companies who want to work with virtually any type of file in their applications.
+<p class="first">
+ The API’s ease of use gives the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy. We would definitely recommend Aspose for any .Net companies who want to work with virtually any type of file in their applications.
+ <em>
+  Igor Klafke | W3K Tecnologia, Brazil
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose contributed to the great success of DOCO. Therefore we recommend Aspose.Total components for creating, managing and manipulating Word documents, Excel sheets, PDF’s or PowerPoint slideshows.
+<p class="second">
+ Aspose contributed to the great success of DOCO. Therefore we recommend Aspose.Total components for creating, managing and manipulating Word documents, Excel sheets, PDF’s or PowerPoint slideshows.
+ <em>
+  Stefan Studer | nowhow solutions AG, Switzerland
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
