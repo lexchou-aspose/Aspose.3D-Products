@@ -1,6 +1,6 @@
 ---
 title: Convert STL to U3D via .NET 
-weight: 3160
+weight: 260
 url: /net/conversion/stl-to-u3d/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert STL to U3D Using C#" %}}
 
- In order to convert STL to U3D, weвЂ™ll use
+ In order to convert STL to U3D, we’ll use
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.3d) 

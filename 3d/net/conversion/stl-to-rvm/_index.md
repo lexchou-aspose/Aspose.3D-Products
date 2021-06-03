@@ -1,6 +1,6 @@
 ---
 title: Convert STL to RVM via .NET 
-weight: 3150
+weight: 1490
 url: /net/conversion/stl-to-rvm/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert STL to RVM Using C#" %}}
 
- In order to convert STL to RVM, weвЂ™ll use
+ In order to convert STL to RVM, we’ll use
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.3d) 

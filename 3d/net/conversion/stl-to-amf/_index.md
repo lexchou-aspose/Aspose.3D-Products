@@ -1,6 +1,6 @@
 ---
 title: Convert STL to AMF via .NET 
-weight: 3080
+weight: 1250
 url: /net/conversion/stl-to-amf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert STL to AMF Using C#" %}}
 
- In order to convert STL to AMF, weвЂ™ll use
+ In order to convert STL to AMF, we’ll use
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.3d) 

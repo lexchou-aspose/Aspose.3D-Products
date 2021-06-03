@@ -1,6 +1,6 @@
 ---
 title: View 3MF File Formats via .NET 
-weight: 3510
+weight: 3640
 url: /net/viewer/3mf/ 
 description: Try our On-Premise APIs to load, render and display 3MF documents on .NET Framework, .NET Core, Mono.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display 3MF documents o
 
 {{% blocks/products/pf/agp/content h2="How to View 3MF File Using C#" %}}
 
- In order to view 3MF file, weвЂ™ll use
+ In order to view 3MF file, we’ll use
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.3d) 
@@ -100,7 +100,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.3D for .NET API" %}}
 
- Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. вЂЋ
+ Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. ‎
 
 
 

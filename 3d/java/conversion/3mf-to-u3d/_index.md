@@ -1,6 +1,6 @@
 ---
 title: Convert 3MF to U3D via Java 
-weight: 230
+weight: 1010
 url: /java/conversion/3mf-to-u3d/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert 3MF to U3D Using Java" %}}
 
- In order to render 3MF to U3D, weвЂ™ll use
+ In order to render 3MF to U3D, we’ll use
  [Aspose.3D for Java](https://products.aspose.com/3d/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d) 
@@ -77,7 +77,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert 3MF to U3D - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert 3MF to U3D - Java‎" offSpacer="" %}}
 
 ```cs
 // load the 3MF in an object of Scene 
@@ -106,7 +106,7 @@ document.save("output.u3d", options);
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
- Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. вЂЋ
+ Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. ‎
 
 
 

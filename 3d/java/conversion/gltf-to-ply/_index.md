@@ -1,6 +1,6 @@
 ---
 title: Convert GLTF to PLY via Java 
-weight: 860
+weight: 2740
 url: /java/conversion/gltf-to-ply/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert GLTF to PLY Using Java" %}}
 
- In order to render GLTF to PLY, weвЂ™ll use
+ In order to render GLTF to PLY, we’ll use
  [Aspose.3D for Java](https://products.aspose.com/3d/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d) 
@@ -77,7 +77,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert GLTF to PLY - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert GLTF to PLY - Java‎" offSpacer="" %}}
 
 ```cs
 // load the GLTF in an object of Scene 
@@ -106,7 +106,7 @@ document.save("output.ply", options);
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
- Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. вЂЋ
+ Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is a standalone and does not require any any 3D modeling or rendering software. One can easily use API for Discreet3DS, WavefrontOBJ, STL (ASCII, Binary), Universal3D, FBX (ASCII, Binary), Collada, glTF, PLY, GLB, DirectX and more formats. ‎
 
 
 

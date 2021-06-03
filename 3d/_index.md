@@ -1,6 +1,6 @@
 ---
 title: On Premise APIs & Free App Solutions for 3D files manipulation 
-weight: 20
+weight: 1460
 url: /
 description: Create edit & convert 3D files. No 3D modeling software required. Work with geometry, scene hierarchy, share or split meshes, Animate Objects, Add a Target Camera.
 ---
