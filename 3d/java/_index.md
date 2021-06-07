@@ -6,11 +6,11 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/header/aspose_3d-for-java.png" pfName="Aspose.3D for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/header/aspose_3d-for-java.png" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/3d/java/" instalationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/pricing/3d/java" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

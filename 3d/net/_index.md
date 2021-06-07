@@ -6,11 +6,11 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET 3D Files Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/header/aspose_3d-for-net.png" pfName="Aspose.3D for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 3D Files Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/header/aspose_3d-for-net.png" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/3d/net/" instalationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/pricing/3d/net" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
