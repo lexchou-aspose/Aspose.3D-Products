@@ -27,7 +27,7 @@ jobs:
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: ./3d/
-        dst_path: /content/3d/
+        dst_path: /content/
         dst_owner: Aspose
         dst_repo_name: products.aspose.com
         dst_branch: main
