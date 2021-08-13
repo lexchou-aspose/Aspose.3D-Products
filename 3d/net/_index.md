@@ -616,7 +616,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

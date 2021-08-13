@@ -11,11 +11,11 @@ description: Create edit and convert 3D documents in .NET and Java applications 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productLink="/3d/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productLink="/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productLink="/3d/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
