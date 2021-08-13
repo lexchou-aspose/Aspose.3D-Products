@@ -11,11 +11,11 @@ description: Create edit & convert 3D files. No 3D modeling software required. W
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png" productLink="https://products.aspose.com/3d/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productLink="https://products.aspose.com/3d/net" >}}
 On Premise APIs to target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png" productLink="https://products.aspose.com/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productLink="https://products.aspose.com/3d/java" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 

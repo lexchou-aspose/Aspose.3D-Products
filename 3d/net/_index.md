@@ -10,7 +10,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/pricing/3d/net" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/pricing/3d/net" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -133,7 +133,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET 3D APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png"/>
+  <img alt=".NET 3D APIs" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -188,7 +188,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="3D CAD API for .NET" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png"/>
+  <img alt="3D CAD API for .NET" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -333,7 +333,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png"/>
+  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -616,7 +616,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

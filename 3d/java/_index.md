@@ -10,7 +10,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/pricing/3d/java" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/pricing/3d/java" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -126,7 +126,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java 3D APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <img alt="Java 3D APIs" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -169,7 +169,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="3D CAD API for Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <img alt="3D CAD API for Java" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -310,7 +310,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"/>
+  <img alt="FBX Manipulation API" src="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -582,7 +582,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
