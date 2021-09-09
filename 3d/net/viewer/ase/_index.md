@@ -2,7 +2,7 @@
 title: View ASE File Formats via .NET 
 weight: 1060
 url: /net/viewer/ase/ 
-description: C++ example code to load, render and display ASE documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display ASE documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

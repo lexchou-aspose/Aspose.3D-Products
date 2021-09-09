@@ -2,7 +2,7 @@
 title: View STL File Formats via .NET 
 weight: 670
 url: /net/viewer/stl/ 
-description: C++ example code to load, render and display STL documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display STL documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

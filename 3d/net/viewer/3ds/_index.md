@@ -2,7 +2,7 @@
 title: View 3DS File Formats via .NET 
 weight: 830
 url: /net/viewer/3ds/ 
-description: C++ example code to load, render and display 3DS documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display 3DS documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

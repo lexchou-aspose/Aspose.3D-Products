@@ -1,7 +1,7 @@
 ---
 title: View DRC File Formats via .NET 
 url: /net/viewer/drc/ 
-description: C++ example code to load, render and display DRC documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to load, render and display DRC documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

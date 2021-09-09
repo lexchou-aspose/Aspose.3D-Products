@@ -2,7 +2,7 @@
 title: View ZIP File Formats via .NET 
 weight: 620
 url: /net/viewer/zip/ 
-description: C++ example code to load, render and display ZIP documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display ZIP documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

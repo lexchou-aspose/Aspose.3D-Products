@@ -2,7 +2,7 @@
 title: View X File Formats via .NET 
 weight: 2050
 url: /net/viewer/x/ 
-description: C++ example code to load, render and display X documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display X documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: View JT File Formats via .NET 
 weight: 3090
 url: /net/viewer/jt/ 
-description: C++ example code to load, render and display JT documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display JT documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

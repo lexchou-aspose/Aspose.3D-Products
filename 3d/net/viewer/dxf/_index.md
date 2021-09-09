@@ -2,7 +2,7 @@
 title: View DXF File Formats via .NET 
 weight: 3270
 url: /net/viewer/dxf/ 
-description: C++ example code to load, render and display DXF documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display DXF documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

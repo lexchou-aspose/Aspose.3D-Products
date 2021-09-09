@@ -2,7 +2,7 @@
 title: View RVM File Formats via .NET 
 weight: 1940
 url: /net/viewer/rvm/ 
-description: C++ example code to load, render and display RVM documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display RVM documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: View U3D File Formats via .NET 
 weight: 840
 url: /net/viewer/u3d/ 
-description: C++ example code to load, render and display U3D documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display U3D documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: View 3MF File Formats via .NET 
 weight: 3640
 url: /net/viewer/3mf/ 
-description: C++ example code to load, render and display 3MF documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display 3MF documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

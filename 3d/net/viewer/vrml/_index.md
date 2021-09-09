@@ -2,7 +2,7 @@
 title: View VRML File Formats via .NET 
 weight: 2540
 url: /net/viewer/vrml/ 
-description: C++ example code to load, render and display VRML documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display VRML documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

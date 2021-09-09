@@ -2,7 +2,7 @@
 title: View PLY File Formats via .NET 
 weight: 3140
 url: /net/viewer/ply/ 
-description: C++ example code to load, render and display PLY documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display PLY documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

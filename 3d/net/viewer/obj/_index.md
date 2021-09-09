@@ -2,7 +2,7 @@
 title: View OBJ File Formats via .NET 
 weight: 1070
 url: /net/viewer/obj/ 
-description: C++ example code to load, render and display OBJ documents on .NET Framework, .NET Core, Mono.
+description: C# source code to load, render and display OBJ documents on .NET Framework, .NET Core, Mono.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
