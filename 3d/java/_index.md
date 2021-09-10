@@ -6,7 +6,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/header/aspose_3d-for-java.png" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
