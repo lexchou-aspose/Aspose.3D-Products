@@ -139,16 +139,16 @@ glTF (GL Transmission Format) is a 3D file format that stores 3D model informati
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PLY into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-3ds" name="PLY TO 3DS" description="3D Sudio DOS Mesh" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-amf" name="PLY TO AMF" description="Additive Manufacturing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-ase" name="PLY TO ASE" description="2D Animation File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-dae" name="PLY TO DAE" description="Digital Asset Exchange" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-fbx" name="PLY TO FBX" description="3D Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-html" name="PLY TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-obj" name="PLY TO OBJ" description="3D File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-rvm" name="PLY TO RVM" description="AVEVA Plant Design Model" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-stl" name="PLY TO STL" description="Interchangeable 3D Surface Geometry" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-u3d" name="PLY TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-3ds/" name="PLY TO 3DS" description="3D Sudio DOS Mesh" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-amf/" name="PLY TO AMF" description="Additive Manufacturing Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-ase/" name="PLY TO ASE" description="2D Animation File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-dae/" name="PLY TO DAE" description="Digital Asset Exchange" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-fbx/" name="PLY TO FBX" description="3D Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-html/" name="PLY TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-obj/" name="PLY TO OBJ" description="3D File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-rvm/" name="PLY TO RVM" description="AVEVA Plant Design Model" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-stl/" name="PLY TO STL" description="Interchangeable 3D Surface Geometry" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/ply-to-u3d/" name="PLY TO U3D" description="Universal 3D" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

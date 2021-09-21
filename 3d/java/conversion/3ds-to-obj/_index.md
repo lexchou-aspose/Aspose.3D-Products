@@ -139,15 +139,15 @@ OBJ files are used by Wavefront's Advanced Visualizer application to define and 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert 3DS into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-amf" name="3DS TO AMF" description="Additive Manufacturing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-dae" name="3DS TO DAE" description="Digital Asset Exchange" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-fbx" name="3DS TO FBX" description="3D Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-gltf" name="3DS TO GLTF" description="GL Transmission Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-html" name="3DS TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-ply" name="3DS TO PLY" description="Polygon File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-rvm" name="3DS TO RVM" description="AVEVA Plant Design Model" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-stl" name="3DS TO STL" description="Interchangeable 3D Surface Geometry" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-u3d" name="3DS TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-amf/" name="3DS TO AMF" description="Additive Manufacturing Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-dae/" name="3DS TO DAE" description="Digital Asset Exchange" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-fbx/" name="3DS TO FBX" description="3D Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-gltf/" name="3DS TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-html/" name="3DS TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-ply/" name="3DS TO PLY" description="Polygon File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-rvm/" name="3DS TO RVM" description="AVEVA Plant Design Model" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-stl/" name="3DS TO STL" description="Interchangeable 3D Surface Geometry" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/3ds-to-u3d/" name="3DS TO U3D" description="Universal 3D" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

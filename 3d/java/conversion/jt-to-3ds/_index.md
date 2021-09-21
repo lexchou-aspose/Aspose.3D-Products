@@ -139,17 +139,17 @@ A file with 3DS extension represents 3D Sudio (DOS) mesh file format used by Aut
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-amf" name="JT TO AMF" description="Additive Manufacturing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-ase" name="JT TO ASE" description="2D Animation File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-dae" name="JT TO DAE" description="Digital Asset Exchange" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-fbx" name="JT TO FBX" description="3D Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-gltf" name="JT TO GLTF" description="GL Transmission Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-html" name="JT TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-obj" name="JT TO OBJ" description="3D File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-ply" name="JT TO PLY" description="Polygon File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-rvm" name="JT TO RVM" description="AVEVA Plant Design Model" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-stl" name="JT TO STL" description="Interchangeable 3D Surface Geometry" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-u3d" name="JT TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-amf/" name="JT TO AMF" description="Additive Manufacturing Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-ase/" name="JT TO ASE" description="2D Animation File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-dae/" name="JT TO DAE" description="Digital Asset Exchange" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-fbx/" name="JT TO FBX" description="3D Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-gltf/" name="JT TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-html/" name="JT TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-obj/" name="JT TO OBJ" description="3D File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-ply/" name="JT TO PLY" description="Polygon File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-rvm/" name="JT TO RVM" description="AVEVA Plant Design Model" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-stl/" name="JT TO STL" description="Interchangeable 3D Surface Geometry" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jt-to-u3d/" name="JT TO U3D" description="Universal 3D" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

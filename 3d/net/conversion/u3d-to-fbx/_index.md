@@ -121,15 +121,15 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert U3D into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-3ds" name="U3D TO 3DS" description="3D Sudio DOS Mesh" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-amf" name="U3D TO AMF" description="Additive Manufacturing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-dae" name="U3D TO DAE" description="Digital Asset Exchange" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-html" name="U3D TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-obj" name="U3D TO OBJ" description="3D File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-pdf" name="U3D TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-ply" name="U3D TO PLY" description="Polygon File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-rvm" name="U3D TO RVM" description="AVEVA Plant Design Model" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-stl" name="U3D TO STL" description="Interchangeable 3D Surface Geometry" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-3ds/" name="U3D TO 3DS" description="3D Sudio DOS Mesh" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-amf/" name="U3D TO AMF" description="Additive Manufacturing Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-dae/" name="U3D TO DAE" description="Digital Asset Exchange" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-html/" name="U3D TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-obj/" name="U3D TO OBJ" description="3D File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-pdf/" name="U3D TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-ply/" name="U3D TO PLY" description="Polygon File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-rvm/" name="U3D TO RVM" description="AVEVA Plant Design Model" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-stl/" name="U3D TO STL" description="Interchangeable 3D Surface Geometry" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
