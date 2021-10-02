@@ -2,7 +2,7 @@
 title: C# .NET 3D Document Processing API - Aspose 
 weight: 1020
 url: /net/ 
-description: C# VB.NET ASP.NET library to create read convert and modify 3D file formats in Windows Forms Web Services and Mono applications
+description: C# VB.NET ASP.NET library to create read convert and modify 3D files in Windows Forms Web Services and Mono applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
