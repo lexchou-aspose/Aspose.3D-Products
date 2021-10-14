@@ -6,7 +6,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET 3D Files Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
