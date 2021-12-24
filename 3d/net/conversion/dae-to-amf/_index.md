@@ -121,7 +121,7 @@ Additive Manufacturing file format (AMF) defines open standards for objects desc
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DAE into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/dae-to-3ds/" name="DAE TO 3DS" description="3D Sudio DOS Mesh" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/dae-to-3ds/" name="DAE TO 3DS" description="3D Studio DOS Mesh" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/dae-to-fbx/" name="DAE TO FBX" description="3D Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/dae-to-html/" name="DAE TO HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/dae-to-obj/" name="DAE TO OBJ" description="3D File Format" >}}

@@ -139,7 +139,7 @@ RVM data files are related to AVEVA PDMS. RVM file is an AVEVA Plant Design Mana
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert X into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/x-to-3ds/" name="X TO 3DS" description="3D Sudio DOS Mesh" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/x-to-3ds/" name="X TO 3DS" description="3D Studio DOS Mesh" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/x-to-amf/" name="X TO AMF" description="Additive Manufacturing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/x-to-ase/" name="X TO ASE" description="2D Animation File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/x-to-dae/" name="X TO DAE" description="Digital Asset Exchange" >}}

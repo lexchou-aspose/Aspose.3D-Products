@@ -139,7 +139,7 @@ Additive Manufacturing file format (AMF) defines open standards for objects desc
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert RVM into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/rvm-to-3ds/" name="RVM TO 3DS" description="3D Sudio DOS Mesh" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/rvm-to-3ds/" name="RVM TO 3DS" description="3D Studio DOS Mesh" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/rvm-to-ase/" name="RVM TO ASE" description="2D Animation File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/rvm-to-dae/" name="RVM TO DAE" description="Digital Asset Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/rvm-to-fbx/" name="RVM TO FBX" description="3D Format" >}}
