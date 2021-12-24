@@ -376,7 +376,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load, save &amp; convert files to a stream
+     Load, save &amp; convert files to a stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -522,7 +522,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Scenes Creation
+     3D Scenes Creation
     </h2>
     <p>
      Aspose.3D for .NET empowers programmers to easily generate scenes from scratch without needing to install any 3D modeling or rendering software. The 3D .NET API also enables to save the scenes in formats (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D and Collada) by calling the Save method of the Scene class object.

@@ -346,21 +346,21 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate scene and save in supported formats
+     Generate scene and save in supported formats
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load, save and render 3D document to a stream
+     Load, save and render 3D document to a stream
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Work with geometry and scene hierarchy
+     Work with geometry and scene hierarchy
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,7 +374,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add animation property to the scene file
+     Add animation property to the scene file
     </p>
    </div>
    <div class="col-lg-4">
@@ -391,7 +391,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
      Add a target camera as well as animate objects in a 3D scene
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Animate objects in a 3D scene</p>
 
@@ -442,7 +442,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export glTF documents using Draco compression
+     Import and export glTF documents using Draco compression
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +450,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
      Inter-convert Scene Files
     </h2>
     <p>
-     API provides the support of 3D file format conversion in a simple way. Developers can load the source document in a Scene instance, and use its Save function with the FileFormat parameter. That's it!
+     API provides the support of 3D file format conversion in a simple way. Developers can load the source document in a Scene instance, and use its Save function with the FileFormat parameter. That's it!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -477,7 +477,7 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 
 <div class="col-lg-12">
 
-<h2 class="h2title">Managing Normal and UV on Geometric Shapes</h2>
+<h2 class="h2title">Managing Normal and UV on Geometric Shapes</h2>
 
 <p>Aspose.3D for Java API offers to manage Normal (geometry) and UV on the geometric shapes. A mesh stores the key properties for every vertex at its position in space and its normal - a vector perpendicular to the original surface. The normal is major to shading counts. Most of the mesh formats also support some form of UV coordinates which are a separate 2D representation of the mesh "unfolded" to show what portion of a 2-dimensional texture map to apply to different polygons of the mesh.</p>
 
@@ -487,7 +487,7 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
      Generate 3D Scenes via API
     </h2>
     <p>
-     Aspose.3D for Java lets the developers create scenes from scratch without the dependency of any modeling software. The Java API also empowers the developers to save the scenes in any of the supported formats such as (STL, FBX,  Discreet3DS, WavefrontOBJ, Collada and Universal3D).
+     Aspose.3D for Java lets the developers create scenes from scratch without the dependency of any modeling software. The Java API also empowers the developers to save the scenes in any of the supported formats such as (STL, FBX,  Discreet3DS, WavefrontOBJ, Collada and Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -530,7 +530,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      Add Animation Property to Scene
     </h2>
     <p>
-     Aspose.3D for Java API provides support for keyframe animation via CurveMapping which maps components of a property to different curves. Moreover, library offers to set up the target camera in a 3D file which is useful in animation when you need the camera to face a particular node.
+     Aspose.3D for Java API provides support for keyframe animation via CurveMapping which maps components of a property to different curves. Moreover, library offers to set up the target camera in a 3D file which is useful in animation when you need the camera to face a particular node.
     </p>
    </div>
    <div class="col-lg-12">
