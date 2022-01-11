@@ -126,7 +126,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="Java 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -169,7 +169,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="3D CAD API for Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="3D CAD API for Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -310,7 +310,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>

@@ -133,7 +133,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt=".NET 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -188,7 +188,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="3D CAD API for .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="3D CAD API for .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -333,7 +333,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
