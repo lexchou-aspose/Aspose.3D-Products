@@ -120,19 +120,6 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Add Blind Watermark Verification to X" sectionDescription="Check our live demos to [Watermark Verification X](https://products.aspose.app/3d/verify-watermark/x) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload X file and hit the \"Watermark\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download X file from the link, if required" >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="X" readMoreLink="https://docs.fileformat.com/3d/x/" >}}
-X is a DirectX Model image file used by DirectX technology which is for 3D graphics rendering in games. The file format specifies 3D object structures for meshes, textures, animations, and objects.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark Verification to Formats" subTitle="Using C#, One can also add blind watermark verification to many other file formats including." >}}

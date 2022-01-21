@@ -116,19 +116,6 @@ scene.Save(output, FileFormat.FBX7400ASCII);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Add Blind Watermark to VRML" sectionDescription="Check our live demos to [Watermark VRML](https://products.aspose.app/3d/watermark/vrml) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload VRML file and hit the \"Watermark\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download VRML file from the link, if required" >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VRML" readMoreLink="https://docs.fileformat.com/3d/vrml/" >}}
-The Virtual Reality Modeling Language (VRML) is a file format for representation of interactive 3D world objects over the World Wide Web (www). It finds its usage in creating three-dimensional representations of complex scenes such as illustrations, definition and virtual reality presentations. The format has been superseded by X3D. Many 3D modelling applications can save objects and scenes in VRML format.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark to Formats" subTitle="Using C#, One can also add blind watermark to many other file formats including." >}}

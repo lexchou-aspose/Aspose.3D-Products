@@ -116,19 +116,6 @@ scene.Save(output, FileFormat.FBX7400ASCII);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Add Blind Watermark to ASE" sectionDescription="Check our live demos to [Watermark ASE](https://products.aspose.app/3d/watermark/ase) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload ASE file and hit the \"Watermark\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download ASE file from the link, if required" >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ASE" readMoreLink="https://docs.fileformat.com/3d/ase/" >}}
-An ASE file is a 2D animation or graphics that contain layers, frames, palettes, tags, and settings.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark to Formats" subTitle="Using C#, One can also add blind watermark to many other file formats including." >}}

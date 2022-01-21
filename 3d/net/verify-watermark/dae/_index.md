@@ -120,19 +120,6 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Add Blind Watermark Verification to DAE" sectionDescription="Check our live demos to [Watermark Verification DAE](https://products.aspose.app/3d/verify-watermark/dae) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DAE file and hit the \"Watermark\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DAE file from the link, if required" >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DAE" readMoreLink="https://docs.fileformat.com/3d/dae/" >}}
-A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. This file format is based on the COLLADA (COLLAborative Design Activity) XML schema which is an open standard XML schema for the exchange of digital assets among graphics software applications. It has been adopted by ISO as a publicly available specification, ISO/pAS 17506.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark Verification to Formats" subTitle="Using C#, One can also add blind watermark verification to many other file formats including." >}}
