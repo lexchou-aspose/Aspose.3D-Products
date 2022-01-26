@@ -116,6 +116,18 @@ scene.Save(output, FileFormat.FBX7400ASCII);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload GLB file and hit the \"Watermark\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download GLB file from the link, if required" >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GLB" readMoreLink="https://docs.fileformat.com/3d/glb/" >}}
+GLB is the binary file format representation of 3D models saved in the GL Transmission Format (glTF). Information about 3D models such as node hierarchy, cameras, materials, animations and meshes in binary format. This binary format stores the glTF asset (JSON, .bin and images) in a binary blob. It also avoids the issue of increase in file size which happens in case of glTF. GLB file format results in compact file sizes, fast loading, complete 3D scene representation, and extensibility for further development. The format uses model/gltf-binary as MIME type.
+
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark to Formats" subTitle="Using C#, One can also add blind watermark to many other file formats including." >}}

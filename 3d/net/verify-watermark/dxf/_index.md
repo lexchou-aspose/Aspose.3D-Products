@@ -120,6 +120,18 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DXF file and hit the \"Watermark\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DXF file from the link, if required" >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" >}}
+DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. This group code actually represents the element that follows and indicates the meaning of a data element for a given object type. DXF makes it possible to represent almost all user-specified information in a drawing file.
+
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark Verification to Formats" subTitle="Using C#, One can also add blind watermark verification to many other file formats including." >}}

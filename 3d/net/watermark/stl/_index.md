@@ -116,6 +116,18 @@ scene.Save(output, FileFormat.FBX7400ASCII);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload STL file and hit the \"Watermark\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download STL file from the link, if required" >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="STL" readMoreLink="https://docs.fileformat.com/cad/stl/" >}}
+STL, abbreviation for stereolithrography, is an interchangeable file format that represents 3-dimensional surface geometry. The file format finds its usage in several fields such as rapid prototyping, 3D printing and computer-aided manufacturing. It represents a surface as a series of small triangles, known as facets, where each facet is described by a perpendicular direction and three points representing the vertices of the triangle.
+
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark to Formats" subTitle="Using C#, One can also add blind watermark to many other file formats including." >}}

@@ -116,6 +116,18 @@ scene.Save(output, FileFormat.FBX7400ASCII);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload 3MF file and hit the \"Watermark\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download 3MF file from the link, if required" >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="3MF" readMoreLink="https://docs.fileformat.com/3d/3mf/" >}}
+3MF, 3D Manufacturing Format, is used by applications to render 3D object models to a variety of other applications, platforms, services and printers. It was built to avoid the limitations and issues in other 3D file formats, like STL, for working with the latest versions of 3D printers. 3MF is relatively a new file format that has been developed and published by the 3MF consortium.
+
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark to Formats" subTitle="Using C#, One can also add blind watermark to many other file formats including." >}}

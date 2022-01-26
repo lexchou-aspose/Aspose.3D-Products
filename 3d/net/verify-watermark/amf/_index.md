@@ -120,6 +120,18 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload AMF file and hit the \"Watermark\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download AMF file from the link, if required" >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="AMF" readMoreLink="https://docs.fileformat.com/3d/amf/" >}}
+Additive Manufacturing file format (AMF) defines open standards for objects description in order to be utilized by additive manufacturing processes such as 3D Printing. CAD programs use the AMF file format by making use of the information such as geometry, color and material of the objects. AMF is different than STL format as the lateral does not support color, materials, lattices, and constellations.
+
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
+    {{< /blocks/products/pf/agp/about-file-section >}}
+    
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported App to Add Blind Watermark Verification to Formats" subTitle="Using C#, One can also add blind watermark verification to many other file formats including." >}}
