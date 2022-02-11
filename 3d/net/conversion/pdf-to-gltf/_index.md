@@ -86,7 +86,7 @@ document.Save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert PDF to GLTF" sectionDescription="Check our live demos for [PDF to GLTF conversion](https://products.aspose.app/3d/conversion/pdf-to-gltf) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert PDF to GLTF" sectionDescription="Check our live demos for [PDF to GLTF conversion](https://products.aspose.app/3d/conversion/pdf-to-gltf) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file and hit the \"Convert\" button." >}}
@@ -114,7 +114,7 @@ glTF (GL Transmission Format) is a 3D file format that stores 3D model informati
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

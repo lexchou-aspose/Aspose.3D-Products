@@ -87,7 +87,7 @@ document.Save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert PDF to FBX" sectionDescription="Check our live demos for [PDF to FBX conversion](https://products.aspose.app/3d/conversion/pdf-to-fbx) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert PDF to FBX" sectionDescription="Check our live demos for [PDF to FBX conversion](https://products.aspose.app/3d/conversion/pdf-to-fbx) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file and hit the \"Convert\" button." >}}
@@ -115,7 +115,7 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

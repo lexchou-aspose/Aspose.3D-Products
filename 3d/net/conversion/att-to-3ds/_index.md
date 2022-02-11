@@ -86,7 +86,7 @@ document.Save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert ATT to 3DS" sectionDescription="Check our live demos for [ATT to 3DS conversion](https://products.aspose.app/3d/conversion/att-to-3ds) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert ATT to 3DS" sectionDescription="Check our live demos for [ATT to 3DS conversion](https://products.aspose.app/3d/conversion/att-to-3ds) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ATT file and hit the \"Convert\" button." >}}
@@ -114,7 +114,7 @@ A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Au
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

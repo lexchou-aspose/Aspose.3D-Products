@@ -84,7 +84,7 @@ document.Save("output.usdz", Aspose.ThreeD.FileFormat.USDZ);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert OBJ to USDZ" sectionDescription="Check our live demos for [OBJ to USDZ conversion](https://products.aspose.app/3d/conversion/obj-to-usdz) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert OBJ to USDZ" sectionDescription="Check our live demos for [OBJ to USDZ conversion](https://products.aspose.app/3d/conversion/obj-to-usdz) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your OBJ file and hit the \"Convert\" button." >}}
@@ -112,7 +112,7 @@ A file with .usdz is an uncompressed and unencrypetd ZIP archive for the USD (Un
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 
