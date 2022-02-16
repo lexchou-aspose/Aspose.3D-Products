@@ -120,6 +120,7 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+ {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Add Blind Watermark Verification to USDZ" sectionDescription="Check our live demos to [Watermark Verification USDZ](https://products.aspose.app/3d/verify-watermark/usdz) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload USDZ file and hit the \"Watermark\" button" >}}
@@ -130,7 +131,9 @@ A file with .usdz is a ZIP archive for the USD (Universal Scene Description) fil
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
