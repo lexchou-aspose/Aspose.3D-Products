@@ -103,7 +103,7 @@ Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DRC" sectionDescription="Check our live demos to [View DRC](https://products.aspose.app/3d/viewer/drc) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to View DRC" sectionDescription="Check our live demos to [View DRC](https://products.aspose.app/3d/viewer/drc) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DRC file and hit the \"View\" button" >}}
@@ -114,7 +114,9 @@ Aspose.3D is a CAD and Gameware API to load, modify and convert 3D files. API is
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

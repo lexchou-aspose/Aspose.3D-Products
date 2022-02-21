@@ -140,6 +140,8 @@ newScene.Save(output,ply);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+
+  {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Generate Point Cloud to 3DS" sectionDescription="Check our live demos to [Point Cloud 3DS](https://products.aspose.app/3d/point-cloud/3ds) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload 3DS file and hit the \"Generate\" button" >}}
@@ -150,7 +152,9 @@ A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Au
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

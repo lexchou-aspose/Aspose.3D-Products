@@ -108,7 +108,7 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View 3DS" sectionDescription="Check our live demos to [View 3DS](https://products.aspose.app/3d/viewer/3ds) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to View 3DS" sectionDescription="Check our live demos to [View 3DS](https://products.aspose.app/3d/viewer/3ds) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload 3DS file and hit the \"View\" button" >}}
@@ -118,8 +118,10 @@ System.Diagnostics.Process.Start(output);
 A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling, animation and rendering. A 3DS file contains data for 3D representation of scenes and images and is one of the popular file formats for 3D data import and export. It considers information like camera locations, Mesh data, lighting information, viewport configurations, smoothing group data, bitmap references and attributes to create vertices and polygons for rendering a scene.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
+        
+    {{< /blocks/products/pf/agp/demobox-app >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

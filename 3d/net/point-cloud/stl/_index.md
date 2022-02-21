@@ -140,6 +140,7 @@ newScene.Save(output,ply);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+  {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Generate Point Cloud to STL" sectionDescription="Check our live demos to [Point Cloud 3DS](https://products.aspose.app/3d/point-cloud/stl) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload STL file and hit the \"Generate\" button" >}}
@@ -150,7 +151,9 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

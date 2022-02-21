@@ -108,7 +108,7 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View U3D" sectionDescription="Check our live demos to [View U3D](https://products.aspose.app/3d/viewer/u3d) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to View U3D" sectionDescription="Check our live demos to [View U3D](https://products.aspose.app/3d/viewer/u3d) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload U3D file and hit the \"View\" button" >}}
@@ -119,7 +119,9 @@ U3D (Universal 3D) is a compressed file format and data structure for 3D compute
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
