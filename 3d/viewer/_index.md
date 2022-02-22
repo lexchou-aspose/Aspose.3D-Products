@@ -6,4 +6,4 @@ limit:
 description: Viewing 3D files from any device
 ---
 
-{{< blocks/products/pf/agp/feature-solution url="https://products.aspose.app/3d/viewer/embed&h1&h2">}} 
+{{< blocks/products/pf/agp/feature-solution-app url="https://products.aspose.app/3d/viewer/embed&h1&h2">}} 
