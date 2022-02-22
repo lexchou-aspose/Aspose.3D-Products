@@ -86,7 +86,7 @@ document.Save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert GLTF to PLY" sectionDescription="Check our live demos for [GLTF to PLY conversion](https://products.aspose.app/3d/conversion/gltf-to-ply) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert GLTF to PLY" sectionDescription="Check our live demos for [GLTF to PLY conversion](https://products.aspose.app/3d/conversion/gltf-to-ply) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your GLTF file and hit the \"Convert\" button." >}}
@@ -114,7 +114,7 @@ PLY, Polygon File Format, represents 3D file format that stores graphical object
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -140,6 +140,7 @@ newScene.Save(output,ply);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+  {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Generate Point Cloud to GLB" sectionDescription="Check our live demos to [Point Cloud 3DS](https://products.aspose.app/3d/point-cloud/glb) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload GLB file and hit the \"Generate\" button" >}}
@@ -150,7 +151,9 @@ GLB is the binary file format representation of 3D models saved in the GL Transm
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

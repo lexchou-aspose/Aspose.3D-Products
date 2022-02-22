@@ -87,7 +87,7 @@ document.Save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert DXF to STL" sectionDescription="Check our live demos for [DXF to STL conversion](https://products.aspose.app/3d/conversion/dxf-to-stl) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DXF to STL" sectionDescription="Check our live demos for [DXF to STL conversion](https://products.aspose.app/3d/conversion/dxf-to-stl) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DXF file and hit the \"Convert\" button." >}}
@@ -115,7 +115,7 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

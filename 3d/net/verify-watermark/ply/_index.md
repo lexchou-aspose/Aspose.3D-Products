@@ -120,6 +120,7 @@ return text;
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Add Blind Watermark Verification to PLY" sectionDescription="Check our live demos to [Watermark Verification PLY](https://products.aspose.app/3d/verify-watermark/ply) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload PLY file and hit the \"Watermark\" button" >}}
@@ -130,7 +131,9 @@ PLY, Polygon File Format, represents 3D file format that stores graphical object
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

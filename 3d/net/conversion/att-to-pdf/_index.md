@@ -86,7 +86,7 @@ document.Save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert ATT to PDF" sectionDescription="Check our live demos for [ATT to PDF conversion](https://products.aspose.app/3d/conversion/att-to-pdf) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert ATT to PDF" sectionDescription="Check our live demos for [ATT to PDF conversion](https://products.aspose.app/3d/conversion/att-to-pdf) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ATT file and hit the \"Convert\" button." >}}
@@ -114,7 +114,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

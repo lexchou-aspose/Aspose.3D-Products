@@ -87,7 +87,7 @@ document.Save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert FBX to AMF" sectionDescription="Check our live demos for [FBX to AMF conversion](https://products.aspose.app/3d/conversion/fbx-to-amf) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert FBX to AMF" sectionDescription="Check our live demos for [FBX to AMF conversion](https://products.aspose.app/3d/conversion/fbx-to-amf) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your FBX file and hit the \"Convert\" button." >}}
@@ -115,7 +115,7 @@ Additive Manufacturing file format (AMF) defines open standards for objects desc
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

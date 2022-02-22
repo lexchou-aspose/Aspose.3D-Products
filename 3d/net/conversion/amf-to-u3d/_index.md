@@ -87,7 +87,7 @@ document.Save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert AMF to U3D" sectionDescription="Check our live demos for [AMF to U3D conversion](https://products.aspose.app/3d/conversion/amf-to-u3d) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert AMF to U3D" sectionDescription="Check our live demos for [AMF to U3D conversion](https://products.aspose.app/3d/conversion/amf-to-u3d) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your AMF file and hit the \"Convert\" button." >}}
@@ -115,7 +115,7 @@ U3D (Universal 3D) is a compressed file format and data structure for 3D compute
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -108,7 +108,7 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View 3MF" sectionDescription="Check our live demos to [View 3MF](https://products.aspose.app/3d/viewer/3mf) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to View 3MF" sectionDescription="Check our live demos to [View 3MF](https://products.aspose.app/3d/viewer/3mf) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload 3MF file and hit the \"View\" button" >}}
@@ -119,7 +119,9 @@ System.Diagnostics.Process.Start(output);
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/demobox-app >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 

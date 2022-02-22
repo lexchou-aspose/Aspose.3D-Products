@@ -87,7 +87,7 @@ document.Save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert PDF to HTML" sectionDescription="Check our live demos for [PDF to HTML conversion](https://products.aspose.app/3d/conversion/pdf-to-html) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert PDF to HTML" sectionDescription="Check our live demos for [PDF to HTML conversion](https://products.aspose.app/3d/conversion/pdf-to-html) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file and hit the \"Convert\" button." >}}
@@ -115,7 +115,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

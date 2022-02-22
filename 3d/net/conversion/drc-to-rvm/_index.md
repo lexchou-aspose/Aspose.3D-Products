@@ -86,7 +86,7 @@ document.Save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert DRC to RVM" sectionDescription="Check our live demos for [DRC to RVM conversion](https://products.aspose.app/3d/conversion/drc-to-rvm) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DRC to RVM" sectionDescription="Check our live demos for [DRC to RVM conversion](https://products.aspose.app/3d/conversion/drc-to-rvm) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file and hit the \"Convert\" button." >}}
@@ -114,7 +114,7 @@ RVM data files are related to AVEVA PDMS. RVM file is an AVEVA Plant Design Mana
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 
