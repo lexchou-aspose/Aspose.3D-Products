@@ -101,7 +101,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY to ASE Conversion Live Demos" sectionDescription="[Convert PLY to ASE](https://products.aspose.app/3d/conversion/ply-to-ase) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="PLY to ASE Conversion Live Demos" sectionDescription="[Convert PLY to ASE](https://products.aspose.app/3d/conversion/ply-to-ase) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PLY file, it will be converted instantly to ASE." >}}
@@ -133,7 +133,7 @@ An ASE file is a 2D animation or graphics that contain layers, frames, palettes,
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

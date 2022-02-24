@@ -100,7 +100,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF to OBJ Conversion Live Demos" sectionDescription="[Convert PDF to OBJ](https://products.aspose.app/3d/conversion/pdf-to-obj) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="PDF to OBJ Conversion Live Demos" sectionDescription="[Convert PDF to OBJ](https://products.aspose.app/3d/conversion/pdf-to-obj) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file, it will be converted instantly to OBJ." >}}
@@ -130,7 +130,7 @@ OBJ files are used by Wavefront's Advanced Visualizer application to define and 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

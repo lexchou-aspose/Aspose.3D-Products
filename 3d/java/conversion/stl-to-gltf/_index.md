@@ -101,7 +101,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="STL to GLTF Conversion Live Demos" sectionDescription="[Convert STL to GLTF](https://products.aspose.app/3d/conversion/stl-to-gltf) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="STL to GLTF Conversion Live Demos" sectionDescription="[Convert STL to GLTF](https://products.aspose.app/3d/conversion/stl-to-gltf) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your STL file, it will be converted instantly to GLTF." >}}
@@ -133,7 +133,7 @@ glTF (GL Transmission Format) is a 3D file format that stores 3D model informati
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 
