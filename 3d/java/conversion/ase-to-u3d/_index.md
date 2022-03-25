@@ -101,7 +101,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE to U3D Conversion Live Demos" sectionDescription="[Convert ASE to U3D](https://products.aspose.app/3d/conversion/ase-to-u3d) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="ASE to U3D Conversion Live Demos" sectionDescription="[Convert ASE to U3D](https://products.aspose.app/3d/conversion/ase-to-u3d) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ASE file, it will be converted instantly to U3D." >}}
@@ -133,7 +133,7 @@ U3D (Universal 3D) is a compressed file format and data structure for 3D compute
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

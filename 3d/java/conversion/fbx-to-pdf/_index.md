@@ -100,7 +100,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX to PDF Conversion Live Demos" sectionDescription="[Convert FBX to PDF](https://products.aspose.app/3d/conversion/fbx-to-pdf) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="FBX to PDF Conversion Live Demos" sectionDescription="[Convert FBX to PDF](https://products.aspose.app/3d/conversion/fbx-to-pdf) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your FBX file, it will be converted instantly to PDF." >}}
@@ -130,7 +130,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

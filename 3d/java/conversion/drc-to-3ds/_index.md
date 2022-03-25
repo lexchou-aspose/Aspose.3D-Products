@@ -100,7 +100,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC to 3DS Conversion Live Demos" sectionDescription="[Convert DRC to 3DS](https://products.aspose.app/3d/conversion/drc-to-3ds) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="DRC to 3DS Conversion Live Demos" sectionDescription="[Convert DRC to 3DS](https://products.aspose.app/3d/conversion/drc-to-3ds) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file, it will be converted instantly to 3DS." >}}
@@ -130,7 +130,7 @@ A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Au
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 
