@@ -1,0 +1,31 @@
+﻿---
+title: C# 3D 格式轉換
+url: /zh-hant/net/conversion/
+description: 通過 .NET 庫轉換 3D 格式3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x,使用幾行 C# 代碼。
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D 格式轉換通過 C#" h2="轉換 3D 文檔格式,無需任何 3D 建模和渲染軟件即可構建跨平台的 .NET 應用程序。" >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+開發人員可以使用 3D 圖形庫輕鬆閱讀,創建,轉換,更新和控制 3D 格式的內容。 API 支持的格式很少有 WavefrontOBJ,Discreet3DS,STL (ASCII,二進製),FBX (ASCII,二進製),Universal3D,Collada,GLB,glTF,PLY,DirectX,Google Draco 格式和更多。 轉換過程很容易通過實例加載源文件 [場景類](https://apireference.aspose.com/3d/net/aspose.threed/scene),並使用相關的輸出格式參數調用Save方法。
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-section h2="將 3D 場景轉換為各種格式" %}}
+開發人員可以通過上面列出的相同過程輕鬆轉換 3D 場景。 考慮很少的例子,例如 **FBX 到 OBJ 轉換 **。 通過場景類對象加載 FBX 文件。 使用創建保存選項 [對象選項](https://apireference.aspose.com/3d/net/aspose.threed.formats/objsaveoptions) 並調用具有輸出文件路徑和obj選項作為參數的場景保存方法。 API 具有適當的選項類,用於保存到相關類中,例如 [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [離散3dssaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [FbxSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxsaveoptions) [Html5保存選項](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) 還有更多。 這是 3D 的完整列表 [轉換格式](https://apireference.aspose.com/3d/net/aspose.threed.formats) 選項。 此外,開發人員可以輕鬆地將 3D 場景保存到 PDF 中。
+
+{{% blocks/products/pf/feature-page-code h3="C# 用於 FBX 到 OBJ 轉換的代碼" %}}
+
+{{< gist "aspose-com-gists" "ed8b7177c365be75c2bf8d3e668f113a" "convert-fbx-to-obj.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/feature-page-code h3="C# 代碼,用於將 3D 場景轉換為 PDF" %}}
+
+{{< gist "aspose-3d" "631532eeb21c3374f2ed" "Examples-CSharp-Loading-and-Saving-Save3DInPdf-Save3DInPdf.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options pairs="stl-to-obj obj-to-stl obj-to-3ds dae-to-obj fbx-to-stl" >}}
