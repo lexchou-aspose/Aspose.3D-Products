@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS tot RVM live-demo\'s voor conversie" sectionDescription="[3DS converteren naar RVM](https://products.aspose.app/3d/conversion/3ds-to-rvm) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS tot RVM live-demo\'s voor conversie" sectionDescription="[3DS converteren naar RVM](https://products.aspose.app/3d/conversion/3ds-to-rvm) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw 3DS bestand, het wordt direct geconverteerd naar RVM." >}}
@@ -128,7 +128,7 @@ RVM gegevensbestanden zijn gerelateerd aan AVEVA PDMS. RVM bestand is een AVEVA 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

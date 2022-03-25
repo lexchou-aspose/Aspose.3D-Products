@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE إلى ASE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل DAE إلى ASE](https://products.aspose.app/3d/conversion/dae-to-ase) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE إلى ASE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل DAE إلى ASE](https://products.aspose.app/3d/conversion/dae-to-ase) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف DAE ، وسيتم تحويله على الفور إلى ASE." >}}
@@ -128,7 +128,7 @@ document.save("output.ase", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

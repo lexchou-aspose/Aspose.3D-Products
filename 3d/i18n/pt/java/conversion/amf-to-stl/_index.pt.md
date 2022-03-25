@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF a STL Demos ao vivo de conversão" sectionDescription="[Converter AMF para STL](https://products.aspose.app/3d/conversion/amf-to-stl) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="AMF a STL Demos ao vivo de conversão" sectionDescription="[Converter AMF para STL](https://products.aspose.app/3d/conversion/amf-to-stl) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo AMF, ele será convertido instantaneamente para STL." >}}
@@ -128,7 +128,7 @@ STL, abreviatura para estereolittrografia, é um formato de arquivo intercambiá
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

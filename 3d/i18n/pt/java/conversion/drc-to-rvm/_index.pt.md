@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC a RVM Demos ao vivo de conversão" sectionDescription="[Converter DRC para RVM](https://products.aspose.app/3d/conversion/drc-to-rvm) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC a RVM Demos ao vivo de conversão" sectionDescription="[Converter DRC para RVM](https://products.aspose.app/3d/conversion/drc-to-rvm) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo DRC, ele será convertido instantaneamente para RVM." >}}
@@ -125,7 +125,7 @@ RVM arquivos de dados estão relacionados ao AVEVA PDMS. RVM arquivo é um AVEVA
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

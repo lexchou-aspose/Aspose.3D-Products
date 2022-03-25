@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF tot GLTF live-demo\'s voor conversie" sectionDescription="[3MF converteren naar GLTF](https://products.aspose.app/3d/conversion/3mf-to-gltf) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF tot GLTF live-demo\'s voor conversie" sectionDescription="[3MF converteren naar GLTF](https://products.aspose.app/3d/conversion/3mf-to-gltf) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw 3MF bestand, het wordt direct geconverteerd naar GLTF." >}}
@@ -128,7 +128,7 @@ glTF (GL Transmission Format) is een 3D bestandsformaat waarin 3D modelinformati
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

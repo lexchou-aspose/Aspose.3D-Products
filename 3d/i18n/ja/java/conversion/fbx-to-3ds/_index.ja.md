@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX から 3DS の変換ライブデモ" sectionDescription="[FBX を 3DS に変換](https://products.aspose.app/3d/conversion/fbx-to-3ds) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX から 3DS の変換ライブデモ" sectionDescription="[FBX を 3DS に変換](https://products.aspose.app/3d/conversion/fbx-to-3ds) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" FBX ファイルをアップロードするだけで、即座に 3DS に変換されます。" >}}
@@ -128,7 +128,7 @@ FBX, FilmBoxは、もともとKaydaraによってMotionBuilder用に開発され
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

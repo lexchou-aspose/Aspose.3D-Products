@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="STL để DRC Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi STL để DRC](https://products.aspose.app/3d/conversion/stl-to-drc) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="STL để DRC Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi STL để DRC](https://products.aspose.app/3d/conversion/stl-to-drc) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không có cần phải tải về Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên của bạn STL tập tin, nó sẽ được chuyển đổi ngay lập tức để DRC." >}}
@@ -125,7 +125,7 @@ MỘT tập tin với. DRC phần mở rộng là một nén 3D tập tin địn
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

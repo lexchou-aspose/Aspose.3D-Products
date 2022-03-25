@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY 到 U3D 轉換實時演示" sectionDescription="[將 PLY 轉換為 U3D](https://products.aspose.app/3d/conversion/ply-to-u3d) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY 到 U3D 轉換實時演示" sectionDescription="[將 PLY 轉換為 U3D](https://products.aspose.app/3d/conversion/ply-to-u3d) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 PLY 文件,它將立即轉換為 U3D。" >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) 是用於 3D 計算機圖形的壓縮文件格式和數據結
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

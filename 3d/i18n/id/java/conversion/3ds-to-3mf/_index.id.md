@@ -96,7 +96,7 @@ document.save("output.3mf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS untuk 3MF konversi demo hidup" sectionDescription="[Mengkonversi 3DS untuk 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS untuk 3MF konversi demo hidup" sectionDescription="[Mengkonversi 3DS untuk 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file 3DS Anda, maka akan dikonversi secara instan ke 3MF." >}}
@@ -128,7 +128,7 @@ File dengan ekstensi 3DS mewakili format file jala Studio (DOS) 3D yang digunaka
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

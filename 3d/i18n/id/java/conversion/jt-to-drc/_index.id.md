@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT untuk DRC konversi demo hidup" sectionDescription="[Mengkonversi JT untuk DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT untuk DRC konversi demo hidup" sectionDescription="[Mengkonversi JT untuk DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file JT Anda, maka akan dikonversi secara instan ke DRC." >}}
@@ -125,7 +125,7 @@ Sebuah berkas dengan. Ekstensi drc adalah format file 3D yang dikompresi yang di
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

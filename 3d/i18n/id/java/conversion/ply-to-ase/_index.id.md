@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY untuk ASE konversi demo hidup" sectionDescription="[Mengkonversi PLY untuk ASE](https://products.aspose.app/3d/conversion/ply-to-ase) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY untuk ASE konversi demo hidup" sectionDescription="[Mengkonversi PLY untuk ASE](https://products.aspose.app/3d/conversion/ply-to-ase) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file PLY Anda, maka akan dikonversi secara instan ke ASE." >}}
@@ -128,7 +128,7 @@ Berkas ASE adalah animasi 2D atau grafis yang berisi lapisan, bingkai, palet, ta
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

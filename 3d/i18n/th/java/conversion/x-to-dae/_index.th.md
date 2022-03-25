@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X TO DAE Conversion การสาธิตสด" sectionDescription="[แปลง X เป็น DAE](https://products.aspose.app/3d/conversion/x-to-dae) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X TO DAE Conversion การสาธิตสด" sectionDescription="[แปลง X เป็น DAE](https://products.aspose.app/3d/conversion/x-to-dae) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงแค่อัปโหลดไฟล์ X ของคุณก็จะถูกแปลงทันทีเป็น DAE" >}}
@@ -128,7 +128,7 @@ X เป็นไฟล์ภาพรูปแบบ DirectX ที่ใช้
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

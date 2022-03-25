@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D do AMF Konwersja na żywo Dema" sectionDescription="[Przelicz U3D na AMF](https://products.aspose.app/3d/conversion/u3d-to-amf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D do AMF Konwersja na żywo Dema" sectionDescription="[Przelicz U3D na AMF](https://products.aspose.app/3d/conversion/u3d-to-amf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik U3D, a zostanie on natychmiast przekonwertowany na AMF." >}}
@@ -128,7 +128,7 @@ Format pliku Additive Manufacturing (AMF) definiuje otwarte standardy opisu obie
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

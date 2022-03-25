@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY TO 3DS Conversion การสาธิตสด" sectionDescription="[แปลง PLY TO 3DS](https://products.aspose.app/3d/conversion/ply-to-3ds) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY TO 3DS Conversion การสาธิตสด" sectionDescription="[แปลง PLY TO 3DS](https://products.aspose.app/3d/conversion/ply-to-3ds) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงแค่อัปโหลดไฟล์ PLY ของคุณก็จะถูกแปลงทันทีเป็น 3DS" >}}
@@ -128,7 +128,7 @@ PLY, รูปแบบไฟล์รูปหลายเหลี่ยมห
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY 到 GLTF 转换实时演示" sectionDescription="[将 PLY 转换为 GLTF](https://products.aspose.app/3d/conversion/ply-to-gltf) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY 到 GLTF 转换实时演示" sectionDescription="[将 PLY 转换为 GLTF](https://products.aspose.app/3d/conversion/ply-to-gltf) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 PLY 文件，它将立即转换为 GLTF。" >}}
@@ -128,7 +128,7 @@ glTF (GL传输格式) 是 3D 文件格式，以JSON格式存储 3D 模型信息�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

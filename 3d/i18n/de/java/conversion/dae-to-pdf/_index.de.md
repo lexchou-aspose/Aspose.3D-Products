@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE auf PDF Konvertierungs-Live-Demos" sectionDescription="[DAE zu PDF konvertieren](https://products.aspose.app/3d/conversion/dae-to-pdf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE auf PDF Konvertierungs-Live-Demos" sectionDescription="[DAE zu PDF konvertieren](https://products.aspose.app/3d/conversion/dae-to-pdf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre DAE-Datei hoch, sie wird sofort in PDF konvertiert." >}}
@@ -125,7 +125,7 @@ Portable Document Format (PDF) ist eine Art von Dokument von Adobe in den 1990er
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

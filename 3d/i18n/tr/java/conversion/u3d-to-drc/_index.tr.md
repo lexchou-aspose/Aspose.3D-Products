@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D-DRC Dönüşüm Canlı Demoları" sectionDescription="[U3D \'i DRC \'ye dönüştürün](https://products.aspose.app/3d/conversion/u3d-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D-DRC Dönüşüm Canlı Demoları" sectionDescription="[U3D \'i DRC \'ye dönüştürün](https://products.aspose.app/3d/conversion/u3d-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece U3D dosyanızı yükleyin, anında DRC \'ye dönüştürülecektir." >}}
@@ -125,7 +125,7 @@ U3D (Universal 3D), 3D bilgisayar grafikleri için sıkıştırılmış bir dosy
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

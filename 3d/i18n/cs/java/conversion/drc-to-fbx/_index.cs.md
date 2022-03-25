@@ -95,7 +95,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konverzace live demonstrací DRC na FBX" sectionDescription="[Převést DRC na FBX](https://products.aspose.app/3d/conversion/drc-to-fbx) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Konverzace live demonstrací DRC na FBX" sectionDescription="[Převést DRC na FBX](https://products.aspose.app/3d/conversion/drc-to-fbx) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stáhnout Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba napsat žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file, it will be converted instantly to FBX." >}}
@@ -125,7 +125,7 @@ FBX, filmbox, je populární formát 3D, který původně vyvinul kaydara pro mo
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

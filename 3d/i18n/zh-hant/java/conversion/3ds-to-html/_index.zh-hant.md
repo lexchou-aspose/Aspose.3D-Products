@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS 到 HTML 轉換實時演示" sectionDescription="[將 3DS 轉換為 HTML](https://products.aspose.app/3d/conversion/3ds-to-html) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS 到 HTML 轉換實時演示" sectionDescription="[將 3DS 轉換為 HTML](https://products.aspose.app/3d/conversion/3ds-to-html) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 3DS 文件,它將立即轉換為 HTML。" >}}
@@ -128,7 +128,7 @@ HTML (超文本標記語言) 是為在瀏覽器中顯示而創建的網頁的擴
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

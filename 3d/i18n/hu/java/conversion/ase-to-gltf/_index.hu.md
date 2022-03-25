@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE a GLTF konverziós élő demók" sectionDescription="[Konvertálni ASE GLTF](https://products.aspose.app/3d/conversion/ase-to-gltf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE a GLTF konverziós élő demók" sectionDescription="[Konvertálni ASE GLTF](https://products.aspose.app/3d/conversion/ase-to-gltf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a ASE fájlt, akkor azonnal átalakítani GLTF." >}}
@@ -128,7 +128,7 @@ A glTF (gl átviteli formátum) egy 3D fájlformátum, amely a 3D modellinformá
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

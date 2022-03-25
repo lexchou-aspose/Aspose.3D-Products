@@ -3,6 +3,7 @@ title: 高代碼api和用於 3D 文件操作的免費應用程序
 weight: 1460
 url: /zh-hant/
 description: 創建編輯和轉換 3D 文件。 不需要 3D 建模軟件。 使用幾何圖形,場景層次結構,共享或分割網格,為對象設置動畫,添加目標相機。
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D 文件格式解決方案" h2="本機api和應用程序提供讀取、編輯和轉換 3D 文件的功能,而不需要任何 3D 建模或渲染軟件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D 產品解決方案" >}}

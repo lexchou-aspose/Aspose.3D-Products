@@ -95,7 +95,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF do FBX Konwersja na żywo Dema" sectionDescription="[Przelicz PDF na FBX](https://products.aspose.app/3d/conversion/pdf-to-fbx) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF do FBX Konwersja na żywo Dema" sectionDescription="[Przelicz PDF na FBX](https://products.aspose.app/3d/conversion/pdf-to-fbx) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik PDF, a zostanie on natychmiast przekonwertowany na FBX." >}}
@@ -125,7 +125,7 @@ FBX, FilmBox, to popularny format pliku 3D, który został pierwotnie opracowany
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

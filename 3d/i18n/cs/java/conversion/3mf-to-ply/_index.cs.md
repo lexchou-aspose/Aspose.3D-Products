@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konverzace live demonstrací 3MF na PLY" sectionDescription="[Převést 3MF na PLY](https://products.aspose.app/3d/conversion/3mf-to-ply) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Konverzace live demonstrací 3MF na PLY" sectionDescription="[Převést 3MF na PLY](https://products.aspose.app/3d/conversion/3mf-to-ply) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stáhnout Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba napsat žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your 3MF file, it will be converted instantly to PLY." >}}
@@ -128,7 +128,7 @@ PLY, formát polygonu, představuje 3D formát souboru, který ukládá grafick�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

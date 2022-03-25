@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X करने के लिए RVM रूपांतरण लाइव क़ौम" sectionDescription="[करने के लिए कन्वर्ट X RVM](https://products.aspose.app/3d/conversion/x-to-rvm) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X करने के लिए RVM रूपांतरण लाइव क़ौम" sectionDescription="[करने के लिए कन्वर्ट X RVM](https://products.aspose.app/3d/conversion/x-to-rvm) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कोई डाउनलोड करने की आवश्यकता Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई किसी भी कोड लिखने की जरूरत है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" सिर्फ अपने X फ़ाइल अपलोड, यह तुरन्त परिवर्तित किया जाएगा करने के लिए RVM." >}}
@@ -128,7 +128,7 @@ RVM डेटा फ़ाइलों PDMS AVEVA से संबंधित �
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

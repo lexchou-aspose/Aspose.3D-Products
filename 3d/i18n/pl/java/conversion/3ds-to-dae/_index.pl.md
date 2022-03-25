@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS do DAE Konwersja na żywo Dema" sectionDescription="[Przelicz 3DS na DAE](https://products.aspose.app/3d/conversion/3ds-to-dae) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS do DAE Konwersja na żywo Dema" sectionDescription="[Przelicz 3DS na DAE](https://products.aspose.app/3d/conversion/3ds-to-dae) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik 3DS, a zostanie on natychmiast przekonwertowany na DAE." >}}
@@ -128,7 +128,7 @@ Plik DAE to format pliku Digital Asset Exchange, który służy do wymiany danyc
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

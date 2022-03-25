@@ -95,7 +95,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF a PLY Demos ao vivo de conversão" sectionDescription="[Converter PDF para PLY](https://products.aspose.app/3d/conversion/pdf-to-ply) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF a PLY Demos ao vivo de conversão" sectionDescription="[Converter PDF para PLY](https://products.aspose.app/3d/conversion/pdf-to-ply) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo PDF, ele será convertido instantaneamente para PLY." >}}
@@ -125,7 +125,7 @@ PLY, Polygon File Format, representa 3D formato de arquivo que armazena objetos 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

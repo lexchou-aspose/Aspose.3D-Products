@@ -95,7 +95,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF a AMF Demos ao vivo de conversão" sectionDescription="[Converter PDF para AMF](https://products.aspose.app/3d/conversion/pdf-to-amf) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF a AMF Demos ao vivo de conversão" sectionDescription="[Converter PDF para AMF](https://products.aspose.app/3d/conversion/pdf-to-amf) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo PDF, ele será convertido instantaneamente para AMF." >}}
@@ -125,7 +125,7 @@ O formato de arquivo de fabricação aditiva (AMF) define padrões abertos para 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

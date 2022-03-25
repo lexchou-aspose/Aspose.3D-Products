@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ ~ HTML 변환 라이브 데모" sectionDescription="[OBJ 에서 HTML 로 변환](https://products.aspose.app/3d/conversion/obj-to-html) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ ~ HTML 변환 라이브 데모" sectionDescription="[OBJ 에서 HTML 로 변환](https://products.aspose.app/3d/conversion/obj-to-html) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API 을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" OBJ 파일을 업로드하면 즉시 HTML 로 변환됩니다." >}}
@@ -128,7 +128,7 @@ HTML (하이퍼 텍스트 마크업 언어) 은 브라우저에 표시하기 위
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

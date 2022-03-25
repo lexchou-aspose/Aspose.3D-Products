@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X-DRC Dönüşüm Canlı Demos" sectionDescription="[X\'i DRC \'a dönüştürün](https://products.aspose.app/3d/conversion/x-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X-DRC Dönüşüm Canlı Demos" sectionDescription="[X\'i DRC \'a dönüştürün](https://products.aspose.app/3d/conversion/x-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece X dosyanızı yükleyin, anında DRC \'e dönüştürülecektir." >}}
@@ -125,7 +125,7 @@ X, oyunlarda 3D grafik oluşturma için olan DirectX teknolojisi tarafından kul
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

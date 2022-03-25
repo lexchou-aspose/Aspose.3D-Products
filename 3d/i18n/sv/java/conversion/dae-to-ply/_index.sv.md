@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE till PLY Konvertering levande demos" sectionDescription="[Konvertera DAE till PLY](https://products.aspose.app/3d/conversion/dae-to-ply) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE till PLY Konvertering levande demos" sectionDescription="[Konvertera DAE till PLY](https://products.aspose.app/3d/conversion/dae-to-ply) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din DAE-fil, den kommer att konverteras omedelbart till PLY." >}}
@@ -128,7 +128,7 @@ PLY, Polygon Filformat, representerar 3D filformat som lagrar grafiska objekt so
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DXF-3DS Dönüşüm Canlı Demoları" sectionDescription="[DXF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/dxf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DXF-3DS Dönüşüm Canlı Demoları" sectionDescription="[DXF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/dxf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece DXF dosyanızı yükleyin, anında 3DS \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dos
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

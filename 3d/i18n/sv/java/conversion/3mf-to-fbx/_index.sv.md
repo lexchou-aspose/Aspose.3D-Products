@@ -96,7 +96,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF till FBX Konvertering levande demos" sectionDescription="[Konvertera 3MF till FBX](https://products.aspose.app/3d/conversion/3mf-to-fbx) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF till FBX Konvertering levande demos" sectionDescription="[Konvertera 3MF till FBX](https://products.aspose.app/3d/conversion/3mf-to-fbx) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din 3MF-fil, den kommer att konverteras omedelbart till FBX." >}}
@@ -128,7 +128,7 @@ FBX, FilmBox, är ett populärt 3D filformat som ursprungligen utvecklades av Ka
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

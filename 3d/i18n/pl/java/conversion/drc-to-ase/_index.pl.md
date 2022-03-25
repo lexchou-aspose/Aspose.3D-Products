@@ -95,7 +95,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC do ASE Konwersja na żywo Dema" sectionDescription="[Przelicz DRC na ASE](https://products.aspose.app/3d/conversion/drc-to-ase) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC do ASE Konwersja na żywo Dema" sectionDescription="[Przelicz DRC na ASE](https://products.aspose.app/3d/conversion/drc-to-ase) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik DRC, a zostanie on natychmiast przekonwertowany na ASE." >}}
@@ -125,7 +125,7 @@ Plik ASE to animacja lub grafika 2D, które zawierają warstwy, ramki, palety, z
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

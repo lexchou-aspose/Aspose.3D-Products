@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Xから GLTF への変換ライブデモ" sectionDescription="[Xを GLTF に変換する](https://products.aspose.app/3d/conversion/x-to-gltf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Xから GLTF への変換ライブデモ" sectionDescription="[Xを GLTF に変換する](https://products.aspose.app/3d/conversion/x-to-gltf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Xファイルをアップロードするだけで、即座に GLTF に変換されます。" >}}
@@ -128,7 +128,7 @@ glTF (GL Transmission Format) は、 3D のモデル情報をJSON形式で格納
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

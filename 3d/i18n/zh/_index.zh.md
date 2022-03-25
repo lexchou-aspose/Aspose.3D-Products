@@ -3,6 +3,7 @@ title: 高代码api和用于 3D 文件操作的免费应用程序
 weight: 1460
 url: /zh/
 description: 创建编辑和转换 3D 文件。不需要 3D 建模软件。使用几何图形，场景层次结构，共享或分割网格，为对象设置动画，添加目标相机。
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D 文件格式解决方案" h2="本机api和应用程序提供读取、编辑和转换 3D 文件的功能，而不需要任何 3D 建模或渲染软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D 产品解决方案" >}}

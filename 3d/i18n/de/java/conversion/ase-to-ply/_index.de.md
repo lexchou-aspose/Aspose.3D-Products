@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE auf PLY Konvertierungs-Live-Demos" sectionDescription="[ASE zu PLY konvertieren](https://products.aspose.app/3d/conversion/ase-to-ply) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE auf PLY Konvertierungs-Live-Demos" sectionDescription="[ASE zu PLY konvertieren](https://products.aspose.app/3d/conversion/ase-to-ply) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre ASE-Datei hoch, sie wird sofort in PLY konvertiert." >}}
@@ -128,7 +128,7 @@ PLY, Polygon-Dateiformat, steht für das 3D-Dateiformat, das grafische Objekte s
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

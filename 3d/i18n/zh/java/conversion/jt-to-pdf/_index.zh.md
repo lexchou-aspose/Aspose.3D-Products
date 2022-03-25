@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT 到 PDF 转换实时演示" sectionDescription="[将 JT 转换为 PDF](https://products.aspose.app/3d/conversion/jt-to-pdf) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT 到 PDF 转换实时演示" sectionDescription="[将 JT 转换为 PDF](https://products.aspose.app/3d/conversion/jt-to-pdf) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 JT 文件，它将立即转换为 PDF。" >}}
@@ -125,7 +125,7 @@ JT (Jupiter Tessellation) 是由西门子PLM软件开发的一种高效、以行
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Конверсионные живые демонстрации DXF в PDF" sectionDescription="[Конвертировать DXF в PDF](https://products.aspose.app/3d/conversion/dxf-to-pdf) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Конверсионные живые демонстрации DXF в PDF" sectionDescription="[Конвертировать DXF в PDF](https://products.aspose.app/3d/conversion/dxf-to-pdf) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Не нужно писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой DXF файл, он будет мгновенно преобразован в PDF." >}}
@@ -125,7 +125,7 @@ Portable Document Format (PDF)-это тип документа, созданн�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

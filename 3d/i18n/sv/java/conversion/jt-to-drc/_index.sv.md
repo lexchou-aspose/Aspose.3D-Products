@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT till DRC Konvertering levande demos" sectionDescription="[Konvertera JT till DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT till DRC Konvertering levande demos" sectionDescription="[Konvertera JT till DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din JT-fil, den kommer att konverteras omedelbart till DRC." >}}
@@ -125,7 +125,7 @@ En fil med . Drc-tillägg är ett komprimerat 3D filformat skapat med Google Dra
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

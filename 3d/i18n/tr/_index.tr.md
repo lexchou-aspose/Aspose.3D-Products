@@ -3,6 +3,7 @@ title: 3D dosya manipülasyonu için Yüksek Kod API'leri ve Ücretsiz Uygulamal
 weight: 1460
 url: /tr/
 description: Düzenle ve 3D dosyalarını dönüştürün. 3D modelleme yazılımı gerekmez. Geometri, sahne hiyerarşisi, paylaşım veya bölme ağları, Nesneleri Animate, Hedef Kamera Ekle ile çalışın.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D Dosya Biçimi Çözümü" h2="Herhangi bir 3D modelleme veya oluşturma yazılımı gerektirmeden 3D dosyalarını okuma, düzenleme ve dönüştürme özellikleri sunan yerel API\'ler ve uygulamalar." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Ürün Çözümü" >}}

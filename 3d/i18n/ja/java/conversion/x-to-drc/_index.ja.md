@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Xから DRC への変換ライブデモ" sectionDescription="[Xを DRC に変換する](https://products.aspose.app/3d/conversion/x-to-drc) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Xから DRC への変換ライブデモ" sectionDescription="[Xを DRC に変換する](https://products.aspose.app/3d/conversion/x-to-drc) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Xファイルをアップロードするだけで、即座に DRC に変換されます。" >}}
@@ -125,7 +125,7 @@ Xは、ゲームで 3D グラフィックレンダリング用のDirectXテク�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DXF en 3DS Démos en direct de conversion" sectionDescription="[Convertir DXF en 3DS](https://products.aspose.app/3d/conversion/dxf-to-3ds) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DXF en 3DS Démos en direct de conversion" sectionDescription="[Convertir DXF en 3DS](https://products.aspose.app/3d/conversion/dxf-to-3ds) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier DXF, il sera converti instantanément en 3DS." >}}
@@ -128,7 +128,7 @@ Un fichier avec 3DS extension représente le format de fichier maillé 3D Studio
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

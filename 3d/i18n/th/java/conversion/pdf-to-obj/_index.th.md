@@ -95,7 +95,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF TO OBJ Conversion การสาธิตสด" sectionDescription="[แปลง PDF TO OBJ](https://products.aspose.app/3d/conversion/pdf-to-obj) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF TO OBJ Conversion การสาธิตสด" sectionDescription="[แปลง PDF TO OBJ](https://products.aspose.app/3d/conversion/pdf-to-obj) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงแค่อัปโหลดไฟล์ PDF ของคุณก็จะถูกแปลงทันทีเป็น OBJ" >}}
@@ -125,7 +125,7 @@ OBJ ไฟล์จะถูกใช้โดยโปรแกรม visualize
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

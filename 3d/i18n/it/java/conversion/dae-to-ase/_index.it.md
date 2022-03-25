@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo live di conversione da DAE a ASE" sectionDescription="[Convertire da DAE a ASE](https://products.aspose.app/3d/conversion/dae-to-ase) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Demo live di conversione da DAE a ASE" sectionDescription="[Convertire da DAE a ASE](https://products.aspose.app/3d/conversion/dae-to-ase) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\' è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file DAE, che verrà convertito istantaneamente in ASE." >}}
@@ -128,7 +128,7 @@ Un file ASE è un'animazione 2D o una grafica che contiene livelli, fotogrammi, 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

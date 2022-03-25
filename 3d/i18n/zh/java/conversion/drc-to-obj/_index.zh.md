@@ -95,7 +95,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC 到 OBJ 转换实时演示" sectionDescription="[将 DRC 转换为 OBJ](https://products.aspose.app/3d/conversion/drc-to-obj) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC 到 OBJ 转换实时演示" sectionDescription="[将 DRC 转换为 OBJ](https://products.aspose.app/3d/conversion/drc-to-obj) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 DRC 文件，它将立即转换为 OBJ。" >}}
@@ -125,7 +125,7 @@ OBJ 文件由 Wavefront 的高级Visualizer应用程序用于定义和存储几�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

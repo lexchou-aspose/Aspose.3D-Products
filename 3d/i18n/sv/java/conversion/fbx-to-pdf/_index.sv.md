@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX till PDF Konvertering levande demos" sectionDescription="[Konvertera FBX till PDF](https://products.aspose.app/3d/conversion/fbx-to-pdf) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX till PDF Konvertering levande demos" sectionDescription="[Konvertera FBX till PDF](https://products.aspose.app/3d/conversion/fbx-to-pdf) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din FBX-fil, den kommer att konverteras omedelbart till PDF." >}}
@@ -125,7 +125,7 @@ Bärbart dokumentformat (PDF) är en typ av dokument som skapats av Adobe under 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

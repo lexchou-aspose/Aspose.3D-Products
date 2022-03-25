@@ -3,6 +3,7 @@ title: Mã cao API & Ứng Dụng Miễn Phí cho 3D các tập tin thao tác
 weight: 1460
 url: /vi/
 description: Tạo ra chỉnh sửa & chuyển đổi 3D các tập tin. Không 3D mô hình phần mềm cần thiết. Làm việc với hình học, cảnh hệ thống phân cấp, chia sẻ hoặc chia mắt lưới, Làm Sinh Động Các Đối Tượng, Thêm một Mục Tiêu Máy Ảnh.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D tập tin Định Dạng Giải Pháp" h2="Native API và ứng dụng Cung Cấp Các tính năng để đọc, chỉnh sửa và chuyển đổi 3D các tập tin mà không đòi hỏi bất kỳ 3D mô hình hoặc vẽ phần mềm." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Giải Pháp sản phẩm" >}}

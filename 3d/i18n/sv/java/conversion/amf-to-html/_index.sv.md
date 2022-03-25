@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF till HTML Konvertering levande demos" sectionDescription="[Konvertera AMF till HTML](https://products.aspose.app/3d/conversion/amf-to-html) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="AMF till HTML Konvertering levande demos" sectionDescription="[Konvertera AMF till HTML](https://products.aspose.app/3d/conversion/amf-to-html) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din AMF-fil, den kommer att konverteras omedelbart till HTML." >}}
@@ -128,7 +128,7 @@ HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapas för 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

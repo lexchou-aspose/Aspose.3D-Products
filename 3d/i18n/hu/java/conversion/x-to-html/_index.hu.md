@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X a HTML konverziós élő demók" sectionDescription="[Convert x to HTML](https://products.aspose.app/3d/conversion/x-to-html) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X a HTML konverziós élő demók" sectionDescription="[Convert x to HTML](https://products.aspose.app/3d/conversion/x-to-html) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a x fájlt, akkor azonnal átalakítani HTML." >}}
@@ -128,7 +128,7 @@ A HTML (hyper text markup language) a böngészők megjelenítésére létrehozo
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

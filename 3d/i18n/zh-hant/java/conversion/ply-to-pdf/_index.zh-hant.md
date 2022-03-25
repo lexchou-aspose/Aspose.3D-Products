@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY 到 PDF 轉換實時演示" sectionDescription="[將 PLY 轉換為 PDF](https://products.aspose.app/3d/conversion/ply-to-pdf) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY 到 PDF 轉換實時演示" sectionDescription="[將 PLY 轉換為 PDF](https://products.aspose.app/3d/conversion/ply-to-pdf) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 PLY 文件,它將立即轉換為 PDF。" >}}
@@ -125,7 +125,7 @@ PLY,多邊形文件格式,表示存儲描述為多邊形集合的圖形對象的
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

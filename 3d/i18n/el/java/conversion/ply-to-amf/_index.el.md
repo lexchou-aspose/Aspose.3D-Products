@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY σε AMF Ζωντανή μετατροπή" sectionDescription="[Μετατροπή PLY σε AMF](https://products.aspose.app/3d/conversion/ply-to-amf) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY σε AMF Ζωντανή μετατροπή" sectionDescription="[Μετατροπή PLY σε AMF](https://products.aspose.app/3d/conversion/ply-to-amf) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο PLY σας, θα μετατραπεί άμεσα σε AMF." >}}
@@ -128,7 +128,7 @@ PLY, Πολυγωνικό Φόρμα, αντιπροσωπεύει το μορφ
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE a PDF konverziós élő demók" sectionDescription="[Konvertálni DAE PDF](https://products.aspose.app/3d/conversion/dae-to-pdf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE a PDF konverziós élő demók" sectionDescription="[Konvertálni DAE PDF](https://products.aspose.app/3d/conversion/dae-to-pdf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a DAE fájlt, akkor azonnal átalakítani PDF." >}}
@@ -125,7 +125,7 @@ A portable document format (PDF) egy olyan típusú dokumentum, amelyet az adobe
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

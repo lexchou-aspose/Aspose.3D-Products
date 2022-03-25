@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="STL σε DRC Ζωντανή μετατροπή" sectionDescription="[Μετατροπή STL σε DRC](https://products.aspose.app/3d/conversion/stl-to-drc) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="STL σε DRC Ζωντανή μετατροπή" sectionDescription="[Μετατροπή STL σε DRC](https://products.aspose.app/3d/conversion/stl-to-drc) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο STL σας, θα μετατραπεί άμεσα σε DRC." >}}
@@ -125,7 +125,7 @@ STL, συντομογραφία για τη στερεοθρογραφία, εί
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

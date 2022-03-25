@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ auf OBJ Konvertierungs-Live-Demos" sectionDescription="[OBJ zu OBJ konvertieren](https://products.aspose.app/3d/conversion/obj-to-obj) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ auf OBJ Konvertierungs-Live-Demos" sectionDescription="[OBJ zu OBJ konvertieren](https://products.aspose.app/3d/conversion/obj-to-obj) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre OBJ-Datei hoch, sie wird sofort in OBJ konvertiert." >}}
@@ -125,7 +125,7 @@ OBJ-Dateien werden von Wavefront Advanced Visualizer-Anwendung verwendet, um die
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

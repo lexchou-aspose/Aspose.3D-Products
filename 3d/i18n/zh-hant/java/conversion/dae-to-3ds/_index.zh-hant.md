@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE 到 3DS 轉換實時演示" sectionDescription="[將 DAE 轉換為 3DS](https://products.aspose.app/3d/conversion/dae-to-3ds) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE 到 3DS 轉換實時演示" sectionDescription="[將 DAE 轉換為 3DS](https://products.aspose.app/3d/conversion/dae-to-3ds) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 DAE 文件,它將立即轉換為 3DS。" >}}
@@ -128,7 +128,7 @@ DAE 文件是一種數字資產交換文件格式,用於在交互式 3D 應用�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

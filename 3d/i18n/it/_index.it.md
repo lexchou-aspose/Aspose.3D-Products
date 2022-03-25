@@ -3,6 +3,7 @@ title: API con codice elevato e app gratuite per la manipolazione di 3D file
 weight: 1460
 url: /it/
 description: Crea modifica e converti 3D file. Nessun 3D software di modellazione richiesto. Lavora con geometria, gerarchia di scene, mesh di condivisione o divisione, Oggetti Animati, Aggiungi una fotocamera di destinazione.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D soluzione di formato file" h2="API native e app che offrono funzionalità per leggere, modificare e convertire 3D file senza richiedere 3D software di modellazione o rendering." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D soluzione del prodotto" >}}

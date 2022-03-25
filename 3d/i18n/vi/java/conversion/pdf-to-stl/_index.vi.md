@@ -95,7 +95,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF để STL Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi PDF để STL](https://products.aspose.app/3d/conversion/pdf-to-stl) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF để STL Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi PDF để STL](https://products.aspose.app/3d/conversion/pdf-to-stl) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không có cần phải tải về Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên của bạn PDF tập tin, nó sẽ được chuyển đổi ngay lập tức để STL." >}}
@@ -125,7 +125,7 @@ STL, viết tắt cho stereolithrography, là một hoán đổi cho nhau tập 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

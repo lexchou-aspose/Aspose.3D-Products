@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X in RVM Konvertierungs-Live-Demos" sectionDescription="[X zu RVM konvertieren](https://products.aspose.app/3d/conversion/x-to-rvm) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X in RVM Konvertierungs-Live-Demos" sectionDescription="[X zu RVM konvertieren](https://products.aspose.app/3d/conversion/x-to-rvm) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre X-Datei hoch, sie wird sofort in RVM konvertiert." >}}
@@ -128,7 +128,7 @@ RVM Daten dateien beziehen sich auf AVEVA PDMS. Die RVM-Datei ist ein AVEVA Plan
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

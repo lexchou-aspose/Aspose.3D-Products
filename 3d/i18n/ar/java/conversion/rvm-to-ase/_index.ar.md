@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM إلى ASE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل RVM إلى ASE](https://products.aspose.app/3d/conversion/rvm-to-ase) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM إلى ASE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل RVM إلى ASE](https://products.aspose.app/3d/conversion/rvm-to-ase) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف RVM ، وسيتم تحويله على الفور إلى ASE." >}}
@@ -128,7 +128,7 @@ RVM ملفات البيانات مرتبطة بـ AVEVA PDMS. ملف RVM هو ن
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

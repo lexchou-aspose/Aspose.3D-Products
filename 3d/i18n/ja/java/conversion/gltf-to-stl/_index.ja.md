@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GLTF から STL の変換ライブデモ" sectionDescription="[GLTF を STL に変換](https://products.aspose.app/3d/conversion/gltf-to-stl) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="GLTF から STL の変換ライブデモ" sectionDescription="[GLTF を STL に変換](https://products.aspose.app/3d/conversion/gltf-to-stl) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" GLTF ファイルをアップロードするだけで、即座に STL に変換されます。" >}}
@@ -128,7 +128,7 @@ STL (ステレオリスログラフィーの略語) は、3次元の表面ジオ
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

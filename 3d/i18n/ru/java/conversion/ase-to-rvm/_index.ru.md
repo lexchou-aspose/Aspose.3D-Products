@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Конверсионные живые демонстрации ASE в RVM" sectionDescription="[Конвертировать ASE в RVM](https://products.aspose.app/3d/conversion/ase-to-rvm) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Конверсионные живые демонстрации ASE в RVM" sectionDescription="[Конвертировать ASE в RVM](https://products.aspose.app/3d/conversion/ase-to-rvm) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Не нужно писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой ASE файл, он будет мгновенно преобразован в RVM." >}}
@@ -128,7 +128,7 @@ document.save("output.rvm", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

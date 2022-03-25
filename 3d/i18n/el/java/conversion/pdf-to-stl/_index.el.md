@@ -95,7 +95,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF σε STL Ζωντανή μετατροπή" sectionDescription="[Μετατροπή PDF σε STL](https://products.aspose.app/3d/conversion/pdf-to-stl) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF σε STL Ζωντανή μετατροπή" sectionDescription="[Μετατροπή PDF σε STL](https://products.aspose.app/3d/conversion/pdf-to-stl) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο PDF σας, θα μετατραπεί άμεσα σε STL." >}}
@@ -125,7 +125,7 @@ STL, συντομογραφία για τη στερεοθρογραφία, εί
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

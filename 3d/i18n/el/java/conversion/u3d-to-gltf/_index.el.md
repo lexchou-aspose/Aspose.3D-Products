@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D σε GLTF Ζωντανή μετατροπή" sectionDescription="[Μετατροπή U3D σε GLTF](https://products.aspose.app/3d/conversion/u3d-to-gltf) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D σε GLTF Ζωντανή μετατροπή" sectionDescription="[Μετατροπή U3D σε GLTF](https://products.aspose.app/3d/conversion/u3d-to-gltf) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο U3D σας, θα μετατραπεί άμεσα σε GLTF." >}}
@@ -128,7 +128,7 @@ glTF (GL Transmission Format) είναι μια μορφή αρχείου 3D π�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

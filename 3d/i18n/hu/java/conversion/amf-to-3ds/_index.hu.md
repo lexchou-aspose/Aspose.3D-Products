@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF a 3DS konverziós élő demók" sectionDescription="[Konvertálni AMF 3DS](https://products.aspose.app/3d/conversion/amf-to-3ds) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="AMF a 3DS konverziós élő demók" sectionDescription="[Konvertálni AMF 3DS](https://products.aspose.app/3d/conversion/amf-to-3ds) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a AMF fájlt, akkor azonnal átalakítani 3DS." >}}
@@ -128,7 +128,7 @@ A 3DS kiterjesztésű fájl az autodesk 3D studio által használt 3D studio (do
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

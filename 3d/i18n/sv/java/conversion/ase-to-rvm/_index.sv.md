@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE till RVM Konvertering levande demos" sectionDescription="[Konvertera ASE till RVM](https://products.aspose.app/3d/conversion/ase-to-rvm) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE till RVM Konvertering levande demos" sectionDescription="[Konvertera ASE till RVM](https://products.aspose.app/3d/conversion/ase-to-rvm) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din ASE-fil, den kommer att konverteras omedelbart till RVM." >}}
@@ -128,7 +128,7 @@ RVM datafiler är relaterade till AVEVA PDMS. RVM filen är en AVEVA Plant Desig
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

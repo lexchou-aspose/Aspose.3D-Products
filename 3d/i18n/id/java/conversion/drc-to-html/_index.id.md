@@ -95,7 +95,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC untuk HTML konversi demo hidup" sectionDescription="[Mengkonversi DRC untuk HTML](https://products.aspose.app/3d/conversion/drc-to-html) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC untuk HTML konversi demo hidup" sectionDescription="[Mengkonversi DRC untuk HTML](https://products.aspose.app/3d/conversion/drc-to-html) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file DRC Anda, maka akan dikonversi secara instan ke HTML." >}}
@@ -125,7 +125,7 @@ HTML (bahasa Markup teks hiper) adalah ekstensi untuk halaman web yang dibuat un
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

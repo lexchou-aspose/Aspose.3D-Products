@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GLTF 到 ASE 转换实时演示" sectionDescription="[将 GLTF 转换为 ASE](https://products.aspose.app/3d/conversion/gltf-to-ase) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="GLTF 到 ASE 转换实时演示" sectionDescription="[将 GLTF 转换为 ASE](https://products.aspose.app/3d/conversion/gltf-to-ase) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 GLTF 文件，它将立即转换为 ASE。" >}}
@@ -128,7 +128,7 @@ ASE 文件是包含图层、框架、调色板、标签和设置的2D动画或�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

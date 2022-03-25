@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konverzace live demonstrací VRML na AMF" sectionDescription="[Převést VRML na AMF](https://products.aspose.app/3d/conversion/vrml-to-amf) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Konverzace live demonstrací VRML na AMF" sectionDescription="[Převést VRML na AMF](https://products.aspose.app/3d/conversion/vrml-to-amf) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stáhnout Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba napsat žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VRML file, it will be converted instantly to AMF." >}}
@@ -128,7 +128,7 @@ Aditivní výrobní formát souboru (AMF) definuje otevřené standardy pro popi
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC till ASE Konvertering levande demos" sectionDescription="[Konvertera DRC till ASE](https://products.aspose.app/3d/conversion/drc-to-ase) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC till ASE Konvertering levande demos" sectionDescription="[Konvertera DRC till ASE](https://products.aspose.app/3d/conversion/drc-to-ase) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din DRC-fil, den kommer att konverteras omedelbart till ASE." >}}
@@ -125,7 +125,7 @@ En ASE-fil är en 2D-animation eller grafik som innehåller lager, ramar, palett
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X à DRC Démos en direct de conversion" sectionDescription="[Convertir X en DRC](https://products.aspose.app/3d/conversion/x-to-drc) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X à DRC Démos en direct de conversion" sectionDescription="[Convertir X en DRC](https://products.aspose.app/3d/conversion/x-to-drc) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger votre fichier X, il sera converti instantanément en DRC." >}}
@@ -125,7 +125,7 @@ Un dossier avec. Drc extension est un format de fichier compressé 3D créé ave
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -3,6 +3,7 @@ title: 3D 파일 조작을위한 높은 코드 APIs 및 무료 앱
 weight: 1460
 url: /ko/
 description: 편집 생성 및 3D 파일 변환. 3D 모델링 소프트웨어가 필요하지 않습니다. 기하학, 장면 계층 구조, 메시 공유 또는 분할, 객체 애니메이션, 대상 카메라 추가 작업.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D 파일 형식 솔루션" h2="3D 모델링 또는 렌더링 소프트웨어없이 3D 파일을 읽고 편집하고 변환하는 기능을 제공하는 네이티브 APIs 및 앱." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D 제품 솔루션" >}}

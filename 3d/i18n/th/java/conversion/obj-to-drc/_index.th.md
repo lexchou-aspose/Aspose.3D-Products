@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ TO DRC Conversion การสาธิตสด" sectionDescription="[แปลง OBJ TO DRC](https://products.aspose.app/3d/conversion/obj-to-drc) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ TO DRC Conversion การสาธิตสด" sectionDescription="[แปลง OBJ TO DRC](https://products.aspose.app/3d/conversion/obj-to-drc) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงแค่อัปโหลดไฟล์ OBJ ของคุณก็จะถูกแปลงทันทีเป็น DRC" >}}
@@ -125,7 +125,7 @@ OBJ ไฟล์จะถูกใช้โดยโปรแกรม visualize
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE a OBJ Demos en vivo de conversión" sectionDescription="[Convertir ASE a OBJ](https://products.aspose.app/3d/conversion/ase-to-obj) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE a OBJ Demos en vivo de conversión" sectionDescription="[Convertir ASE a OBJ](https://products.aspose.app/3d/conversion/ase-to-obj) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue su ASE archivo, se convertirá instantáneamente a OBJ." >}}
@@ -128,7 +128,7 @@ OBJ archivos son utilizados por la aplicación Visualizador avanzado de Wavefron
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

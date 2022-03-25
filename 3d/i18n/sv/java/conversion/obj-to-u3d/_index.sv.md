@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ till U3D Konvertering levande demos" sectionDescription="[Konvertera OBJ till U3D](https://products.aspose.app/3d/conversion/obj-to-u3d) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ till U3D Konvertering levande demos" sectionDescription="[Konvertera OBJ till U3D](https://products.aspose.app/3d/conversion/obj-to-u3d) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din OBJ-fil, den kommer att konverteras omedelbart till U3D." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) är ett komprimerat filformat och datastruktur för 3D datorg
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

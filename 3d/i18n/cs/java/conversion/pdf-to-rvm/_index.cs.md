@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konverzace live demonstrací PDF na RVM" sectionDescription="[Převést PDF na RVM](https://products.aspose.app/3d/conversion/pdf-to-rvm) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Konverzace live demonstrací PDF na RVM" sectionDescription="[Převést PDF na RVM](https://products.aspose.app/3d/conversion/pdf-to-rvm) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stáhnout Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba napsat žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file, it will be converted instantly to RVM." >}}
@@ -125,7 +125,7 @@ Datové soubory RVM jsou propojeny s pdms aveva. RVM file is an aveva plant desi
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

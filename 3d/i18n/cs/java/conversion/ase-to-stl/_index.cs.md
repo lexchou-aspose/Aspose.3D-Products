@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konverzace live demonstrací ASE na STL" sectionDescription="[Převést ASE na STL](https://products.aspose.app/3d/conversion/ase-to-stl) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Konverzace live demonstrací ASE na STL" sectionDescription="[Převést ASE na STL](https://products.aspose.app/3d/conversion/ase-to-stl) Právě teď navštívit naše live demos webové stránky. live demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stáhnout Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba napsat žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ASE file, it will be converted instantly to STL." >}}
@@ -128,7 +128,7 @@ STL, zkratka pro stereolitrografii, je výměnný formát souboru, který reprez
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

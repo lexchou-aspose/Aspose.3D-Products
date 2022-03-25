@@ -95,7 +95,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF untuk PLY konversi demo hidup" sectionDescription="[Mengkonversi PDF untuk PLY](https://products.aspose.app/3d/conversion/pdf-to-ply) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF untuk PLY konversi demo hidup" sectionDescription="[Mengkonversi PDF untuk PLY](https://products.aspose.app/3d/conversion/pdf-to-ply) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file PDF Anda, maka akan dikonversi secara instan ke PLY." >}}
@@ -125,7 +125,7 @@ PLY, Format File poligon, mewakili format file 3D yang menyimpan objek grafis ya
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

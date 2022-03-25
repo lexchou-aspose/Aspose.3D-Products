@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF-3DS Dönüşüm Canlı Demoları" sectionDescription="[AMF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/amf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="AMF-3DS Dönüşüm Canlı Demoları" sectionDescription="[AMF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/amf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece AMF dosyanızı yükleyin, anında 3DS \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ Additive Manufacturing dosya formatı (AMF), 3D Printing gibi eklemeli üretim s
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

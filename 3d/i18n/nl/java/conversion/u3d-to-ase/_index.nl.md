@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D tot ASE live-demo\'s voor conversie" sectionDescription="[U3D converteren naar ASE](https://products.aspose.app/3d/conversion/u3d-to-ase) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D tot ASE live-demo\'s voor conversie" sectionDescription="[U3D converteren naar ASE](https://products.aspose.app/3d/conversion/u3d-to-ase) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw U3D bestand, het wordt direct geconverteerd naar ASE." >}}
@@ -128,7 +128,7 @@ Een ASE bestand is een 2D-animatie of afbeeldingen die lagen, frames, paletten, 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

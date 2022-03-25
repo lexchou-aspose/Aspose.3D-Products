@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM do U3D Konwersja na żywo Dema" sectionDescription="[Przelicz RVM na U3D](https://products.aspose.app/3d/conversion/rvm-to-u3d) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM do U3D Konwersja na żywo Dema" sectionDescription="[Przelicz RVM na U3D](https://products.aspose.app/3d/conversion/rvm-to-u3d) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik RVM, a zostanie on natychmiast przekonwertowany na U3D." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) to skompresowany format plików i struktura danych dla 3D gra
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

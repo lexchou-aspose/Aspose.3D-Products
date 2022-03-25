@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX do GLTF Konwersja na żywo Dema" sectionDescription="[Przelicz FBX na GLTF](https://products.aspose.app/3d/conversion/fbx-to-gltf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX do GLTF Konwersja na żywo Dema" sectionDescription="[Przelicz FBX na GLTF](https://products.aspose.app/3d/conversion/fbx-to-gltf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik FBX, a zostanie on natychmiast przekonwertowany na GLTF." >}}
@@ -128,7 +128,7 @@ glTF (GL Transmission Format) to 3D format pliku, który przechowuje 3D informac
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -3,6 +3,7 @@ title: 3D ファイル操作のためのハイコードAPIと無料アプリ
 weight: 1460
 url: /ja/
 description: 3D 個のファイルを編集 & 変換します。 3D のモデリングソフトウェアは必要ありません。ジオメトリ、シーン階層、共有または分割メッシュ、アニメーションオブジェクト、ターゲットカメラの追加を操作します。
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D ファイル形式ソリューション" h2="3D のモデリングまたはレンダリングソフトウェアを必要とせずに 3D ファイルを読み取り、編集、変換する機能を提供するネイティブAPIおよびアプリ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D 製品ソリューション" >}}

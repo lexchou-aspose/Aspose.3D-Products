@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo live di conversione da STL a U3D" sectionDescription="[Convertire da STL a U3D](https://products.aspose.app/3d/conversion/stl-to-u3d) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Demo live di conversione da STL a U3D" sectionDescription="[Convertire da STL a U3D](https://products.aspose.app/3d/conversion/stl-to-u3d) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\' è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file STL, che verrà convertito istantaneamente in U3D." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) è un formato di file compresso e una struttura di dati per 3
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

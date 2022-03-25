@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX TO AMF Conversion การสาธิตสด" sectionDescription="[แปลง FBX TO AMF](https://products.aspose.app/3d/conversion/fbx-to-amf) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX TO AMF Conversion การสาธิตสด" sectionDescription="[แปลง FBX TO AMF](https://products.aspose.app/3d/conversion/fbx-to-amf) ขณะนี้โดยการเยี่ยมชมเว็บไซต์สาธิตสดของเราการสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงแค่อัปโหลดไฟล์ FBX ของคุณก็จะถูกแปลงทันทีเป็น AMF" >}}
@@ -128,7 +128,7 @@ FBX, filmbox เป็นรูปแบบไฟล์ 3D ที่ได้ร
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

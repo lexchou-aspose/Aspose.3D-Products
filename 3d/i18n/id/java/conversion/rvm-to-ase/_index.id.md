@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM untuk ASE konversi demo hidup" sectionDescription="[Mengkonversi RVM untuk ASE](https://products.aspose.app/3d/conversion/rvm-to-ase) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM untuk ASE konversi demo hidup" sectionDescription="[Mengkonversi RVM untuk ASE](https://products.aspose.app/3d/conversion/rvm-to-ase) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file RVM Anda, maka akan dikonversi secara instan ke ASE." >}}
@@ -128,7 +128,7 @@ Berkas ASE adalah animasi 2D atau grafis yang berisi lapisan, bingkai, palet, ta
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D untuk OBJ konversi demo hidup" sectionDescription="[Mengkonversi U3D untuk OBJ](https://products.aspose.app/3d/conversion/u3d-to-obj) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D untuk OBJ konversi demo hidup" sectionDescription="[Mengkonversi U3D untuk OBJ](https://products.aspose.app/3d/conversion/u3d-to-obj) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file U3D Anda, maka akan dikonversi secara instan ke OBJ." >}}
@@ -128,7 +128,7 @@ OBJ file digunakan oleh aplikasi visualisator canggih Wavefront untuk menentukan
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

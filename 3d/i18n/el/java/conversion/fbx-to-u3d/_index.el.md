@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX σε U3D Ζωντανή μετατροπή" sectionDescription="[Μετατροπή FBX σε U3D](https://products.aspose.app/3d/conversion/fbx-to-u3d) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX σε U3D Ζωντανή μετατροπή" sectionDescription="[Μετατροπή FBX σε U3D](https://products.aspose.app/3d/conversion/fbx-to-u3d) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο FBX σας, θα μετατραπεί άμεσα σε U3D." >}}
@@ -128,7 +128,7 @@ FBX, FilmBox, είναι μια δημοφιλής μορφή αρχείου 3D 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

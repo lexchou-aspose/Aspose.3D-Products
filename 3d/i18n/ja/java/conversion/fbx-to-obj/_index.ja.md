@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX から OBJ の変換ライブデモ" sectionDescription="[FBX を OBJ に変換](https://products.aspose.app/3d/conversion/fbx-to-obj) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX から OBJ の変換ライブデモ" sectionDescription="[FBX を OBJ に変換](https://products.aspose.app/3d/conversion/fbx-to-obj) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" FBX ファイルをアップロードするだけで、即座に OBJ に変換されます。" >}}
@@ -128,7 +128,7 @@ OBJ 個のファイルは、 Wavefront のAdvanced Visualizerアプリケーシ�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DXF để OBJ Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi DXF để OBJ](https://products.aspose.app/3d/conversion/dxf-to-obj) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DXF để OBJ Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi DXF để OBJ](https://products.aspose.app/3d/conversion/dxf-to-obj) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không có cần phải tải về Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên của bạn DXF tập tin, nó sẽ được chuyển đổi ngay lập tức để OBJ." >}}
@@ -128,7 +128,7 @@ OBJ các tập tin được sử dụng bằng cách Wavefront của Tiên Tiế
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

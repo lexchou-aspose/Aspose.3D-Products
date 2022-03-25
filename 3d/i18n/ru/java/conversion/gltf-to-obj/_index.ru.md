@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Конверсионные живые демонстрации GLTF в OBJ" sectionDescription="[Конвертировать GLTF в OBJ](https://products.aspose.app/3d/conversion/gltf-to-obj) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Конверсионные живые демонстрации GLTF в OBJ" sectionDescription="[Конвертировать GLTF в OBJ](https://products.aspose.app/3d/conversion/gltf-to-obj) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Не нужно писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой GLTF файл, он будет мгновенно преобразован в OBJ." >}}
@@ -128,7 +128,7 @@ OBJ файлы используются приложением Advanced Visualiz
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

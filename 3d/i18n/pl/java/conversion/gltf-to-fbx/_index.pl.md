@@ -96,7 +96,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GLTF do FBX Konwersja na żywo Dema" sectionDescription="[Przelicz GLTF na FBX](https://products.aspose.app/3d/conversion/gltf-to-fbx) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="GLTF do FBX Konwersja na żywo Dema" sectionDescription="[Przelicz GLTF na FBX](https://products.aspose.app/3d/conversion/gltf-to-fbx) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik GLTF, a zostanie on natychmiast przekonwertowany na FBX." >}}
@@ -128,7 +128,7 @@ FBX, FilmBox, to popularny format pliku 3D, który został pierwotnie opracowany
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

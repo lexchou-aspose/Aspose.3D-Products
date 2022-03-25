@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM a STL konverziós élő demók" sectionDescription="[Konvertálni RVM STL](https://products.aspose.app/3d/conversion/rvm-to-stl) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM a STL konverziós élő demók" sectionDescription="[Konvertálni RVM STL](https://products.aspose.app/3d/conversion/rvm-to-stl) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a RVM fájlt, akkor azonnal átalakítani STL." >}}
@@ -128,7 +128,7 @@ A STL, a sztereolitrográfia rövidítése egy cserélhető fájlformátum, amel
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

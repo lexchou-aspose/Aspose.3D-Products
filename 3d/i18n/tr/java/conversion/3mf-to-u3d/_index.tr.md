@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF-U3D Dönüşüm Canlı Demoları" sectionDescription="[3MF \'i U3D \'ye dönüştürün](https://products.aspose.app/3d/conversion/3mf-to-u3d) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF-U3D Dönüşüm Canlı Demoları" sectionDescription="[3MF \'i U3D \'ye dönüştürün](https://products.aspose.app/3d/conversion/3mf-to-u3d) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece 3MF dosyanızı yükleyin, anında U3D \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D), 3D bilgisayar grafikleri için sıkıştırılmış bir dosy
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

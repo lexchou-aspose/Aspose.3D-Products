@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE करने के लिए DRC रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट DAE करने के लिए DRC](https://products.aspose.app/3d/conversion/dae-to-drc) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE करने के लिए DRC रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट DAE करने के लिए DRC](https://products.aspose.app/3d/conversion/dae-to-drc) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कोई डाउनलोड करने की आवश्यकता Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई किसी भी कोड लिखने की जरूरत है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" सिर्फ अपलोड अपने DAE फ़ाइल, यह तुरन्त परिवर्तित किया जाएगा करने के लिए DRC." >}}
@@ -125,7 +125,7 @@ document.save("output.drc", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

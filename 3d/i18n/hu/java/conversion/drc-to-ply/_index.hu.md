@@ -95,7 +95,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC a PLY konverziós élő demók" sectionDescription="[Konvertálni DRC PLY](https://products.aspose.app/3d/conversion/drc-to-ply) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC a PLY konverziós élő demók" sectionDescription="[Konvertálni DRC PLY](https://products.aspose.app/3d/conversion/drc-to-ply) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a DRC fájlt, akkor azonnal átalakítani PLY." >}}
@@ -125,7 +125,7 @@ PLY, sokszög fájlformátum, a 3D fájlformátumot jelenti, amely poligonok gy�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

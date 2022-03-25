@@ -95,7 +95,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC a DAE konverziós élő demók" sectionDescription="[Konvertálni DRC DAE](https://products.aspose.app/3d/conversion/drc-to-dae) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC a DAE konverziós élő demók" sectionDescription="[Konvertálni DRC DAE](https://products.aspose.app/3d/conversion/drc-to-dae) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a DRC fájlt, akkor azonnal átalakítani DAE." >}}
@@ -125,7 +125,7 @@ A DAE fájl egy digitális eszközcsere fájlformátum, amelyet az interaktív 3
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

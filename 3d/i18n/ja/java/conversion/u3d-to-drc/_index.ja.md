@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D から DRC の変換ライブデモ" sectionDescription="[U3D を DRC に変換](https://products.aspose.app/3d/conversion/u3d-to-drc) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D から DRC の変換ライブデモ" sectionDescription="[U3D を DRC に変換](https://products.aspose.app/3d/conversion/u3d-to-drc) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" U3D ファイルをアップロードするだけで、即座に DRC に変換されます。" >}}
@@ -125,7 +125,7 @@ U3D (Universal 3D) は、 3D コンピュータグラフィックスの圧縮フ
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

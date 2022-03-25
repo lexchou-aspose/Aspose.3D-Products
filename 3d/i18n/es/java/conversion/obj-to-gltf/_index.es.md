@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ a GLTF Demos en vivo de conversión" sectionDescription="[Convertir OBJ a GLTF](https://products.aspose.app/3d/conversion/obj-to-gltf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ a GLTF Demos en vivo de conversión" sectionDescription="[Convertir OBJ a GLTF](https://products.aspose.app/3d/conversion/obj-to-gltf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue su OBJ archivo, se convertirá instantáneamente a GLTF." >}}
@@ -128,7 +128,7 @@ glTF (Formato de transmisión GL) es un 3D formato de archivo que almacena 3D in
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

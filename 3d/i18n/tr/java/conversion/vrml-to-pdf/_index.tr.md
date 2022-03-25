@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VRML-PDF Dönüşüm Canlı Demoları" sectionDescription="[VRML \'i PDF \'ye dönüştürün](https://products.aspose.app/3d/conversion/vrml-to-pdf) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="VRML-PDF Dönüşüm Canlı Demoları" sectionDescription="[VRML \'i PDF \'ye dönüştürün](https://products.aspose.app/3d/conversion/vrml-to-pdf) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece VRML dosyanızı yükleyin, anında PDF \'ye dönüştürülecektir." >}}
@@ -125,7 +125,7 @@ Taşınabilir Belge Biçimi (PDF), 1990'larda Adobe tarafından oluşturulan bir
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

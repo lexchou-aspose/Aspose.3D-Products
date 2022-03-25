@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ tot 3DS live-demo\'s voor conversie" sectionDescription="[OBJ converteren naar 3DS](https://products.aspose.app/3d/conversion/obj-to-3ds) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ tot 3DS live-demo\'s voor conversie" sectionDescription="[OBJ converteren naar 3DS](https://products.aspose.app/3d/conversion/obj-to-3ds) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw OBJ bestand, het wordt direct geconverteerd naar 3DS." >}}
@@ -128,7 +128,7 @@ Een bestand met een extensie van 3DS vertegenwoordigt het 3D Studio (DOS) mesh-b
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

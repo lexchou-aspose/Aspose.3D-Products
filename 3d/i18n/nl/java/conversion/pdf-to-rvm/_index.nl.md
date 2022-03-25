@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF tot RVM live-demo\'s voor conversie" sectionDescription="[PDF converteren naar RVM](https://products.aspose.app/3d/conversion/pdf-to-rvm) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF tot RVM live-demo\'s voor conversie" sectionDescription="[PDF converteren naar RVM](https://products.aspose.app/3d/conversion/pdf-to-rvm) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw PDF bestand, het wordt direct geconverteerd naar RVM." >}}
@@ -125,7 +125,7 @@ RVM gegevensbestanden zijn gerelateerd aan AVEVA PDMS. RVM bestand is een AVEVA 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS a HTML Demos ao vivo de conversão" sectionDescription="[Converter 3DS para HTML](https://products.aspose.app/3d/conversion/3ds-to-html) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS a HTML Demos ao vivo de conversão" sectionDescription="[Converter 3DS para HTML](https://products.aspose.app/3d/conversion/3ds-to-html) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo 3DS, ele será convertido instantaneamente para HTML." >}}
@@ -128,7 +128,7 @@ HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas pa
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

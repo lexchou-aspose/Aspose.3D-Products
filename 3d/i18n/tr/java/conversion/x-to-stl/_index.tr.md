@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X-STL Dönüşüm Canlı Demos" sectionDescription="[X\'i STL \'a dönüştürün](https://products.aspose.app/3d/conversion/x-to-stl) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X-STL Dönüşüm Canlı Demos" sectionDescription="[X\'i STL \'a dönüştürün](https://products.aspose.app/3d/conversion/x-to-stl) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece X dosyanızı yükleyin, anında STL \'e dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ STL, stereolitrografinin kısaltması, 3 boyutlu yüzey geometrisini temsil eden
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

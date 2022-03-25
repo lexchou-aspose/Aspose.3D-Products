@@ -96,7 +96,7 @@ document.save("output.gltf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D auf GLTF Konvertierungs-Live-Demos" sectionDescription="[U3D zu GLTF konvertieren](https://products.aspose.app/3d/conversion/u3d-to-gltf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D auf GLTF Konvertierungs-Live-Demos" sectionDescription="[U3D zu GLTF konvertieren](https://products.aspose.app/3d/conversion/u3d-to-gltf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre U3D-Datei hoch, sie wird sofort in GLTF konvertiert." >}}
@@ -128,7 +128,7 @@ glTF (GL Transmission Format) ist ein 3D-Dateiformat, das 3D Modell informatione
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

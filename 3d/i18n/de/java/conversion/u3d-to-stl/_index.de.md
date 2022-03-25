@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D auf STL Konvertierungs-Live-Demos" sectionDescription="[U3D zu STL konvertieren](https://products.aspose.app/3d/conversion/u3d-to-stl) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D auf STL Konvertierungs-Live-Demos" sectionDescription="[U3D zu STL konvertieren](https://products.aspose.app/3d/conversion/u3d-to-stl) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre U3D-Datei hoch, sie wird sofort in STL konvertiert." >}}
@@ -128,7 +128,7 @@ STL, Abkürzung für Stereo lithro graphie, ist ein austauschbares Dateiformat, 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF a U3D konverziós élő demók" sectionDescription="[Konvertálni PDF U3D](https://products.aspose.app/3d/conversion/pdf-to-u3d) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF a U3D konverziós élő demók" sectionDescription="[Konvertálni PDF U3D](https://products.aspose.app/3d/conversion/pdf-to-u3d) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a PDF fájlt, akkor azonnal átalakítani U3D." >}}
@@ -125,7 +125,7 @@ A U3D (Universal 3D) egy tömörített fájlformátum és adatszerkezet 3D szám
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

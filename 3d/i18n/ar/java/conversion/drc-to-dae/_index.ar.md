@@ -95,7 +95,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC إلى DAE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل DRC إلى DAE](https://products.aspose.app/3d/conversion/drc-to-dae) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC إلى DAE تحويل العروض التوضيحية المباشرة" sectionDescription="[تحويل DRC إلى DAE](https://products.aspose.app/3d/conversion/drc-to-dae) الآن من خلال زيارة موقع Live Demos الإلكتروني. يحتوي العرض التوضيحي المباشر على الفوائد التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف DRC ، وسيتم تحويله على الفور إلى DAE." >}}
@@ -125,7 +125,7 @@ document.save("output.dae", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

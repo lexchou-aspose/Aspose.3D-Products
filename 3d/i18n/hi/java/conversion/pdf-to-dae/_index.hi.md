@@ -95,7 +95,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PDF करने के लिए DAE रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट PDF करने के लिए DAE](https://products.aspose.app/3d/conversion/pdf-to-dae) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PDF करने के लिए DAE रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट PDF करने के लिए DAE](https://products.aspose.app/3d/conversion/pdf-to-dae) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कोई डाउनलोड करने की आवश्यकता Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई किसी भी कोड लिखने की जरूरत है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" सिर्फ अपलोड अपने PDF फ़ाइल, यह तुरन्त परिवर्तित किया जाएगा करने के लिए DAE." >}}
@@ -125,7 +125,7 @@ document.save("output.dae", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

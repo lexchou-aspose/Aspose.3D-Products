@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS untuk DAE konversi demo hidup" sectionDescription="[Mengkonversi 3DS untuk DAE](https://products.aspose.app/3d/conversion/3ds-to-dae) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS untuk DAE konversi demo hidup" sectionDescription="[Mengkonversi 3DS untuk DAE](https://products.aspose.app/3d/conversion/3ds-to-dae) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file 3DS Anda, maka akan dikonversi secara instan ke DAE." >}}
@@ -128,7 +128,7 @@ Berkas DAE adalah format berkas pertukaran aset Digital yang digunakan untuk ber
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

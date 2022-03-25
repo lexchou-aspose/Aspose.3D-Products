@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM auf HTML Konvertierungs-Live-Demos" sectionDescription="[RVM zu HTML konvertieren](https://products.aspose.app/3d/conversion/rvm-to-html) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM auf HTML Konvertierungs-Live-Demos" sectionDescription="[RVM zu HTML konvertieren](https://products.aspose.app/3d/conversion/rvm-to-html) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre RVM-Datei hoch, sie wird sofort in HTML konvertiert." >}}
@@ -128,7 +128,7 @@ HTML (Hyper Text Markup Language) ist die Erweiterung für Webseiten, die für d
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF 到 DRC 轉換實時演示" sectionDescription="[將 3MF 轉換為 DRC](https://products.aspose.app/3d/conversion/3mf-to-drc) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF 到 DRC 轉換實時演示" sectionDescription="[將 3MF 轉換為 DRC](https://products.aspose.app/3d/conversion/3mf-to-drc) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 3MF 文件,它將立即轉換為 DRC。" >}}
@@ -125,7 +125,7 @@ document.save("output.drc", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

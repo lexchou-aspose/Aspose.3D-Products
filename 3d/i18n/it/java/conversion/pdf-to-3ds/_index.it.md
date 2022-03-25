@@ -95,7 +95,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo live di conversione da PDF a 3DS" sectionDescription="[Convertire da PDF a 3DS](https://products.aspose.app/3d/conversion/pdf-to-3ds) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Demo live di conversione da PDF a 3DS" sectionDescription="[Convertire da PDF a 3DS](https://products.aspose.app/3d/conversion/pdf-to-3ds) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\' è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file PDF, che verrà convertito istantaneamente in 3DS." >}}
@@ -125,7 +125,7 @@ Un file con estensione 3DS rappresenta il formato di file mesh di 3D Studio (DOS
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

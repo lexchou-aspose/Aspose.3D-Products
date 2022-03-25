@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY untuk PDF konversi demo hidup" sectionDescription="[Mengkonversi PLY untuk PDF](https://products.aspose.app/3d/conversion/ply-to-pdf) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY untuk PDF konversi demo hidup" sectionDescription="[Mengkonversi PLY untuk PDF](https://products.aspose.app/3d/conversion/ply-to-pdf) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file PLY Anda, maka akan dikonversi secara instan ke PDF." >}}
@@ -125,7 +125,7 @@ Format dokumen portabel (PDF) adalah jenis dokumen yang dibuat oleh Adobe kembal
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS en PDF Démos en direct de conversion" sectionDescription="[Convertir 3DS en PDF](https://products.aspose.app/3d/conversion/3ds-to-pdf) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS en PDF Démos en direct de conversion" sectionDescription="[Convertir 3DS en PDF](https://products.aspose.app/3d/conversion/3ds-to-pdf) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier 3DS, il sera converti instantanément en PDF." >}}
@@ -125,7 +125,7 @@ Le format de document portable (PDF) est un type de document créé par Adobe da
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

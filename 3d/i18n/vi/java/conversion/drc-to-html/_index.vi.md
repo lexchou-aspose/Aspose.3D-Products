@@ -95,7 +95,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC để HTML Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi DRC để HTML](https://products.aspose.app/3d/conversion/drc-to-html) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC để HTML Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi DRC để HTML](https://products.aspose.app/3d/conversion/drc-to-html) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không có cần phải tải về Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên của bạn DRC tập tin, nó sẽ được chuyển đổi ngay lập tức để HTML." >}}
@@ -125,7 +125,7 @@ HTML (Hyper Văn Bản Đánh Dấu Ngôn Ngữ) là phần mở rộng cho các
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

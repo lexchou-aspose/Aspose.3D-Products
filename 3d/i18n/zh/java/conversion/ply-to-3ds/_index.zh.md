@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="PLY 到 3DS 转换实时演示" sectionDescription="[将 PLY 转换为 3DS](https://products.aspose.app/3d/conversion/ply-to-3ds) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="PLY 到 3DS 转换实时演示" sectionDescription="[将 PLY 转换为 3DS](https://products.aspose.app/3d/conversion/ply-to-3ds) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 PLY 文件，它将立即转换为 3DS。" >}}
@@ -128,7 +128,7 @@ PLY，多边形文件格式，表示存储描述为多边形集合的图形对�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

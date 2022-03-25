@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Конверсионные живые демонстрации U3D в DRC" sectionDescription="[Конвертировать U3D в DRC](https://products.aspose.app/3d/conversion/u3d-to-drc) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Конверсионные живые демонстрации U3D в DRC" sectionDescription="[Конвертировать U3D в DRC](https://products.aspose.app/3d/conversion/u3d-to-drc) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Не нужно писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой U3D файл, он будет мгновенно преобразован в DRC." >}}
@@ -125,7 +125,7 @@ U3D (Universal 3D)-это сжатый формат файла и структу
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

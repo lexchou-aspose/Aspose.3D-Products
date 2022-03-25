@@ -95,7 +95,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC a U3D Demos ao vivo de conversão" sectionDescription="[Converter DRC para U3D](https://products.aspose.app/3d/conversion/drc-to-u3d) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC a U3D Demos ao vivo de conversão" sectionDescription="[Converter DRC para U3D](https://products.aspose.app/3d/conversion/drc-to-u3d) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo DRC, ele será convertido instantaneamente para U3D." >}}
@@ -125,7 +125,7 @@ U3D (Universal 3D) é um formato de arquivo compactado e estrutura de dados para
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

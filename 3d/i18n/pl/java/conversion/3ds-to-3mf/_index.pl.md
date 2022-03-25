@@ -96,7 +96,7 @@ document.save("output.3mf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS do 3MF Konwersja na żywo Dema" sectionDescription="[Przelicz 3DS na 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS do 3MF Konwersja na żywo Dema" sectionDescription="[Przelicz 3DS na 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik 3DS, a zostanie on natychmiast przekonwertowany na 3MF." >}}
@@ -128,7 +128,7 @@ Plik z rozszerzeniem 3DS reprezentuje format pliku siatkowego 3D Studio (DOS) u�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

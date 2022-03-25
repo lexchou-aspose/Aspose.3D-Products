@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D-PLY Dönüşüm Canlı Demoları" sectionDescription="[U3D \'i PLY \'ye dönüştürün](https://products.aspose.app/3d/conversion/u3d-to-ply) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D-PLY Dönüşüm Canlı Demoları" sectionDescription="[U3D \'i PLY \'ye dönüştürün](https://products.aspose.app/3d/conversion/u3d-to-ply) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece U3D dosyanızı yükleyin, anında PLY \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ PLY, Poligon Dosya Biçimi, bir çokgen koleksiyonu olarak tanımlanan grafik ne
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

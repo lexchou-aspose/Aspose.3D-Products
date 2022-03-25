@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT a DRC konverziós élő demók" sectionDescription="[Konvertálni JT DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT a DRC konverziós élő demók" sectionDescription="[Konvertálni JT DRC](https://products.aspose.app/3d/conversion/jt-to-drc) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a JT fájlt, akkor azonnal átalakítani DRC." >}}
@@ -125,7 +125,7 @@ Egy fájl. A drc kiterjesztés a Google Draco könyvtárral létrehozott tömör
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

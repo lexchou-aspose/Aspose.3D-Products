@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X a AMF Demos de conversión en vivo" sectionDescription="[Convertir X a AMF](https://products.aspose.app/3d/conversion/x-to-amf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X a AMF Demos de conversión en vivo" sectionDescription="[Convertir X a AMF](https://products.aspose.app/3d/conversion/x-to-amf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue su archivo X, se convertirá instantáneamente a AMF." >}}
@@ -128,7 +128,7 @@ El formato de archivo de fabricación aditiva (AMF) define estándares abiertos 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

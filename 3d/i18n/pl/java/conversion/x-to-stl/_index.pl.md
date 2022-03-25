@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X do STL Konwersja na żywo Dema" sectionDescription="[Konwertuj X na STL](https://products.aspose.app/3d/conversion/x-to-stl) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X do STL Konwersja na żywo Dema" sectionDescription="[Konwertuj X na STL](https://products.aspose.app/3d/conversion/x-to-stl) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik X, zostanie on natychmiast przekonwertowany na STL." >}}
@@ -128,7 +128,7 @@ STL, skrót od stereolitrografii, to wymienny format pliku, który reprezentuje 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

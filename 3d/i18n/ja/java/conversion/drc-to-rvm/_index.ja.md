@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC から RVM の変換ライブデモ" sectionDescription="[DRC を RVM に変換](https://products.aspose.app/3d/conversion/drc-to-rvm) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC から RVM の変換ライブデモ" sectionDescription="[DRC を RVM に変換](https://products.aspose.app/3d/conversion/drc-to-rvm) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" DRC ファイルをアップロードするだけで、即座に RVM に変換されます。" >}}
@@ -125,7 +125,7 @@ RVM 個のデータファイルはAVEVA PDMSに関連しています。 RVM フ�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

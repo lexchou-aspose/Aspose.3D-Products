@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC-RVM Dönüşüm Canlı Demoları" sectionDescription="[DRC \'i RVM \'ye dönüştürün](https://products.aspose.app/3d/conversion/drc-to-rvm) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC-RVM Dönüşüm Canlı Demoları" sectionDescription="[DRC \'i RVM \'ye dönüştürün](https://products.aspose.app/3d/conversion/drc-to-rvm) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece DRC dosyanızı yükleyin, anında RVM \'ye dönüştürülecektir." >}}
@@ -125,7 +125,7 @@ RVM veri dosyaları AVEVA PDMS ile ilgilidir. RVM dosyası bir AVEVA Bitki Tasar
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

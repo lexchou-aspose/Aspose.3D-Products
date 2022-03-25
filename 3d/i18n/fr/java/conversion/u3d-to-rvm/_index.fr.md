@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D en RVM Démos en direct de conversion" sectionDescription="[Convertir U3D en RVM](https://products.aspose.app/3d/conversion/u3d-to-rvm) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D en RVM Démos en direct de conversion" sectionDescription="[Convertir U3D en RVM](https://products.aspose.app/3d/conversion/u3d-to-rvm) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier U3D, il sera converti instantanément en RVM." >}}
@@ -128,7 +128,7 @@ RVM fichiers de données sont liés à AVEVA PDMS. RVM fichier est un modèle de
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

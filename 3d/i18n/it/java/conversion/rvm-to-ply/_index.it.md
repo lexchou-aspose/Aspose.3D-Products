@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo live di conversione da RVM a PLY" sectionDescription="[Convertire da RVM a PLY](https://products.aspose.app/3d/conversion/rvm-to-ply) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Demo live di conversione da RVM a PLY" sectionDescription="[Convertire da RVM a PLY](https://products.aspose.app/3d/conversion/rvm-to-ply) In questo momento visitando il nostro sito Web Live Demos. La demo live ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\' è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file RVM, che verrà convertito istantaneamente in PLY." >}}
@@ -128,7 +128,7 @@ PLY, Polygon File Format, rappresenta il formato di file 3D che memorizza gli og
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D 到 HTML 转换实时演示" sectionDescription="[将 U3D 转换为 HTML](https://products.aspose.app/3d/conversion/u3d-to-html) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D 到 HTML 转换实时演示" sectionDescription="[将 U3D 转换为 HTML](https://products.aspose.app/3d/conversion/u3d-to-html) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 U3D 文件，它将立即转换为 HTML。" >}}
@@ -128,7 +128,7 @@ HTML (超文本标记语言) 是为在浏览器中显示而创建的网页的扩
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

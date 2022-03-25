@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ करने के लिए ASE रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट OBJ करने के लिए ASE](https://products.aspose.app/3d/conversion/obj-to-ase) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ करने के लिए ASE रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट OBJ करने के लिए ASE](https://products.aspose.app/3d/conversion/obj-to-ase) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कोई डाउनलोड करने की आवश्यकता Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई किसी भी कोड लिखने की जरूरत है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" सिर्फ अपलोड अपने OBJ फ़ाइल, यह तुरन्त परिवर्तित किया जाएगा करने के लिए ASE." >}}
@@ -128,7 +128,7 @@ OBJ फ़ाइलें इस्तेमाल कर रहे हैं �
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

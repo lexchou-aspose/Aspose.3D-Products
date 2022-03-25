@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF en AMF Démos en direct de conversion" sectionDescription="[Convertir 3MF en AMF](https://products.aspose.app/3d/conversion/3mf-to-amf) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF en AMF Démos en direct de conversion" sectionDescription="[Convertir 3MF en AMF](https://products.aspose.app/3d/conversion/3mf-to-amf) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier 3MF, il sera converti instantanément en AMF." >}}
@@ -128,7 +128,7 @@ Le format de fichier Additive Manufacturing (AMF) définit des normes ouvertes p
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

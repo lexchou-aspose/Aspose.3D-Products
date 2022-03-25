@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE untuk DRC konversi demo hidup" sectionDescription="[Mengkonversi ASE untuk DRC](https://products.aspose.app/3d/conversion/ase-to-drc) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE untuk DRC konversi demo hidup" sectionDescription="[Mengkonversi ASE untuk DRC](https://products.aspose.app/3d/conversion/ase-to-drc) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file ASE Anda, maka akan dikonversi secara instan ke DRC." >}}
@@ -125,7 +125,7 @@ Sebuah berkas dengan. Ekstensi drc adalah format file 3D yang dikompresi yang di
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

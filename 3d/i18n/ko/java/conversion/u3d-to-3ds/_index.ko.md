@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D ~ 3DS 변환 라이브 데모" sectionDescription="[U3D 에서 3DS 로 변환](https://products.aspose.app/3d/conversion/u3d-to-3ds) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D ~ 3DS 변환 라이브 데모" sectionDescription="[U3D 에서 3DS 로 변환](https://products.aspose.app/3d/conversion/u3d-to-3ds) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API 을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" U3D 파일을 업로드하면 즉시 3DS 로 변환됩니다." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) 은 3D 컴퓨터 그래픽에 대한 압축 파일 형식 및
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

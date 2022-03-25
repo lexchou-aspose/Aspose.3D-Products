@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="STL tot DAE live-demo\'s voor conversie" sectionDescription="[STL converteren naar DAE](https://products.aspose.app/3d/conversion/stl-to-dae) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="STL tot DAE live-demo\'s voor conversie" sectionDescription="[STL converteren naar DAE](https://products.aspose.app/3d/conversion/stl-to-dae) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw STL bestand, het wordt direct geconverteerd naar DAE." >}}
@@ -128,7 +128,7 @@ Een DAE bestand is een Digital Asset Exchange-bestandsformaat dat wordt gebruikt
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

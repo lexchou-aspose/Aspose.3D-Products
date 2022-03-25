@@ -96,7 +96,7 @@ document.save("output.3mf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS a 3MF Demos en vivo de conversión" sectionDescription="[Convertir 3DS a 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS a 3MF Demos en vivo de conversión" sectionDescription="[Convertir 3DS a 3MF](https://products.aspose.app/3d/conversion/3ds-to-3mf) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue su 3DS archivo, se convertirá instantáneamente a 3MF." >}}
@@ -128,7 +128,7 @@ Un archivo con 3DS extensión representa el formato de archivo de malla de 3D St
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

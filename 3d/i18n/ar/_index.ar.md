@@ -3,6 +3,7 @@ title: واجهات برمجة التطبيقات عالية الكود وتطب
 weight: 1460
 url: /ar/
 description: إنشاء تحرير ملفات 3D وتحويلها. لا يتطلب برنامج النمذجة 3D. العمل مع الهندسة ، التسلسل الهرمي للمشهد ، مشاركة أو تقسيم الشبكات ، Animate Objects ، إضافة كاميرا مستهدفة.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D حل تنسيق الملف" h2="تقدم واجهات برمجة التطبيقات الأصلية والتطبيقات ميزات لقراءة ملفات 3D وتعديلها وتحويلها دون الحاجة إلى أي برنامج نمذجة أو عرض 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D حل المنتج" >}}

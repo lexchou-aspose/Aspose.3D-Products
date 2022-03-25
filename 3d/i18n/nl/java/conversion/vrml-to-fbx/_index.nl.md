@@ -96,7 +96,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VRML tot FBX live-demo\'s voor conversie" sectionDescription="[VRML converteren naar FBX](https://products.aspose.app/3d/conversion/vrml-to-fbx) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="VRML tot FBX live-demo\'s voor conversie" sectionDescription="[VRML converteren naar FBX](https://products.aspose.app/3d/conversion/vrml-to-fbx) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VRML bestand, het wordt direct geconverteerd naar FBX." >}}
@@ -128,7 +128,7 @@ FBX, FilmBox, is een populair 3D bestandsformaat dat oorspronkelijk werd ontwikk
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE tot DRC live-demo\'s voor conversie" sectionDescription="[DAE converteren naar DRC](https://products.aspose.app/3d/conversion/dae-to-drc) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE tot DRC live-demo\'s voor conversie" sectionDescription="[DAE converteren naar DRC](https://products.aspose.app/3d/conversion/dae-to-drc) Nu door onze Live Demos-website te bezoeken. De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft geen Aspose API te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Het is niet nodig om een code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw DAE bestand, het wordt direct geconverteerd naar DRC." >}}
@@ -125,7 +125,7 @@ Een dossier met. Drc extensie is een gecomprimeerd 3D bestandsformaat gemaakt me
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

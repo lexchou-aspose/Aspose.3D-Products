@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT-DRC Dönüşüm Canlı Demoları" sectionDescription="[JT \'i DRC \'ye dönüştürün](https://products.aspose.app/3d/conversion/jt-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT-DRC Dönüşüm Canlı Demoları" sectionDescription="[JT \'i DRC \'ye dönüştürün](https://products.aspose.app/3d/conversion/jt-to-drc) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece JT dosyanızı yükleyin, anında DRC \'ye dönüştürülecektir." >}}
@@ -125,7 +125,7 @@ JT (Jupiter Tessellation), Siemens PLM Software tarafından geliştirilen veriml
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

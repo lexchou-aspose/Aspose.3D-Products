@@ -96,7 +96,7 @@ document.save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX auf U3D Konvertierungs-Live-Demos" sectionDescription="[FBX zu U3D konvertieren](https://products.aspose.app/3d/conversion/fbx-to-u3d) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX auf U3D Konvertierungs-Live-Demos" sectionDescription="[FBX zu U3D konvertieren](https://products.aspose.app/3d/conversion/fbx-to-u3d) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre FBX-Datei hoch, sie wird sofort in U3D konvertiert." >}}
@@ -128,7 +128,7 @@ U3D (Universal 3D) ist ein komprimiertes Dateiformat und eine Daten struktur fü
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

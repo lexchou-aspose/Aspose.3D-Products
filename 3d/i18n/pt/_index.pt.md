@@ -3,6 +3,7 @@ title: APIs de alto código e aplicativos gratuitos para 3D manipulação de arq
 weight: 1460
 url: /pt/
 description: Criar editar e converter 3D arquivos. Não é necessário 3D software de modelagem. Trabalhe com geometria, hierarquia de cena, compartilhar ou dividir malhas, Animar objetos, Adicionar uma câmera de destino.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D Solução de formato de arquivo" h2="APIs e aplicativos nativos que oferecem recursos para ler, editar e converter 3D arquivos sem a necessidade de 3D software de modelagem ou renderização." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Solução do produto" >}}

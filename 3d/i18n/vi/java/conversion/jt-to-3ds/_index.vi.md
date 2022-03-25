@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="JT để 3DS Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi JT để 3DS](https://products.aspose.app/3d/conversion/jt-to-3ds) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="JT để 3DS Chuyển Đổi Trực Tiếp Trình Diễn" sectionDescription="[Chuyển đổi JT để 3DS](https://products.aspose.app/3d/conversion/jt-to-3ds) Ngay bây giờ bằng đã ghé thăm Trực Tiếp của chúng tôi Trình Diễn trang web. trực tiếp bản demo có những lợi ích sau đây" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không có cần phải tải về Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên của bạn JT tập tin, nó sẽ được chuyển đổi ngay lập tức để 3DS." >}}
@@ -128,7 +128,7 @@ MỘT tập tin với 3DS mở rộng đại diện cho 3D Studio (DOS) lưới 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

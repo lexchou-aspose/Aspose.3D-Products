@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="X para ASE Conversão de demonstrações ao vivo" sectionDescription="[Converter X para ASE](https://products.aspose.app/3d/conversion/x-to-ase) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="X para ASE Conversão de demonstrações ao vivo" sectionDescription="[Converter X para ASE](https://products.aspose.app/3d/conversion/x-to-ase) Agora mesmo visitando nosso site Live Demos. A demonstração ao vivo tem os seguintes benefícios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever qualquer código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo X, ele será convertido instantaneamente para ASE." >}}
@@ -128,7 +128,7 @@ Um arquivo ASE é uma animação 2D ou gráficos que contêm camadas, quadros, p
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

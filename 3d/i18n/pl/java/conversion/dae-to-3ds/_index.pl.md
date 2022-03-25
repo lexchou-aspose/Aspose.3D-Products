@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE do 3DS Konwersja na żywo Dema" sectionDescription="[Przelicz DAE na 3DS](https://products.aspose.app/3d/conversion/dae-to-3ds) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE do 3DS Konwersja na żywo Dema" sectionDescription="[Przelicz DAE na 3DS](https://products.aspose.app/3d/conversion/dae-to-3ds) Teraz odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik DAE, a zostanie on natychmiast przekonwertowany na 3DS." >}}
@@ -128,7 +128,7 @@ Plik z rozszerzeniem 3DS reprezentuje format pliku siatkowego 3D Studio (DOS) u�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

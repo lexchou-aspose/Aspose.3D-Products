@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DAE a AMF konverziós élő demók" sectionDescription="[Konvertálni DAE AMF](https://products.aspose.app/3d/conversion/dae-to-amf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DAE a AMF konverziós élő demók" sectionDescription="[Konvertálni DAE AMF](https://products.aspose.app/3d/conversion/dae-to-amf) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a DAE fájlt, akkor azonnal átalakítani AMF." >}}
@@ -128,7 +128,7 @@ Az additive manufacturing file format (AMF) az objektumok leírásának nyílt s
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

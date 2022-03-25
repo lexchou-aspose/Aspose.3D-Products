@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM करने के लिए STL रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट RVM करने के लिए STL](https://products.aspose.app/3d/conversion/rvm-to-stl) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM करने के लिए STL रूपांतरण लाइव क़ौम" sectionDescription="[कन्वर्ट RVM करने के लिए STL](https://products.aspose.app/3d/conversion/rvm-to-stl) सही अब जाकर हमारे जीने क़ौम वेबसाइट. लाइव डेमो निम्नलिखित लाभ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कोई डाउनलोड करने की आवश्यकता Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई किसी भी कोड लिखने की जरूरत है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" सिर्फ अपलोड अपने RVM फ़ाइल, यह तुरन्त परिवर्तित किया जाएगा करने के लिए STL." >}}
@@ -128,7 +128,7 @@ STL, abbreviation stereolithrography के लिए, एक विनिमे
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

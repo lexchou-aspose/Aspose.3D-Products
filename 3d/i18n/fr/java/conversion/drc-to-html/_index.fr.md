@@ -95,7 +95,7 @@ document.save("output.html", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC en HTML Démos en direct de conversion" sectionDescription="[Convertir DRC en HTML](https://products.aspose.app/3d/conversion/drc-to-html) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC en HTML Démos en direct de conversion" sectionDescription="[Convertir DRC en HTML](https://products.aspose.app/3d/conversion/drc-to-html) En ce moment en visitant notre site Web Live Demos. La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire un code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier DRC, il sera converti instantanément en HTML." >}}
@@ -125,7 +125,7 @@ HTML (Hyper Text Markup Language) est l'extension des pages Web créées pour ê
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

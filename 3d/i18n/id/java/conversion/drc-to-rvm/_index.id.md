@@ -95,7 +95,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DRC untuk RVM konversi demo hidup" sectionDescription="[Mengkonversi DRC untuk RVM](https://products.aspose.app/3d/conversion/drc-to-rvm) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DRC untuk RVM konversi demo hidup" sectionDescription="[Mengkonversi DRC untuk RVM](https://products.aspose.app/3d/conversion/drc-to-rvm) Sekarang dengan mengunjungi situs demo langsung kami. demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apapun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file DRC Anda, maka akan dikonversi secara instan ke RVM." >}}
@@ -125,7 +125,7 @@ RVM file data terkait dengan PDMS AVEVA. RVM file adalah Model sistem manajemen 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

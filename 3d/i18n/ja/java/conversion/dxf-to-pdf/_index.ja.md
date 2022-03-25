@@ -95,7 +95,7 @@ document.save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DXF から PDF の変換ライブデモ" sectionDescription="[DXF を PDF に変換](https://products.aspose.app/3d/conversion/dxf-to-pdf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DXF から PDF の変換ライブデモ" sectionDescription="[DXF を PDF に変換](https://products.aspose.app/3d/conversion/dxf-to-pdf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" DXF ファイルをアップロードするだけで、即座に PDF に変換されます。" >}}
@@ -125,7 +125,7 @@ DXF 、図面交換形式、または図面交換形式は、AutoCAD図面ファ
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Конверсионные живые демонстрации GLTF в PLY" sectionDescription="[Конвертировать GLTF в PLY](https://products.aspose.app/3d/conversion/gltf-to-ply) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Конверсионные живые демонстрации GLTF в PLY" sectionDescription="[Конвертировать GLTF в PLY](https://products.aspose.app/3d/conversion/gltf-to-ply) Прямо сейчас, посетив наш сайт Live Demos. Демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Не нужно писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой GLTF файл, он будет мгновенно преобразован в PLY." >}}
@@ -128,7 +128,7 @@ PLY, формат файла полигона, представляет форм
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

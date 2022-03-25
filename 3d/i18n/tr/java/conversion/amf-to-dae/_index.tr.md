@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF-DAE Dönüşüm Canlı Demoları" sectionDescription="[AMF \'i DAE \'ye dönüştürün](https://products.aspose.app/3d/conversion/amf-to-dae) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="AMF-DAE Dönüşüm Canlı Demoları" sectionDescription="[AMF \'i DAE \'ye dönüştürün](https://products.aspose.app/3d/conversion/amf-to-dae) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece AMF dosyanızı yükleyin, anında DAE \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ DAE dosyası, etkileşimli 3D uygulamaları arasında veri alışverişi yapmak 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

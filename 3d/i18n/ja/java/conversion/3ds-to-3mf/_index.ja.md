@@ -96,7 +96,7 @@ document.save("output.3mf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS から 3MF の変換ライブデモ" sectionDescription="[3DS を 3MF に変換](https://products.aspose.app/3d/conversion/3ds-to-3mf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3DS から 3MF の変換ライブデモ" sectionDescription="[3DS を 3MF に変換](https://products.aspose.app/3d/conversion/3ds-to-3mf) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 3DS ファイルをアップロードするだけで、即座に 3MF に変換されます。" >}}
@@ -128,7 +128,7 @@ document.save("output.3mf", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

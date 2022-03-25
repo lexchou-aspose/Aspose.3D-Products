@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DXF σε RVM Ζωντανή μετατροπή" sectionDescription="[Μετατροπή DXF σε RVM](https://products.aspose.app/3d/conversion/dxf-to-rvm) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="DXF σε RVM Ζωντανή μετατροπή" sectionDescription="[Μετατροπή DXF σε RVM](https://products.aspose.app/3d/conversion/dxf-to-rvm) Αυτή τη στιγμή επισκεπτώντας την ιστοσελίδα μας Live Demos.Το live demo έχει τα ακόλουθα οφέλη" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται λήψη Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράφεις κανένα κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλά ανεβάστε το αρχείο DXF σας, θα μετατραπεί άμεσα σε RVM." >}}
@@ -128,7 +128,7 @@ DXF, Σχέδιο Interchange Format, ή σχεδίαση Exchange Format, εί�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

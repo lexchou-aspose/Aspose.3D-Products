@@ -3,6 +3,7 @@ title: API à code élevé et applications gratuites pour la manipulation de fic
 weight: 1460
 url: /fr/
 description: Créez des fichiers d'édition et de conversion 3D. Aucun logiciel de modélisation 3D requis. Travaillez avec la géométrie, la hiérarchie des scènes, partagez ou divisez les maillages, Animer les objets, ajouter une caméra cible.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D Solution de format de fichier" h2="API et applications natives offrant des fonctionnalités pour lire, éditer et convertir des fichiers 3D sans nécessiter de logiciel de modélisation ou de rendu 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Solution produit" >}}

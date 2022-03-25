@@ -3,6 +3,7 @@ title: Magas kód api & ingyenes alkalmazások 3D fájlok manipuláció
 weight: 1460
 url: /hu/
 description: Szerkesztés és konvertálás 3D fájlok létrehozása. Nem 3D modellező szoftver szükséges. Munka geometriával, jelenet hierarchia, megosztás vagy osztott hálók, animál objektumok, hozzá egy célkamera.
+google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="3D fájlformátum megoldás" h2="Natív api-k és alkalmazások kínálnak funkciók olvasni, szerkeszteni és átalakítani 3D fájlok anélkül, hogy bármilyen 3D modellezés vagy renderelés szoftver." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D termékmegoldás" >}}

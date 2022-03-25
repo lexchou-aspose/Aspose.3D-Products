@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GLTF 到 RVM 轉換實時演示" sectionDescription="[將 GLTF 轉換為 RVM](https://products.aspose.app/3d/conversion/gltf-to-rvm) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="GLTF 到 RVM 轉換實時演示" sectionDescription="[將 GLTF 轉換為 RVM](https://products.aspose.app/3d/conversion/gltf-to-rvm) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 GLTF 文件,它將立即轉換為 RVM。" >}}
@@ -128,7 +128,7 @@ RVM 數據文件與AVEVA PDMS相關。 RVM 文件是AVEVA工廠設計管理系�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

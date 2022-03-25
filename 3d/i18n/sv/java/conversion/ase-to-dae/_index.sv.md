@@ -96,7 +96,7 @@ document.save("output.dae", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE till DAE Konvertering levande demos" sectionDescription="[Konvertera ASE till DAE](https://products.aspose.app/3d/conversion/ase-to-dae) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE till DAE Konvertering levande demos" sectionDescription="[Konvertera ASE till DAE](https://products.aspose.app/3d/conversion/ase-to-dae) Just nu genom att besöka vår Live Demos hemsida.The live demo har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Bara ladda upp din ASE-fil, den kommer att konverteras omedelbart till DAE." >}}
@@ -128,7 +128,7 @@ En DAE-fil är ett digitalt tillgångsfilformat som används för att utbyta dat
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

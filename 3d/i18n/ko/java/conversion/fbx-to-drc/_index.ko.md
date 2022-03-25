@@ -95,7 +95,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="FBX ~ DRC 변환 라이브 데모" sectionDescription="[FBX 에서 DRC 로 변환](https://products.aspose.app/3d/conversion/fbx-to-drc) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="FBX ~ DRC 변환 라이브 데모" sectionDescription="[FBX 에서 DRC 로 변환](https://products.aspose.app/3d/conversion/fbx-to-drc) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API 을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" FBX 파일을 업로드하면 즉시 DRC 로 변환됩니다." >}}
@@ -125,7 +125,7 @@ FBX, filmbox는 원래 kaydara에서 MotionBuilder 용으로 개발 한 인기�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

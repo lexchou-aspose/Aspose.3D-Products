@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="RVM 到 STL 转换实时演示" sectionDescription="[将 RVM 转换为 STL](https://products.aspose.app/3d/conversion/rvm-to-stl) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="RVM 到 STL 转换实时演示" sectionDescription="[将 RVM 转换为 STL](https://products.aspose.app/3d/conversion/rvm-to-stl) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 RVM 文件，它将立即转换为 STL。" >}}
@@ -128,7 +128,7 @@ STL，stereolitrography的缩写，是一种可互换的文件格式，表示3�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

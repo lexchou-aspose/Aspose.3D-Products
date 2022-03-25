@@ -96,7 +96,7 @@ document.save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="U3D a OBJ konverziós élő demók" sectionDescription="[Konvertálni U3D OBJ](https://products.aspose.app/3d/conversion/u3d-to-obj) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="U3D a OBJ konverziós élő demók" sectionDescription="[Konvertálni U3D OBJ](https://products.aspose.app/3d/conversion/u3d-to-obj) Most az élő demók honlapunkon. az élő demó a következő előnyökkel jár" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell semmiféle kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltsön fel a U3D fájlt, akkor azonnal átalakítani OBJ." >}}
@@ -128,7 +128,7 @@ A OBJ fájlokat a Wavefront advanced visualizer alkalmazása használja a geomet
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

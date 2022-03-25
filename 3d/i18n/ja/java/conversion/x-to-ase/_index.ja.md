@@ -96,7 +96,7 @@ document.save("output.ase", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Xから ASE への変換ライブデモ" sectionDescription="[Xを ASE に変換する](https://products.aspose.app/3d/conversion/x-to-ase) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Xから ASE への変換ライブデモ" sectionDescription="[Xを ASE に変換する](https://products.aspose.app/3d/conversion/x-to-ase) ライブデモのウェブサイトをご覧ください。ライブデモには次の利点があります" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Xファイルをアップロードするだけで、即座に ASE に変換されます。" >}}
@@ -128,7 +128,7 @@ ASE ファイルは、レイヤー、フレーム、パレット、タグ、お�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

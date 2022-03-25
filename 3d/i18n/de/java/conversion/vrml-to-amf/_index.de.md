@@ -96,7 +96,7 @@ document.save("output.amf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VRML auf AMF Konvertierungs-Live-Demos" sectionDescription="[VRML zu AMF konvertieren](https://products.aspose.app/3d/conversion/vrml-to-amf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="VRML auf AMF Konvertierungs-Live-Demos" sectionDescription="[VRML zu AMF konvertieren](https://products.aspose.app/3d/conversion/vrml-to-amf) Jetzt durch den Besuch unserer Live-Demos-Website. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Keine Notwendigkeit, Aspose API herunter zuladen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sie müssen keinen Code schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre VRML-Datei hoch, sie wird sofort in AMF konvertiert." >}}
@@ -128,7 +128,7 @@ Das Dateiformat Additive Manufac turing (AMF) definiert offene Standards für di
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

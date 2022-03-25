@@ -96,7 +96,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF ~ FBX 변환 라이브 데모" sectionDescription="[3MF 에서 FBX 로 변환](https://products.aspose.app/3d/conversion/3mf-to-fbx) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF ~ FBX 변환 라이브 데모" sectionDescription="[3MF 에서 FBX 로 변환](https://products.aspose.app/3d/conversion/3mf-to-fbx) 라이브 데모 웹 사이트를 방문하여 지금. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API 을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 3MF 파일을 업로드하면 즉시 FBX 로 변환됩니다." >}}
@@ -128,7 +128,7 @@ FBX, filmbox는 원래 kaydara에서 MotionBuilder 용으로 개발 한 인기�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3MF-3DS Dönüşüm Canlı Demoları" sectionDescription="[3MF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/3mf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="3MF-3DS Dönüşüm Canlı Demoları" sectionDescription="[3MF \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/3mf-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece 3MF dosyanızı yükleyin, anında 3DS \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ document.save("output.3ds", options);
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.ply", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GLTF a PLY Demos en vivo de conversión" sectionDescription="[Convertir GLTF a PLY](https://products.aspose.app/3d/conversion/gltf-to-ply) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="GLTF a PLY Demos en vivo de conversión" sectionDescription="[Convertir GLTF a PLY](https://products.aspose.app/3d/conversion/gltf-to-ply) Ahora mismo visitando nuestro sitio web Live Demos. La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue su GLTF archivo, se convertirá instantáneamente a PLY." >}}
@@ -128,7 +128,7 @@ PLY, Polygon File Format, representa 3D formato de archivo que almacena los obje
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

@@ -96,7 +96,7 @@ document.save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VRML 到 RVM 转换实时演示" sectionDescription="[将 VRML 转换为 RVM](https://products.aspose.app/3d/conversion/vrml-to-rvm) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="VRML 到 RVM 转换实时演示" sectionDescription="[将 VRML 转换为 RVM](https://products.aspose.app/3d/conversion/vrml-to-rvm) 现在通过访问我们的现场演示网站。现场演示有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 VRML 文件，它将立即转换为 RVM。" >}}
@@ -128,7 +128,7 @@ RVM 数据文件与AVEVA PDMS相关。RVM 文件是AVEVA工厂设计管理系统
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

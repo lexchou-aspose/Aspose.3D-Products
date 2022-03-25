@@ -96,7 +96,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VRML 到 STL 轉換實時演示" sectionDescription="[將 VRML 轉換為 STL](https://products.aspose.app/3d/conversion/vrml-to-stl) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="VRML 到 STL 轉換實時演示" sectionDescription="[將 VRML 轉換為 STL](https://products.aspose.app/3d/conversion/vrml-to-stl) 現在通過訪問我們的現場演示網站。 現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 VRML 文件,它將立即轉換為 STL。" >}}
@@ -128,7 +128,7 @@ STL,stereolitrography的縮寫,是一種可互換的文件格式,表示3維表�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

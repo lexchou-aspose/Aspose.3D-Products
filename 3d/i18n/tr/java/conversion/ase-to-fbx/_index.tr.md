@@ -96,7 +96,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="ASE-FBX Dönüşüm Canlı Demoları" sectionDescription="[ASE \'i FBX \'ye dönüştürün](https://products.aspose.app/3d/conversion/ase-to-fbx) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ASE-FBX Dönüşüm Canlı Demoları" sectionDescription="[ASE \'i FBX \'ye dönüştürün](https://products.aspose.app/3d/conversion/ase-to-fbx) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece ASE dosyanızı yükleyin, anında FBX \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ FBX, FilmBox, ilk olarak Kaydara tarafından MotionBuilder için geliştirilmiş
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

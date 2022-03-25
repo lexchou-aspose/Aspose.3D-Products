@@ -96,7 +96,7 @@ document.save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="OBJ-3DS Dönüşüm Canlı Demoları" sectionDescription="[OBJ \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/obj-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="OBJ-3DS Dönüşüm Canlı Demoları" sectionDescription="[OBJ \'i 3DS \'ye dönüştürün](https://products.aspose.app/3d/conversion/obj-to-3ds) Şu anda Canlı Demos web sitemizi ziyaret ederek. Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece OBJ dosyanızı yükleyin, anında 3DS \'ye dönüştürülecektir." >}}
@@ -128,7 +128,7 @@ OBJ dosyaları, Wavefront 'in Gelişmiş Görselleştirici uygulaması tarafınd
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
 
