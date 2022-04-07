@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Biçim Dönüşüm Çözümü 
+title: 3D Biçim Dönüştürme Çözümü 
 weight: 7730
 url: /tr/conversion
 limit: 

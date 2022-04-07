@@ -1,5 +1,5 @@
 ﻿---
-title: Converter USD para RVM via C# 
+title: Converter USD em RVM via C# 
 description: Converta USD e outros 3D arquivos usando .NET API
 url: /pt/net/conversion/usd-to-rvm/
 family: 3d
@@ -10,27 +10,27 @@ outformat: RVM
 otherformats: STL HTML DAE ASE FBX PLY GLTF PDF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter USD para RVM via C#" h2="Exportar USD e outros arquivos 3D usando .NET Framework, .NET Core e Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter USD em RVM via C#" h2="Exporte USD e outros 3D arquivos usando .NET Framework, .NET Core e Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exportar USD cena como RVM com C#" %}}
-1. Carregar USD arquivo usando um construtor de [Cena](https://apireference.aspose.com/3d/net/aspose.threed/scene) Classe2. Chamada [Cena. Salvar](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Método
-3. Passe o nome do arquivo de saída com. Extensão rvm como primeiro parâmetro
-4. Especifique o valor do campo 'RvmBinary' de [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Classe
+{{% blocks/products/pf/agp/feature-section-col title="Exportar cena USD como RVM com C#" %}}
+1. Carregue o arquivo USD usando um construtor de [Cena](https://apireference.aspose.com/3d/net/aspose.threed/scene) aula2. Ligue [Cena.Salvar](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) método
+3. Passe o nome do arquivo de saída com a extensão .rvm como primeiro parâmetro
+4. Especifique o valor do campo `RvmBinary` de [Formato de arquivo](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) aula
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D Conversão de Formato API for .NET" %}}
-Instale a partir da linha de comando como '''nogget install Aspose.3d'' ''ou via Console do Package Manager do Visual Studio com'' 'Install-Package Aspose.3D'''.
+{{% blocks/products/pf/agp/feature-section-col title="3D Conversão de formato API for .NET" %}}
+Instale a partir da linha de comando como ```nuget install Aspose.3d``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.3D```.
 
-Como alternativa, obtenha o instalador MSI offline ou DLLs em um arquivo ZIP de [Downloads](https://downloads.aspose.com/3d/net)...
+Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP de [Transferências](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# Código para USD para RVM Conversão" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Código para conversão de USD em RVM" gistPath="" %}}
 ```cs
-// Carregar o USD em um objeto de cena 
+// carregue o USD em um objeto de Scene 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// Salvar USD como um RVM 
+// salve USD como um RVM 
 scene.Save("output.rvm", Aspose.ThreeD.FileFormat.RvmBinary);
 
 ```

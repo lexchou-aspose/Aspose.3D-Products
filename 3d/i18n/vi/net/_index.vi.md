@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D Xử Lý tài liệu API - Aspose 
+title: C# .NET 3D Xử lý Tài liệu API - Aspose 
 weight: 1020
 url: /vi/net/ 
-description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi và sửa đổi 3D tập tin trong Windows Hình Thức Dịch Vụ Web và Mono các ứng dụng
+description: Thư viện C# VB .NET ASP .NET để tạo các tệp đọc chuyển đổi và sửa đổi 3D trong các ứng dụng Mono và Dịch vụ Web của Windows Forms
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D tập tin Thao Tác API" h2="Đọc, Viết, thao tác và Chuyển Đổi 3D các định dạng tập tin trong bất kỳ .NET dựa trên ứng dụng." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D API thao tác tệp" h2="Đọc, Viết, Thao tác và Chuyển đổi 3D định dạng tệp trong bất kỳ ứng dụng dựa trên .NET nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET là một tính năng phong phú Gameware và Máy Tính-Hỗ Trợ-Thiết Kế (CAD) API để thao tác tài liệu mà không cần bất kỳ 3D mô hình hóa và vẽ phần mềm phụ thuộc. API hỗ trợ Discreet3DS, WavefrontOBJ, FBX (ASCII, nhị phân), STL (ASCII, Nhị Phân), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco các định dạng tập tin và nhiều hơn nữa. Các nhà phát triển có thể tạo ra, đọc, chuyển đổi, sửa đổi và kiểm soát các chất của 3D tài liệu định dạng một cách dễ dàng.
+ Aspose.3D for .NET là Phần mềm trò chơi và Máy tính hỗ trợ thiết kế (CAD) API giàu tính năng để thao tác tài liệu mà không có bất kỳ 3D phụ thuộc phần mềm tạo mô hình và kết xuất nào. API hỗ trợ Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, định dạng tệp Google Draco và hơn thế nữa. Các nhà phát triển có thể tạo, đọc, chuyển đổi, sửa đổi và kiểm soát nội dung của 3D định dạng tài liệu một cách dễ dàng.
 </p>
 
 <p>
- Aspose.3D for .NET API là người dùng thân thiện và có thể được triển khai với bất kỳ .NET ứng dụng như dễ dàng như sao chép nó mà không lo lắng về các dịch vụ khác và các mô-đun được đã được cài đặt.
+ Aspose.3D for .NET API thân thiện với người dùng và có thể được triển khai với bất kỳ ứng dụng .NET nào dễ dàng như sao chép ứng dụng đó mà không cần lo lắng về các dịch vụ và mô-đun khác đã được cài đặt.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,21 +25,21 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Trong Nháy Mắt" description="Một cái nhìn tổng quan của các khả năng của API." >}}
+{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về các khả năng của API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Đối tượng Mô Hình
+    Mô hình đối tượng
    </header>
    <ul>
     <li>
-     Cảnh
+     Bối cảnh
     </li>
     <li>
-     Lưới
+     Lưới thép
     </li>
     <li>
      PolygonBuilder
@@ -48,13 +48,13 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
      Nút
     </li>
     <li>
-     Chuyển đổi
+     Biến đổi
     </li>
     <li>
      Quaternion
     </li>
     <li>
-     Tài sản
+     Bất động sản
     </li>
     <li>
      VertexElementUV
@@ -63,22 +63,22 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Đỉnh
     </li>
     <li>
      Hộp
     </li>
     <li>
-     Xi lanh
+     Hình trụ
     </li>
     <li>
-     Máy bay
+     chiếc máy bay
     </li>
     <li>
-     Hình cầu
+     Quả cầu
     </li>
     <li>
-     Xuyến
+     Torus
     </li>
    </ul>
   </div>
@@ -87,44 +87,44 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
    <header>
     <i class="fa fa-bars">
     </i>
-    Nói chung
+    Chung
    </header>
    <ul>
     <li>
-     Tạo ra Cảnh
+     Tạo cảnh
     </li>
     <li>
-     Tạo ra Bề Mặt Lưới
+     Tạo bề mặt lưới
     </li>
     <li>
-     Đa giác Tam Giác
+     Đa giác tam giác
     </li>
     <li>
-     Chia Lưới bằng Vật Liệu
+     Chia lưới theo vật liệu
     </li>
     <li>
-     Thiết lập Bình Thường đối với Đồ Họa
+     Thiết lập bình thường cho đồ họa
     </li>
     <li>
-     Thiết lập UV cho Đồ Họa
+     Thiết lập UV cho đồ họa
     </li>
     <li>
-     Triangulate Lưới
+     Lưới tam giác
     </li>
     <li>
-     Chia sẻ Lưới Hình Học Dữ Liệu
+     Chia sẻ dữ liệu hình học lưới
     </li>
     <li>
-     Thêm Chất Liệu để Đối Tượng
+     Thêm vật liệu vào đối tượng
     </li>
     <li>
-     Thêm Mục Tiêu Máy Ảnh
+     Thêm máy ảnh mục tiêu
     </li>
     <li>
-     Làm cho 3D Xem trong Hình Ảnh
+     Kết xuất 3D Xem trong Hình ảnh
     </li>
     <li>
-     Đúc & Nhận Được Bóng
+     Truyền & amp; Nhận bóng
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng Độc Lập" description="Aspose.3D for .NET Hỗ trợ các .NET khung." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.3D for .NET hỗ trợ khuôn khổ .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET khung
+    .NET Khung
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Core
+    .NET Cốt lõi
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Hỗ trợ Các Định Dạng Tập Tin" description="Aspose.3D for .NET [Hỗ trợ nổi tiếng 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Các định dạng tập tin." >}}
+{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.3D for .NET [ủng hộ 3D nổi tiếng](https://docs.aspose.com/3d/net/supported-file-formats/)  các định dạng tệp." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu vào/Đầu Ra
+    Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2-7.5 (ASCII/Nhị Phân)
+     FBX 7,2 đến 7,5 (ASCII / Nhị phân)
     </li>
     <li>
      <b>
-      3D hệ thống CAD:
+      3D Hệ thống CAD:
      </b>
-     STL (ASCII/Nhị Phân)
+     STL (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -235,7 +235,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
     </li>
     <li>
      <b>
-      Kín đáo 3D Studio:
+      Studio 3D kín đáo:
      </b>
      3DS
     </li>
@@ -253,9 +253,9 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
     </li>
     <li>
      <b>
-      GL Hộp Số:
+      Truyền GL:
      </b>
-     glTF (ASCII/Nhị Phân)
+     glTF (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -267,19 +267,19 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
      <b>
       RVM
      </b>
-     (Văn bản/Nhị Phân)
+     (Văn bản / Nhị phân)
     </li>
     <li>
      <b>
-      Tài Liệu di động Định Dạng:
+      Định dạng tài liệu di động:
      </b>
      PDF
     </li>
     <li>
      <b>
-      Những người khác:
+      Khác:
      </b>
-     AMF, PLY (ASCII/Nhị Phân), A3DW
+     AMF, PLY (ASCII / Nhị phân), A3DW
     </li>
    </ul>
   </div>
@@ -289,14 +289,14 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Đầu vào Chỉ
+    Chỉ đầu vào
    </header>
    <ul>
     <li>
      <b>
       DirectX:
      </b>
-     X (ASCII/Nhị Phân)
+     X (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -308,7 +308,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
      DXF
     </li>
     <li>
-     3MF (3D sản xuất Định Dạng)
+     3MF (3D Định dạng Sản xuất)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Đầu ra Chỉ
+    Chỉ đầu ra
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tiên tiến .NET 3D API Các Tính Năng
+    Các tính năng .NET 3D API nâng cao
    </h2>
    <p>
    </p>
@@ -368,145 +368,145 @@ description: C# VB.NET ASP.NET thư viện để tạo ra đọc chuyển đổi
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra 3D cảnh & tiết kiệm trong các định dạng được hỗ trợ
+     Tạo 3D cảnh & amp; lưu ở định dạng được hỗ trợ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tải, tiết kiệm & chuyển đổi các tập tin để một dòng dòng
+     Tải, lưu & amp; chuyển đổi các tập tin thành một luồng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm việc với hình học & cảnh hệ thống phân cấp
+     Làm việc với hình học & amp; phân cấp cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chia sẻ lưới hình học dữ liệu giữa nhiều các nút
+     Chia sẻ dữ liệu hình học lưới giữa nhiều nút
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm Hoạt Hình Tài Sản để cảnh tài liệu
+     Thêm thuộc tính hoạt ảnh vào tài liệu cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate một Lưới với Tùy Chỉnh Bộ Nhớ Cách Bố Trí của các Vertex
+     Tam giác lưới với bố cục bộ nhớ tùy chỉnh của đỉnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm một Mục Tiêu Máy Ảnh trong Cảnh
+     Thêm một máy ảnh mục tiêu trong cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm sinh động Các Đối Tượng trong một Cảnh
+     Tạo hoạt ảnh cho các đối tượng trong một cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chia Mắt Lưới bằng Vật Liệu
+     Chia lưới theo vật liệu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm cho một chiếc 3D Xem trong các Định Dạng Hình Ảnh
+     Hiển thị 3D Chế độ xem ở Định dạng Hình ảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đúc và Nhận Được Bóng trên Hình Học
+     Truyền và Nhận bóng trên Hình học
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cho phép thay đổi máy bay của định hướng
+     Cho phép thay đổi hướng của mặt phẳng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tăng cường các sáng tạo của xi lanh
+     Tăng cường tạo xi lanh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm vào Vulkan renderer hỗ trợ
+     Đã thêm hỗ trợ trình kết xuất vulkan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra hình học bằng cách đùn hình dạng
+     Tạo hình học bằng cách đùn hình dạng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     UV Atlas hỗ trợ thuật toán
+     Hỗ trợ thuật toán bản đồ UV
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hỗ trợ cho tiêu chuẩn 3D định dạng in ấn AMF
+     Hỗ trợ định dạng in 3d tiêu chuẩn AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX nhập khẩu Phân và Nhị Phân viết hỗ trợ
+     Hỗ trợ FBX nhập và ghi nhị phân
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Xuất khẩu và nhập khẩu glTF các tập tin với các Draco nén
+     Xuất và nhập tệp glTF với tính năng nén draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D tập tin Chuyển Đổi Định Dạng
+     3D Chuyển đổi Định dạng Tệp
     </h2>
     <p>
-     Aspose.3d for .NET cung cấp một mảng của các thuật toán tiên tiến mà làm cho nó một tất cả-trong-một giải pháp cho 3D tập tin chuyển đổi định dạng. Các quá trình chuyển đổi là đơn giản như thay đổi các mở rộng tập tin để các mong muốn định dạng. Tất cả các bạn cần phải làm là để tải các tập tin nguồn trong một ví dụ của Cảnh, và cuộc gọi của nó Tiết Kiệm phương pháp với một thích hợp FileFormat tham số. Đó là nó!
+     Aspose.3d for .NET cung cấp một loạt các thuật toán nâng cao giúp nó trở thành giải pháp tất cả trong một để chuyển đổi định dạng tệp 3D. Quá trình chuyển đổi đơn giản như thay đổi phần mở rộng tệp sang định dạng mong muốn. Tất cả những gì bạn cần làm là tải tệp nguồn trong một phiên bản của Scene và gọi phương thức Save của nó với một tham số FileFormat thích hợp. Đó là nó!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tiết kiệm 3D cảnh trong các định dạng khác nhau- C#
+      Lưu 3D cảnh ở các định dạng khác nhau - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D cảnh Sáng Tạo
+     3D Tạo cảnh
     </h2>
     <p>
-     Aspose.3D for .NET trao quyền cho lập trình viên để dễ dàng tạo ra những cảnh từ đầu mà không cần phải cài đặt bất kỳ 3D mô hình hoặc vẽ phần mềm. Các 3D .NET API cũng cho phép để tiết kiệm các cảnh trong định dạng (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D và Collada) bằng cách gọi các Tiết Kiệm phương pháp của các Cảnh lớp đối tượng.
+     Aspose.3D for .NET cho phép các lập trình viên dễ dàng tạo các cảnh từ đầu mà không cần cài đặt bất kỳ 3D phần mềm tạo mô hình hoặc kết xuất nào. 3D .NET API cũng cho phép lưu các cảnh ở các định dạng (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D và Collada) bằng cách gọi phương thức Lưu của Đối tượng lớp cảnh.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thêm Tài Sản Thông Tin để 3D Cảnh
+     Thêm Thông tin Nội dung vào Cảnh 3D
     </h2>
     <p>
-     Metadata là cấu trúc thông tin mà mô tả, đặt và làm cho nó dễ dàng hơn để lấy lại, sử dụng và quản lý một thông tin tài nguyên. Aspose.3D for .NET API cho phép các Nhà phát triển để xác định Metadata đối với các cảnh.
+     Siêu dữ liệu là thông tin có cấu trúc mô tả, định vị và giúp việc truy xuất, sử dụng và quản lý tài nguyên thông tin trở nên dễ dàng hơn. Aspose.3D for .NET API cho phép nhà phát triển xác định Siêu dữ liệu cho cảnh.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tạo ra 3D Lưới & Đồ Họa Hình Dạng
+     Tạo 3D Lưới & amp; Hình dạng đồ họa
     </h2>
     <p>
-     .NET 3D thư viện cho phép Các nhà phát triển để xây dựng một lưới của khác nhau 3D hình học hình dạng, xác định điểm kiểm soát và đa giác trong các cách thức đơn giản nhất để tạo ra mắt lưới và điểm một lưới để nhiều trường hợp của một hình dạng loại. Các nhà phát triển cũng có thể đặt 3D hình dạng bất cứ nơi nào trên các 3D cảnh.
+     Thư viện .NET 3D cho phép các nhà phát triển tạo một lưới gồm nhiều 3D hình dạng hình học khác nhau, xác định các điểm điều khiển và đa giác theo cách đơn giản nhất để tạo các mắt lưới và trỏ một lưới đến nhiều thể hiện của một loại hình dạng. Các nhà phát triển cũng có thể đặt 3D hình dạng ở bất kỳ đâu trên khung cảnh 3D.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chia sẻ Lưới Hình Học Dữ Liệu với Nhiều Các Nút
+     Chia sẻ dữ liệu hình học lưới với nhiều nút
     </h2>
     <p>
-     Để giảm Bộ nhớ nhu yếu phẩm, một duy nhất ví dụ của Lưới có thể bị ràng buộc để khác nhau trường hợp của Nút. Hình dung mà bạn yêu cầu một hệ thống mà một số lượng lớn của 3D khối dường như không thể phân biệt; bạn có thể Phụ tùng bộ nhớ bằng cách làm cho một Lưới đối tượng khi hệ thống bắt đầu lên. Tại thời điểm đó, mỗi thời gian bạn yêu cầu hình dạng khác, bạn thực hiện một Nút đối tượng, sau đó điểm mà nút để một Lưới. Này là Làm Thế Nào API quản lý instancing.
+     Để giảm nhu cầu về bộ nhớ, một phiên bản Mesh đơn lẻ có thể được liên kết với các phiên bản Node khác nhau. Hình dung rằng bạn yêu cầu một hệ thống mà một số lượng lớn 3D hình khối dường như không thể phân biệt được; bạn có thể giải phóng bộ nhớ bằng cách tạo một đối tượng Mesh khi hệ thống khởi động. Tại thời điểm đó, mỗi khi bạn yêu cầu một hình dạng khác, bạn tạo một đối tượng Node khác, sau đó trỏ nút đó vào một Mesh. Đây là cách API quản lý quá trình cài đặt.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Triangulate Lưới với Tùy Chỉnh Bộ Nhớ Bố Trí của Vertex
+     Lưới tam giác với bố cục bộ nhớ tùy chỉnh của Vertex
     </h2>
     <p>
-     Chuyển đổi một lưới đến các lưới tam giác bởi vì bất kỳ cấu trúc phức tạp có thể được đại diện như một bó của tam giác. Các đồ họa gói phần mềm và các thiết bị phần cứng hoạt động hiệu quả hơn trên hình tam giác. Các bộ nhớ bố trí của Vertex là cũng quan trọng đối với thức ăn các GPU (Xử Lý Đồ Họa Đơn Vị) bởi vì các GPU cũng phải biết về các Vertex bố trí trong thứ tự để trích xuất chính xác các thuộc tính từ bộ đệm.
+     Chuyển đổi một lưới thành lưới tam giác vì bất kỳ cấu trúc phức tạp nào cũng có thể được biểu diễn dưới dạng một loạt các hình tam giác. Các gói phần mềm đồ họa và thiết bị phần cứng hoạt động hiệu quả hơn trên hình tam giác. Cách bố trí bộ nhớ của Vertex cũng rất quan trọng để cung cấp nguồn cấp dữ liệu cho GPU (Bộ xử lý đồ họa) vì GPU cũng phải biết về bố trí đỉnh để trích xuất các thuộc tính chính xác từ bộ đệm.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Độc lập của bất kỳ Bên Ngoài Cài Đặt Phần Mềm
+     Độc lập với bất kỳ Cài đặt Phần mềm Bên ngoài nào
     </h2>
     <p>
-     Aspose.3D API được xây dựng sử dụng quản lý mã mà không bao giờ phụ thuộc vào bất kỳ bên ngoài API hoặc phần mềm cài đặt trên các máy tính để làm việc với 3D các tập tin. Nó là một hoàn toàn tùy chỉnh giải pháp trong điều khoản của tính năng được hỗ trợ, an ninh, ổn định, khả năng mở rộng, tốc độ và giá cả.
+     Aspose.3D API được tạo bằng cách sử dụng mã được quản lý không bao giờ phụ thuộc vào bất kỳ API bên ngoài hoặc cài đặt phần mềm nào trên máy để hoạt động với các tệp 3D. Đây là một giải pháp được tùy chỉnh hoàn hảo về các tính năng được hỗ trợ, bảo mật, ổn định, khả năng mở rộng, tốc độ và giá cả.
     </p>
    </div>
   </div>
@@ -590,30 +590,30 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Học Tập Tài Nguyên" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API tài liệu tham khảo" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Hướng dẫn Video" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Sản phẩm Hỗ Trợ" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ Trợ miễn phí" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Thanh toán Hỗ Trợ" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Ghi Chú phát hành" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.3D for .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Khách hàng Danh Sách" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Câu Chuyện Thành Công" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D Cung cấp cá nhân 3D chế biến API cho phổ biến khác phát triển môi trường như được liệt kê dưới đây:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D cung cấp các API xử lý 3D riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: 3D รูปแบบการตรวจสอบลายน้ำโซลูชั่น 
+title: 3D รูปแบบโซลูชันการยืนยันลายน้ำ 
 weight: 7730
 url: /th/verify-watermark
 limit: 

@@ -1,6 +1,6 @@
 ﻿---
 title: Konvertera USD till PLY via C# 
-description: Konvertera USD & andra 3D filer med .NET API
+description: Konvertera USD och andra 3D filer med .NET API
 url: /sv/net/conversion/usd-to-ply/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: PLY
 otherformats: PLY HTML DXF ASE DRC FBX PDF JT 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera USD till PLY via C#" h2="Exportera USD & andra 3D filer med .NET Ramverk, .NET kärna och Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera USD till PLY via C#" h2="Exportera USD och andra 3D filer med .NET Framework, .NET Core och Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exportera USD scen som PLY med C#" %}}
-1. Ladda USD- filen med en konstruktor av [Scene](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klass2. Utlysning [Scene.](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Metod
-3. Pass output filnamn med . Förlängning av ply som första parametern
-4. Ange fältvärde 'PLY' från [FilformatName](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klass
+1. Ladda USD-fil med en konstruktor av [Scen](https://apireference.aspose.com/3d/net/aspose.threed/scene) klass2. Ring [Scene.Spara](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) metod
+3. Skicka ut filnamnet med filtillägget .ply som första parameter
+4. Ange "PLY"-fältvärdet från [Filformat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) klass
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D Formatkonvertering API for .NET" %}}
-Installera från kommandorad som ''nuget install Aspose.3d''' eller via Package Manager Console of Visual Studio med ''' Installera-Package Aspose.3D'''.
+{{% blocks/products/pf/agp/feature-section-col title="3D Formatomvandling API for .NET" %}}
+Installera från kommandoraden som ```nuget install Aspose.3d``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.3D```.
 
-Alternativt, hämta offline MSI-installatören eller DLL i en ZIP-fil från [Nerladdningar](https://downloads.aspose.com/3d/net).
+Alternativt kan du hämta offline-MSI-installationsprogrammet eller DLL-filerna i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# Kod för USD till PLY konvertering" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Kod för omvandling från USD till PLY" gistPath="" %}}
 ```cs
-// Ladda USD i ett objekt i Scene 
+// ladda USD i ett objekt av Scene 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// Spara USD som en PLY 
+// spara USD som en PLY 
 scene.Save("output.ply", Aspose.ThreeD.FileFormat.PLY);
 
 ```

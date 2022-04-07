@@ -1,6 +1,6 @@
 ﻿---
-title: USDZ in FBX konvertieren über C# 
-description: USDZ & andere 3D-Dateien mit .NET API konvertieren
+title: Wandeln Sie USDZ über C# in FBX um 
+description: Konvertieren Sie USDZ- und andere 3D-Dateien mit .NET API
 url: /de/net/conversion/usdz-to-fbx/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: FBX
 otherformats: GLTF PLY FBX STL JT AMF DXF DAE 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ in FBX konvertieren über C#" h2="Exportieren Sie USDZ & andere 3D-Dateien mit .NET Framework, .NET Core und Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Wandeln Sie USDZ über C# in FBX um" h2="Exportieren Sie USDZ- und andere 3D-Dateien mit .NET Framework, .NET Core und Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="USDZ Szene als FBX mit C# exportieren" %}}
-1. Laden Sie die USDZ-Datei mit einem Konstruktor von [Szene](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klasse2. Anruf [Szene. Speichern](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Methode
-3. Geben Sie den Namen der Ausgabe datei mit. Fbx-Erweiterung als erster Parameter
-4. Geben Sie den Feldwert „ FBX7700Binary “aus [Format](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klasse
+{{% blocks/products/pf/agp/feature-section-col title="Exportiere USDZ Szene als FBX mit C#" %}}
+1. Laden Sie die USDZ-Datei mit einem Konstruktor von [Szene](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klasse2. Anruf [Szene.Speichern](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Methode
+3. Übergeben Sie den Namen der Ausgabedatei mit der Erweiterung .fbx als ersten Parameter
+4. Geben Sie den Feldwert „FBX7700Binary“ an [Datei Format](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klasse
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D Format konvertierung API for .NET" %}}
-Installieren Sie von der Befehlszeile als '''nuget install Aspose.3d'' oder über die Package Manager-Konsole von Visual Studio mit ''Install-Package Aspose.3D''.
+{{% blocks/products/pf/agp/feature-section-col title="3D Formatkonvertierung API for .NET" %}}
+Installieren Sie von der Befehlszeile als ```nuget install Aspose.3d``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.3D```.
 
-Alternativ können Sie das Offline-MSI-Installation programm oder die DLLs in einer ZIP-Datei von [Downloads](https://downloads.aspose.com/3d/net).
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei herunterladen [Downloads](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# Code für USDZ in FBX Konvertierung" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Code für Umwandlung von USDZ in FBX" gistPath="" %}}
 ```cs
-// Laden Sie die USDZ in einem Objekt der Szene 
+// Laden Sie die USDZ in ein Objekt der Szene 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// USDZ als FBX speichern 
+// speichere USDZ als FBX 
 scene.Save("output.fbx", Aspose.ThreeD.FileFormat.FBX7700Binary);
 
 ```

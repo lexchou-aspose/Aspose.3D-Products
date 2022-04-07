@@ -1,20 +1,20 @@
 ﻿---
 title: C# 3D การแปลงรูปแบบ
 url: /th/net/conversion/
-description: แปลง 3D รูปแบบ3DS 3mf AMF ASE ATT Dae DRC DXF fbx gltf JT Obj Ply rvm STL u3d usdz USD VRML X มีเส้นรหัส C# ผ่านทางไลบรารี .NET
+description: แปลง 3D รูปแบบ 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x ด้วยโค้ด C# สองสามบรรทัดผ่านไลบรารี .NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="3D การแปลงรูปแบบผ่าน C#" h2="แปลง 3D รูปแบบเอกสารโดยไม่มี 3D การสร้างแบบจำลองและซอฟต์แวร์การแสดงผลเพื่อสร้างแอพพลิเคชันข้ามแพลตฟอร์ม .NET" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D รูปแบบการแปลงผ่าน C#" h2="แปลงรูปแบบเอกสาร 3D โดยไม่มีซอฟต์แวร์สร้างแบบจำลองและการแสดงผล 3D ใดๆ เพื่อสร้างแอปพลิเคชัน .NET ข้ามแพลตฟอร์ม" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-นักพัฒนาสามารถอ่านสร้างแปลงอัปเดตและควบคุมเนื้อหาของรูปแบบ 3D ได้อย่างง่ายดายโดยใช้ห้องสมุดกราฟิก 3D รูปแบบที่สนับสนุนโดย API คือ WavefrontOBJ, Discreet3DS, STL (ASCII, binary), FBX (ASCII, binary), Universal3D, Collada, GLB, glTF, PLY, DirectX, Google Draco รูปแบบและอื่นๆขั้นตอนการแปลงสามารถโหลดไฟล์ต้นฉบับผ่านอินสแตนซ์ของ [ชั้นฉาก](https://apireference.aspose.com/3d/net/aspose.threed/scene)และเรียกวิธีการบันทึกด้วยพารามิเตอร์รูปแบบการส่งออกที่เกี่ยวข้อง
+นักพัฒนาสามารถอ่าน สร้าง แปลง อัปเดต และควบคุมเนื้อหาของรูปแบบ 3D ได้อย่างง่ายดายโดยใช้ไลบรารีกราฟิก 3D รูปแบบที่รองรับบางส่วนโดย API ได้แก่ WavefrontOBJ, Discreet3DS, STL (ASCII, Binary), FBX (ASCII, Binary), Universal3D, Collada, GLB, glTF, PLY, DirectX, Google Draco รูปแบบและอีกมากมาย ขั้นตอนการแปลงทำได้ง่ายเหมือนกับการโหลดไฟล์ต้นฉบับผ่านอินสแตนซ์ของ [ฉากคลาส](https://apireference.aspose.com/3d/net/aspose.threed/scene)และเรียกเมธอด Save ด้วยพารามิเตอร์รูปแบบเอาต์พุตที่เกี่ยวข้อง
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง 3D ฉากเป็นรูปแบบต่างๆ" %}}
-นักพัฒนาสามารถแปลงฉาก 3D ผ่านกระบวนการเดียวกันที่ระบุไว้ข้างต้นพิจารณาตัวอย่างบางอย่างเช่น **FBX ถึง OBJ Conversion ** โหลดไฟล์ FBX ผ่านวัตถุระดับฉากสร้างตัวเลือกการบันทึกโดยใช้ [Objsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/objsaveoptions) และเรียกวิธีการบันทึกฉากที่มีเส้นทางไฟล์เอาท์พุทและตัวเลือก Obj เป็นพารามิเตอร์ API มีตัวเลือกที่เหมาะสมสำหรับการบันทึกลงในชั้นเรียนที่เกี่ยวข้องเช่น [การ A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [Amfsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [การ Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Fbxsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxsaveoptions) [การ Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [Rvmsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) และอื่นๆนี่คือรายการที่สมบูรณ์สำหรับ 3D [รูปแบบการแปลง](https://apireference.aspose.com/3d/net/aspose.threed.formats) ตัวเลือกนอกจากนี้นักพัฒนาสามารถบันทึกฉาก 3D ลงใน PDF ได้อย่างง่ายดาย
+นักพัฒนาซอฟต์แวร์สามารถแปลง 3D ฉากได้อย่างง่ายดายโดยใช้กระบวนการเดียวกับที่แสดงด้านบน พิจารณาตัวอย่างบางส่วน เช่น **FBX ถึง OBJ การแปลง** โหลดไฟล์ FBX ผ่านวัตถุ Scene Class สร้างตัวเลือกการบันทึกโดยใช้ [ObjSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/objsaveoptions) และเรียกวิธีบันทึกฉากที่มีเส้นทางไฟล์เอาต์พุตและตัวเลือก obj เป็นพารามิเตอร์ API มีคลาสตัวเลือกที่เหมาะสมสำหรับการบันทึกลงในคลาสที่เกี่ยวข้อง เช่น [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [FbxSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxsaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) และอื่น ๆ. นี่คือรายการทั้งหมดสำหรับ 3D [รูปแบบการแปลง](https://apireference.aspose.com/3d/net/aspose.threed.formats) ตัวเลือก. นอกจากนี้ นักพัฒนายังสามารถบันทึกฉาก 3D ลงใน PDF ได้อย่างง่ายดาย
 
-{{% blocks/products/pf/feature-page-code h3="C# รหัสสำหรับ FBX ถึง OBJ การแปลง" %}}
+{{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับการแปลง FBX ถึง OBJ" %}}
 
 {{< gist "aspose-com-gists" "ed8b7177c365be75c2bf8d3e668f113a" "convert-fbx-to-obj.cs" >}}
 

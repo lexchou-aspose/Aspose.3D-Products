@@ -1,6 +1,6 @@
 ﻿---
-title: Convert USDZ to x via C# 
-description: Převést USDZ a další 3D soubory pomocí .NET API
+title: Převést USDZ na X prostřednictvím C# 
+description: Převeďte USDZ a další soubory 3D pomocí .NET API
 url: /cs/net/conversion/usdz-to-x/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: X
 otherformats: HTML FBX STL DRC RVM DAE 3MF ASE 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert USDZ to x via C#" h2="Exportovat USDZ a další 3D soubory pomocí .NET framework, .NET core a Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést USDZ na X prostřednictvím C#" h2="Exportujte USDZ a další soubory 3D pomocí .NET Framework, .NET Core a Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exportovat scénu USDZ jako x s C#" %}}
-1. Načíst soubor USDZ pomocí konstruktora [Scéna](https://apireference.aspose.com/3d/net/aspose.threed/scene) Třída2. call [Scéna. uložit](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Metoda
-3. pass output file name with. Rozšíření x jako první parametr
-4. zadejte hodnotu pole 'xbinary' od [Formát souboru](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Třída
+{{% blocks/products/pf/agp/feature-section-col title="Exportovat scénu USDZ jako X pomocí C#" %}}
+1. Načtěte soubor USDZ pomocí konstruktoru z [Scéna](https://apireference.aspose.com/3d/net/aspose.threed/scene) třída2. Zavolejte [Scene.Save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) metoda
+3. Jako první parametr předejte název výstupního souboru s příponou .x
+4. Zadejte hodnotu pole `XBinary` od [Formát souboru](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) třída
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D formát konverzace API for .NET" %}}
-Nainstalovat z příkazového řádku jako "nuget install Aspose.3d" nebo přes konzolu správce balíků visual studio s "" install-package Aspose.3D "".
+{{% blocks/products/pf/agp/feature-section-col title="3D Převod formátu API for .NET" %}}
+Instalujte z příkazového řádku jako ```nuget install Aspose.3d``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.3D```.
 
-Alternativně získejte offline instalační program msi nebo dll v souboru ZIP od [Stahování](https://downloads.aspose.com/3d/net)A.
+Případně můžete získat offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# kód pro převedení USDZ na xx (= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Kód C# pro konverzi USDZ na X" gistPath="" %}}
 ```cs
-// Načíst USDZ v objektu scény 
+// načtěte USDZ do objektu scény 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Uložit USDZ jako x 
+// uložit USDZ jako X 
 scene.Save("output.x", Aspose.ThreeD.FileFormat.XBinary);
 
 ```

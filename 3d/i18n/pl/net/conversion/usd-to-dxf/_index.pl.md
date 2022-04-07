@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj USD na DXF za pośrednictwem C# 
+title: Konwertuj USD na DXF przez C# 
 description: Konwertuj pliki USD i inne 3D za pomocą .NET API
 url: /pl/net/conversion/usd-to-dxf/
 family: 3d
@@ -10,27 +10,27 @@ outformat: DXF
 otherformats: PLY AMF ASE HTML GLTF FBX DAE 3DS 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj USD na DXF za pośrednictwem C#" h2="Eksportuj USD i inne 3D plików przy użyciu .NET Framework, .NET Core i Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj USD na DXF przez C#" h2="Eksportuj USD i inne 3D pliki za pomocą .NET Framework, .NET Core i Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Eksportuj USD sceny jako DXF z C#" %}}
-1. Załaduj plik USD za pomocą konstruktora [Scena](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klasa2. Zadzwoń [Scena. Zapisz](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Metoda
-3. Przekaż nazwę pliku wyjściowego za pomocą. Rozszerzenie dxf jako pierwszy parametr
-4. Określ wartość pola „ DXF ”z [Format plików](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klasa
+{{% blocks/products/pf/agp/feature-section-col title="Eksportuj USD scenę jako DXF z C#" %}}
+1. Załaduj plik USD za pomocą konstruktora [Scena](https://apireference.aspose.com/3d/net/aspose.threed/scene) klasa2. Zadzwoń [Scena.Zapisz](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) metoda
+3. Przekaż nazwę pliku wyjściowego z rozszerzeniem .dxf jako pierwszy parametr
+4. Określ `DXF` wartość pola z [Format pliku](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) klasa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="API for .NET Konwersja formatu 3D" %}}
-Zainstaluj z wiersza poleceń jako ''nuget install Aspose.3d'' lub przez konsolę Menedżera pakietów w Visual Studio z ''Zainstaluj pakiet Aspose.3D''.
+{{% blocks/products/pf/agp/feature-section-col title="3D Konwersja formatu API for .NET" %}}
+Zainstaluj z wiersza poleceń jako ```nuget install Aspose.3d``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.3D```.
 
-Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/3d/net).
+Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# Kod dla USD do DXF konwersji" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Kod konwersji USD na DXF" gistPath="" %}}
 ```cs
-// Załaduj USD w obiekcie Scene 
+// załaduj USD do obiektu sceny 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// Zapisz USD jako DXF 
+// zapisz USD jako DXF 
 scene.Save("output.dxf", Aspose.ThreeD.FileFormat.DXF);
 
 ```

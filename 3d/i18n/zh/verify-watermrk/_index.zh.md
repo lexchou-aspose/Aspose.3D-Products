@@ -1,5 +1,5 @@
 ﻿---
-title: 3D 格式水印验证解决方案 
+title: 3D 格式水印验证方案 
 weight: 7730
 url: /zh/verify-watermark
 limit: 

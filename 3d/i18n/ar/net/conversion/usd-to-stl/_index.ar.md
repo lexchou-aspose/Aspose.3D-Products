@@ -14,23 +14,23 @@ otherformats: OBJ DXF DAE DRC RVM STL ASE FBX
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="تصدير USD مشهد باسم STL مع C#" %}}
-1. تحميل USD ملف باستخدام مُنشئ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) فئة2. اتصل [المشهد. حفظ](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
-3. تمرير اسم الملف الإخراج مع. امتداد stl كمعلمة أولى
-4. تحديد قيمة حقل "STLASCII" من [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) فئة
+{{% blocks/products/pf/agp/feature-section-col title="تصدير USD المشهد كـ STL بـ C#" %}}
+1. تحميل ملف USD باستخدام مُنشئ لـ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) صف دراسي2. الاتصال [المشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
+3. قم بتمرير اسم ملف الإخراج بامتداد .stl كمعامل أول
+4. حدد قيمة الحقل "STLASCII" من [تنسيق الملف](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) صف دراسي
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D تنسيق التحويل API for .NET" %}}
-قم بالتثبيت من سطر الأوامر باسم ''nuget install Aspose.3d'' أو عبر Package Manager Console of Visual Studio مع '''' تثبيت-حزمة Aspose.3D''.
+قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.3d '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.3D ''.
 
-بدلاً من ذلك ، احصل على مثبت MSI أو DLLs غير المتصل بالإنترنت في ملف ZIP من [التنزيلات](https://downloads.aspose.com/3d/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# كود لـ USD إلى STL تحويل" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# رمز التحويل من USD إلى STL" gistPath="" %}}
 ```cs
 // تحميل USD في كائن من المشهد 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// احفظ USD كSTL 
+// حفظ USD باسم STL 
 scene.Save("output.stl", Aspose.ThreeD.FileFormat.STLASCII);
 
 ```

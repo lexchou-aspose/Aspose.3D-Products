@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Format Filigran Çözümü 
+title: 3D Biçim Filigran Çözümü 
 weight: 7730
 url: /tr/watermark
 limit: 

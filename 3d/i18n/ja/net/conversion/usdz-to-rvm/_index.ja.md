@@ -1,6 +1,6 @@
 ﻿---
-title: C# 経由で USDZ を RVM に変換 
-description: .NET API を使用して USDZ およびその他の 3D ファイルを変換します
+title: C#を介してUSDZをRVMに変換します 
+description: .NETAPIを使用してUSDZおよびその他の3Dファイルを変換します
 url: /ja/net/conversion/usdz-to-rvm/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: RVM
 otherformats: DRC ASE 3MF AMF GLTF OBJ DXF RVM 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# 経由で USDZ を RVM に変換" h2=".NET Framework、 .NET Core、 Mono を使用して USDZ およびその他の 3D ファイルをエクスポート" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C#を介してUSDZをRVMに変換します" h2=".NETフレームワーク、.NETコア、およびMonoを使用してUSDZおよびその他の3Dファイルをエクスポートします" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="USDZ シーンを RVM として C# でエクスポート" %}}
-1. のコンストラクタを使用して USDZ ファイルをロード [シーン](https://apireference.aspose.com/3d/net/aspose.threed/scene) クラス2.コール [シーン保存](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) メソッド
-3.で出力ファイル名を渡します。最初のパラメータとしてのrvm拡張
-4.「RvmBinary」フィールド値を指定します。 [ファイル形式](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) クラス
+{{% blocks/products/pf/agp/feature-section-col title="USDZシーンをC#付きのRVMとしてエクスポート" %}}
+1. のコンストラクタを使用してUSDZファイルをロードします [シーン](https://apireference.aspose.com/3d/net/aspose.threed/scene) クラス2.電話する [Scene.Save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) 方法
+3.最初のパラメーターとして.rvm拡張子を持つ出力ファイル名を渡します
+4.から`RvmBinary`フィールド値を指定します [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) クラス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D フォーマット変換 API for .NET" %}}
-コマンドラインから「nuget install Aspose.3d 」として、またはVisual StudioのPackage Manager Consoleから「Install-Package Aspose.3D 」でインストールします。
+{{% blocks/products/pf/agp/feature-section-col title="3Dフォーマット変換APIfor .NET" %}}
+コマンドラインから```nuget install Aspose.3d```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.3D```を使用してインストールします。
 
-または、オフラインのMSIインストーラまたはDLLを ZIP ファイルから取得します。 [ダウンロード](https://downloads.aspose.com/3d/net)を使用します。
+または、オフラインのMSIインストーラーまたはDLLをZIPファイルから取得します。 [ダウンロード](https://downloads.aspose.com/3d/net)。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="USDZ から RVM の変換のための C# コード" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C#USDZからRVMへの変換のコード" gistPath="" %}}
 ```cs
-// Sceneのオブジェクトに USDZ をロードする 
+// シーンのオブジェクトにUSDZをロードします 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// USDZ を RVM として保存 
+// USDZをRVMとして保存 
 scene.Save("output.rvm", Aspose.ThreeD.FileFormat.RvmBinary);
 
 ```

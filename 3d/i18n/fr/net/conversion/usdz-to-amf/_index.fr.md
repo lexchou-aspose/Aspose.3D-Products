@@ -1,6 +1,6 @@
 ﻿---
 title: Convertir USDZ en AMF via C# 
-description: Convertir USDZ et d'autres fichiers 3D en utilisant .NET API
+description: Convertissez USDZ et d'autres fichiers 3D à l'aide de .NET API
 url: /fr/net/conversion/usdz-to-amf/
 family: 3d
 platformtag: net
@@ -14,23 +14,23 @@ otherformats: AMF DAE HTML JT PDF DRC DXF PLY
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exportez USDZ scène comme AMF avec C#" %}}
-1. Charger le fichier USDZ en utilisant un constructeur de [Scène](https://apireference.aspose.com/3d/net/aspose.threed/scene) Classe2. Appel [Scène. Save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Méthode
-3. Passer le nom du fichier de sortie avec. Extension amf comme premier paramètre
-4. Spécifiez la valeur du champ 'AMF' à partir de [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Classe
+{{% blocks/products/pf/agp/feature-section-col title="Exporter USDZ Scène en tant que AMF avec C#" %}}
+1. Charger le fichier USDZ en utilisant un constructeur de [Scène](https://apireference.aspose.com/3d/net/aspose.threed/scene) classe2. Appel [Scène.Enregistrer](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) méthode
+3. Passez le nom du fichier de sortie avec l'extension .amf comme premier paramètre
+4. Spécifiez la valeur du champ `AMF` à partir de [Format de fichier](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) classe
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D conversion de format API for .NET" %}}
-Installez à partir de la ligne de commande en tant que «nuget install Aspose.3d» ou via la console du gestionnaire de packages de Visual Studio avec «Installer-Package Aspose.3D»».
+{{% blocks/products/pf/agp/feature-section-col title="3D Conversion de formats API for .NET" %}}
+Installez à partir de la ligne de commande en tant que ```nuget install Aspose.3d``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.3D```.
 
-Vous pouvez également obtenir l'installateur MSI hors ligne ou DLLs dans un fichier ZIP à partir de [Téléchargements](https://downloads.aspose.com/3d/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# Code pour la conversion de USDZ à AMF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Code pour la conversion USDZ à AMF" gistPath="" %}}
 ```cs
-// Charger le USDZ dans un objet de la scène 
+// charger le USDZ dans un objet de Scene 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Enregistrer USDZ en tant que AMF 
+// enregistrer USDZ en tant que AMF 
 scene.Save("output.amf", Aspose.ThreeD.FileFormat.AMF);
 
 ```

@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D pengolahan dokumen API - Aspose 
+title: C# .NET 3D Pemrosesan Dokumen API - Aspose 
 weight: 1020
 url: /id/net/ 
-description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonversi dan memodifikasi 3D file dalam bentuk Windows layanan Web dan Mono aplikasi
+description: Pustaka C# VB.NET ASP.NET untuk membuat baca, konversi, dan modifikasi file 3D di Layanan Web Windows Forms dan aplikasi Mono
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D api manipulasi File" h2="Membaca, menulis, memanipulasi, dan mengonversi format berkas 3D dalam aplikasi berbasis .NET apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D API Manipulasi File" h2="Baca, Tulis, Manipulasi, dan Konversi format file 3D dalam aplikasi berbasis .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET adalah Gameware yang kaya fitur dan perancangan berbantu komputer (CAD) API untuk memanipulasi dokumen Tanpa pemodelan 3D dan rendering dependensi perangkat lunak. API mendukung Discreet3DS, WavefrontOBJ, FBX (ASCII, biner), STL (ASCII, biner), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco format file dan banyak lagi. Pengembang dapat membuat, membaca, mengonversi, memodifikasi, dan mengontrol substansi format dokumen 3D dengan mudah.
+ Aspose.3D for .NET adalah Gameware dan Computer-Aided-Designing (CAD) API yang kaya fitur untuk memanipulasi dokumen tanpa 3D ketergantungan pemodelan dan rendering perangkat lunak. API mendukung Discreet3DS, WavefrontOBJ, FBX (ASCII, Biner), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco format file dan banyak lagi. Pengembang dapat membuat, membaca, mengonversi, memodifikasi, dan mengontrol substansi 3D format dokumen dengan mudah.
 </p>
 
 <p>
- Aspose.3D for .NET API ramah pengguna dan dapat digunakan dengan aplikasi .NET semudah menyalinnya tanpa khawatir tentang layanan dan modul lain yang sudah terpasang.
+ Aspose.3D for .NET API mudah digunakan dan dapat digunakan dengan aplikasi .NET apa pun semudah menyalinnya tanpa mengkhawatirkan layanan dan modul lain yang sudah terpasang.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,57 +25,57 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas saja" description="Ikhtisar kemampuan API." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar tentang kemampuan API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Model objek
+    Model Objek
    </header>
    <ul>
     <li>
-     Pemandangan indah
+     Tempat kejadian
     </li>
     <li>
-     Jala jala
+     jala
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     Simpul Node
+     simpul
     </li>
     <li>
      Mengubah
     </li>
     <li>
-     Quaternion
+     Angka empat
     </li>
     <li>
      Properti
     </li>
     <li>
-     VertexElementUV
+     VertexElemenUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Puncak
     </li>
     <li>
-     Kotak penyimpanan
+     Kotak
     </li>
     <li>
-     Silinder silinder
+     Silinder
     </li>
     <li>
      Pesawat terbang
     </li>
     <li>
-     Bola lampu
+     Bola
     </li>
     <li>
      Torus
@@ -87,44 +87,44 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
    <header>
     <i class="fa fa-bars">
     </i>
-    Umum sekali
+    Umum
    </header>
    <ul>
     <li>
-     Membuat adegan
+     Buat Adegan
     </li>
     <li>
-     Membuat permukaan jaring
+     Buat Permukaan Mesh
     </li>
     <li>
-     Poligon triangulasi
+     triangulasi poligon
     </li>
     <li>
-     Pisah jala dengan bahan
+     Split Mesh dengan Bahan
     </li>
     <li>
-     Pengaturan Normal untuk grafis
+     Pengaturan Normal untuk Grafik
     </li>
     <li>
-     UV pengaturan untuk grafis
+     Siapkan UV untuk Grafik
     </li>
     <li>
-     Rajutan triangulasi
+     Jaring segitiga
     </li>
     <li>
-     Data geometri jala berbagi
+     Bagikan Data Geometri Mesh
     </li>
     <li>
-     Tambahkan bahan ke objek
+     Tambahkan Bahan ke Objek
     </li>
     <li>
-     Tambah kamera Target
+     Tambahkan Kamera Target
     </li>
     <li>
-     Buat 3D tampilan dalam gambar
+     Render 3D Lihat di Gambar
     </li>
     <li>
-     Melemparkan & menerima bayangan
+     Pemeran &amp; Terima Bayangan
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform kemerdekaan" description="Aspose.3D for .NET mendukung kerangka .NET." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.3D for .NET mendukung kerangka kerja .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
    <header>
     <i class="fa fa-cubes">
     </i>
-    Kerangka .NET
+    .NET Kerangka
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Core
+    .NET Inti
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang didukung" description="Aspose.3D for .NET [Mendukung terkenal 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Format berkas." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.3D for .NET [mendukung 3D terkenal](https://docs.aspose.com/3d/net/supported-file-formats/)  format file." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/Output
+    Input output
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      Meja Otomatis:
      </b>
-     FBX 7.2 hingga 7.5 (ASCII/biner)
+     FBX 7,2 hingga 7,5 (ASCII/Binary)
     </li>
     <li>
      <b>
-      3D sistem CAD:
+      3D Sistem CAD:
      </b>
-     STL (ASCII/biner)
+     STL (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -235,7 +235,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
     </li>
     <li>
      <b>
-      {Bijaksana 0} Studio:
+      Bijaksana 3D Studio:
      </b>
      3DS
     </li>
@@ -255,7 +255,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
      <b>
       Transmisi GL:
      </b>
-     glTF (ASCII/biner)
+     glTF (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -267,19 +267,19 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
      <b>
       RVM
      </b>
-     (Teks/biner)
+     (Teks/Biner)
     </li>
     <li>
      <b>
-      Format dokumen portabel:
+      Format Dokumen Portabel:
      </b>
      PDF
     </li>
     <li>
      <b>
-      Lainnya:
+      Yang lain:
      </b>
-     AMF, PLY (ASCII/biner), A3DW
+     AMF, PLY (ASCII/Binary), A3DW
     </li>
    </ul>
   </div>
@@ -289,14 +289,14 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Masukkan saja
+    Masukan Saja
    </header>
    <ul>
     <li>
      <b>
       DirectX:
      </b>
-     X (ASCII/biner)
+     X (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -308,7 +308,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
      DXF
     </li>
     <li>
-     3MF (3D Format manufaktur)
+     3MF (3D Format Manufaktur)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Keluaran saja
+    Keluaran Saja
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fitur canggih .NET 3D API
+    Fitur .NET 3D API Lanjutan
    </h2>
    <p>
    </p>
@@ -368,98 +368,98 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buat 3D suasana & simpan dalam format yang didukung
+     Buat 3D adegan &amp; simpan dalam format yang didukung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Memuat, menyimpan, & mengonversi file ke stream
+     Muat, simpan &amp; mengonversi file ke aliran
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bekerja dengan geometri & hirarki adegan
+     Bekerja dengan geometri &amp; hierarki adegan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bagikan data geometri jaring antara beberapa node
+     Bagikan data geometri mesh antara beberapa node
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menambahkan properti animasi ke dokumen adegan
+     Tambahkan properti animasi ke dokumen adegan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Melakukan pelacakan dengan tata letak memori kustom dari simpul
+     Triangulasi Mesh dengan Tata Letak Memori Kustom dari Vertex
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menambahkan kamera Target dalam adegan
+     Tambahkan Kamera Target di Scene
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menganimasikan objek dalam sebuah adegan
+     Menganimasikan Objek dalam Adegan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Membagi jaring dengan bahan
+     Pisahkan Mesh berdasarkan Bahan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render tampilan a 3D dalam Format gambar
+     Render tampilan 3D dalam Format Gambar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cor dan menerima bayangan pada geometri
+     Keluarkan dan Terima Bayangan di Geometri
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Izinkan orientasi perubahan pesawat
+     Izinkan perubahan orientasi pesawat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Meningkatkan penciptaan silinder
+     Tingkatkan pembuatan silinder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ditambahkan dukungan renderer vulkan
+     Menambahkan dukungan perender vulkan
     </p>
    </div>
    <div class="col-lg-4">
@@ -480,21 +480,21 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mendukung format cetak 3d standar AMF
+     Dukungan untuk format pencetakan 3d standar AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX impor dan biner menulis dukungan
+     FBX impor dan dukungan penulisan Biner
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ekspor dan impor file glTF dengan kompresi draco
+     Ekspor dan impor glTF file dengan kompresi draco
     </p>
    </div>
    <div class="col-lg-12">
@@ -502,11 +502,11 @@ description: C# Bundesliga .NET ASP.NET perpustakaan untuk membuat baca mengkonv
      3D Konversi Format File
     </h2>
     <p>
-     Aspose.3d for .NET menyediakan berbagai algoritma canggih yang membuatnya menjadi solusi lengkap untuk 3D Konversi format file. Proses konversi sesederhana mengubah ekstensi file ke format yang diinginkan. Yang perlu Anda lakukan adalah untuk memuat file sumber dalam contoh adegan, dan memanggil metode menyimpan dengan parameter FileFormat yang sesuai. Itu saja!
+     Aspose.3d for .NET menyediakan serangkaian algoritme lanjutan yang menjadikannya solusi lengkap untuk 3D konversi format file. Proses konversi semudah mengubah ekstensi file ke format yang diinginkan. Yang perlu Anda lakukan adalah memuat file sumber dalam instance Scene, dan memanggil metode Save-nya dengan parameter FileFormat yang sesuai. Itu dia!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Simpan 3D adegan dalam format yang berbeda- C#
+      Simpan 3D adegan dalam format berbeda - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D pembuatan adegan
+     3D Pembuatan Adegan
     </h2>
     <p>
-     Aspose.3D for .NET memberdayakan programmer untuk dengan mudah menghasilkan adegan dari awal tanpa perlu menginstal pemodelan 3D atau perangkat lunak rendering. 3D .NET API juga memungkinkan untuk menyimpan adegan dalam format (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D dan Collada) dengan memanggil metode menyimpan objek kelas adegan.
+     Aspose.3D for .NET memberdayakan pemrogram untuk dengan mudah membuat adegan dari awal tanpa perlu menginstal 3D perangkat lunak pemodelan atau rendering apa pun. 3D .NET API juga memungkinkan untuk menyimpan adegan dalam format (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D dan Collada) dengan memanggil metode Simpan dari Objek kelas adegan.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tambahkan informasi aset ke adegan 3D
+     Tambahkan Informasi Aset ke 3D Scene
     </h2>
     <p>
-     Metadata adalah informasi terstruktur yang menjelaskan, menempatkan dan membuatnya lebih mudah untuk mengambil, menggunakan dan mengelola sumber daya informasi. Aspose.3D for .NET API memungkinkan pengembang untuk menentukan Metadata untuk adegan.
+     Metadata adalah informasi terstruktur yang menjelaskan, menempatkan dan membuatnya lebih mudah untuk mengambil, menggunakan dan mengelola sumber informasi. Aspose.3D for .NET API memungkinkan pengembang menentukan Metadata untuk adegan.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Buat 3D bentuk jaring & grafis
+     Buat 3D Jala &amp; Bentuk Grafis
     </h2>
     <p>
-     .NET 3D perpustakaan memungkinkan para pengembang untuk membangun jaring berbagai bentuk geometris 3D, tentukan titik kontrol dan poligon dengan cara paling sederhana untuk membuat jaring dan arahkan jaring ke beberapa contoh tipe bentuk. Pengembang juga dapat menempatkan bentuk 3D di mana saja pada adegan 3D.
+     Pustaka .NET 3D memungkinkan pengembang membuat jalinan dari berbagai 3D bentuk geometris, menentukan titik kontrol dan poligon dengan cara paling sederhana untuk membuat jalinan dan mengarahkan jalinan ke beberapa contoh dari jenis bentuk. Pengembang juga dapat menempatkan 3D bentuk di mana saja pada adegan 3D.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bagikan Data geometri jaring dengan banyak node
+     Bagikan Data Geometri Mesh dengan Banyak Node
     </h2>
     <p>
-     Untuk mengurangi kebutuhan memori, satu contoh jaring dapat terikat pada berbagai contoh simpul. Bayangkan bahwa anda memerlukan sistem di mana sejumlah besar 3D kubus tampaknya tidak bisa dibedakan; Anda bisa menghemat memori dengan membuat satu objek jala ketika sistem dimulai. Pada saat itu, setiap kali Anda memerlukan bentuk lain, Anda membuat objek simpul lain, lalu arahkan simpul itu ke satu jala. Ini adalah bagaimana API mengelola instancing.
+     Untuk mengurangi kebutuhan memori, satu instance Mesh dapat diikat ke berbagai instance Node.js. Bayangkan Anda memerlukan sistem di mana sejumlah besar 3D kubus tampaknya tidak dapat dibedakan; Anda dapat menghemat memori dengan membuat satu objek Mesh saat sistem dimulai. Pada saat itu, setiap kali Anda membutuhkan bentuk lain, Anda membuat objek Node lain, lalu arahkan simpul itu ke satu Mesh. Beginilah cara API mengelola pembuatan instance.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Jala interpolasi dengan tata letak memori kustom dari Vertex
+     Segitiga Mesh dengan Tata Letak Memori Kustom dari Vertex
     </h2>
     <p>
-     Ubah jala Ke jala segitiga karena struktur kompleks apa pun dapat direpresentasikan sebagai sekelompok segitiga. Paket perangkat lunak grafis dan perangkat keras beroperasi lebih efisien pada segitiga. Tata letak memori Vertex juga penting untuk memberi makan GPU (Unit pemrosesan grafis) karena GPU juga harus tahu tentang tata letak vertex untuk mengekstrak atribut yang benar dari buffer.
+     Ubah jaring menjadi jaring segitiga karena setiap struktur kompleks dapat direpresentasikan sebagai sekelompok segitiga. Paket perangkat lunak grafis dan perangkat keras beroperasi lebih efisien pada segitiga. Tata letak memori Vertex juga penting untuk memberi makan GPU (Graphics Processing Unit) karena GPU juga harus tahu tentang tata letak simpul untuk mengekstrak atribut yang benar dari buffer.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Independen dari instalasi perangkat lunak eksternal
+     Independen dari Instalasi Perangkat Lunak Eksternal apa pun
     </h2>
     <p>
-     Aspose.3D API dibuat menggunakan kode terkelola yang tidak pernah bergantung pada instalasi eksternal API atau perangkat lunak pada mesin untuk bekerja dengan file 3D. Ini adalah solusi yang disesuaikan sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan dan harga.
+     Aspose.3D API dibuat menggunakan kode terkelola yang tidak pernah bergantung pada API eksternal atau penginstalan perangkat lunak apa pun pada mesin untuk bekerja dengan file 3D. Ini adalah solusi yang disesuaikan dengan sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
     </p>
    </div>
   </div>
@@ -590,30 +590,30 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Sumber daya pembelajaran" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API referensi" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="API Referensi" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan gratis" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Dukungan berbayar" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Rilis catatan" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.3D for .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Daftar pelanggan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Kisah sukses" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D menawarkan api pemrosesan 3D individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D menawarkan 3D API pemrosesan individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

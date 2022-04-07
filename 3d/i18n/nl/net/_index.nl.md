@@ -2,10 +2,10 @@
 title: C# .NET 3D Documentverwerking API - Aspose 
 weight: 1020
 url: /nl/net/ 
-description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D bestanden te converteren en te wijzigen in Windows Forms Web Services en Mono toepassingen
+description: C# VB.NET ASP.NET-bibliotheek om 3D-bestanden voor lezen, converteren en wijzigen te maken in Windows Forms Web Services en Mono-toepassingen
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D API\'s voor bestandsmanipulatie" h2="3D bestandsindelingen lezen, schrijven, manipuleren en converteren binnen een op .NET gebaseerde toepassing." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D API\'s voor bestandsmanipulatie" h2="Lees, schrijf, manipuleer en converteer 3D bestandsindelingen binnen elke op .NET gebaseerde toepassing." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET is een feature-rijke Gameware en Computer-Aided-Designing (CAD) API om documenten te manipuleren zonder 3D modellering en rendering van software-afhankelijkheden. API ondersteunt Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bestandsindelingen en meer. Ontwikkelaars kunnen eenvoudig de inhoud van 3D documentformaten maken, lezen, converteren, wijzigen en controleren.
+ Aspose.3D for .NET is een feature-rijke gameware en Computer-Aided-Designing (CAD) API om documenten te manipuleren zonder enige 3D afhankelijkheden van modellering en weergavesoftware. API ondersteunt Discreet3DS, WavefrontOBJ, FBX (ASCII, Binair), STL (ASCII, Binair), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bestandsindelingen en meer. Ontwikkelaars kunnen eenvoudig 3D documentformaten creëren, lezen, converteren, wijzigen en beheren.
 </p>
 
 <p>
- Aspose.3D for .NET API is gebruiksvriendelijk en kan worden geïmplementeerd met elke .NET applicatie die net zo eenvoudig is als het kopiëren zonder dat u zich zorgen hoeft te maken over andere services en modules die al zijn geïnstalleerd.
+ Aspose.3D for .NET API is gebruiksvriendelijk en kan met elke .NET-toepassing worden geïmplementeerd, net zo eenvoudig als het kopiëren ervan zonder dat u zich zorgen hoeft te maken over andere services en modules die al zijn geïnstalleerd.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -36,10 +36,10 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    </header>
    <ul>
     <li>
-     Scène
+     Tafereel
     </li>
     <li>
-     Mesh
+     gaas
     </li>
     <li>
      PolygonBuilder
@@ -54,7 +54,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
      Quaternion
     </li>
     <li>
-     Onroerend goed
+     Eigendom
     </li>
     <li>
      VertexElementUV
@@ -63,7 +63,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     hoekpunt
     </li>
     <li>
      Doos
@@ -75,7 +75,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
      Vliegtuig
     </li>
     <li>
-     Bol
+     Gebied
     </li>
     <li>
      Torus
@@ -91,40 +91,40 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    </header>
    <ul>
     <li>
-     Maak scènes
+     Scènes maken
     </li>
     <li>
-     Creëer gaasoppervlak
+     Maak een mesh-oppervlak
     </li>
     <li>
-     Veelhoek Triangulatie
+     Veelhoek triangulatie
     </li>
     <li>
-     Gespleten gaas door materiaal
+     Mesh splitsen op materiaal
     </li>
     <li>
-     Normaal instellen voor grafische afbeeldingen
+     Instelling normaal voor afbeeldingen
     </li>
     <li>
-     Setup UV voor graphics
+     UV instellen voor afbeeldingen
     </li>
     <li>
-     Triangulaat gaas
+     Driehoekig gaas
     </li>
     <li>
-     Deel Mesh-geometriegegevens
+     Mesh-geometriegegevens delen
     </li>
     <li>
-     Voeg materiaal toe aan object
+     Materiaal aan object toevoegen
     </li>
     <li>
      Doelcamera toevoegen
     </li>
     <li>
-     Geef 3D weergave in afbeeldingen
+     Render 3D Weergeven in afbeeldingen
     </li>
     <li>
-     Cast en ontvang schaduwen
+     Cast &amp; Schaduwen ontvangen
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Onafhankelijkheid van het platform" description="Aspose.3D for .NET ondersteunt het .NET framework." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.3D for .NET ondersteunt het .NET-framework." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    .NET Kader
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET kern
+    .NET Kern
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -205,25 +205,25 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.3D for .NET [Ondersteunt beroemde 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Bestandsformaten." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.3D for .NET [ondersteunt beroemde 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  bestandsformaten." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/output
+    Invoer uitvoer
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2 tot 7.5 (ASCII/Binair)
+     FBX 7,2 tot 7,5 (ASCII/Binair)
     </li>
     <li>
      <b>
-      3D systemen CAD:
+      3D Systemen CAD:
      </b>
      STL (ASCII/Binair)
     </li>
@@ -235,7 +235,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     </li>
     <li>
      <b>
-      Discrete 3D studio:
+      Discrete 3D Studio:
      </b>
      3DS
     </li>
@@ -253,7 +253,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     </li>
     <li>
      <b>
-      GL Transmissie:
+      GL-transmissie:
      </b>
      glTF (ASCII/Binair)
     </li>
@@ -277,9 +277,9 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     </li>
     <li>
      <b>
-      Anderen:
+      anderen:
      </b>
-     AMF, PLY (ASCII/Binary), A3DW
+     AMF, PLY (ASCII/Binair), A3DW
     </li>
    </ul>
   </div>
@@ -289,7 +289,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Alleen input
+    Alleen invoer
    </header>
    <ul>
     <li>
@@ -308,7 +308,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
      DXF
     </li>
     <li>
-     3MF (3D productieformaat)
+     3MF (3D Productie-indeling)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen output
+    Alleen uitvoer
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Geavanceerde .NET 3D API-functies
+    Geavanceerde .NET 3D API functies
    </h2>
    <p>
    </p>
@@ -368,21 +368,21 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creëer een 3D scene en sla op in het ondersteunde formaat
+     Maak 3D scène &amp; opslaan in het ondersteunde formaat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Laad, bewaar en converteer bestanden naar een stream
+     Laden, opslaan &amp; bestanden converteren naar een stream
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werk met geometrie en scènehiërarchie
+     Werken met geometrie &amp; scène hiërarchie
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,77 +403,77 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a Mesh met aangepaste geheugenlay-out van de Vertex
+     Trianguleer een mesh met aangepaste geheugenlay-out van de vertex
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Voeg een doelcamera toe in scène
+     Een doelcamera toevoegen in scène
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Animatierobjecten in een scène
+     Animeren van objecten in een scène
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gespleten Mazen per Materiaal
+     Mesh splitsen op materiaal
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geef een 3D weergave in de afbeeldingsindeling
+     Render een 3D-weergave in de afbeeldingsindeling
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cast en ontvang schaduwen op geometrieën
+     Werp en ontvang schaduwen op geometrieën
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Laat de oriëntaties van het vliegtuig wijzigen
+     Wijziging van de oriëntatie van het vlak toestaan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verbeter de creatie van cilinder
+     Verbeter de creatie van cilinder:
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vulkan renderer-ondersteuning toegevoegd
+     Ondersteuning voor vulkan-renderer toegevoegd
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Maak geometrie door vormen te extruderen
+     Creëer geometrie door vormen te extruderen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     UV-atlas algoritme ondersteuning
+     Ondersteuning voor UV-atlasalgoritme
     </p>
    </div>
    <div class="col-lg-4">
@@ -487,26 +487,26 @@ description: C# VB.NET ASP.NET bibliotheek om leesbestanden te maken en 3D besta
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX import en binaire schrijfondersteuning
+     FBX ondersteuning voor importeren en binair schrijven
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     glTF bestanden exporteren en importeren met draco-compressie
+     Exporteer en importeer glTF bestanden met draco-compressie
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D conversie van bestandsindeling
+     3D Conversie van bestandsindeling
     </h2>
     <p>
-     Aspose.3d for .NET biedt een reeks geavanceerde algoritmen die het een alles-in-één oplossing maken voor de conversie van 3D bestandsindelingen. Het conversieproces is net zo eenvoudig als het wijzigen van de bestandsextensie naar het gewenste formaat. Het enige dat u hoeft te doen, is het bronbestand in een instantie van Scene te laden en de methode Opslaan met een geschikte FileFormat-parameter aan te roepen. Dat is het!
+     Aspose.3d for .NET biedt een reeks geavanceerde algoritmen waardoor het een alles-in-één-oplossing is voor het converteren van 3D bestandsindelingen. Het conversieproces is net zo eenvoudig als het wijzigen van de bestandsextensie naar het gewenste formaat. Het enige dat u hoeft te doen, is het bronbestand in een instantie van Scene te laden en de Save-methode aan te roepen met een geschikte FileFormat-parameter. Dat is het!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Bespaar 3D scene in verschillende formaten- C#
+      Sla 3D scene op in verschillende formaten - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Scenes Creatie
+     3D Scènes maken
     </h2>
     <p>
-     Aspose.3D for .NET stelt programmeurs in staat om eenvoudig scènes te genereren zonder dat ze 3D modellerings-of renderingsoftware hoeven te installeren. De 3D .NET API maakt het ook mogelijk om de scènes op te slaan in formaten (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D en Collada) door de methode Opslaan van het object Scene class aan te roepen.
+     Aspose.3D for .NET stelt programmeurs in staat om eenvoudig vanaf het begin scènes te genereren zonder dat ze 3D-modellerings- of renderingsoftware hoeven te installeren. De 3D .NET API maakt het ook mogelijk om de scènes op te slaan in formaten (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D en Collada) door de Save-methode van de Scene klasse-object.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Asset-informatie toevoegen aan 3D scène
+     Asset-informatie toevoegen aan 3D Scene
     </h2>
     <p>
-     Metadata is gestructureerde informatie die een informatiebron beschrijft, lokaliseert en gemakkelijker maakt. Met Aspose.3D for .NET API kunnen ontwikkelaars Metadata voor de scène definiëren.
+     Metadata is gestructureerde informatie die een informatiebron beschrijft, lokaliseert en gemakkelijker maakt om op te halen, te gebruiken en te beheren. Aspose.3D for .NET API stelt ontwikkelaars in staat metadata voor de scène te definiëren.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Creëer 3D gaas en grafische vormen
+     Maak 3D Mesh &amp; Grafische vormen
     </h2>
     <p>
-     Met de .NET 3D-bibliotheek kunnen ontwikkelaars een netwerk van verschillende 3D geometrische vormen maken, controlepunten en polygonen definiëren op de eenvoudigste manier om mazen te maken en een mesh te richten op meerdere instanties van een vormtype. Ontwikkelaars kunnen ook 3D vormen overal in de 3D scene plaatsen.
+     Met de .NET 3D-bibliotheek kunnen de ontwikkelaars een mesh maken van verschillende 3D geometrische vormen, controlepunten en polygonen op de eenvoudigste manier definiëren om meshes te maken en een mesh naar meerdere instanties van een vormtype verwijzen. Ontwikkelaars kunnen 3D-vormen ook overal in de 3D-scène plaatsen.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,10 +559,10 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Deel Mesh-geometriegegevens met meerdere knooppunten
+     Mesh-geometriegegevens delen met meerdere knooppunten
     </h2>
     <p>
-     Om geheugenbehoeften te verminderen, kan een enkel exemplaar van Mesh worden gebonden aan verschillende instanties van Node. Stel je voor dat je een systeem nodig hebt waarbij een groot aantal 3D kubussen niet te onderscheiden leek; je zou geheugen kunnen sparen door één Mesh-object te maken wanneer het systeem begint. Op dat moment maak je elke keer dat je een andere vorm nodig hebt een ander knooppunt-object en wijs je dat knooppunt naar één Mesh. Dit is hoe API instancing beheert.
+     Om geheugenbehoeften te verminderen, kan een enkele instantie van Mesh worden gekoppeld aan verschillende instanties van Node. Stel je voor dat je een systeem nodig hebt waarin een groot aantal 3D kubussen niet te onderscheiden leek; je zou geheugen kunnen sparen door één Mesh-object te maken wanneer het systeem opstart. Op dat moment, elke keer dat je een andere vorm nodig hebt, maak je een ander Node-object en wijs je dat knooppunt naar een Mesh. Dit is hoe API de instantie beheert.
     </p>
    </div>
    <div class="col-lg-12">
@@ -570,15 +570,15 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      Triangulate Mesh met aangepaste geheugenlay-out van Vertex
     </h2>
     <p>
-     Converteer een mesh naar de driehoek mesh omdat elke complexe structuur kan worden weergegeven als een stel driehoeken. De grafische softwarepakketten en hardwareapparaten werken efficiënter op driehoeken. De geheugenlay-out van Vertex is ook belangrijk om de GPU (Graphics Processing Unit) te voeden, omdat de GPU ook op de hoogte moet zijn van de vertex-lay-out om de juiste attributen uit de buffer te halen.
+     Converteer een mesh naar de driehoek mesh omdat elke complexe structuur kan worden weergegeven als een aantal driehoeken. De grafische softwarepakketten en hardwareapparaten werken efficiënter op driehoeken. De geheugenlay-out van Vertex is ook belangrijk om de GPU (Graphics Processing Unit) te voeden, omdat de GPU ook de vertex-layout moet kennen om de juiste attributen uit de buffer te halen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Onafhankelijk van een externe software-installatie
+     Onafhankelijk van enige externe software-installatie
     </h2>
     <p>
-     Aspose.3D API is gebouwd met beheerde code die nooit afhankelijk is van externe API of software-installatie op de machine om met 3D bestanden te werken. Het is een perfect op maat gemaakte oplossing in termen van ondersteunde functies, veiligheid, stabiliteit, schaalbaarheid, snelheid en prijs.
+     Aspose.3D API is gebouwd met beheerde code die nooit afhankelijk is van externe API of software-installatie op de computer om met 3D-bestanden te werken. Het is een perfect op maat gemaakte oplossing in termen van ondersteunde functies, veiligheid, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>
@@ -593,11 +593,11 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API referenties" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Video\'s" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referenties" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo\'s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Productondersteuning" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
@@ -605,7 +605,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.3D for .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten Lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D biedt individuele 3D verwerkings-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D biedt afzonderlijke 3D verwerkings-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D ドキュメント処理 API - Aspose 
+title: C#.NET3Dドキュメント処理API-Aspose 
 weight: 1020
 url: /ja/net/ 
-description: C# VB.NET ASP.NET ライブラリを作成し、WindowsフォームWebサービスおよび Mono アプリケーションで 3D ファイルを変更します
+description: C# VB .NET ASP .NETライブラリを使用して、WindowsフォームWebサービスおよびMonoアプリケーションで読み取り変換および変更3Dファイルを作成します
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D ファイル操作API" h2=".NET ベースのアプリケーション内で 3D ファイル形式を読み取り、書き込み、操作、および変換します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET3Dファイル操作API" h2=".NETベースのアプリケーション内で3Dファイル形式の読み取り、書き込み、操作、および変換を行います。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET は、機能が豊富なゲームウェアおよびコンピューター支援設計 (CAD) API で、 3D のモデリングおよびレンダリングソフトウェアの依存関係なしにドキュメントを操作できます。 API は Discreet3DS 、 WavefrontOBJ 、 FBX (ASCII、Binary) 、 STL (ASCII、Binary) 、 Universal3D 、 Collada 、 glTF 、 GLB 、 PLY 、DirectX、 Google Draco ファイル形式など。開発者は、 3D のドキュメント形式の内容を簡単に作成、読み取り、変換、変更、および制御できます。
+ Aspose.3D for .NETは、機能が豊富なゲームウェアおよびコンピューター支援設計（CAD）APIであり、3Dモデリングおよびレンダリングソフトウェアに依存せずにドキュメントを操作します。 APIはDiscreet3DS、WavefrontOBJ、FBX（ASCII、バイナリ）、STL（ASCII、バイナリ）、Universal3D、Collada、glTF、GLB、PLY、 DirectX、GoogleDracoファイル形式など。開発者は、3Dドキュメント形式の実体を簡単に作成、読み取り、変換、変更、および制御できます。
 </p>
 
 <p>
- Aspose.3D for .NET API はユーザーフレンドリーで、すでにインストールされている他のサービスやモジュールを気にすることなく、 .NET アプリケーションをコピーするのと同じくらい簡単にデプロイできます。
+ Aspose.3D for .NET APIはユーザーフレンドリーで、すでにインストールされている他のサービスやモジュールを気にすることなく、コピーするのと同じくらい簡単に.NETアプリケーションでデプロイできます。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,7 +25,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="API の機能の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目で" description="APIの機能の概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -54,7 +54,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
      クォータニオン
     </li>
     <li>
-     プロパティ
+     財産
     </li>
     <li>
      VertexElementUV
@@ -63,10 +63,10 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
      VertexElementNormal
     </li>
     <li>
-     頂点
+     バーテックス
     </li>
     <li>
-     ボックス
+     箱
     </li>
     <li>
      シリンダー
@@ -75,7 +75,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
      飛行機
     </li>
     <li>
-     スフィア
+     球
     </li>
     <li>
      トーラス
@@ -87,44 +87,44 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
    <header>
     <i class="fa fa-bars">
     </i>
-    一般
+    全般的
    </header>
    <ul>
     <li>
-     シーンの作成
+     シーンを作成する
     </li>
     <li>
-     メッシュ表面の作成
+     メッシュサーフェスを作成する
     </li>
     <li>
-     ポリゴン三角測量
+     ポリゴンの三角形分割
     </li>
     <li>
-     材料による分割メッシュ
+     材料によるメッシュの分割
     </li>
     <li>
      グラフィックスの通常のセットアップ
     </li>
     <li>
-     グラフィックス用UVセットアップ
+     グラフィック用のUVの設定
     </li>
     <li>
-     三角メッシュ
+     メッシュを三角測量
     </li>
     <li>
-     メッシュ幾何学データの共有
+     メッシュジオメトリデータの共有
     </li>
     <li>
      オブジェクトにマテリアルを追加する
     </li>
     <li>
-     ターゲットカメラを追加
+     ターゲットカメラを追加する
     </li>
     <li>
-     画像で 3D ビューをレンダリング
+     3Dを画像で表示
     </li>
     <li>
-     キャスト & 影を受け取る
+     キャスト＆amp;影を受け取る
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.3D for .NET は .NET フレームワークをサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.3Dfor .NETは.NETフレームワークをサポートしています。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET フレームワーク
+    .NETフレームワーク
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET コア
+    .NETコア
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     .NET
    </small>
@@ -205,61 +205,61 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされるファイル形式" description="Aspose.3D for .NET [有名な 3D をサポート](https://docs.aspose.com/3d/net/supported-file-formats/)  ファイル形式。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.3D for .NET [有名な3Dをサポート](https://docs.aspose.com/3d/net/supported-file-formats/)  ファイル形式。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入力/出力
+    入出力
    </header>
    <ul>
     <li>
      <b>
-      オートデスク:
+      オートデスク：
      </b>
-     FBX 7.2 ~ 7.5 (ASCII/バイナリ)
+     FBX 7.2〜7.5（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      3D システム CAD:
+      3DシステムCAD：
      </b>
-     STL (ASCII/バイナリ)
+     STL（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      Wavefront:
+      Wavefront：
      </b>
      OBJ
     </li>
     <li>
      <b>
-      慎重な 3D スタジオ:
+      目立たない3Dスタジオ：
      </b>
      3DS
     </li>
     <li>
      <b>
-      Universal3D:
+      Universal3D：
      </b>
      U3D
     </li>
     <li>
      <b>
-      Collada:
+      Collada：
      </b>
      DAE
     </li>
     <li>
      <b>
-      GLトランスミッション:
+      GLトランスミッション：
      </b>
-     glTF (ASCII/バイナリ)
+     glTF（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      Google Draco:
+      Google Draco：
      </b>
      DRC
     </li>
@@ -267,19 +267,19 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
      <b>
       RVM
      </b>
-     (テキスト/バイナリ)
+     （テキスト/バイナリ）
     </li>
     <li>
      <b>
-      ポータブルドキュメント形式:
+      ポータブルドキュメントフォーマット：
      </b>
      PDF
     </li>
     <li>
      <b>
-      その他:
+      その他：
      </b>
-     AMF, PLY (ASCII/バイナリ), A3DW
+     AMF、PLY（ASCII /バイナリ）、A3DW
     </li>
    </ul>
   </div>
@@ -294,13 +294,13 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
    <ul>
     <li>
      <b>
-      DirectX:
+      DirectX：
      </b>
-     X (ASCII/バイナリ)
+     X（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      シーメンス:
+      シーメンス：
      </b>
      JT
     </li>
@@ -308,7 +308,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
      DXF
     </li>
     <li>
-     3MF (3D 製造フォーマット)
+     3MF（3D製造フォーマット）
     </li>
     <li>
      ASE
@@ -339,7 +339,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度な .NET 3D API 機能
+    高度な.NET3DAPI機能
    </h2>
    <p>
    </p>
@@ -368,21 +368,21 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D シーンを作成 & サポートされている形式で保存
+     3Dシーンを作成＆amp;サポートされている形式で保存
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ファイルの読み込み、保存、ストリームへの変換
+     ロード、保存、ファイルをストリームに変換する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ジオメトリとシーンの階層を操作する
+     ジオメトリを操作する＆amp;シーン階層
     </p>
    </div>
    <div class="col-lg-4">
@@ -396,14 +396,14 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シーンドキュメントにアニメーションプロパティを追加する
+     アニメーションプロパティをシーンドキュメントに追加します
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     頂点のカスタムメモリレイアウトでメッシュを三角測量する
+     頂点のカスタムメモリレイアウトを使用してメッシュを三角形分割する
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,49 +417,49 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シーン内のオブジェクトをアニメーション化する
+     シーン内のオブジェクトをアニメートする
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     材料による分割メッシュ
+     メッシュを材料で分割
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     イメージ形式で 3D ビューをレンダリングする
+     3Dビューを画像形式でレンダリングする
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     幾何学で影をキャストして受け取る
+     ジオメトリでシャドウをキャストおよび受信する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     変更平面の向きを許可する
+     平面の方向を変更できるようにする
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シリンダーの作成を高めて下さい
+     円柱の作成を強化する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vulkan rendererのサポートを追加
+     Vulkanレンダラーのサポートが追加されました
     </p>
    </div>
    <div class="col-lg-4">
@@ -480,33 +480,33 @@ description: C# VB.NET ASP.NET ライブラリを作成し、Windowsフォーム
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     標準3D印刷形式 AMF のサポート
+     標準の3D印刷フォーマットのサポートAMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX インポートとバイナリ書き込みのサポート
+     FBXインポートとバイナリ書き込みのサポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draco圧縮で glTF ファイルをエクスポートおよびインポート
+     draco圧縮を使用してglTFファイルをエクスポートおよびインポートする
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D ファイル形式の変換
+     3Dファイル形式の変換
     </h2>
     <p>
-     Aspose.3d for .NET は、 3D ファイル形式変換のためのオールインワンソリューションとなる高度なアルゴリズムの配列を提供します。変換プロセスは、ファイル拡張子を目的の形式に変更するのと同じくらい簡単です。必要なのは、Sceneのインスタンスにソースファイルをロードし、適切なFileFormatパラメーターを使用してSaveメソッドを呼び出すことだけです。それだけだ!
+     Aspose.3d for .NETは、3Dファイル形式変換のオールインワンソリューションとなる一連の高度なアルゴリズムを提供します。変換プロセスは、ファイル拡張子を目的の形式に変更するのと同じくらい簡単です。あなたがする必要があるのは、Sceneのインスタンスにソースファイルをロードし、適切なFileFormatパラメータを使用してそのSaveメソッドを呼び出すことです。それでおしまい！
     </p>
     <div class="codeblock" id="code">
      <h3>
-      3D シーンをさまざまな形式で保存- C#
+      3Dシーンをさまざまな形式で保存します-C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D シーンの作成
+     3Dシーンの作成
     </h2>
     <p>
-     Aspose.3D for .NET プログラマーは、 3D モデリングやレンダリングソフトウェアをインストールすることなく、シーンをゼロから簡単に生成できるようにします。 3D .NET API は、SceneクラスオブジェクトのSaveメソッドを呼び出して、フォーマット (FBX 、 STL 、 WavefrontOBJ 、 Discreet3DS 、 Universal3D 、 Collada) でシーンを保存することもできます。
+     Aspose.3D for .NETを使用すると、プログラマーは3Dモデリングまたはレンダリングソフトウェアをインストールしなくても、シーンを最初から簡単に生成できます。 3D .NET APIでは、のSaveメソッドを呼び出すことにより、シーンを形式（FBX、STL、WavefrontOBJ、Discreet3DS、Universal3D、およびCollada）で保存することもできます。シーンクラスオブジェクト。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D シーンに資産情報を追加する
+     アセット情報を3Dシーンに追加
     </h2>
     <p>
-     メタデータは、情報リソースの取得、使用、管理を容易にする構造化情報です。 Aspose.3D for .NET API を使用すると、開発者はシーンのメタデータを定義できます。
+     メタデータは、情報リソースの取得、使用、および管理を説明、検索、および容易にする構造化された情報です。 Aspose.3D for .NET APIを使用すると、開発者はシーンのメタデータを定義できます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D 個のメッシュ & グラフィックシェイプを作成
+     3Dメッシュを作成＆amp;グラフィックシェイプ
     </h2>
     <p>
-     .NET 3D ライブラリを使用すると、開発者はさまざまな 3D の幾何学的形状のメッシュを構築し、メッシュを作成する最も簡単な方法で制御点とポリゴンを定義し、メッシュを形状タイプの複数のインスタンスにポイントします。開発者は、 3D シーンのどこにでも 3D シェイプを配置することもできます。
+     .NET 3Dライブラリを使用すると、開発者はさまざまな3D幾何学的形状のメッシュを作成し、最も簡単な方法で制御点とポリゴンを定義してメッシュを作成し、形状タイプの複数のインスタンスにメッシュを向けることができます。開発者は、3Dシーンのどこにでも3Dシェイプを配置できます。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     複数のノードでメッシュジオメトリデータを共有する
+     メッシュジオメトリデータを複数のノードと共有する
     </h2>
     <p>
-     メモリの必要性を減らすために、メッシュの単一のインスタンスをノードのさまざまなインスタンスにバインドできます。多数の 3D 個のキューブが区別できないと思われるシステムが必要であることを想像してみてください。システムの起動時に1つのMeshオブジェクトを作成することで、メモリを節約できます。その時点で、別の形状が必要になるたびに、別のノードオブジェクトを作成し、そのノードを1つのメッシュにポイントします。これは、 API がインスタンス化を管理する方法です。
+     メモリの必要性を減らすために、メッシュの単一のインスタンスをノードのさまざまなインスタンスにバインドできます。多数の3Dキューブが区別できないように見えるシステムが必要であると想像してください。システムの起動時に1つのメッシュオブジェクトを作成することで、メモリを節約できます。その時点で、別のシェイプが必要になるたびに、別のノードオブジェクトを作成し、そのノードを1つのメッシュにポイントします。これは、APIがインスタンス化を管理する方法です。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     頂点のカスタムメモリレイアウトで三角形のメッシュ
+     頂点のカスタムメモリレイアウトを使用したメッシュの三角形分割
     </h2>
     <p>
-     複雑な構造は三角形の束として表すことができるため、メッシュを三角形メッシュに変換します。グラフィックソフトウェアパッケージとハードウェアデバイスは、三角形上でより効率的に動作します。GPUはバッファから正しい属性を抽出するために頂点レイアウトについても知っている必要があるため、VertexのメモリレイアウトはGPU (Graphics Processing Unit) にフィードするためにも重要です。
+     複雑な構造は三角形の束として表すことができるため、メッシュを三角形メッシュに変換します。グラフィックソフトウェアパッケージとハードウェアデバイスは、三角形でより効率的に動作します。頂点のメモリレイアウトは、GPU（グラフィックスプロセッシングユニット）にフィードするためにも重要です。これは、GPUがバッファーから正しい属性を抽出するために、頂点レイアウトについても認識している必要があるためです。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     外部ソフトウェアのインストールから独立
+     外部ソフトウェアのインストールに依存しない
     </h2>
     <p>
-     Aspose.3D API は、外部の API または 3D ファイルで動作するマシンへのソフトウェアのインストールに依存しないマネージコードを使用して構築されています。サポートされている機能、セキュリティ、安定性、スケーラビリティ、スピード、価格の点で完全にカスタマイズされたソリューションです。
+     Aspose.3D APIは、3Dファイルを処理するためにマシン上の外部APIまたはソフトウェアインストールに依存することのないマネージコードを使用して構築されています。これは、サポートされる機能、セキュリティ、安定性、スケーラビリティ、速度、および価格の点で完全にカスタマイズされたソリューションです。
     </p>
    </div>
   </div>
@@ -591,21 +591,21 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/3d/net/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 件の参照" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="API参照" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="制品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="无料サポート" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/3d/" >}}
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Aspose.3D for .NET の理由" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="お客様リスト" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.3Dfor .NET" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D は、以下に示すように、他の一般的な開発環境向けの個別の 3D 処理APIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3Dは、以下に示すように、他の一般的な開発環境向けに個別の3D処理APIを提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D التلاعب بالملفات وتحويلها 
+title: Java 3D API | 3D معالجة الملفات والتحويل 
 weight: 2820
 url: /ar/java/ 
-description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراءة وتعديل 3D تنسيقات الملفات ضمن تطبيقات Java
+description: Gameware و CAD 3D مكتبة لإنشاء قراءة وتحويل وتعديل 3D تنسيقات الملفات داخل Java من التطبيقات
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D معالجة الملفات API" h2="إنشاء ملفات 3D ، التلاعب بها وحفظها بتنسيقات متعددة دون الحاجة إلى أي برنامج نمذجة وعرض خارجي." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D معالجة الملفات API" h2="يمكنك إنشاء ومعالجة وحفظ ملفات 3D بتنسيقات متعددة دون الحاجة إلى أي برامج عرض ونمذجة خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java عبارة عن برنامج ألعاب مستقل و CAD API لمعالجة ملفات 3D. يدعم API معظم تنسيقات الملفات الشائعة 3D ويمكن للتطبيقات إنشاء الملفات وقراءتها وتحويلها وتعديلها بسهولة. علاوة على ذلك ، يساعد API المطورين في نمذجة وإنشاء عوالم ألعاب ضخمة ، ومشاهد رائعة لتصور التصميم ، وإشراك تجارب الواقع الافتراضي ، وإضافة خاصية الرسوم المتحركة إلى ملف المشهد ، وتنسيق العناصر باستخدام التحولات وأكثر من ذلك بكثير.
+ Aspose.3D for Java هو برنامج ألعاب مستقل و CAD API لمعالجة 3D الملفات. يدعم API معظم 3D تنسيقات الملفات الشائعة والتطبيقات التي يمكنها الإنشاء والقراءة والتحويل & amp؛ تعديل الملفات بسهولة. علاوة على ذلك ، يساعد API المطورين في تصميم وإنشاء عوالم ألعاب ضخمة ، ومشاهد رائعة لتصور التصميم ، والمشاركة في تجارب الواقع الافتراضي ، وإضافة خاصية الرسوم المتحركة إلى ملف المشهد ، وتنسيق العناصر باستخدام التحولات وغير ذلك الكثير.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,7 +21,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="في لمحة" description="نظرة عامة على API." >}}
+{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على ملف API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -35,22 +35,22 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      مشهد
     </li>
     <li>
-     شبكة
+     مش
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     عقدة
+     العقدة
     </li>
     <li>
-     تحويل
+     تحول
     </li>
     <li>
-     رباعية
+     رباعي
     </li>
     <li>
-     الملكية
+     خاصية
     </li>
     <li>
      VertexElementUV
@@ -59,7 +59,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     فيرتكس
     </li>
     <li>
      صندوق
@@ -71,7 +71,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      طائرة
     </li>
     <li>
-     المجال
+     جسم كروى
     </li>
     <li>
      توروس
@@ -83,41 +83,41 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
    <header>
     <i class="fa fa-bars">
     </i>
-    ألف-عام
+    عام
    </header>
    <ul>
     <li>
-     إنشاء مشاهد
+     خلق المشاهد
     </li>
     <li>
-     إنشاء شبكة سطح
+     إنشاء سطح شبكي
     </li>
     <li>
      التثليث المضلع
     </li>
     <li>
-     انقسام شبكة بواسطة المواد
+     تقسيم شبكة حسب المواد
     </li>
     <li>
      الإعداد العادي للرسومات
     </li>
     <li>
-     إعداد الأشعة فوق البنفسجية للرسومات
+     قم بإعداد UV للرسومات
     </li>
     <li>
-     شبكة المثلثات
+     شبكة مثلثة
     </li>
     <li>
-     مشاركة بيانات الهندسة الشبكية
+     مشاركة بيانات هندسة الشبكة
     </li>
     <li>
-     إضافة مادة إلى كائن
+     إضافة مادة إلى الكائن
     </li>
     <li>
-     إضافة كاميرا الهدف
+     أضف الكاميرا المستهدفة
     </li>
     <li>
-     يلقي واستقبال الظلال
+     يلقي وأمبير. تلقي الظلال
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
   <footer>
    <small>
     <em>
-     ل
+     بالنسبة
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.3D for Java يدعم وقت التشغيل Java." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.3D for Java يدعم Java وقت التشغيل." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -157,10 +157,10 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
    </header>
    <ul>
     <li>
-     تطبيق JSP/JSF
+     تطبيق JSP / JSF
     </li>
     <li>
-     تطبيق سطح المكتب
+     تطبيقات سطح المكتب
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
   <footer>
    <small>
     <em>
-     ل
+     بالنسبة
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="API يدعم [تنسيقات الملفات المدرجة](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم API [تنسيقات الملفات المدرجة](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    المدخلات/الناتج
+    الإدخال / الإخراج
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      أوتوديسك:
      </b>
-     FBX 7.2 إلى 7.5 (ASCII/ثنائي)
+     FBX 7.2 إلى 7.5 (ASCII / ثنائي)
     </li>
     <li>
-     STL (ASCII/ثنائي)
+     STL (ASCII / ثنائي)
     </li>
     <li>
      <b>
@@ -229,7 +229,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      <b>
       انتقال GL:
      </b>
-     glTF (ASCII/ثنائي)
+     glTF (ASCII / ثنائي)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      <b>
       RVM
      </b>
-     (النص/ثنائي)
+     (نص / ثنائي)
     </li>
     <li>
      <b>
-      شكل المستند المحمول:
+      نموذج المستندات المحمولة:
      </b>
      PDF
     </li>
@@ -263,14 +263,14 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    المدخلات فقط
+    الإدخال فقط
    </header>
    <ul>
     <li>
      <b>
-      DirectX:
+      برنامج DirectX:
      </b>
-     X (ASCII/ثنائي)
+     X (ASCII / ثنائي)
     </li>
     <li>
      <b>
@@ -291,13 +291,13 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      VRML
     </li>
     <li>
-     DirectX: X
+     برنامج DirectX: X
     </li>
    </ul>
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    الناتج فقط
+    الإخراج فقط
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
   <footer>
    <small>
     <em>
-     ل
+     بالنسبة
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java 3D API ميزات متقدمة
+    الميزات المتقدمة Java 3D API
    </h2>
    <p>
    </p>
@@ -345,49 +345,49 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     توليد المشهد وحفظ في أشكال الدعم
+     إنشاء المشهد وحفظه في التنسيقات المدعومة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تحميل وحفظ وتقديم 3D مستند إلى تيار
+     تحميل وحفظ وتقديم مستند 3D إلى التدفق
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     العمل مع الهندسة والتسلسل الهرمي المشهد
+     العمل مع الهندسة والتسلسل الهرمي للمشهد
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     مشاركة بيانات هندسة الشبكة داخل عقد متعددة
+     مشاركة بيانات هندسة الشبكة ضمن عقد متعددة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إضافة خاصية الرسوم المتحركة إلى ملف المشهد
+     أضف خاصية الرسوم المتحركة إلى ملف المشهد
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     قم بتثليث شبكة مع تخطيط ذاكرة مخصص للرأس
+     قم بتثليث شبكة بتخطيط ذاكرة مخصص للرأس
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إضافة كاميرا مستهدفة بالإضافة إلى تحريك الكائنات في مشهد 3D
+     أضف كاميرا مستهدفة بالإضافة إلى تحريك الكائنات في مشهد 3D
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,35 +399,35 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     انقسام الشبكات حسب المواد
+     انقسام الشبكات حسب المادة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تغيير اتجاه الطائرة عن طريق تحديد ما يصل وضعها الطبيعي
+     قم بتغيير اتجاه الطائرة بتحديد ارتفاع عادي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     خلق الهندسة عن طريق البثق الأشكال
+     قم بإنشاء هندسة ببثق الأشكال
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تعزيز إنشاء اسطوانة
+     تعزيز تكوين الاسطوانة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تنسيق الملف القائم على الأرشيف-الكشف
+     الكشف عن تنسيق الملف المستند إلى الأرشيف
     </p>
    </div>
    <div class="col-lg-4">
@@ -441,7 +441,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استيراد وتصدير glTF من المستندات باستخدام ضغط Draco
+     استيراد وتصدير مستندات glTF باستخدام ضغط Draco
     </p>
    </div>
    <div class="col-lg-12">
@@ -449,11 +449,11 @@ description: Gameware و CAD 3D مكتبة لإنشاء تحويل القراء�
      بين تحويل ملفات المشهد
     </h2>
     <p>
-     يوفر API دعم تحويل تنسيق الملف 3D بطريقة بسيطة. يمكن للمطورين تحميل المستند المصدر في مثيل Scene ، واستخدام وظيفة حفظ مع معلمة FileFormat. هذا هو!
+     يوفر API دعمًا لتحويل تنسيق الملف 3D بطريقة بسيطة. يمكن للمطورين تحميل المستند المصدر في مثيل Scene ، واستخدام وظيفة Save الخاصة به مع معلمة FileFormat. هذا هو!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      حفظ 3D مشهد بتنسيقات مختلفة- Java
+      حفظ 3D مشهد بتنسيقات مختلفة - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     توليد 3D مشاهد عبر API
+     إنشاء 3D مشاهد عبر API
     </h2>
     <p>
-     Aspose.3D for Java يتيح للمطورين إنشاء مشاهد من الصفر دون اعتماد أي برنامج نمذجة. يعمل Java API أيضًا على تمكين المطورين من حفظ المشاهد بأي من التنسيقات المدعومة مثل (STL و FBX و Discreet3DS و WavefrontOBJ و Collada و Universal3D).
+     Aspose.3D for Java يتيح للمطورين إنشاء مشاهد من البداية بدون الاعتماد على أي برنامج نمذجة. يُمكّن Java API المطورين أيضًا من حفظ المشاهد بأي من التنسيقات المدعومة مثل (STL و FBX و Discreet3DS و WavefrontOBJ و Collada و Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      إنشاء مشهد بأشكال 3D بدائية- Java
+      إنشاء مشهد بأشكال 3D بدائية - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     بناء عقدة التسلسل الهرمي بطريقة بسيطة
+     بناء تسلسل هرمي للعقدة بطريقة بسيطة
     </h2>
     <p>
-     يوفر Aspose.3D for Java API القدرة على بناء تسلسل هرمي للعقدة حيث تكون العقدة هي اللبنة الأساسية للمشهد. يحدد التسلسل الهرمي للعقد الهيكل المنطقي ويوفر محتوى مرئي عن طريق ربط الأشكال الهندسية والأضواء والكاميرات بالعقد.
+     يوفر Aspose.3D for Java API القدرة على بناء تسلسل هرمي للعقدة حيث تكون العقدة هي لبنة البناء الأساسية للمشهد. يحدد التسلسل الهرمي للعقد البنية المنطقية ويوفر محتوى مرئيًا عن طريق ربط الأشكال الهندسية والأضواء والكاميرات بالعقد.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     إضافة خاصية الرسوم المتحركة إلى المشهد
+     أضف خاصية الرسوم المتحركة إلى المشهد
     </h2>
     <p>
-     يوفر Aspose.3D for Java API دعمًا للرسوم المتحركة للإطار الرئيسي عبر CurveMapping الذي يرسم خرائط مكونات خاصية إلى منحنيات مختلفة. علاوة على ذلك ، تقدم المكتبة إعداد الكاميرا المستهدفة في ملف 3D وهو أمر مفيد في الرسوم المتحركة عندما تحتاج إلى الكاميرا لمواجهة عقدة معينة.
+     يوفر Aspose.3D for Java API دعمًا للرسوم المتحركة للإطار الرئيسي عبر CurveMapping والتي تعين مكونات خاصية ما إلى منحنيات مختلفة. علاوة على ذلك ، تقدم المكتبة إعداد الكاميرا المستهدفة في ملف 3D وهو أمر مفيد في الرسوم المتحركة عندما تحتاج إلى الكاميرا لمواجهة عقدة معينة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     المتانة والأداء والتطوير
+     المتانة والأداء & أمبير ؛ ؛ قابلية التوسع
     </h2>
     <p>
-     تم تصميم Aspose.3D for Java ليؤدي أداءً جيدًا على الخادم أو جانب العميل. إنه تجميع واحد Java يمكن نشره مع أي تطبيق Java بمجرد إضافة مرجعه. لا داعي للقلق بشأن الخدمات أو الوحدات الأخرى أثناء العمل مع API.
+     تم تصميم Aspose.3D for Java لتقديم أداء جيد على قدم المساواة من جانب الخادم أو العميل. إنه تجميع واحد Java يمكن نشره مع أي تطبيق Java ببساطة عن طريق إضافة مرجعه. لا داعي للقلق بشأن الخدمات أو الوحدات النمطية الأخرى أثناء العمل مع API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,30 +556,30 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="موارد التعلم" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="الوثائق" href="https://docs.aspose.com/3d/java/" >}}
-{{< blocks/products/pf/slr-element name="شفرة المصدر" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API مراجع" href="https://apireference.aspose.com/3d/java" >}}
-{{< blocks/products/pf/slr-element name="فيديو تعليمي" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/3d/java/" >}}
+{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="الافراج عن ملاحظات" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/3d/" >}}
+{{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.3D for Java" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="تقدم Aspose.3D واجهات برمجة تطبيقات معالجة فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D يقدم 3D واجهات برمجة تطبيقات معالجة فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

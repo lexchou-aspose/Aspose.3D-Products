@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Çıkarıcı Çözüm 
+title: 3D Çıkarıcı Çözümü 
 weight: 7730
 url: /tr/extractor
 limit: 

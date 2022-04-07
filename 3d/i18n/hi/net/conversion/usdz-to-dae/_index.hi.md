@@ -1,6 +1,6 @@
 ﻿---
-title: कन्वर्ट USDZ करने के लिए DAE के माध्यम से C# 
-description: कन्वर्ट USDZ और अन्य 3D फ़ाइलों का उपयोग .NET API
+title: C# के माध्यम से USDZ को DAE में बदलें 
+description: .NET API का उपयोग करके USDZ और अन्य 3D फ़ाइलों को रूपांतरित करें
 url: /hi/net/conversion/usdz-to-dae/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: DAE
 otherformats: DRC HTML DAE ASE STL PLY 3MF OBJ 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="कन्वर्ट USDZ करने के लिए DAE के माध्यम से C#" h2="निर्यात USDZ और अन्य 3D फ़ाइलों का उपयोग .NET ढांचे, .NET कोर और Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# के माध्यम से USDZ को DAE में बदलें" h2=".NET फ्रेमवर्क, .NET कोर और Mono का उपयोग करके USDZ और अन्य 3D फ़ाइलें निर्यात करें" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="निर्यात USDZ दृश्य के रूप में DAE के साथ C#" %}}
-1. लोड USDZ फ़ाइल का उपयोग कर के एक constructor [दृश्य](https://apireference.aspose.com/3d/net/aspose.threed/scene) वर्ग2. कॉल [दृश्य. Save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) विधि
-3. Pass आउटपुट फ़ाइल नाम के साथ. डीएई विस्तार के रूप में पहली पैरामीटर
-4. निर्दिष्ट 'Collada' क्षेत्र से मूल्य [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) वर्ग
+{{% blocks/products/pf/agp/feature-section-col title="C# के साथ USDZ दृश्य को DAE के रूप में निर्यात करें" %}}
+1. के कंस्ट्रक्टर का उपयोग करके USDZ फ़ाइल लोड करें [दृश्य](https://apireference.aspose.com/3d/net/aspose.threed/scene) कक्षा2. कॉल [दृश्य। सहेजें](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) तरीका
+3. पहले पैरामीटर के रूप में .dae एक्सटेंशन के साथ आउटपुट फ़ाइल नाम पास करें
+4. से `Collada` फ़ील्ड मान निर्दिष्ट करें [फाइल प्रारूप](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) कक्षा
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D प्रारूप रूपांतरण API for .NET" %}}
-से स्थापित कमांड लाइन के रूप में '''nuget स्थापित Aspose.3d विजुअल स्टूडियो के लिए '''या के माध्यम से पैकेज प्रबंधक की कंसोल के साथ '''Install-पैकेज Aspose.3D के लिए'''.
+{{% blocks/products/pf/agp/feature-section-col title="3D रूपांतरण प्रारूपित करें API for .NET" %}}
+कमांड लाइन से ``nuget install Aspose.3d``` के रूप में या ```इंस्टॉल-पैकेज Aspose.3D``` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, ऑफ़लाइन प्राप्त एमएसआई में संस्थापक या DLLs कार्यों के साथ एक ZIP से फ़ाइल [डाउनलोड](https://downloads.aspose.com/3d/net)है।
+वैकल्पिक रूप से, ऑफ़लाइन MSI इंस्टॉलर या DLL को ZIP फ़ाइल से प्राप्त करें [डाउनलोड](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# कोड के लिए USDZ करने के लिए DAE रूपांतरण" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# USDZ से DAE रूपांतरण के लिए कोड" gistPath="" %}}
 ```cs
-// लोड USDZ में एक वस्तु के दृश्य 
+// सीन के ऑब्जेक्ट में USDZ लोड करें 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// बचाने USDZ के रूप में कार्यों के साथ एक DAE 
+// USDZ को DAE के रूप में सहेजें 
 scene.Save("output.dae", Aspose.ThreeD.FileFormat.Collada);
 
 ```

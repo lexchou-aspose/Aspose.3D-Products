@@ -1,65 +1,65 @@
 ﻿---
-title: Magas kód api & ingyenes alkalmazások 3D fájlok manipuláció 
+title: High Code API-k és ingyenes alkalmazások 3D fájlkezeléshez 
 weight: 1460
 url: /hu/
-description: Szerkesztés és konvertálás 3D fájlok létrehozása. Nem 3D modellező szoftver szükséges. Munka geometriával, jelenet hierarchia, megosztás vagy osztott hálók, animál objektumok, hozzá egy célkamera.
+description: 3D fájl létrehozása és konvertálása. Nincs szükség 3D modellező szoftverre. Dolgozzon geometriával, jelenet-hierarchiával, osszon meg vagy osszon fel hálókat, animáljon objektumokat, és adjon hozzá célzó kamerát.
 google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D fájlformátum megoldás" h2="Natív api-k és alkalmazások kínálnak funkciók olvasni, szerkeszteni és átalakítani 3D fájlok anélkül, hogy bármilyen 3D modellezés vagy renderelés szoftver." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D termékmegoldás" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D Fájlformátum megoldás" h2="Natív API-k és alkalmazások, amelyek 3D fájlok olvasására, szerkesztésére és konvertálására kínálnak szolgáltatásokat anélkül, hogy 3D modellező vagy megjelenítő szoftvert igényelnének." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Termékmegoldás" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.3D magas kódú api-k közé tartoznak" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.3D Magas kódú API-k:" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
-Magas kódú api-k a windows forms, asp .NET, wpf, wcf vagy bármilyen típusú alkalmazás .NET framework 2.0 vagy újabb alapján.
+High Code API-k a Windows Forms, ASP.NET, WPF, WCF vagy bármilyen típusú, .NET Framework 2.0 vagy újabb verzióján alapuló alkalmazás célzására.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productLink="/3d/java" >}}
-Natív Java api-k a Java se vagy ee alapú asztali, webes vagy bármilyen alkalmazásra.
+Natív Java API-k asztali számítógéphez, webhez vagy bármilyen alkalmazáshoz, amelyek Java SE vagy EE alapúak.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/3d/family/" innerText="View all high code api" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/3d/family/" innerText="Az összes High Code API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.3D alacsony kódú api-k tartalmazzák" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.3D Alacsony kódú API-k" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Felhő cURL" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-curl.png" productLink="https://products.aspose.cloud/3d/curl" >}}
-cURL parancsok 3D modellek és 3D objektumok eléréséhez, amelyek a felhőn vannak elhelyezve, az egyszerű feldolgozás és manipuláció érdekében.
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Felhő ehhez: cURL" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-curl.png" productLink="https://products.aspose.cloud/3d/curl" >}}
+cURL parancsok a felhőben tárolt 3D modellek és 3D objektumok elérésére az egyszerű feldolgozás és kezelés érdekében.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud sdk for .NET" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-net.png" productLink="https://products.aspose.cloud/3d/net" >}}
-Fokozza a C#, asp .NET és visual studio kódot a felhőalapú 3D objektumok és 3D entitások létrehozásához, átalakításához és átalakításához.
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-net.png" productLink="https://products.aspose.cloud/3d/net" >}}
+Javítsa C#, ASP.NET és Visual Studio kódját felhőalapú 3D objektumok és 3D entitások létrehozásához, átalakításához és konvertálásához.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud sdk for Java" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-java.png" productLink="https://products.aspose.cloud/3d/java" >}}
-Java programok létrehozásához és feldolgozásához 3D doboz, 3D henger, 3D sík és egyéb 3D entitások a felhőben.
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-java.png" productLink="https://products.aspose.cloud/3d/java" >}}
+Építsen Java programot 3D Box, 3D Cylinder, 3D Plane és egyéb 3D entitások létrehozásához és feldolgozásához a felhőben.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/3d/family" innerText="View all low code api" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/3d/family" innerText="Az összes alacsony kódú API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.3D kód alkalmazások nem tartalmaznak" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.3D Nincsenek kódalkalmazások" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Konverzió" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/3d/conversion" >}}
-A free app kínál funkciókat a 3D fájlok autodesk, Wavefront, 3D studio és Draco formátumokra történő átalakítására.
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Átalakítás" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/3d/conversion" >}}
+Az ingyenes alkalmazás funkciókat kínál 3D fájlok Autodesk, Wavefront, 3D Studio és Draco formátumokká konvertálására.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/3d/family" innerText="Minden nincs kód alkalmazások" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/3d/family" innerText="Az összes kód nélküli alkalmazás megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak vegye fel a szavunkat. Nézze meg, hogy a felhasználók mit mondanak Aspose-ről." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók a következőről: Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- A API használata könnyedén biztosítja a fejlesztők elégedettségét, hogy „ elvégezték a munkát ”az egyszerű és tiszta kóddal, és a végtermék robusztusa boldoggá teszi ügyfeleinket. Minden bizonnyal javasoljuk Aspose minden. Nettó cégek, akik szeretnének dolgozni gyakorlatilag bármilyen típusú fájl alkalmazásaiban.
+ A(z) API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket. Határozottan ajánljuk a(z) Aspose alkalmazást minden olyan .Net-cégnek, aki gyakorlatilag bármilyen típusú fájllal szeretne dolgozni az alkalmazásaiban.
  <em>
-  Igor klafke | w3k tecnologia, brazília
+  Igor Klafke | W3K Tecnologia, Brazília
  </em>
 </p>
 
@@ -67,9 +67,9 @@ A free app kínál funkciókat a 3D fájlok autodesk, Wavefront, 3D studio és D
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose hozzájárult a doco nagy sikeréhez. Ezért javasoljuk Aspose.Total komponenseket a word dokumentumok, excel lapok, PDF vagy powerpoint diavetítések létrehozásához, kezeléséhez és manipulálásához.
+ Aspose hozzájárult a DOCO nagy sikeréhez. Ezért a Word-dokumentumok, Excel-lapok, PDF- vagy PowerPoint-diavetítések létrehozásához, kezeléséhez és manipulálásához Aspose.Total komponenst ajánlunk.
  <em>
-  Stefan studer | nowhow solutions ag, svájc
+  Stefan Studer | nowhow solutions AG, Svájc
  </em>
 </p>
 

@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D zpracování dokumentů API - Aspose 
+title: C# .NET 3D Zpracování dokumentu API – Aspose 
 weight: 1020
 url: /cs/net/ 
-description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a upravit 3D soubory v windows forms web services a Mono aplikacích
+description: Knihovna C# VB.NET ASP.NET k vytváření souborů pro čtení, převod a úpravu 3D souborů ve webových službách Windows Forms a aplikacích Mono
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D apis manipulace s souborem" h2="Read, write, manipulate and convert 3D file formats within any .NET-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D Rozhraní API pro manipulaci se soubory" h2="Číst, zapisovat, manipulovat a převádět formáty souborů 3D v jakékoli aplikaci založené na .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET is a feature-rich gameware and computer-aided-designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API podporuje Discreet3DS, WavefrontOBJ, FBX (ascii, binární), STL (ascii, binární), Universal3D, Collada, glTF, GLB, PLY, directx, Google Draco formáty souborů a další. Vývojáři mohou snadno vytvořit, číst, převést, upravit a ovládat obsah formátů 3D.
+ Aspose.3D for .NET je herní software a počítačově podporované navrhování (CAD) API s bohatými funkcemi pro manipulaci s dokumenty bez jakékoli závislosti na softwaru 3D pro modelování a vykreslování. API podporuje Discreet3DS, WavefrontOBJ, FBX (ASCII, binární), STL (ASCII, binární), Universal3D, Collada, glTF, GLB, PLY, DirectX, formáty souborů Google Draco a další. Vývojáři mohou snadno vytvářet, číst, převádět, upravovat a ovládat podstatu 3D formátů dokumentů.
 </p>
 
 <p>
- Aspose.3D for .NET API is user-friendly and can be deployed with any .NET application as easy as copying it without worry about other services and modules that are already installed.
+ Aspose.3D for .NET API je uživatelsky přívětivý a lze jej nasadit s libovolnou aplikací .NET, stačí ji zkopírovat, aniž byste se museli starat o další služby a moduly, které jsou již nainstalovány.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,21 +25,21 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na pohled" description="Přehled možností API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled možností služby API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Model objektu
+    Objektový model
    </header>
    <ul>
     <li>
      Scéna
     </li>
     <li>
-     Síť
+     Pletivo
     </li>
     <li>
      PolygonBuilder
@@ -48,22 +48,22 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
      Uzel
     </li>
     <li>
-     Transformace
+     Přeměnit
     </li>
     <li>
-     Kvaternion
+     Čtveřice
     </li>
     <li>
-     Majetek
+     Vlastnictví
     </li>
     <li>
-     Vertexelementuv
+     VertexElementUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Vrchol
     </li>
     <li>
      Krabice
@@ -87,32 +87,32 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
    <header>
     <i class="fa fa-bars">
     </i>
-    General
+    Všeobecné
    </header>
    <ul>
     <li>
-     Vytvořit scény
+     Vytvářejte scény
     </li>
     <li>
-     Vytvořit povrch ok
+     Vytvořte síťový povrch
     </li>
     <li>
-     Triangulace polygónu
+     Polygonová triangulace
     </li>
     <li>
      Rozdělit síť podle materiálu
     </li>
     <li>
-     Nastavení normální pro grafiku
+     Nastavení Normální pro grafiku
     </li>
     <li>
-     Nastavení uv pro grafiku
+     Nastavení UV pro grafiku
     </li>
     <li>
-     Triangulátní síť
+     Triangulovat síť
     </li>
     <li>
-     Sdílet údaje o geometrii ok
+     Sdílejte data geometrie sítě
     </li>
     <li>
      Přidat materiál k objektu
@@ -121,10 +121,10 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
      Přidat cílovou kameru
     </li>
     <li>
-     Render 3D view in images
+     Vykreslit 3D Zobrazit v obrázcích
     </li>
     <li>
-     Cast & receive shadows
+     Cast &amp; Přijímejte stíny
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost platformy" description="Aspose.3D for .NET podporuje rámec .NET." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.3D for .NET podporuje rámec .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET framework
+    .NET Rámec
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET jádro
+    .NET Jádro
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.3D for .NET [Podporuje slavný 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Formáty souborů." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.3D for .NET [podporuje slavný 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  formáty souborů." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup/výstup
+    Vstup výstup
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7,2 až 7,5 (ascii/binární)
+     FBX 7,2 až 7,5 (ASCII/binární)
     </li>
     <li>
      <b>
-      3D systems CAD:
+      3D Systémy CAD:
      </b>
-     STL (ascii/binární)
+     STL (ASCII/binární)
     </li>
     <li>
      <b>
@@ -235,7 +235,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
     </li>
     <li>
      <b>
-      Diskrétní 3D studio:
+      Diskrétní studio 3D:
      </b>
      3DS
     </li>
@@ -253,9 +253,9 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
     </li>
     <li>
      <b>
-      Přenos gl:
+      GL převodovka:
      </b>
-     glTF (ascii/binární)
+     glTF (ASCII/binární)
     </li>
     <li>
      <b>
@@ -267,19 +267,19 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
      <b>
       RVM
      </b>
-     (Text/binární)
+     (Text/Binární)
     </li>
     <li>
      <b>
-      Formát přenosného dokumentu:
+      Přenosný formát dokumentu:
      </b>
      PDF
     </li>
     <li>
      <b>
-      Ostatní:
+      ostatní:
      </b>
-     AMF, PLY (ascii/binární), A3DW
+     AMF, PLY (ASCII/binární), A3DW
     </li>
    </ul>
   </div>
@@ -294,9 +294,9 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
    <ul>
     <li>
      <b>
-      Directx:
+      DirectX:
      </b>
-     X (ascii/binární)
+     X (ASCII/binární)
     </li>
     <li>
      <b>
@@ -308,7 +308,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
      DXF
     </li>
     <li>
-     3MF (3D formát výroby)
+     3MF (výrobní formát 3D)
     </li>
     <li>
      ASE
@@ -339,7 +339,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Rozšířené funkce .NET 3D API
+    Pokročilé funkce .NET 3D API
    </h2>
    <p>
    </p>
@@ -368,145 +368,145 @@ description: C# vb .NET asp .NET knihovna pro vytváření čtení konvertovat a
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit scénu 3D a uložit v podporovaném formátu
+     Vytvořit scénu 3D &amp; uložit v podporovaném formátu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Načíst, uložit a převést soubory do proudu
+     Načíst, uložit &amp; převádět soubory na stream
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Práce s geometrií a hierarchií scény
+     Práce s geometrií &amp; hierarchie scény
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sdílet údaje o geometrii sítě mezi více uzly
+     Sdílejte data geometrie sítě mezi více uzly
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidat vlastnost animace do dokumentu scény
+     Přidejte vlastnost animace do dokumentu scény
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a mesh with custom memory layout of the vertex
+     Triangulujte síť pomocí vlastního rozložení paměti vertexu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidat cílovou kameru do scény
+     Přidejte cílovou kameru do scény
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Animovat objekty ve scéně
+     Animujte objekty ve scéně
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rozdělit oky podle materiálu
+     Rozdělit sítě podle materiálu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render a 3D view in the image format
+     Vykreslete zobrazení 3D ve formátu obrázku
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cast a receive shadows on geometries
+     Sesílejte a přijímejte stíny na geometrie
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Povolit změnu orientací roviny
+     Povolit změnu orientace roviny
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zlepšit tvorbu válce
+     Vylepšete tvorbu válce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidaná podpora vulkan renderer
+     Přidána podpora vulkan rendereru
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit geometrii vytlačením tvarů
+     Vytvářejte geometrii vytlačováním tvarů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora algoritmu uv atlas
+     Podpora algoritmu UV atlasu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora standardního formátu 3d tisku AMF
+     Podpora standardního formátu 3D tisku AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX podpora importu a binárního zápisu
+     Podpora importu FBX a binárního zápisu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportovat a importovat soubory glTF pomocí komprese draco
+     Exportujte a importujte glTF souborů s kompresí draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D konverzace formátu souboru
+     3D Konverze formátu souboru
     </h2>
     <p>
-     Aspose.3d for .NET poskytuje řadu pokročilých algoritmů, které z něj dělají řešení pro převedení souboru 3D. The conversion process is as simple as changing the file extension to the desired format. Vše, co musíte udělat, je načíst zdrojový soubor v instance scény a zavolat metodu uložení s vhodným parametrem formátu souboru. To je ono!
+     Aspose.3d for .NET poskytuje řadu pokročilých algoritmů, díky kterým je řešením typu vše v jednom pro převod formátu souboru 3D. Proces převodu je stejně jednoduchý jako změna přípony souboru na požadovaný formát. Vše, co musíte udělat, je načíst zdrojový soubor v instanci Scene a zavolat jeho metodu Save s příslušným parametrem FileFormat. A je to!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Uložit scénu 3D v různých formátech- C#
+      Uložit scénu 3D v různých formátech – C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D vytváření scén
+     3D Vytváření scén
     </h2>
     <p>
-     Aspose.3D for .NET umožňuje programátorům snadno generovat scény od nuly, aniž by bylo nutné nainstalovat any 3D modeling or rendering software. 3D .NET API také umožňuje uložit scény ve formátech (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D a Collada) voláním metody uložení objektu třídy scény.
+     Aspose.3D for .NET umožňuje programátorům snadno generovat scény od začátku, aniž by museli instalovat jakýkoli modelovací nebo renderovací software 3D. 3D .NET API také umožňuje uložit scény ve formátech (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D a Collada) voláním metody Save Objekt třídy scény.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Přidat informace o aktivech do scény 3D
+     Přidejte informace o majetku na scénu 3D
     </h2>
     <p>
-     Metadata jsou strukturované informace, které popisují, lokalizují a usnadňují získávání, používání a správu informačního zdroje. Aspose.3D for .NET API umožňuje vývojářům definovat metadata pro scénu.
+     Metadata jsou strukturované informace, které popisují, lokalizují a usnadňují vyhledávání, používání a správu informačního zdroje. Aspose.3D for .NET API umožňuje vývojářům definovat metadata pro scénu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vytvořit 3D síťové a grafické tvary
+     Vytvořit síť 3D &amp; Grafické tvary
     </h2>
     <p>
-     .NET 3D knihovna umožňuje vývojářům vybudovat síť různých 3D geometrických tvarů, definujte řídící body a polygony nejjednodušším způsobem, jak vytvořit sítě a nasměrovat síť na více instancí typu tvaru. Vývojáři mohou také umístit 3D tvary kdekoli na scéně 3D.
+     Knihovna .NET 3D umožňuje vývojářům vytvořit síť různých 3D geometrických tvarů, definovat řídicí body a mnohoúhelníky tím nejjednodušším způsobem, jak vytvořit sítě a nasměrovat síť na více instancí typu tvaru. Vývojáři mohou také umístit tvary 3D kamkoli na scénu 3D.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,18 +559,18 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sdílet údaje o geometrii sítě s více uzlami
+     Sdílejte data geometrie sítě s více uzly
     </h2>
     <p>
-     Pro snížení potřeby paměti může být jedna instance síťoviny vázána na různé instance uzlu. Představte si, že budete potřebovat systém, kde se zdálo, že velký počet kostek 3D je nerozlišitelný; můžete ušetřit paměť tím, že budete mít jeden objekt, když systém začíná. V tomto okamžiku, pokaždé, když budete potřebovat jiný tvar, uděláte jiný objekt uzlu a pak uvedete tento uzel na jednu síť. Thus API manages instancing.
+     Pro snížení požadavků na paměť lze jednu instanci Mesh svázat s různými instancemi Node. Představte si, že potřebujete systém, kde se velký počet 3D kostek zdá být nerozeznatelný; můžete ušetřit paměť vytvořením jednoho Mesh objektu při spuštění systému. V tomto okamžiku pokaždé, když požadujete jiný tvar, vytvoříte další objekt Node a poté nasměrujete tento uzel na jednu síť. Takto spravuje instance API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Triangulátní síť s vlastním rozložením paměti vertex
+     Triangulovat síť s vlastním rozložením paměti Vertex
     </h2>
     <p>
-     Převést síť na trojúhelníkové síť, protože jakákoli složitá struktura může být představena jako banda trojúhelníků. Balíčky grafického softwaru a hardwarové zařízení fungují efektivněji na trojúhelnících. Umístění paměti vertex je také důležité pro výživu gpu (graphics processing unit), protože gpu musí také vědět o rozvržení vrcholu, aby bylo možné získat správné atributy z vyrovnávací paměti.
+     Převeďte síť na trojúhelníkovou síť, protože jakákoli složitá struktura může být reprezentována jako svazek trojúhelníků. Grafické softwarové balíčky a hardwarová zařízení fungují efektivněji na trojúhelníkech. Rozložení paměti Vertexu je také důležité pro napájení GPU (Graphics Processing Unit), protože GPU musí také vědět o rozložení vrcholu, aby z vyrovnávací paměti extrahovalo správné atributy.
     </p>
    </div>
    <div class="col-lg-12">
@@ -578,7 +578,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      Nezávisle na jakékoli externí instalaci softwaru
     </h2>
     <p>
-     Aspose.3D API je vytvořen pomocí spravovaného kódu, který nikdy nezávisí na jakémkoli externím API nebo softwarové instalaci na počítači pro práci s 3D soubory. Je to dokonale individuální řešení z hlediska podporovaných funkcí, bezpečnosti, stability, škálovatelnosti, rychlosti a ceny.
+     Aspose.3D API je sestaven pomocí spravovaného kódu, který při práci se soubory 3D nikdy nezávisí na žádné externí instalaci API nebo softwaru v počítači. Jedná se o dokonale přizpůsobené řešení z hlediska podporovaných funkcí, bezpečnosti, stability, škálovatelnosti, rychlosti a ceny.
     </p>
    </div>
   </div>
@@ -590,18 +590,18 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Zdroje učení" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API odkazy" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Výukové videa" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Reference" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free support" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Platná podpora" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Poznámky k uvolnění" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.3D for .NET" tabId="success-stories" >}}
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D nabízí individuální apis pro zpracování 3D pro jiné populární vývojové prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D nabízí individuální rozhraní API pro zpracování 3D pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

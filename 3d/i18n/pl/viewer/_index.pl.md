@@ -1,5 +1,5 @@
 ﻿---
-title: Rozwiązanie 3D Format Viewer 
+title: 3D Rozwiązanie przeglądarki formatów 
 weight: 7730
 url: /pl/viewer
 limit: 

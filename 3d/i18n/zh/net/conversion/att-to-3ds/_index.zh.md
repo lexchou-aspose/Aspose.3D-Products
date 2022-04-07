@@ -1,7 +1,7 @@
 ﻿---
 title: 通过 C# 将 ATT 转换为 3DS 
 url: /zh/net/conversion/att-to-3ds/ 
-description: ATT 到 3DS C# 转换的示例代码。在VB.NET，Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 ATT 文件转换为 3DS。
+description: ATT 到 3DS C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 ATT 文件批量转换为 3DS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 ATT 转换为 3DS" h2="将 ATT 渲染为 3DS，无需任何 3D 建模和渲染软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="3DS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ATT" >}}
@@ -13,11 +13,11 @@ description: ATT 到 3DS C# 转换的示例代码。在VB.NET，Asp.NET 或任�
 
  为了将 ATT 转换为 3DS，我们将使用
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
- API 这是一个功能丰富，功能强大且易于使用的文档操作和转换 API，适用于 C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.3d) 
  包管理器，搜索
  Aspose.3D 
- 并安装。您也可以使用包管理器控制台中的以下命令。
+ 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -38,11 +38,11 @@ PM> Install-Package Aspose.3D
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET 程序员只需几行代码就可以轻松地将 ATT 文件加载和转换为 3DS。
+ .NET 程序员只需几行代码即可轻松加载 ATT 文件并将其转换为 3DS。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通过场景类的构造函数加载 ATT 文件1. 创建AmfSaveOptions实例1. 为高级转换设置 3DS 特定属性1. 调用场景。保存方法1. 传递带有 3DS 文件扩展名的输出路径 & Discreet3dsSaveOptions的对象1. 检查指定路径处的结果 3DS 文件
+1. 通过 Scene 类的构造函数加载 ATT 文件1. 创建 AmfSaveOptions 的实例1. 为高级转换设置 3DS 个特定属性1. 调用 Scene.Save 方法1. 传递带有 3DS 文件扩展名和 Discreet3dsSaveOptions 对象的输出路径1. 检查指定路径的结果 3DS 文件
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -53,15 +53,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows或具有 .NET 框架，.NET 核心，Mono 的兼容操作系统。- 像微软Visual Studio这样的开发环境。- 项目中引用的 Aspose.3D for .NET DLL。
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.3D for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示 ATT 到 3DS C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 ATT 到 3DS C# 转换" offSpacer="" %}}
 
 ```cs
-// 加载场景对象中的 ATT 
+// 在 Scene 对象中加载 ATT 
 var document = new Aspose.ThreeD.Scene("template.att");
-// 创建离散3dssaveoptions实例 
+// 创建 Discreet3dsSaveOptions 的实例 
 var options = new Aspose.ThreeD.Formats.Discreet3dsSaveOptions();
 // 将 ATT 保存为 3DS 
 document.Save("output.3ds", options); 
@@ -78,15 +78,15 @@ document.Save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="免费应用程序将 ATT 转换为 3DS" sectionDescription="查看我们的实时演示 [ATT 到 3DS 转换](https://products.aspose.app/3d/conversion/att-to-3ds) 有以下好处。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 不需要下载或设置任何东西。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 ATT 文件，然后点击 “转换” 按钮。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得结果 3DS 文件的下载链接。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 ATT 转换为 3DS 的免费应用程序" sectionDescription="查看我们的现场演示 [ATT 到 3DS 的转换](https://products.aspose.app/3d/conversion/att-to-3ds) 具有以下好处。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 ATT 文件并点击“转换”按钮。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得生成的 3DS 文件的下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 一个 3D 文件处理库，用于操作 3D 文件，而无需任何建模和渲染软件。3D API 支持 Discreet3DS 、 WavefrontOBJ 、 FBX (ASCII，二进制) 、 STL (ASCII，二进制) 、 Universal3D 、 Collada 、 glTF 、 GLB 、 PLY 、DirectX、 Google Draco 文件格式和更多。开发人员可以轻松创建，阅读，转换，修改和控制 3D 文档格式的实质。
+ 3D 文件处理库，无需任何建模和渲染软件即可操作 3D 文件。 3D API 支持 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY、DirectX、Google Draco 文件格式等。开发人员可以轻松地创建、读取、转换、修改和控制 3D 文档格式的内容。
 
 
 
@@ -100,7 +100,7 @@ document.Save("output.3ds", options);
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="3ds" readMoreLink="https://docs.fileformat.com/3d/3ds/" >}}
-扩展名为 3DS 的文件表示Autodesk 3D Studio使用的 3D Studio (DOS) 网格文件格式。Autodesk 3D Studio自20世纪90年代以来一直进入 3D 文件格式市场，现在已发展为 3D Studio MAX，用于处理 3D 建模，动画和渲染。3DS 文件包含用于 3D 表示场景和图像的数据，并且是用于 3D 数据导入和导出的流行文件格式之一。它考虑诸如摄像机位置，网格数据，照明信息，视口配置，平滑组数据，位图引用和属性之类的信息，以创建用于渲染场景的顶点和多边形。
+带有 3DS 扩展名的文件代表 Autodesk 3D Studio 使用的 3D Studio (DOS) 网格文件格式。 Autodesk 3D Studio 自 1990 年代以来一直处于 3D 文件格式市场，现在已发展为 3D Studio MAX，用于处理 3D 建模、动画和渲染。 3DS 文件包含用于 3D 表示场景和图像的数据，并且是用于 3D 数据导入和导出的流行文件格式之一。它考虑相机位置、网格数据、照明信息、视口配置、平滑组数据、位图参考和属性等信息，以创建用于渲染场景的顶点和多边形。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

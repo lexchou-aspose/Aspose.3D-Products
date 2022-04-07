@@ -2,10 +2,10 @@
 title: Java 3D API | 3D 文件操作和轉換 
 weight: 2820
 url: /zh-hant/java/ 
-description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀取轉換和修改 3D 文件格式
+description: 用於在 Java 應用程序中創建讀取轉換和修改 3D 文件格式的遊戲軟件和 CAD 3D 庫
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D 文件處理 API" h2="創建、操作和保存 3D 文件為多種格式,而不需要任何外部建模和渲染軟件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D 文件處理API" h2="無需任何外部建模和渲染軟件即可創建、操作 3D 文件並將其保存為多種格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java 是一個獨立的遊戲軟件,CAD API 用於操作 3D 文件。 API 支持大多數流行的 3D 文件格式,應用程序可以輕鬆創建,讀取,轉換和修改文件。 此外,API 幫助開發人員建模和創建大型遊戲世界,設計可視化的精湛場景,參與虛擬現實體驗,將動畫屬性添加到場景文件,使用轉換格式化元素等等。
+ Aspose.3D for Java 是一個獨立的遊戲軟件和 CAD API 來操作 3D 文件。 API 支持大多數流行的 3D 文件格式，應用程序可以創建、讀取、轉換和輕鬆修改文件。此外，API 幫助開發人員建模和創建大型遊戲世界、用於設計可視化的出色場景、參與虛擬現實體驗、將動畫屬性添加到場景文件、使用轉換格式化元素等等。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,21 +21,21 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目了然" description="API 的概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="API 概覽。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    對象模型
+    對像模型
    </header>
    <ul>
     <li>
      場景
     </li>
     <li>
-     網格
+     網
     </li>
     <li>
      PolygonBuilder
@@ -44,7 +44,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      節點
     </li>
     <li>
-     變換
+     轉變
     </li>
     <li>
      四元數
@@ -53,7 +53,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      財產
     </li>
     <li>
-     VertexElementUV
+     頂點元素UV
     </li>
     <li>
      VertexElementNormal
@@ -65,16 +65,16 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      盒子
     </li>
     <li>
-     氣缸
+     圓筒
     </li>
     <li>
      飛機
     </li>
     <li>
-     球體
+     領域
     </li>
     <li>
-     圓環
+     環面
     </li>
    </ul>
   </div>
@@ -83,26 +83,26 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
    <header>
     <i class="fa fa-bars">
     </i>
-    一般
+    一般的
    </header>
    <ul>
     <li>
      創建場景
     </li>
     <li>
-     創建網格表面
+     創建網格曲面
     </li>
     <li>
-     多邊形三角測量
+     多邊形三角剖分
     </li>
     <li>
-     按材料劃分網格
+     按材質分割網格
     </li>
     <li>
-     圖形設置正常
+     圖形設置法線
     </li>
     <li>
-     為圖形設置紫外線
+     為圖形設置 UV
     </li>
     <li>
      三角網格
@@ -114,10 +114,10 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      向對象添加材質
     </li>
     <li>
-     添加目標攝像機
+     添加目標相機
     </li>
     <li>
-     投射和接收陰影
+     演員表接收陰影
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
   <footer>
    <small>
     <em>
-     對於
+     為了
     </em>
     Java
    </small>
@@ -157,7 +157,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
    </header>
    <ul>
     <li>
-     JSP/JSF應用程序
+     JSP/JSF 應用程序
     </li>
     <li>
      桌面應用程序
@@ -175,7 +175,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
   <footer>
    <small>
     <em>
-     對於
+     為了
     </em>
     Java
    </small>
@@ -186,28 +186,28 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="API 支持 [列出的文件格式](https://docs.aspose.com/3d/java/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="API 支持 [列出的文件格式](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    輸入/輸出
+    輸入輸出
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      歐特克：
      </b>
-     FBX 7.2至7.5 (ASCII/二進製)
+     FBX 7.2 到 7.5（ASCII/二進制）
     </li>
     <li>
-     STL (ASCII/二進製)
+     STL（ASCII/二進制）
     </li>
     <li>
      <b>
-      Wavefront:
+      Wavefront：
      </b>
      OBJ
     </li>
@@ -221,19 +221,19 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
     </li>
     <li>
      <b>
-      Collada:
+      Collada：
      </b>
      DAE
     </li>
     <li>
      <b>
-      GL傳輸:
+      GL變速箱：
      </b>
-     glTF (ASCII/二進製)
+     glTF（ASCII/二進制）
     </li>
     <li>
      <b>
-      Google Draco:
+      Google Draco：
      </b>
      DRC
     </li>
@@ -241,11 +241,11 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      <b>
       RVM
      </b>
-     (文本/二進製)
+     （文本/二進制）
     </li>
     <li>
      <b>
-      可移植文檔格式:
+      便攜式文件格式：
      </b>
      PDF
     </li>
@@ -268,13 +268,13 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
    <ul>
     <li>
      <b>
-      DirectX:
+      直連：
      </b>
-     X (ASCII/二進製)
+     X（ASCII/二進制）
     </li>
     <li>
      <b>
-      西門子:
+      西門子：
      </b>
      JT
     </li>
@@ -291,7 +291,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      VRML
     </li>
     <li>
-     DirectX: X
+     直接X：X
     </li>
    </ul>
    <header>
@@ -316,7 +316,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
   <footer>
    <small>
     <em>
-     對於
+     為了
     </em>
     Java
    </small>
@@ -352,7 +352,7 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     將 3D 文檔加載、保存並渲染到流中
+     加載、保存 3D 文檔並將其呈現到流中
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,14 +373,14 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     將動畫屬性添加到場景文件中
+     將動畫屬性添加到場景文件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用頂點的自定義內存布局三角剖分網格
+     使用頂點的自定義內存佈局對網格進行三角剖分
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,35 +399,35 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     按材料劃分網格
+     按材質分割網格
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通過指定一個向上的法線來改變平面的方向
+     通過指定向上法線更改平面的方向
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通過擠壓形狀創建幾何
+     通過擠壓形狀創建幾何圖形
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     增強氣缸的創建
+     增強圓柱體的創建
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     基於檔案的文件格式檢測
+     基於存檔的文件格式檢測
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,11 +449,11 @@ description: 遊戲軟件和 CAD 3D 庫,用於在 Java 應用程序中創建讀�
      相互轉換場景文件
     </h2>
     <p>
-     API 以簡單的方式提供了 3D 文件格式轉換的支持。 開發人員可以在場景實例中加載源文檔,並將其保存功能與FileFormat參數一起使用。 就這樣!
+     API 以簡單的方式提供了對 3D 文件格式轉換的支持。開發人員可以在 Scene 實例中加載源文檔，並將其 Save 函數與 FileFormat 參數一起使用。而已！
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存 3D 場景- Java
+      以不同格式保存 3D 場景 - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -486,11 +486,11 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
      通過 API 生成 3D 場景
     </h2>
     <p>
-     Aspose.3D for Java 允許開發人員從頭開始創建場景,而無需任何建模軟件的依賴。 Java API 還使開發人員能夠以任何支持的格式保存場景,例如 (STL,FBX,Discreet3DS,WavefrontOBJ,Collada 和 Universal3D)。
+     Aspose.3D for Java 讓開發人員無需依賴任何建模軟件即可從頭開始創建場景。 Java API 還使開發人員能夠以任何受支持的格式保存場景，例如（STL、FBX、Discreet3DS、WavefrontOBJ、Collada 和 Universal3D）。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      創建具有原始 3D 形狀的場景- Java
+      創建具有原始 3D 形狀的場景 - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -514,7 +514,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      以簡單的方式構建節點層次結構
     </h2>
     <p>
-     Aspose.3D for Java API 提供了構建節點層次結構的能力,其中節點是場景的基本構建塊。 節點的層次結構定義了邏輯結構,並通過將幾何圖形,燈光和攝像機附加到節點來提供可見的內容。
+     Aspose.3D for Java API 提供了構建節點層次結構的能力，其中節點是場景的基本構建塊。節點的層次結構定義了邏輯結構並通過將幾何圖形、燈光和相機附加到節點來提供可見的內容。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -529,15 +529,15 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      將動畫屬性添加到場景
     </h2>
     <p>
-     Aspose.3D for Java API 通過CurveMapping支持關鍵幀動畫,該參數將屬性的組件映射到不同的曲線。 此外,庫還提供了在 3D 文件中設置目標攝像機的功能,當您需要攝像機面對特定節點時,這在動畫中很有用。
+     Aspose.3D for Java API 通過將屬性的組件映射到不同曲線的 CurveMapping 提供對關鍵幀動畫的支持。此外，庫提供在 3D 文件中設置目標相機，當您需要相機面向特定節點時，該文件在動畫中很有用。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     健壯性、性能和可擴展性
+     魯棒性、性能和可擴展性
     </h2>
     <p>
-     Aspose.3D for Java 被設計為在服務器端或客戶端上表現同樣出色。 它是一個單一的 Java 程序集,只需添加其引用即可與任何 Java 應用程序一起部署。 使用 API 時,您不必擔心其他服務或模塊。
+     Aspose.3D for Java 旨在在服務器端或客戶端上同樣出色地執行。它是一個單獨的 Java 程序集，只需添加其引用即可與任何 Java 應用程序一起部署。在使用 API 時，您不必擔心其他服務或模塊。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,27 +559,27 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/3d/java" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="有償支持" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/3d/" >}}
 {{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼 Aspose.3D for Java" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼Aspose.3D for Java" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 為其他流行的開發環境提供單獨的 3D 處理api,如下所示:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 為其他流行的開發環境提供單獨的 3D 處理 API，如下所列：" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

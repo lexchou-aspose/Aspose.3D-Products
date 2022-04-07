@@ -1,21 +1,21 @@
 ﻿---
-title: Java 3D صيغ التحويل
+title: Java 3D تحويل التنسيقات
 url: /ar/java/conversion/
-description: تحويل 3D تنسيقات amf 3ds amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd usd vrml x مع بضعة أسطر Java كود عبر Java مكتبة.
+description: تحويل 3D تنسيقات amf 3ds amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x مع بضعة أسطر من Java التعليمات البرمجية عبر Java المكتبة.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="3D صيغ التحويل عبر Java" h2="قم بتحويل 3D تنسيقات الملفات بدون أي 3D من نماذج التثبيت والتقديم لإنشاء تطبيقات Java عبر الأنظمة الأساسية." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D تنسيقات التحويل عبر Java" h2="تحويل 3D تنسيقات الملفات بدون أي تثبيت برامج 3D للعرض والنمذجة لإنشاء تطبيقات عبر الأنظمة الأساسية Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-لإنشاء تطبيقات رسومات ثلاثية الأبعاد وتحريرها ومعالجتها وحفظها ، **Java 3D API** يوفر مستوى عاليًا من الطرق للقيام بمثل هذه الميزات دون تثبيت أي برنامج نمذجة وعرض 3D. قليلون يقومون ببناء شبكة من أشكال هندسية ثلاثية الأبعاد مختلفة ، وإنشاء ملف مشهد 3D ، وإعداد الأشياء الطبيعية أو الأشعة فوق البنفسجية على المكعب ، وعناصر التنسيق ، وإضافة خاصية الرسوم المتحركة والمزيد. 
+لإنشاء التطبيقات الرسومية ثلاثية الأبعاد وتحريرها ومعالجتها وحفظها ، يوفر ** Java 3D API ** مستوى عالٍ من الأساليب للقيام بمثل هذه الميزات دون تثبيت أي 3D برامج تصميم وعرض. قليلون هم من يقومون ببناء شبكة من الأشكال الهندسية ثلاثية الأبعاد المختلفة ، وإنشاء 3D ملف مشهد ، وإعداد الأعراف أو الأشعة فوق البنفسجية على المكعب ، وتنسيق العناصر ، وإضافة خاصية الرسوم المتحركة والمزيد. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="تحويل 3D ملف إلى تنسيقات مختلفة" %}}
-عملية التحويل بسيطة. ما عليك سوى تحميل ملف المصدر 3D باستخدام [فئة المشهد](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene). نظرًا لأن المشهد هو كائن من المستوى الأعلى يحتوي على العقد ، والهندسة ، والقوام ، والمواد ، والرسوم المتحركة ، والمشاهد الفرعية وما إلى ذلك. إنشاء ذات الصلة [حفظ الخيارات](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) مثل AmfSaveOptions و ColladaSaveOptions و Discreet3dsSaveOptions و DracoSaveOptions و GltfSaveOptions و RvmSaveOptions و RvmSaveOptions و U3dSaveOptions وما إلى ذلك وتعيين الخصائص وفقًا لذلك. وأخيرا استدعاء طريقة حفظ مع ملف الإخراج وخلق صيغة الهدف حفظ الخيارات كائن. علاوة على ذلك ، يمكن استخدام المبرمجين API حتى حفظ 3D من المشهد كـ HTML.
+{{% blocks/products/pf/feature-page-section h2="تحويل ملف 3D إلى تنسيقات مختلفة" %}}
+عملية التحويل بسيطة. ما عليك سوى تحميل ملف المصدر 3D باستخدام [فئة المشهد](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene)نظرًا لأن المشهد هو كائن من المستوى الأعلى يحتوي على العقد ، والهندسة ، والأنسجة ، والمواد ، والرسوم المتحركة ، والوضعيات ، والمشاهد الفرعية ، وما إلى ذلك. [حفظ الخيارات](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) مثل AmfSaveOptions و ColladaSaveOptions و Discreet3dsSaveOptions و DracoSaveOptions و FbxSaveOptions و GltfSaveOptions و RvmSaveOptions و StlSaveOptions و U3dSaveOptions إلخ وقم بتعيين الخصائص وفقًا لذلك. أخيرًا ، استدعاء طريقة الحفظ مع ملف الإخراج وإنشاء كائن خيارات حفظ التنسيق الهدف. علاوة على ذلك ، يمكن للمبرمجين باستخدام API حفظ 3D المشهد كـ HTML.
 
 
-{{% blocks/products/pf/feature-page-code h3="Java كود لـ AMF إلى 3DS تحويل" %}}
+{{% blocks/products/pf/feature-page-code h3="Java رمز التحويل من AMF إلى 3DS" %}}
 
 {{< gist "aspose-com-gists" "766e923b86deeccd14d69376efe862d8" "convert-amf-to-3ds.java" >}}
 

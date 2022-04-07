@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D Bestanden Manipulatie en conversie 
+title: Java 3D API | 3D Bestandsmanipulatie en conversie 
 weight: 2820
 url: /nl/java/ 
-description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D bestandsformaten te wijzigen binnen Java toepassingen
+description: Gameware en CAD 3D-bibliotheek om lees-conversie en 3D-bestandsindelingen te maken binnen Java-applicaties
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Bestandsverwerking API" h2="Maak, manipuleer en bespaar 3D bestanden in meerdere formaten zonder dat er externe modellerings-en renderingsoftware nodig is." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Bestandsverwerking API" h2="Maak, manipuleer en bewaar 3D bestanden in meerdere formaten zonder dat er externe modellerings- en renderingsoftware nodig is." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java is een zelfstandige Gameware en CAD API om 3D bestanden te manipuleren. API ondersteunt de meeste populaire 3D bestandsindelingen en applicaties kunnen bestanden eenvoudig maken, lezen, converteren en wijzigen. Bovendien helpt API ontwikkelaars bij het modelleren en creëren van enorme gamewerelden, prachtige scènes voor ontwerpvisualisatie, het betrekken van virtual reality-ervaringen, het toevoegen van animatie-eigenschap aan scènebestanden, het formatteren van elementen met behulp van transformaties en nog veel meer.
+ Aspose.3D for Java is een op zichzelf staande Gameware en CAD API om 3D-bestanden te manipuleren. API ondersteunt de meeste populaire 3D bestandsformaten en applicaties kunnen creëren, lezen, converteren &amp; bestanden gemakkelijk wijzigen. Bovendien helpt API ontwikkelaars bij het modelleren en creëren van enorme gamewerelden, fantastische scènes voor ontwerpvisualisatie, virtual reality-ervaringen, het toevoegen van animatie-eigenschappen aan scènebestand, formatteren van elementen met behulp van transformaties en nog veel meer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -32,10 +32,10 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
    </header>
    <ul>
     <li>
-     Scène
+     Tafereel
     </li>
     <li>
-     Mesh
+     gaas
     </li>
     <li>
      PolygonBuilder
@@ -50,7 +50,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
      Quaternion
     </li>
     <li>
-     Onroerend goed
+     Eigendom
     </li>
     <li>
      VertexElementUV
@@ -59,7 +59,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     hoekpunt
     </li>
     <li>
      Doos
@@ -71,7 +71,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
      Vliegtuig
     </li>
     <li>
-     Bol
+     Gebied
     </li>
     <li>
      Torus
@@ -87,37 +87,37 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
    </header>
    <ul>
     <li>
-     Maak scènes
+     Scènes maken
     </li>
     <li>
-     Creëer gaasoppervlak
+     Maak een mesh-oppervlak
     </li>
     <li>
-     Veelhoek Triangulatie
+     Veelhoek triangulatie
     </li>
     <li>
-     Gespleten gaas door materiaal
+     Mesh splitsen op materiaal
     </li>
     <li>
-     Normaal instellen voor grafische afbeeldingen
+     Instelling normaal voor afbeeldingen
     </li>
     <li>
-     Stel UV in voor grafische afbeeldingen
+     UV instellen voor afbeeldingen
     </li>
     <li>
-     Triangulaat gaas
+     Driehoekig gaas
     </li>
     <li>
-     Deel Mesh-geometriegegevens
+     Mesh-geometriegegevens delen
     </li>
     <li>
-     Voeg materiaal toe aan object
+     Materiaal aan object toevoegen
     </li>
     <li>
      Doelcamera toevoegen
     </li>
     <li>
-     Cast en ontvang schaduwen
+     Cast &amp; Schaduwen ontvangen
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Onafhankelijkheid van het platform" description="Aspose.3D for Java ondersteunt de Java runtime." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.3D for Java ondersteunt de Java runtime." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -160,7 +160,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
      JSP/JSF-toepassing
     </li>
     <li>
-     Desktoptoepassing
+     Desktop applicatie
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     Java
    </small>
@@ -186,21 +186,21 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="API ondersteunt [Vermelde bestandsindelingen](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="API ondersteunt [vermelde bestandsformaten](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/output
+    Invoer uitvoer
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2 tot 7.5 (ASCII/Binair)
+     FBX 7,2 tot 7,5 (ASCII/Binair)
     </li>
     <li>
      STL (ASCII/Binair)
@@ -227,7 +227,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
     </li>
     <li>
      <b>
-      GL Transmissie:
+      GL-transmissie:
      </b>
      glTF (ASCII/Binair)
     </li>
@@ -263,7 +263,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Alleen input
+    Alleen invoer
    </header>
    <ul>
     <li>
@@ -297,7 +297,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen output
+    Alleen uitvoer
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Geavanceerde Java 3D API-functies
+    Geavanceerde Java 3D API functies
    </h2>
    <p>
    </p>
@@ -352,14 +352,14 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Laad, bewaar en maak 3D document terug naar een stream
+     Laad, bewaar en render 3D document naar een stream
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werk met geometrie en scènehiërarchie
+     Werken met geometrie en scènehiërarchie
     </p>
    </div>
    <div class="col-lg-4">
@@ -380,14 +380,14 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a Mesh met aangepaste geheugenlay-out van het hoekpunt
+     Trianguleer een mesh met aangepaste geheugenlay-out van het hoekpunt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Voeg zowel een doelcamera als animatieobjecten toe in een scène van 3D
+     Voeg een doelcamera toe en animeer objecten in een 3D-scène
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,61 +399,61 @@ description: Gameware en CAD 3D bibliotheek om leesconversie te maken en 3D best
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gespleten op materiaal
+     Mesh splitsen op materiaal
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verander de oriëntatie van het vliegtuig door een normaal op te geven
+     Verander de richting van het vlak door een opwaartse normaal op te geven
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Maak geometrie door vormen te extruderen
+     Creëer geometrie door vormen te extruderen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verbeter de creatie van cilinder
+     Verbeter de creatie van cilinder:
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Op archief gebaseerde bestandsindeling-detectie
+     Op archief gebaseerde detectie van bestandsindelingen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteuning van AMF formaat
+     ondersteuning van AMF formaat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     glTF documenten importeren en exporteren met Draco compressie
+     Importeer en exporteer glTF documenten met Draco compressie
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Scènebestanden inter converteren
+     Scènebestanden interconverteren
     </h2>
     <p>
-     API biedt de ondersteuning van 3D conversie van bestandsindelingen op een eenvoudige manier. Ontwikkelaars kunnen het brondocument in een Scene-instantie laden en de functie Opslaan gebruiken met de parameter FileFormat. Dat is het!
+     API biedt op een eenvoudige manier ondersteuning voor 3D conversie van bestandsindelingen. Ontwikkelaars kunnen het brondocument in een Scene-instantie laden en de functie Opslaan gebruiken met de parameter FileFormat. Dat is het!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Bespaar 3D scene in verschillende formaten- Java
+      Sla 3D scene op in verschillende formaten - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D scènes genereren via API
+     Genereer 3D Scènes via API
     </h2>
     <p>
-     Met Aspose.3D for Java kunnen de ontwikkelaars vanaf het begin scènes maken zonder de afhankelijkheid van modelleersoftware. De Java API stelt de ontwikkelaars ook in staat om de scènes op te slaan in een van de ondersteunde formaten, zoals (STL, FBX, Discreet3DS, WavefrontOBJ, Collada en Universal3D).
+     Aspose.3D for Java stelt de ontwikkelaars in staat om vanaf het begin scènes te maken zonder de afhankelijkheid van modelleringssoftware. De Java API stelt de ontwikkelaars ook in staat om de scènes op te slaan in een van de ondersteunde formaten zoals (STL, FBX, Discreet3DS, WavefrontOBJ, Collada en Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Creëer een scène met primitieve vormen van 3D- Java
+      Maak een scène met primitieve 3D-vormen - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bouw knooppunthiërarchie op een eenvoudige manier
+     Bouw node-hiërarchie op een eenvoudige manier
     </h2>
     <p>
-     Aspose.3D for Java API biedt de mogelijkheid om een knooppunthiërarchie op te bouwen waarbij een knooppunt de basisbouwsteen van een scène is. Een hiërarchie van knooppunten definieert de logische structuur en biedt zichtbare inhoud door geometrieën, lichten en camera's aan de knooppunten te koppelen.
+     Aspose.3D for Java API biedt de mogelijkheid om een knooppunthiërarchie te bouwen waarbij een knooppunt de basisbouwsteen van een scène is. Een hiërarchie van knooppunten definieert de logische structuur en biedt zichtbare inhoud door geometrieën, lichten en camera's aan de knooppunten te bevestigen.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Animatieeigenschap toevoegen aan scène
+     Animatie-eigenschap toevoegen aan scène
     </h2>
     <p>
-     Aspose.3D for Java API biedt ondersteuning voor keyframe-animatie via CurveMapping, waarmee onderdelen van een eigenschap worden toegewezen aan verschillende curves. Bovendien biedt de bibliotheek aan om de doelcamera in een 3D-bestand in te stellen, wat handig is in animatie wanneer u de camera nodig hebt om naar een bepaald knooppunt te kijken.
+     Aspose.3D for Java API biedt ondersteuning voor keyframe-animatie via CurveMapping, waarmee componenten van een eigenschap worden toegewezen aan verschillende curven. Bovendien biedt de bibliotheek aan om de doelcamera in een 3D-bestand in te stellen, wat handig is in animatie wanneer u de camera naar een bepaald knooppunt moet kijken.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Robuustheid, prestaties en schaalbaarheid
+     Robuustheid, Prestaties &amp; schaalbaarheid
     </h2>
     <p>
-     Aspose.3D for Java is ontworpen om even goed te presteren op de server-of clientzijde. Het is een enkele Java assembly die kan worden ingezet met elke Java applicatie door simpelweg de referentie toe te voegen. U hoeft zich geen zorgen te maken over andere services of modules terwijl u met API werkt.
+     Aspose.3D for Java is ontworpen om even goed te presteren op de server als op de client. Het is een enkele Java-assembly die kan worden geïmplementeerd met elke Java-toepassing door simpelweg de referentie toe te voegen. U hoeft zich geen zorgen te maken over andere services of modules tijdens het werken met API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,11 +559,11 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API referenties" href="https://apireference.aspose.com/3d/java" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Video\'s" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referenties" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo\'s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Productondersteuning" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
@@ -571,7 +571,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.3D for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten Lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -579,7 +579,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D biedt individuele 3D verwerkings-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D biedt afzonderlijke 3D verwerkings-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

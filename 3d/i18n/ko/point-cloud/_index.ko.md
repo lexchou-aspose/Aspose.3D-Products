@@ -1,5 +1,5 @@
 ﻿---
-title: 3D 형식 포인트 클라우드 솔루션 
+title: 3D 포인트 클라우드 솔루션 포맷 
 weight: 7730
 url: /ko/point-cloud
 limit: 

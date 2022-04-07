@@ -1,21 +1,21 @@
 ﻿---
-title: Java 3D Formats de conversion
+title: Java 3D Conversion de formats
 url: /fr/java/conversion/
-description: Convertir 3D formats amf 3ds amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x avec quelques lignes de Java code via la bibliothèque Java.
+description: Convertir 3D formats amf 3ds amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x avec quelques lignes de code Java via la bibliothèque Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="3D Formats de conversion via Java" h2="Convertissez 3D formats de fichiers sans aucune installation de logiciel de modélisation et de rendu 3D pour créer des applications multiplateformes Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D Conversion de formats via Java" h2="Convertissez les formats de fichiers 3D sans aucune installation de logiciel de modélisation et de rendu 3D pour créer des applications multiplateformes Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Pour créer, éditer, manipuler et enregistrer des applications graphiques tridimensionnelles, **Java 3D API** fournit un niveau élevé de méthodes permettant de réaliser de telles fonctionnalités sans installer de logiciel de modélisation et de rendu 3D. Rares sont ceux qui construisent le maillage de différentes formes géométriques tridimensionnelles, créent un fichier de scène 3D, mettent en place des normales ou des UV sur le cube, formatent des éléments, ajoutent une propriété d'animation et plus encore. 
+Pour la création, l'édition, la manipulation et l'enregistrement d'applications graphiques en trois dimensions, **Java 3D API** fournit des méthodes de haut niveau pour réaliser de telles fonctionnalités sans l'installation d'aucun 3D logiciel de modélisation et de rendu. Rares sont ceux qui construisent le maillage de différentes formes géométriques tridimensionnelles, créent un fichier de scène 3D, configurent des normales ou des UV sur le cube, formatent des éléments, ajoutent des propriétés d'animation, etc. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Convertir 3D Fichier en différents formats" %}}
-Le processus de conversion est simple. Il suffit de charger le fichier source 3D en utilisant [Classe de scène](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene). Comme scène est un objet de niveau supérieur ayant les nœuds, les géométries, les textures, les matériaux, l'animation, les poses, les sous-scènes, etc. Créez le [Enregistrer les options](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) Tels que AmfSaveOptions, ColladaSaveOptions, Discreet3dsSaveOptions, DracoSaveOptions, FbxSaveOptions, GltfSaveOptions, RvmSaveOptions, StlSaveOptions, U3dSaveOptions, etc. et définissez les propriétés en conséquence. Enfin, appelez la méthode de sauvegarde avec le fichier de sortie et l'objet de sauvegarde des options de format cible créé. En outre, l'utilisation des programmeurs API peut même enregistrer 3D scène comme HTML.
+{{% blocks/products/pf/feature-page-section h2="Convertir 3D fichier en différents formats" %}}
+Le processus de conversion est simple. Chargez simplement le fichier source 3D en utilisant [Classe de scène](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene)Comme la scène est un objet de niveau supérieur ayant les nœuds, les géométries, les textures, les matériaux, l'animation, les poses, les sous-scènes, etc. [Enregistrer les options](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) tels que AmfSaveOptions, ColladaSaveOptions, Discreet3dsSaveOptions, DracoSaveOptions, FbxSaveOptions, GltfSaveOptions, RvmSaveOptions, StlSaveOptions, U3dSaveOptions, etc. et définissez les propriétés en conséquence. Enfin, appelez la méthode save avec le fichier de sortie et l'objet d'options de sauvegarde du format cible créé. De plus, l'utilisation des programmeurs API peut même enregistrer la scène 3D sous HTML.
 
 
-{{% blocks/products/pf/feature-page-code h3="Java Code pour la conversion de AMF à 3DS" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code pour la conversion AMF à 3DS" %}}
 
 {{< gist "aspose-com-gists" "766e923b86deeccd14d69376efe862d8" "convert-amf-to-3ds.java" >}}
 

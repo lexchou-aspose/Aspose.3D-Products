@@ -1,26 +1,26 @@
 ﻿---
-title: C# 3D formátumok konverziója
+title: C# 3D Formátumkonverzió
 url: /hu/net/conversion/
-description: Convert 3D formats 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x with few lines of C# code via .NET library.
+description: 3D formátumok konvertálása 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x néhány soros C# kóddal a .NET könyvtáron keresztül.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="3D formátumok konverziója C# segítségével" h2="3D dokumentumformátumok konvertálása minden 3D modellezési és renderezési szoftver nélkül, hogy több platformon működő .NET alkalmazásokat építsenek." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D Formátumkonverzió a következőn keresztül: C#" h2="Konvertáljon 3D dokumentumformátumot 3D modellező és megjelenítő szoftverek nélkül, hogy platformokon átívelő .NET alkalmazásokat készítsen." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-A fejlesztők könnyen olvashatják, létrehozhatják, átalakíthatják, frissíthetik és vezérelhetik a 3D formátumok anyagát a 3D grafikus könyvtár segítségével. A API által támogatott formátumok közül kevés WavefrontOBJ, Discreet3DS, STL (ascii, bináris), FBX (ascii, bináris), Universal3D, Collada, GLB, glTF, PLY, directx, Google Draco formátumok és több. Konverziós folyamat könnyen betölti a forrásfájlt instanción keresztül [Jelenetosztály](https://apireference.aspose.com/3d/net/aspose.threed/scene), És hívja a mentési módszert a megfelelő kimeneti formátum paraméter.
+A fejlesztők könnyedén elolvashatják, létrehozhatják, konvertálhatják, frissíthetik és szabályozhatják a 3D formátumok tartalmát a 3D grafikus könyvtár használatával. A(z) API által támogatott formátumok közül néhány: WavefrontOBJ, Discreet3DS, STL (ASCII, bináris), FBX (ASCII, bináris), Universal3D, Collada, GLB, glTF, PLY, DirectX, Google Draco formátumok és egyebek. A konvertálási folyamat egyszerű, mint a forrásfájl betöltése a példányon keresztül [Jelenet osztály](https://apireference.aspose.com/3d/net/aspose.threed/scene), és meghívja a Mentés metódust a megfelelő kimeneti formátum paraméterrel.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="3D jelenet konvertálása különböző formátumokba" %}}
-A fejlesztők könnyen konvertálhatják a 3D jelenetet a fent felsorolt azonos folyamaton keresztül. Figyelembe véve néhány példát, mint például **FBX a OBJ konverzióra **. Betölti a FBX fájlt a jelenet osztálya objektumon keresztül. Hozzon létre a mentési lehetőségek segítségével [Objsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/objsaveoptions) És hívja a jelenet mentése módszer, amelynek kimeneti fájl elérési út és obj beállítások paraméterek. API megfelelő opciós osztályok a megfelelő osztályok mentésére, mint például [A3dwsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [Amfsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dssaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Fbxsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxsaveoptions) [Html5saveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [Rvmsaveoptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) És még több. Itt van a teljes lista 3D [Konverziós formátum](https://apireference.aspose.com/3d/net/aspose.threed.formats) Opciók. Ráadásul a fejlesztők könnyen menthetnek 3D jelenetet PDF-be.
+{{% blocks/products/pf/feature-page-section h2="Alakítsa át a(z) 3D Jelenetet különböző formátumokba" %}}
+fejlesztők könnyedén konvertálhatják a(z) 3D jelenetet a fent felsorolt eljárással. Figyelembe véve néhány példát, mint például a **FBX-ből OBJ konverzió**. Töltse be a FBX fájlt a Scene Class objektumon keresztül. Hozza létre a mentési beállításokat a segítségével [ObjSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/objsaveoptions) és hívja meg a jelenet mentési metódusát, amelynek paraméterei a kimeneti fájl elérési útja és az obj beállítások. A(z) API rendelkezik megfelelő beállítási osztályokkal a megfelelő osztályokba való mentéshez, mint pl [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [FbxSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxsaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) és több. Íme a teljes lista a következőhöz: 3D [konverziós formátum](https://apireference.aspose.com/3d/net/aspose.threed.formats) lehetőségek. Ezenkívül a fejlesztők könnyedén elmenthetnek egy 3D-jelenetet a PDF-be.
 
-{{% blocks/products/pf/feature-page-code h3="C# kód FBX to OBJ konverzióra" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód a(z) FBX – OBJ konverzióhoz" %}}
 
 {{< gist "aspose-com-gists" "ed8b7177c365be75c2bf8d3e668f113a" "convert-fbx-to-obj.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# kód a 3D jelenet PDF konvertálásához" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód a(z) 3D jelenet PDF képpé konvertálásához" %}}
 
 {{< gist "aspose-3d" "631532eeb21c3374f2ed" "Examples-CSharp-Loading-and-Saving-Save3DInPdf-Save3DInPdf.cs" >}}
 

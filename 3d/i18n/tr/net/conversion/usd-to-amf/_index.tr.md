@@ -1,6 +1,6 @@
 ﻿---
-title: USD 'i C# ile AMF 'ye dönüştürün 
-description: USD ve diğer 3D dosyalarını .NET kullanarak dönüştürün
+title: C# aracılığıyla USD'i AMF'ye dönüştürün 
+description: .NET API kullanarak USD ve diğer 3D dosyalarını dönüştürün
 url: /tr/net/conversion/usd-to-amf/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: AMF
 otherformats: DRC PDF GLTF ASE AMF 3DS HTML JT 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USD \'i C# ile AMF \'ye dönüştürün" h2=".NET Framework, .NET Core ve Mono kullanarak USD ve diğer 3D dosyalarını dışa aktar" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# aracılığıyla USD\'i AMF\'ye dönüştürün" h2=".NET Framework, .NET Core ve Mono kullanarak USD ve diğer 3D dosyalarını dışa aktarın" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="USD Sahneyi AMF olarak C# olarak dışa aktar" %}}
-1. Bir kurucuyu kullanarak USD dosyasını yükleyin [Sahne](https://apireference.aspose.com/3d/net/aspose.threed/scene) Sınıf2. Çağrı [Sahne. Kaydet](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Yöntemi
-3. Pass çıkış dosya adı ile. Ilk parametre olarak amf uzantısı
-4. 'AMF' alan değerini belirtin [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Sınıf
+{{% blocks/products/pf/agp/feature-section-col title="C# ile USD Sahneyi AMF olarak dışa aktar" %}}
+1. Bir oluşturucu kullanarak USD dosyasını yükleyin [Sahne](https://apireference.aspose.com/3d/net/aspose.threed/scene) sınıf2. Çağrı [Sahne.Kaydet](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) yöntem
+3. İlk parametre olarak .amf uzantılı çıktı dosyası adını iletin
+4. Şuradan `AMF` alan değerini belirtin: [Dosya formatı](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) sınıf
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D Biçim Dönüşümü API for .NET" %}}
-Komut satırından ''nuget install Aspose.3d'' olarak veya ''Install-Package Aspose.3D'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
+{{% blocks/products/pf/agp/feature-section-col title="3D Biçim Dönüştürme API for .NET" %}}
+Komut satırından ```nuget install Aspose.3d``` veya ```Install-Package Aspose.3D`` ile Visual Studio'nun Paket Yönetici Konsolu aracılığıyla yükleyin.
 
-Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/3d/net).
+Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri şu adresten bir ZIP dosyasında alın: [İndirilenler](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# USD ila AMF Dönüşüm için kod" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="USD - AMF Dönüşümü için C# Kodu" gistPath="" %}}
 ```cs
-// Bir sahne nesnesine USD yükleyin 
+// USD öğesini bir Sahne nesnesine yükleyin 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// USD 'i AMF olarak kaydedin 
+// USD'i AMF olarak kaydet 
 scene.Save("output.amf", Aspose.ThreeD.FileFormat.AMF);
 
 ```

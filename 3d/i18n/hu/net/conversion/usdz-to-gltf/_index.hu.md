@@ -1,6 +1,6 @@
 ﻿---
-title: USDZ GLTF-re konvertálni C#-en keresztül 
-description: USDZ és egyéb 3D fájlok konvertálása .NET API használatával
+title: "USDZ konvertálása GLTF-re a következőn keresztül: C# "
+description: USDZ és egyéb 3D fájlok konvertálása a .NET API használatával
 url: /hu/net/conversion/usdz-to-gltf/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: GLTF
 otherformats: DRC OBJ JT DAE PDF 3MF HTML RVM 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ GLTF-re konvertálni C#-en keresztül" h2="USDZ és egyéb 3D fájlok exportálása .NET keretrendszer, .NET core és Mono használatával" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ konvertálása GLTF-re a következőn keresztül: C#" h2="Exportáljon USDZ és egyéb 3D fájlokat a .NET Framework, a .NET Core és a Mono használatával" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="USDZ jelenet exportálása GLTF C#" %}}
-1. USDZ fájl betöltése egy konstruktor segítségével [Jelenet](https://apireference.aspose.com/3d/net/aspose.threed/scene) Osztály2. call [Jelenet. mentés](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Módszer
-3. adja át a kimeneti fájl nevét. Gltf kiterjesztés, mint első paraméter
-4. adja meg a 'GLTF' mezőértéket a [Fileformat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Osztály
+{{% blocks/products/pf/agp/feature-section-col title="A(z) USDZ jelenet exportálása GLTF néven a(z) C# használatával" %}}
+1. USDZ fájl betöltése a konstruktor használatával [Színhely](https://apireference.aspose.com/3d/net/aspose.threed/scene) osztály2. Hívjon [Jelenet.Mentés](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) módszer
+3. Adja meg a kimeneti fájl nevét .gltf kiterjesztéssel első paraméterként
+4. Adja meg a `GLTF` mező értékét innen [Fájlformátum](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) osztály
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D formátum konverzió API for .NET" %}}
-A parancssorból '''nuget install Aspose.3d''-ként vagy a visual studio csomagkezelő konzolján keresztül a '''install-package Aspose.3D''-vel telepítve.
+{{% blocks/products/pf/agp/feature-section-col title="3D Formátumkonverzió API for .NET" %}}
+Telepítés parancssorból ```nuget install Aspose.3d``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.3D``` paraméterrel.
 
-Alternatív módon szerezze be az offline msi telepítőt vagy a dll-t egy ZIP fájlban a [Letöltések](https://downloads.aspose.com/3d/net)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket egy ZIP fájlban innen [letöltések](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# kód USDZ to GLTF konverzióra" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Kód a(z) USDZ – GLTF konverzióhoz" gistPath="" %}}
 ```cs
-// A USDZ-t a jelenet objektumába tölti 
+// töltse be a(z) USDZ elemet a jelenet egyik objektumába 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Mentés USDZ GLTF 
+// USDZ mentése GLTF-ként 
 scene.Save("output.gltf", Aspose.ThreeD.FileFormat.GLTF);
 
 ```

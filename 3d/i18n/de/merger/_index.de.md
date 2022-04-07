@@ -1,9 +1,9 @@
 ﻿---
-title: 3D Fusions lösung 
+title: 3D Fusionslösung 
 weight: 7730
 url: /de/merger
 limit: 
-description: Zusammenführen von FBX, OBJ, STL, DAE, GLTF und mehr zu einer einzelnen 3D-Datei in einem beliebigen unterstützten Format
-widgetUrl: http://localhost:5000/3d/merger/embed
+description: Führen Sie FBX, OBJ, STL, DAE, GLTF und mehr in einer einzigen 3D-Datei in jedem unterstützten Format zusammen
+widgetUrl: "https://products.aspose.com/3d/merger/embed"
 ---
 {{< blocks/products/pf/agp/i18n/feature-solution-app url="https://products.aspose.app/3d/merger/embed" >}} 

@@ -1,28 +1,28 @@
 ﻿---
-title: Java 3D प्रारूपों रूपांतरण
+title: Java 3D प्रारूप रूपांतरण
 url: /hi/java/conversion/
-description: कन्वर्ट 3D प्रारूपों amf 3ds amf एएसई att डीएई डीआरसी dxf fbx gltf संयुक्त obj प्लाई rvm एसटीएल u3d usdz usd vrml x के कुछ लाइनों के साथ Java कोड के माध्यम से Java पुस्तकालय है।
+description: Java लाइब्रेरी के माध्यम से Java कोड की कुछ पंक्तियों के साथ 3D प्रारूप एएमएफ 3ds एएमएफ एएसई एट डीएई डीआरसी डीएक्सएफ एफबीएक्स जीएलटीएफ जेटी ओब्जे प्लाई आरवीएम एसटीएल यू3डी यूएसडीजेड यूएसडी वीआरएमएल एक्स कनवर्ट करें।
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="3D प्रारूपों रूपांतरण के माध्यम से Java" h2="कन्वर्ट 3D फ़ाइल स्वरूपों के बिना किसी भी 3D मॉडलिंग और प्रतिपादन का निर्माण करने के लिए सॉफ्टवेयर स्थापना पार-मंच Java अनुप्रयोगों" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="3D के माध्यम से रूपांतरण प्रारूपित करता है Java" h2="क्रॉस-प्लेटफ़ॉर्म Java एप्लिकेशन बनाने के लिए बिना किसी 3D मॉडलिंग और रेंडरिंग सॉफ़्टवेयर इंस्टॉलेशन के 3D फ़ाइल स्वरूपों को कनवर्ट करें।" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-बनाने के लिए, संपादन, हेर-फेर और बचत तीन-आयामी ग्राफिक्स अनुप्रयोगों, **Java 3D API** प्रदान करता उच्च स्तर ऐसा करने के लिए तरीकों की ऐसी विशेषताएं हैं की स्थापना के बिना किसी भी 3D मॉडलिंग और प्रतिपादन सॉफ्टवेयर है। कुछ का निर्माण कर रहे हैं विभिन्न तीन-आयामी ज्यामितीय आकार के जाल, बनाने कार्यों के साथ एक 3D दृश्य फ़ाइल, सेट अप पर normals या यूवी घन, प्रारूप तत्वों, जोड़ने एनीमेशन संपत्ति और अधिक है। 
+त्रि-आयामी ग्राफिक्स अनुप्रयोगों को बनाने, संपादित करने, हेरफेर करने और सहेजने के लिए, **Java 3D API** किसी भी 3D मॉडलिंग और रेंडरिंग सॉफ़्टवेयर की स्थापना के बिना ऐसी सुविधाओं को करने के लिए उच्च स्तरीय विधियां प्रदान करता है। कुछ अलग-अलग त्रि-आयामी ज्यामितीय आकृतियों के जाल का निर्माण कर रहे हैं, एक 3D दृश्य फ़ाइल बनाते हैं, क्यूब पर मानक या यूवी सेट करते हैं, तत्वों को प्रारूपित करते हैं, एनीमेशन संपत्ति जोड़ते हैं और बहुत कुछ करते हैं। 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="कन्वर्ट 3D फ़ाइल विभिन्न स्वरूपों करने के लिए" %}}
-रूपांतरण प्रक्रिया सरल है। सिर्फ लोड स्रोत 3D फ़ाइल का उपयोग [दृश्य कक्षा](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene)है। दृश्य के रूप में एक शीर्ष-स्तर है वस्तु होने के नोड्स, geometries, बनावट, सामग्री, एनीमेशन, poses, उप-दृश्यों आदि प्रासंगिक बनाने के [बचाने विकल्प](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) इस तरह के रूप में AmfSaveOptions, ColladaSaveOptions, Discreet3dsSaveOptions, DracoSaveOptions, FbxSaveOptions, GltfSaveOptions, RvmSaveOptions, StlSaveOptions, u3dSaveOptions आदि और सेट के गुण तदनुसार. अंत में कॉल बचाने के आउटपुट फ़ाइल और बनाया लक्ष्य के साथ विधि प्रारूप बचाने विकल्प वस्तु है। इसके अलावा अधिक, का उपयोग कर API प्रोग्रामर भी कर सकते हैं बचाने 3D दृश्य के रूप में HTML.
+{{% blocks/products/pf/feature-page-section h2="3D फ़ाइल को विभिन्न स्वरूपों में कनवर्ट करें" %}}
+रूपांतरण प्रक्रिया सरल है। बस स्रोत 3D फ़ाइल का उपयोग करके लोड करें [दृश्य वर्ग](https://apireference.aspose.com/3d/java/com.aspose.threed/Scene)जैसा कि दृश्य एक शीर्ष-स्तरीय वस्तु है जिसमें नोड्स, ज्यामिति, बनावट, सामग्री, एनीमेशन, पोज़, उप-दृश्य आदि होते हैं। प्रासंगिक बनाएं [विकल्प सहेजें](https://apireference.aspose.com/3d/java/com.aspose.threed/SaveOptions) जैसे AmfSaveOptions, ColladaSaveOptions, Discreet3dsSaveOptions, DracoSaveOptions, FbxSaveOptions, GltfSaveOptions, RvmSaveOptions, StlSaveOptions, U3dSaveOptions आदि और तदनुसार गुण सेट करें। अंत में आउटपुट फाइल के साथ सेव मेथड को कॉल करें और टारगेट फॉर्मेट सेव ऑप्शन ऑब्जेक्ट को बनाएं। इसके अलावा, API प्रोग्रामर के उपयोग से 3D दृश्य को HTML के रूप में भी सहेजा जा सकता है।
 
 
-{{% blocks/products/pf/feature-page-code h3="Java कोड के लिए AMF करने के लिए 3DS रूपांतरण" %}}
+{{% blocks/products/pf/feature-page-code h3="Java AMF से 3DS रूपांतरण के लिए कोड" %}}
 
 {{< gist "aspose-com-gists" "766e923b86deeccd14d69376efe862d8" "convert-amf-to-3ds.java" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
 
-{{% blocks/products/pf/feature-page-code h3="कन्वर्ट 3D करने के लिए दृश्य HTML के माध्यम से Java" %}}
+{{% blocks/products/pf/feature-page-code h3="Java के माध्यम से 3D दृश्य को HTML में बदलें" %}}
 
 {{< gist "aspose-com-gists" "0672215ca08d7566bd64d657e2b228a7" "src-java-examples-loadsave-SaveOptions-html5SaveOption.java" >}}
 

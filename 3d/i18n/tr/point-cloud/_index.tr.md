@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Format Noktası-Bulut Çözümü 
+title: 3D Biçim Nokta Bulutu Çözümü 
 weight: 7730
 url: /tr/point-cloud
 limit: 
