@@ -1,6 +1,6 @@
 ﻿---
-title: USDZ 'i C# ile STL 'ye dönüştürün 
-description: USDZ ve diğer 3D dosyalarını .NET kullanarak dönüştürün
+title: C# aracılığıyla USDZ'i STL'ye dönüştürün 
+description: .NET API kullanarak USDZ ve diğer 3D dosyalarını dönüştürün
 url: /tr/net/conversion/usdz-to-stl/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: STL
 otherformats: AMF JT GLTF HTML DXF STL DRC OBJ 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ \'i C# ile STL \'ye dönüştürün" h2=".NET Framework, .NET Core ve Mono kullanarak USDZ ve diğer 3D dosyalarını dışa aktar" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# aracılığıyla USDZ\'i STL\'ye dönüştürün" h2=".NET Framework, .NET Core ve Mono kullanarak USDZ ve diğer 3D dosyalarını dışa aktarın" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="USDZ Sahneyi STL olarak C# olarak dışa aktar" %}}
-1. Bir kurucuyu kullanarak USDZ dosyasını yükleyin [Sahne](https://apireference.aspose.com/3d/net/aspose.threed/scene) Sınıf2. Çağrı [Sahne. Kaydet](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Yöntemi
-3. Pass çıkış dosya adı ile. Stl uzantısı olarak ilk parametre
-4. 'STLASCII' alan değerini belirtin [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Sınıf
+{{% blocks/products/pf/agp/feature-section-col title="C# ile USDZ Sahneyi STL olarak dışa aktar" %}}
+1. Bir oluşturucu kullanarak USDZ dosyasını yükleyin [Sahne](https://apireference.aspose.com/3d/net/aspose.threed/scene) sınıf2. Çağrı [Sahne.Kaydet](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) yöntem
+3. İlk parametre olarak .stl uzantılı çıktı dosyası adını iletin
+4. `STLASCII` alan değerini şuradan belirtin: [Dosya formatı](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) sınıf
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D Biçim Dönüşümü API for .NET" %}}
-Komut satırından ''nuget install Aspose.3d'' olarak veya ''Install-Package Aspose.3D'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
+{{% blocks/products/pf/agp/feature-section-col title="3D Biçim Dönüştürme API for .NET" %}}
+Komut satırından ```nuget install Aspose.3d``` veya ```Install-Package Aspose.3D`` ile Visual Studio'nun Paket Yönetici Konsolu aracılığıyla yükleyin.
 
-Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/3d/net).
+Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri şu adresten bir ZIP dosyasında alın: [İndirilenler](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# USDZ ila STL Dönüşüm için kod" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="USDZ - STL Dönüşümü için C# Kodu" gistPath="" %}}
 ```cs
-// Bir sahne nesnesine USDZ yükleyin 
+// USDZ öğesini bir Sahne nesnesine yükleyin 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// USDZ 'i STL olarak kaydedin 
+// USDZ'i STL olarak kaydet 
 scene.Save("output.stl", Aspose.ThreeD.FileFormat.STLASCII);
 
 ```

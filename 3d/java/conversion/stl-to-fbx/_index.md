@@ -101,7 +101,7 @@ document.save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="STL to FBX Conversion Live Demos" sectionDescription="[Convert STL to FBX](https://products.aspose.app/3d/conversion/stl-to-fbx) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="STL to FBX Conversion Live Demos" sectionDescription="[Convert STL to FBX](https://products.aspose.app/3d/conversion/stl-to-fbx) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your STL file, it will be converted instantly to FBX." >}}
@@ -133,7 +133,7 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

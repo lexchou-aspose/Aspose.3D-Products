@@ -2,10 +2,10 @@
 title: C# .NET 3D 文档处理 API - Aspose 
 weight: 1020
 url: /zh/net/ 
-description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应用程序中创建读取转换和修改 3D 文件
+description: C# VB.NET ASP.NET 库，用于在 Windows 窗体 Web 服务和 Mono 应用程序中创建读取转换和修改 3D 文件
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D 文件操作api" h2="在任何基于 .NET 的应用程序中读取、写入、操作和转换 3D 文件格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D 文件操作 API" h2="在任何基于 .NET 的应用程序中读取、写入、操作和转换 3D 文件格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,7 +13,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET 是一款功能丰富的游戏软件和计算机辅助设计 (CAD) API，可以在没有任何 3D 建模和渲染软件依赖关系的情况下操作文档。API 支持 Discreet3DS，WavefrontOBJ，FBX (ASCII，二进制)，STL (ASCII，二进制)，Universal3D，Collada，glTF，GLB，PLY，DirectX，Google Draco 文件格式和更多。开发人员可以轻松创建、阅读、转换、修改和控制 3D 文档格式的实质内容。
+ Aspose.3D for .NET 是一种功能丰富的游戏软件和计算机辅助设计 (CAD) API，可在没有任何 3D 建模和渲染软件依赖项的情况下操作文档。 API 支持 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX、Google Draco 文件格式等。开发人员可以轻松地创建、读取、转换、修改和控制 3D 文档格式的内容。
 </p>
 
 <p>
@@ -25,7 +25,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目了然" description="API 的功能概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="API 的功能概述。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -39,7 +39,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      场景
     </li>
     <li>
-     网格
+     网
     </li>
     <li>
      PolygonBuilder
@@ -48,7 +48,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      节点
     </li>
     <li>
-     变换
+     转换
     </li>
     <li>
      四元数
@@ -57,7 +57,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      财产
     </li>
     <li>
-     VertexElementUV
+     顶点元素UV
     </li>
     <li>
      VertexElementNormal
@@ -69,16 +69,16 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      盒子
     </li>
     <li>
-     气缸
+     圆筒
     </li>
     <li>
      飞机
     </li>
     <li>
-     球体
+     领域
     </li>
     <li>
-     圆环
+     环面
     </li>
    </ul>
   </div>
@@ -87,26 +87,26 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
    <header>
     <i class="fa fa-bars">
     </i>
-    一般
+    一般的
    </header>
    <ul>
     <li>
      创建场景
     </li>
     <li>
-     创建网格表面
+     创建网格曲面
     </li>
     <li>
-     多边形三角测量
+     多边形三角剖分
     </li>
     <li>
-     按材料划分网格
+     按材质分割网格
     </li>
     <li>
-     图形设置正常
+     图形设置法线
     </li>
     <li>
-     为图形设置UV
+     为图形设置 UV
     </li>
     <li>
      三角网格
@@ -118,13 +118,13 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      向对象添加材质
     </li>
     <li>
-     添加目标摄像机
+     添加目标相机
     </li>
     <li>
-     在图像中渲染 3D 视图
+     在图像中渲染 3D 查看
     </li>
     <li>
-     投射和接收阴影
+     演员表接收阴影
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
   <footer>
    <small>
     <em>
-     对于
+     为了
     </em>
     .NET
    </small>
@@ -194,7 +194,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
   <footer>
    <small>
     <em>
-     对于
+     为了
     </em>
     .NET
    </small>
@@ -205,61 +205,61 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.3D for .NET [支持著名的 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  文件格式。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.3D for .NET [支持著名的3D](https://docs.aspose.com/3d/net/supported-file-formats/)  文件格式。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    输入/输出
+    输入输出
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      欧特克：
      </b>
-     FBX 7.2至7.5 (ASCII/二进制)
+     FBX 7.2 到 7.5（ASCII/二进制）
     </li>
     <li>
      <b>
-      3D 系统 CAD:
+      3D 系统 CAD：
      </b>
-     STL (ASCII/二进制)
+     STL（ASCII/二进制）
     </li>
     <li>
      <b>
-      Wavefront:
+      Wavefront：
      </b>
      OBJ
     </li>
     <li>
      <b>
-      谨慎的 3D 工作室:
+      谨慎的 3D 工作室：
      </b>
      3DS
     </li>
     <li>
      <b>
-      Universal3D:
+      Universal3D：
      </b>
      U3D
     </li>
     <li>
      <b>
-      Collada:
+      Collada：
      </b>
      DAE
     </li>
     <li>
      <b>
-      GL传输:
+      GL变速箱：
      </b>
-     glTF (ASCII/二进制)
+     glTF（ASCII/二进制）
     </li>
     <li>
      <b>
-      Google Draco:
+      Google Draco：
      </b>
      DRC
     </li>
@@ -267,19 +267,19 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      <b>
       RVM
      </b>
-     (文本/二进制)
+     （文本/二进制）
     </li>
     <li>
      <b>
-      可移植文档格式:
+      便携式文件格式：
      </b>
      PDF
     </li>
     <li>
      <b>
-      其他:
+      其他：
      </b>
-     AMF 、 PLY (ASCII/二进制) 、 A3DW
+     AMF、PLY（ASCII/二进制）、A3DW
     </li>
    </ul>
   </div>
@@ -294,13 +294,13 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
    <ul>
     <li>
      <b>
-      DirectX:
+      直连：
      </b>
-     X (ASCII/二进制)
+     X（ASCII/二进制）
     </li>
     <li>
      <b>
-      西门子:
+      西门子：
      </b>
      JT
     </li>
@@ -308,7 +308,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      DXF
     </li>
     <li>
-     3MF (3D 制造格式)
+     3MF（3D 制造格式）
     </li>
     <li>
      ASE
@@ -339,7 +339,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
   <footer>
    <small>
     <em>
-     对于
+     为了
     </em>
     .NET
    </small>
@@ -368,21 +368,21 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创建 3D 场景并以支持的格式保存
+     创建3D场景和以支持的格式保存
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     加载、保存文件并将其转换为流
+     加载、保存和将文件转换为流
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用几何和场景层次结构
+     使用几何和场景层次
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,28 +403,28 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用顶点的自定义内存布局三角剖分网格
+     使用顶点的自定义内存布局对网格进行三角剖分
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     在场景中添加目标摄像机
+     在场景中添加目标相机
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     动画场景中的对象
+     为场景中的对象设置动画
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     按材料划分网格
+     按材质拆分网格
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     在几何形状上投射和接收阴影
+     在几何体上投射和接收阴影
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,21 +452,21 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     增强气缸的创建
+     增强圆柱体的创建
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     添加了vulkan渲染器支持
+     添加了 vulkan 渲染器支持
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通过挤压形状创建几何
+     通过挤压形状创建几何图形
     </p>
    </div>
    <div class="col-lg-4">
@@ -480,7 +480,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支持标准3d打印格式 AMF
+     支持标准 3D 打印格式 AMF
     </p>
    </div>
    <div class="col-lg-4">
@@ -494,7 +494,7 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用draco压缩导出和导入 glTF 文件
+     使用 draco 压缩导出和导入 glTF 文件
     </p>
    </div>
    <div class="col-lg-12">
@@ -502,11 +502,11 @@ description: C# VB.NET ASP.NET 库，用于在Windows窗体Web服务和 Mono 应
      3D 文件格式转换
     </h2>
     <p>
-     Aspose.3d for .NET 提供了一系列高级算法，使其成为用于 3D 文件格式转换的多合一解决方案。转换过程就像将文件扩展名更改为所需格式一样简单。您需要做的就是在Scene的实例中加载源文件，并使用适当的FileFormat参数调用其保存方法。就这样!
+     Aspose.3d for .NET 提供了一系列高级算法，使其成为3D 文件格式转换的一体化解决方案。转换过程就像将文件扩展名更改为所需格式一样简单。您需要做的就是在 Scene 实例中加载源文件，并使用适当的 FileFormat 参数调用其 Save 方法。就是这样！
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存 3D 场景- C#
+      以不同格式保存 3D 场景 - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -524,7 +524,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      3D 场景创建
     </h2>
     <p>
-     Aspose.3D for .NET 使程序员能够轻松地从头开始生成场景，而无需安装任何 3D 建模或渲染软件。3D .NET API 还可以通过调用场景类对象的保存方法，以格式 (FBX 、 STL 、 WavefrontOBJ 、 Discreet3DS 、 Universal3D 和 Collada) 保存场景。
+     Aspose.3D for .NET 使程序员能够轻松地从头开始生成场景，而无需安装任何 3D 建模或渲染软件。 3D .NET API 还可以通过调用场景类对象。
     </p>
    </div>
    <div class="col-lg-12">
@@ -532,15 +532,15 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      将资产信息添加到 3D 场景
     </h2>
     <p>
-     元数据是结构化信息，可描述，定位并使检索，使用和管理信息资源变得更加容易。Aspose.3D for .NET API 允许开发人员定义场景的元数据。
+     元数据是结构化信息，用于描述、定位信息资源并使其更易于检索、使用和管理信息资源。 Aspose.3D for .NET API 允许开发人员为场景定义元数据。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     创建 3D 网格和图形形状
+     创建3D网格和图形形状
     </h2>
     <p>
-     .NET 3D 库允许开发人员构建各种 3D 几何形状的网格，以最简单的方式定义控制点和多边形来创建网格，并将网格指向形状类型的多个实例。开发人员还可以在 3D 场景的任何位置放置 3D 形状。
+     .NET 3D 库允许开发人员构建各种 3D 几何形状的网格，以最简单的方式定义控制点和多边形以创建网格并将网格指向形状类型的多个实例。开发人员还可以将 3D 形状放置在 3D 场景的任何位置。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -562,15 +562,15 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      与多个节点共享网格几何数据
     </h2>
     <p>
-     为了减少内存的必要性，可以将网格的单个实例绑定到节点的各个实例。设想您需要一个系统，其中大量的 3D 立方体似乎无法区分; 当系统启动时，您可以通过制作一个网格对象来节省内存。此时，每次需要另一个形状时，都要制作另一个节点对象，然后将该节点指向一个网格。这就是 API 管理实例化的方式。
+     为了减少内存需求，可以将单个 Mesh 实例绑定到不同的 Node 实例。设想您需要一个系统，其中大量 3D 立方体似乎无法区分；您可以通过在系统启动时创建一个 Mesh 对象来节省内存。此时，每次您需要另一个形状时，您都会创建另一个 Node 对象，然后将该节点指向一个 Mesh。这就是 API 管理实例的方式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     具有自定义顶点内存布局的三角网格
+     使用顶点的自定义内存布局对网格进行三角剖分
     </h2>
     <p>
-     将网格转换为三角形网格，因为任何复杂的结构都可以表示为一堆三角形。图形软件包和硬件设备在三角形上的运行效率更高。顶点的内存布局对于馈送GPU (图形处理单元) 也很重要，因为GPU还必须了解顶点布局，以便从缓冲区中提取正确的属性。
+     将网格转换为三角形网格，因为任何复杂的结构都可以表示为一堆三角形。图形软件包和硬件设备在三角形上更有效地运行。 Vertex 的内存布局对于为 GPU（图形处理单元）提供数据也很重要，因为 GPU 还必须知道顶点布局才能从缓冲区中提取正确的属性。
     </p>
    </div>
    <div class="col-lg-12">
@@ -578,7 +578,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      独立于任何外部软件安装
     </h2>
     <p>
-     Aspose.3D API 是使用托管代码构建的，该代码永远不依赖于计算机上的任何外部 API 或软件安装来处理 3D 文件。在支持的功能，安全性，稳定性，可扩展性，速度和价格方面，它是一个完美的定制解决方案。
+     Aspose.3D API 是使用托管代码构建的，该代码从不依赖任何外部 API 或计算机上的软件安装来处理 3D 文件。在支持的功能、安全性、稳定性、可扩展性、速度和价格方面，它是一个完美定制的解决方案。
     </p>
    </div>
   </div>
@@ -593,27 +593,27 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="有偿支持" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/3d/" >}}
 {{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么 Aspose.3D for .NET" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么Aspose.3D for .NET" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 为其他流行的开发环境提供单独的 3D 处理api，如下所示:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 为其他流行的开发环境提供单独的 3D 处理 API，如下所列：" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

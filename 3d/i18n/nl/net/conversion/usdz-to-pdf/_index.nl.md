@@ -1,6 +1,6 @@
 ﻿---
-title: USDZ converteren naar PDF via C# 
-description: USDZ en andere 3D bestanden converteren met .NET API
+title: Converteer USDZ naar PDF via C# 
+description: Converteer USDZ en andere 3D bestanden met .NET API
 url: /nl/net/conversion/usdz-to-pdf/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: PDF
 otherformats: 3MF DRC DXF JT PLY GLTF FBX ASE 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ converteren naar PDF via C#" h2="Exporteer USDZ en andere 3D bestanden met .NET Framework, .NET Core en Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer USDZ naar PDF via C#" h2="Exporteer USDZ en andere 3D bestanden met .NET Framework, .NET Core en Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exporteer USDZ scene als PDF met C#" %}}
-1. Laad USDZ bestand met behulp van een constructor van [Scène](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klasse2. Bel [Scène. Opslaan](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Methode
-3. Pass output bestandsnaam met. Pdf extensie als eerste parameter
-4. Geef de veldwaarde 'PDF' op vanaf [Bestandformaat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klasse
+{{% blocks/products/pf/agp/feature-section-col title="Exporteer USDZ Scene als PDF met C#" %}}
+1. Laad USDZ bestand met een constructor van [Tafereel](https://apireference.aspose.com/3d/net/aspose.threed/scene) klas2. Bel [Scène.Opslaan](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) methode
+3. Geef de naam van het uitvoerbestand door met de extensie .pdf als eerste parameter
+4. Geef veldwaarde 'PDF' op van [Bestandsformaat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) klas
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D Formaatconversie API for .NET" %}}
-Installeer vanaf de opdrachtregel als ''nuget install Aspose.3d'' of via Package Manager Console van Visual Studio met '''' Install-Package Aspose.3D''.
+Installeer vanaf de opdrachtregel als ```nuget install Aspose.3d``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.3D```.
 
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP bestand downloaden van [Downloads](https://downloads.aspose.com/3d/net).
+kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# code voor USDZ tot PDF conversie" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Code voor USDZ naar PDF conversie" gistPath="" %}}
 ```cs
-// Laad de USDZ in een object van Scene 
+// laad de USDZ in een object van Scene 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Bespaar USDZ als PDF 
+// sla USDZ op als een PDF 
 scene.Save("output.pdf", Aspose.ThreeD.FileFormat.PDF);
 
 ```

@@ -14,23 +14,23 @@ otherformats: HTML FBX STL DRC RVM DAE 3MF ASE
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="تصدير USDZ مشهد كX مع C#" %}}
-1. تحميل USDZ ملف باستخدام مُنشئ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) فئة2. اتصل [المشهد. حفظ](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
-3. تمرير اسم الملف الإخراج مع. تمديد x كمعلمة أولى
-4. حدد قيمة الحقل "XBinary" من [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) فئة
+{{% blocks/products/pf/agp/feature-section-col title="تصدير USDZ Scene as X with C#" %}}
+1. تحميل ملف USDZ باستخدام مُنشئ لـ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) صف دراسي2. الاتصال [المشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
+3. قم بتمرير اسم ملف الإخراج بامتداد .x كمعامل أول
+4. حدد قيمة الحقل "XBinary" من [تنسيق الملف](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) صف دراسي
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D تنسيق التحويل API for .NET" %}}
-قم بالتثبيت من سطر الأوامر باسم ''nuget install Aspose.3d'' أو عبر Package Manager Console of Visual Studio مع '''' تثبيت-حزمة Aspose.3D''.
+قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.3d '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.3D ''.
 
-بدلاً من ذلك ، احصل على مثبت MSI أو DLLs غير المتصل بالإنترنت في ملف ZIP من [التنزيلات](https://downloads.aspose.com/3d/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# رمز لـ USDZ إلى X Conversation" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# رمز التحويل من USDZ إلى X" gistPath="" %}}
 ```cs
 // تحميل USDZ في كائن من المشهد 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// حفظ USDZ كعلامة X 
+// احفظ USDZ على شكل X 
 scene.Save("output.x", Aspose.ThreeD.FileFormat.XBinary);
 
 ```

@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D dokumentum-feldolgozás API - Aspose 
+title: C# .NET 3D Dokumentum feldolgozás API - Aspose 
 weight: 1020
 url: /hu/net/ 
-description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertálni és módosítani 3D fájlokat a windows forms web services és Mono alkalmazások
+description: C# VB.NET ASP.NET könyvtár olvasási konvertáló és 3D fájlok létrehozásához a Windows Forms Web Services és Mono alkalmazásokban
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D fájlmanipulációs api-k" h2="3D fájlformátumok olvasása, írása, manipulálása és konvertálása bármely .NET alapú alkalmazáson belül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D Fájlmanipulációs API-k" h2="Olvasson, írjon, manipuláljon és konvertáljon 3D fájlformátumot bármely .NET alapú alkalmazásban." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET egy funkcióban gazdag játékprogram és számítógéppel támogatott-tervezés (CAD) API a dokumentumok manipulálására minden 3D modellezés és szoftverfüggés nélküli renderelés nélkül. API támogatja a Discreet3DS, WavefrontOBJ, FBX (ascii, bináris), STL (ascii, bináris), Universal3D, Collada, glTF, GLB, PLY, directx, Google Draco fájlformátumok és több. A fejlesztők könnyen létrehozhatják, olvashatják, átalakíthatják, módosíthatják és irányíthatják a 3D dokumentumformátumok anyagát.
+ A Aspose.3D for .NET funkciókban gazdag játékprogram és számítógéppel segített tervezés (CAD) API, amellyel a dokumentumokat 3D modellező és megjelenítő szoftverfüggőség nélkül kezelheti. A API támogatja a következőt: Discreet3DS, WavefrontOBJ, FBX (ASCII, bináris), STL (ASCII, bináris), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco fájlformátumok és egyebek. A fejlesztők könnyedén létrehozhatják, olvashatják, konvertálhatják, módosíthatják és szabályozhatják a 3D dokumentumformátumok tartalmát.
 </p>
 
 <p>
- Aspose.3D for .NET API felhasználóbarát, és bármelyik .NET alkalmazással olyan egyszerű, mint a már telepített egyéb szolgáltatásokkal és modulokkal való aggódás nélkül történő másolása.
+ Aspose.3D for .NET API felhasználóbarát, és bármilyen .NET-alkalmazással telepíthető, akár másolással is, anélkül, hogy aggódnia kellene a már telepített szolgáltatások és modulok miatt.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,7 +25,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Egy pillantásra" description="A API képességeinek áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A API képességeinek áttekintése." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -36,7 +36,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
    </header>
    <ul>
     <li>
-     Jelenet
+     Színhely
     </li>
     <li>
      Háló
@@ -45,25 +45,25 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
      PolygonBuilder
     </li>
     <li>
-     Node
+     Csomópont
     </li>
     <li>
-     Transform
+     Átalakítani
     </li>
     <li>
-     Kvaternion
+     Négy részből álló
     </li>
     <li>
-     Tulajdonság
+     Ingatlan
     </li>
     <li>
-     Vertexelementuv
+     VertexElementUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Csúcs
     </li>
     <li>
      Doboz
@@ -72,7 +72,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
      Henger
     </li>
     <li>
-     Sík
+     Repülőgép
     </li>
     <li>
      Gömb
@@ -87,44 +87,44 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-bars">
     </i>
-    Általános
+    Tábornok
    </header>
    <ul>
     <li>
      Jelenetek létrehozása
     </li>
     <li>
-     Hozzon létre háló felületet
+     Hálós felület létrehozása
     </li>
     <li>
-     Sokszög-háromszögelés
+     Sokszög háromszögelés
     </li>
     <li>
-     Osztott háló anyagból
+     A háló felosztása anyag szerint
     </li>
     <li>
-     Beállítás normál grafika
+     Állítsa be a Normál grafikát
     </li>
     <li>
-     Beállítása uv grafika
+     Állítsa be az UV-t a grafikához
     </li>
     <li>
-     Háromszögű háló
+     Háromszögletű háló
     </li>
     <li>
-     Megosztás háló geometria adatok
+     Ossza meg a háló geometriai adatait
     </li>
     <li>
-     Anyag hozzáadása objektumhoz
+     Anyag hozzáadása az objektumhoz
     </li>
     <li>
-     Hozzáadása célkamera
+     Adja hozzá a cél kamerát
     </li>
     <li>
-     3D nézet megjelenítése a képekben
+     Rendereljen 3D Nézet a képekben
     </li>
     <li>
-     Cast & receive shadows
+     Cast &amp; Árnyékok fogadása
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform independence" description="Aspose.3D for .NET támogatja a .NET keretrendszert." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.3D for .NET támogatja a .NET keretrendszert." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET keret
+    .NET Keretrendszer
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET mag
+    .NET Mag
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.3D for .NET [Támogatja a híres 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Fájlformátumok." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.3D for .NET [támogatja a híres 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  fájlformátumok." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet/kimenet
+    Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7,2-7,5 (ascii/bináris)
+     FBX 7.2–7.5 (ASCII/bináris)
     </li>
     <li>
      <b>
-      3D systems CAD:
+      3D Rendszerek CAD:
      </b>
-     STL (ascii/bináris)
+     STL (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -235,7 +235,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
     </li>
     <li>
      <b>
-      Diszkrét 3D stúdió:
+      Diszkrét 3D Stúdió:
      </b>
      3DS
     </li>
@@ -253,9 +253,9 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
     </li>
     <li>
      <b>
-      Gl átvitel:
+      GL sebességváltó:
      </b>
-     glTF (ascii/bináris)
+     glTF (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -279,7 +279,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
      <b>
       Egyéb:
      </b>
-     AMF, PLY (ascii/bináris), A3DW
+     AMF, PLY (ASCII/bináris), A3DW
     </li>
    </ul>
   </div>
@@ -289,14 +289,14 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Csak bemenet
+    Csak bevitel
    </header>
    <ul>
     <li>
      <b>
-      Directx:
+      DirectX:
      </b>
-     X (ascii/bináris)
+     X (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -339,7 +339,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Továbbfejlesztett .NET 3D API funkciók
+    Speciális .NET 3D API funkciók
    </h2>
    <p>
    </p>
@@ -368,145 +368,145 @@ description: C# vb .NET asp .NET könyvtár létrehozásához olvasni konvertál
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D jelenet létrehozása és mentése a támogatott formátumban
+     3D jelenet létrehozása &amp; mentse a támogatott formátumban
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fájlok betöltése, mentése & konvertálása stream
+     Betöltés, mentés és amp; konvertálja a fájlokat adatfolyammá
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Munka geometriával & jelenet hierarchia
+     Munka geometriával &amp; jelenet hierarchia
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Megosztás háló geometria adatok több csomópont között
+     Ossza meg a háló geometriai adatait több csomópont között
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Animációs tulajdonság hozzáadása a jelenet dokumentumához
+     Animációs tulajdonság hozzáadása a jelenet dokumentumhoz
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a háló egyedi memória elrendezése a csúcs
+     Háromszögelés egy hálót a csúcs egyedi memóriaelrendezésével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Egy célfényképezőgép hozzáadása a jelenetben
+     Adjon hozzá egy célkamerát a jelenethez
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Animate objektumok egy jelenetben
+     Tárgyak animálása egy jelenetben
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Osztott hálók anyagból
+     Oszd meg a hálókat anyag szerint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D nézet megjelenítése a képformátumban
+     Rendereljen egy 3D nézetet képformátumban
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cast és kap árnyékok geometriák
+     Vessen és fogadjon árnyékokat a geometriákon
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Engedélyezze a sík orientációinak megváltoztatását
+     Engedélyezze a sík irányának megváltoztatását
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fokozza a palack létrehozását
+     Fokozza a henger létrehozását
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hozzáadott vulkan renderer támogatás
+     Vulkan renderer támogatás hozzáadva
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hozzon létre geometria extrudálásával alakzatok
+     Hozzon létre geometriát alakzatok extrudálásával
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Uv atlas algoritmus támogatás
+     UV atlasz algoritmus támogatás
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     A standard 3d nyomtatási formátum AMF támogatása
+     A szabványos 3D nyomtatási formátum támogatása AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX import és bináris írási támogatás
+     FBX importálás és bináris írás támogatása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     glTF fájlok exportálása és importálása draco tömörítéssel
+     Exportáljon és importáljon glTF fájlt Draco tömörítéssel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D fájlformátum átalakítás
+     3D Fájlformátum konvertálása
     </h2>
     <p>
-     Aspose.3d for .NET olyan fejlett algoritmusokból álló tömböt biztosít, amely a 3D fájlformátum-konverzióhoz minden-ban megoldássá teszi. A konverziós folyamat olyan egyszerű, mint a fájlkiterjesztés megváltoztatása a kívánt formátumra. Mindössze annyit kell tennie, hogy betöltse a forrásfájlt a jelenet egy példányában, és hívja a mentési módszert megfelelő fájlformátum paraméterrel. Itt van!
+     Aspose.3d for .NET fejlett algoritmusok tömbjét kínálja, amelyek teljes körű megoldássá teszik a 3D fájlformátum konvertálását. A konvertálási folyamat olyan egyszerű, mint a fájlkiterjesztés módosítása a kívánt formátumra. Mindössze annyit kell tennie, hogy betölti a forrásfájlt a Scene egy példányába, és meghívja a Mentés metódust egy megfelelő FileFormat paraméterrel. Ez az!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      A 3D jelenet mentése különböző formátumokban- C#
+      3D jelenet mentése különböző formátumokban – C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D jelenetek létrehozása
+     3D Jelenetek létrehozása
     </h2>
     <p>
-     Aspose.3D for .NET lehetővé teszi a programozók számára, hogy könnyen generáljanak jeleneteket a semmiből, anélkül, hogy bármilyen 3D modellezési vagy renderezési szoftvert kell telepíteni. A 3D .NET API is lehetővé teszi a jelenetek formátumú mentését (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D és Collada) a jelenet osztály objektumának mentési módszerének meghívásával.
+     A Aspose.3D for .NET lehetővé teszi a programozók számára, hogy egyszerűen, a semmiből készítsenek jeleneteket anélkül, hogy bármilyen 3D modellező vagy megjelenítő szoftvert kellene telepíteni. A 3D .NET API lehetővé teszi a jelenetek formátumok (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D és Collada) mentését is a Mentés metódusának meghívásával. Jelenet osztály objektum.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Eszköz információk hozzáadása 3D jelenetbe
+     Adja hozzá az eszközinformációkat a 3D jelenethez
     </h2>
     <p>
-     A metaadatok olyan strukturált információ, amely leírja, megtalálja és megkönnyíti az információs erőforrás letöltését, használatát és kezelését. Aspose.3D for .NET API lehetővé teszi a fejlesztők számára, hogy a jelenet metaadatait definiálják.
+     metaadatok olyan strukturált információk, amelyek leírják, megkeresik és megkönnyítik az információforrások visszakeresését, használatát és kezelését. A Aspose.3D for .NET API lehetővé teszi a fejlesztők számára, hogy meghatározzák a jelenet metaadatait.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D háló és grafikus formák létrehozása
+     Hozzon létre 3D Mesh &amp; Grafikus formák
     </h2>
     <p>
-     .NET 3D könyvtár lehetővé teszi a fejlesztők számára, hogy különböző 3D geometrikus alakzatú hálót építsenek, határozza meg a vezérlőpontokat és sokszögeket a legegyszerűbb módon, hogy hozzon létre a hálókat, és pont egy hálót több példányban egy alakú típus. A fejlesztők a 3D jelenetben bárhol elhelyezhetnek 3D alakzatokat is.
+     A .NET 3D könyvtár lehetővé teszi a fejlesztők számára, hogy különféle 3D geometriai alakzatokból hálót építsenek, vezérlőpontokat és sokszögeket határozzanak meg a legegyszerűbb módon hálók létrehozásához, és egy hálót egy alaktípus több példányára irányítsanak. A fejlesztők 3D alakzatokat is elhelyezhetnek bárhol a 3D színtéren.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Megosztás háló geometria adatok több csomópont
+     Ossza meg a hálógeometriai adatokat több csomóponttal
     </h2>
     <p>
-     A memória szükségleteinek csökkentése érdekében a háló egyetlen példánya különböző csomóponti példányokhoz köthető. Elképzelés, hogy szükség van egy rendszer, ahol egy nagy számú 3D kocka úgy tűnt, hogy megkülönböztethetetlen; akkor kímélheti a memóriát, hogy egy háló objektumot, amikor a rendszer elindul. Ezen a ponton, minden alkalommal, amikor egy másik alakot igényel, egy másik csomópont objektumot készít, majd ezt a csomópontot egy hálóra mutassuk. A API így kezeli az instancelést.
+     memóriaszükséglet csökkentése érdekében a Mesh egyetlen példánya a Node különböző példányaihoz köthető. Képzeld el, hogy olyan rendszerre van szükséged, ahol nagyszámú 3D kocka megkülönböztethetetlennek tűnt; memóriát kímélhet meg, ha a rendszer indulásakor készít egy Mesh objektumot. Ezen a ponton minden alkalommal, amikor egy másik alakzatra van szüksége, létrehoz egy másik csomópont objektumot, majd rámutat arra a csomópontra egy hálóra. API így kezeli a példányosítást.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Triangulate háló egyedi memória elrendezése vertex
+     Háromszögletű háló a csúcsok egyedi memóriaelrendezésével
     </h2>
     <p>
-     Konvertáljon egy hálót a háromszög háló, mert bármely összetett szerkezet ábrázolható egy csomó háromszög. A grafikus szoftvercsomagok és hardvereszközök hatékonyabban működnek a háromszögeken. A csúcs memóriaelrendezése azért is fontos a gpu (graphics processing unit-grafikus feldolgozó egység) betáplálásához, mert a gpu-nak tudnia kell a csúcselrendezésről is annak érdekében, hogy a helyes attribútumokat kivonhassák a pufferből.
+     Konvertálja a hálót háromszöghálóvá, mert bármilyen összetett struktúra ábrázolható háromszögek halmazaként. A grafikus szoftvercsomagok és hardvereszközök hatékonyabban működnek háromszögeken. A Vertex memória elrendezése a GPU (Graphics Processing Unit) táplálásához is fontos, mert a GPU-nak is tudnia kell a csúcselrendezésről, hogy a megfelelő attribútumokat kinyerje a pufferből.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Független bármilyen külső szoftver telepítés
+     Független bármilyen külső szoftvertelepítéstől
     </h2>
     <p>
-     Aspose.3D API a kezelt kód segítségével épül fel, amely soha nem függ semmilyen külső API vagy szoftvertelepítéstől a gépen, hogy 3D fájlokat működjön. Ez egy tökéletesen testreszabott megoldás a támogatott funkciók, a biztonság, a stabilitás, a skálázhatóság, a sebesség és az ár szempontjából.
+     A(z) Aspose.3D API felügyelt kóddal készült, amely soha nem függ semmilyen külső API-tól vagy szoftver telepítésétől a gépen, hogy működjön a 3D fájlokkal. Tökéletesen testreszabott megoldás a támogatott szolgáltatások, biztonság, stabilitás, méretezhetőség, sebesség és ár tekintetében.
     </p>
    </div>
   </div>
@@ -590,18 +590,18 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Tanulási erőforrások" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API hivatkozások" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Bemutató videók" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Termék támogatás" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Kiadási jegyzetek" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.3D for .NET" tabId="success-stories" >}}
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D kínál egyedi 3D feldolgozó api-k más népszerű fejlesztési környezetek, mint az alábbiakban:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="A Aspose.3D egyedi 3D feldolgozási API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

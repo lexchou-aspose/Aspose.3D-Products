@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D các tập tin Thao Tác và Chuyển Đổi 
+title: Java 3D API | 3D Thao tác và Chuyển đổi Tệp 
 weight: 2820
 url: /vi/java/ 
-description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đổi và sửa đổi 3D các định dạng tập tin trong vòng Java các ứng dụng
+description: Phần mềm trò chơi và thư viện CAD 3D để tạo chuyển đổi đọc và sửa đổi 3D định dạng tệp trong Java ứng dụng
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D tập tin Xử Lý API" h2="Tạo ra, thao tác & Tiết Kiệm 3D các tập tin để nhiều định dạng mà không đòi hỏi bất kỳ bên ngoài mô hình & vẽ phần mềm." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Xử lý Tệp API" h2="Tạo, thao tác và lưu 3D tệp sang nhiều định dạng mà không yêu cầu bất kỳ phần mềm kết xuất & mô hình hóa bên ngoài nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java là một độc lập Gameware và CAD API để thao tác 3D các tập tin. API hỗ trợ hầu hết các phổ biến 3D các định dạng tập tin và các ứng dụng có thể tạo ra, đọc, chuyển đổi & sửa đổi các tập tin một cách dễ dàng. Hơn nữa, API hỗ trợ Các nhà phát triển trong mô hình và sáng tạo của lớn trò chơi thế giới, tuyệt vời cảnh thiết kế trực quan, tham gia thực tế ảo kinh nghiệm, thêm Hoạt Hình tài sản để cảnh tập tin, định dạng yếu tố sử dụng biến đổi và nhiều hơn nữa.
+ Aspose.3D for Java là một Phần mềm trò chơi độc lập và CAD API để thao túng 3D tệp. API hỗ trợ hầu hết các định dạng tệp 3D phổ biến và các ứng dụng có thể tạo, đọc, chuyển đổi & amp; sửa đổi các tập tin một cách dễ dàng. Hơn nữa, API hỗ trợ các nhà phát triển mô hình hóa và tạo thế giới trò chơi rộng lớn, những cảnh tuyệt vời để trực quan hóa thiết kế, tham gia trải nghiệm thực tế ảo, thêm thuộc tính Hoạt ảnh vào tệp cảnh, định dạng các yếu tố bằng cách sử dụng các phép biến đổi và hơn thế nữa.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,21 +21,21 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Trong Nháy Mắt" description="Một cái nhìn tổng quan của các API." >}}
+{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Đối tượng Mô Hình
+    Mô hình đối tượng
    </header>
    <ul>
     <li>
-     Cảnh
+     Bối cảnh
     </li>
     <li>
-     Lưới
+     Lưới thép
     </li>
     <li>
      PolygonBuilder
@@ -44,13 +44,13 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
      Nút
     </li>
     <li>
-     Chuyển đổi
+     Biến đổi
     </li>
     <li>
      Quaternion
     </li>
     <li>
-     Tài sản
+     Bất động sản
     </li>
     <li>
      VertexElementUV
@@ -59,22 +59,22 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Đỉnh
     </li>
     <li>
      Hộp
     </li>
     <li>
-     Xi lanh
+     Hình trụ
     </li>
     <li>
-     Máy bay
+     chiếc máy bay
     </li>
     <li>
-     Hình cầu
+     Quả cầu
     </li>
     <li>
-     Xuyến
+     Torus
     </li>
    </ul>
   </div>
@@ -83,41 +83,41 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
    <header>
     <i class="fa fa-bars">
     </i>
-    Nói chung
+    Chung
    </header>
    <ul>
     <li>
-     Tạo ra Cảnh
+     Tạo cảnh
     </li>
     <li>
-     Tạo ra Bề Mặt Lưới
+     Tạo bề mặt lưới
     </li>
     <li>
-     Đa giác Tam Giác
+     Đa giác tam giác
     </li>
     <li>
-     Chia Lưới bằng Vật Liệu
+     Chia lưới theo vật liệu
     </li>
     <li>
-     Thiết lập Bình Thường đối với Đồ Họa
+     Thiết lập bình thường cho đồ họa
     </li>
     <li>
-     Thiết lập UV cho Đồ Họa
+     Thiết lập UV cho đồ họa
     </li>
     <li>
-     Triangulate Lưới
+     Lưới tam giác
     </li>
     <li>
-     Chia sẻ Lưới Hình Học Dữ Liệu
+     Chia sẻ dữ liệu hình học lưới
     </li>
     <li>
-     Thêm Chất Liệu để Đối Tượng
+     Thêm vật liệu vào đối tượng
     </li>
     <li>
-     Thêm Mục Tiêu Máy Ảnh
+     Thêm máy ảnh mục tiêu
     </li>
     <li>
-     Đúc & Nhận Được Bóng
+     Truyền & amp; Nhận bóng
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng Độc Lập" description="Aspose.3D for Java Hỗ trợ các Java Thời gian chạy." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.3D for Java hỗ trợ thời gian chạy Java." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,14 +153,14 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Môi Trường Thời gian chạy
+    Java Môi trường thời gian chạy
    </header>
    <ul>
     <li>
-     JSP/JSF Ứng Dụng
+     Ứng dụng JSP / JSF
     </li>
     <li>
-     Máy tính để bàn Ứng Dụng
+     Ứng dụng máy tính để bàn
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Hỗ trợ Các Định Dạng Tập Tin" description="API hỗ trợ [Được liệt kê các định dạng tập tin](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="API hỗ trợ [định dạng tệp được liệt kê](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu vào/Đầu Ra
+    Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2-7.5 (ASCII/Nhị Phân)
+     FBX 7,2 đến 7,5 (ASCII / Nhị phân)
     </li>
     <li>
-     STL (ASCII/Nhị Phân)
+     STL (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -227,9 +227,9 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
     </li>
     <li>
      <b>
-      GL Hộp Số:
+      Truyền GL:
      </b>
-     glTF (ASCII/Nhị Phân)
+     glTF (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
      <b>
       RVM
      </b>
-     (Văn bản/Nhị Phân)
+     (Văn bản / Nhị phân)
     </li>
     <li>
      <b>
-      Tài Liệu di động Định Dạng:
+      Định dạng tài liệu di động:
      </b>
      PDF
     </li>
@@ -263,14 +263,14 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Đầu vào Chỉ
+    Chỉ đầu vào
    </header>
    <ul>
     <li>
      <b>
       DirectX:
      </b>
-     X (ASCII/Nhị Phân)
+     X (ASCII / Nhị phân)
     </li>
     <li>
      <b>
@@ -297,7 +297,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Đầu ra Chỉ
+    Chỉ đầu ra
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tiên tiến Java 3D API Các Tính Năng
+    Các tính năng Java 3D API nâng cao
    </h2>
    <p>
    </p>
@@ -345,49 +345,49 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra cảnh và tiết kiệm trong hỗ trợ các định dạng
+     Tạo cảnh và lưu ở các định dạng được hỗ trợ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tải, tiết kiệm và làm cho 3D tài liệu một dòng dòng
+     Tải, lưu và hiển thị tài liệu 3D thành luồng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm việc với hình học và cảnh hệ thống phân cấp
+     Làm việc với hình học và phân cấp cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chia sẻ lưới hình học dữ liệu trong nhiều các nút
+     Chia sẻ dữ liệu hình học lưới trong nhiều nút
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm Hoạt Hình Tài sản để các cảnh tập tin
+     Thêm thuộc tính hoạt ảnh vào tệp cảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate một Lưới với tùy chỉnh Bộ nhớ cách bố trí của các Vertex
+     Tam giác một lưới với bố cục bộ nhớ tùy chỉnh của đỉnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm một mục tiêu máy ảnh như cũng như làm sinh động các đối tượng trong một 3D cảnh
+     Thêm một máy ảnh mục tiêu cũng như tạo hoạt ảnh cho các đối tượng trong một cảnh 3D
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,61 +399,61 @@ description: Gameware và CAD 3D thư viện để tạo ra đọc chuyển đ�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chia mắt lưới bằng vật liệu
+     Chia lưới theo vật liệu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thay đổi máy bay của định hướng bằng cách xác định một lên bình thường
+     Thay đổi hướng của mặt phẳng bằng cách chỉ định một hướng lên bình thường
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra hình học bằng cách đùn hình dạng
+     Tạo hình học bằng cách đùn hình dạng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tăng cường các sáng tạo của xi lanh
+     Tăng cường tạo xi lanh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lưu trữ dựa trên tập tin định dạng-phát hiện
+     Phát hiện định dạng tệp dựa trên lưu trữ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hỗ trợ của AMF định dạng
+     hỗ trợ định dạng AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nhập khẩu và xuất khẩu glTF tài liệu sử dụng Draco nén
+     Nhập và xuất glTF tài liệu bằng cách sử dụng Draco nén
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-chuyển đổi Cảnh Các Tập Tin
+     Chuyển đổi giữa các tệp cảnh
     </h2>
     <p>
-     API cung cấp sự hỗ trợ của 3D tập tin chuyển đổi định dạng trong một cách đơn giản. Các nhà phát triển có thể tải các nguồn tài liệu trong một Cảnh ví dụ, và sử dụng của nó Tiết Kiệm chức năng với các FileFormat tham số. Đó là nó!
+     API cung cấp hỗ trợ 3D chuyển đổi định dạng tệp theo cách đơn giản. Các nhà phát triển có thể tải tài liệu nguồn trong một phiên bản Scene và sử dụng chức năng Save của nó với tham số FileFormat. Đó là nó!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tiết kiệm 3D cảnh trong các định dạng khác nhau- Java
+      Lưu 3D cảnh ở các định dạng khác nhau - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tạo ra 3D Cảnh qua API
+     Tạo 3D cảnh qua API
     </h2>
     <p>
-     Aspose.3D for Java cho phép Các nhà phát triển tạo ra cảnh từ đầu mà không có sự phụ thuộc của bất kỳ mô hình phần mềm. Các Java API cũng trao quyền cho các nhà phát triển để tiết kiệm các cảnh trong bất kỳ của các hỗ trợ các định dạng chẳng hạn như (STL, FBX, Discreet3DS, WavefrontOBJ, Collada và Universal3D).
+     Aspose.3D for Java cho phép các nhà phát triển tạo cảnh từ đầu mà không phụ thuộc vào bất kỳ phần mềm tạo mô hình nào. Java API cũng cho phép các nhà phát triển lưu các cảnh ở bất kỳ định dạng nào được hỗ trợ như (STL, FBX, Discreet3DS, WavefrontOBJ, Collada và Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tạo ra một cảnh với nguyên thủy 3D Hình dạng- Java
+      Tạo cảnh với 3D hình dạng nguyên thủy - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Xây dựng Nút Hệ Thống Phân Cấp trong một Cách Đơn Giản
+     Xây dựng hệ thống phân cấp nút theo cách đơn giản
     </h2>
     <p>
-     Aspose.3D for Java API Cung Cấp Các khả năng để xây dựng một Nút hệ thống phân cấp nơi một Nút là các cơ bản xây dựng khối của một cảnh. MỘT hệ thống phân cấp của các nút xác định hợp lý cấu trúc và cung cấp có thể nhìn thấy nội dung bằng cách gắn hình học, đèn chiếu sáng, và máy ảnh để các nút.
+     Aspose.3D for Java API cung cấp khả năng xây dựng hệ thống phân cấp Node trong đó Node là khối xây dựng cơ bản của một cảnh. Hệ thống phân cấp các nút xác định cấu trúc logic và cung cấp nội dung hiển thị bằng cách gắn các hình học, đèn và camera vào các nút.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thêm Hoạt Hình Tài Sản để Cảnh
+     Thêm thuộc tính hoạt ảnh vào cảnh
     </h2>
     <p>
-     Aspose.3D for Java API cung cấp hỗ trợ cho keyframe hoạt hình thông qua CurveMapping mà Bản Đồ Thành phần của một Tài Sản để khác nhau đường cong. Hơn nữa, thư viện cung cấp để thiết lập các mục tiêu máy ảnh trong một 3D tập tin đó là hữu ích trong phim hoạt hình khi bạn cần các máy ảnh để đối mặt với một đặc biệt nút.
+     Aspose.3D for Java API cung cấp hỗ trợ cho hoạt ảnh khung hình chính thông qua CurveMapping để ánh xạ các thành phần của thuộc tính tới các đường cong khác nhau. Hơn nữa, thư viện đề xuất thiết lập máy ảnh đích trong tệp 3D rất hữu ích trong hoạt ảnh khi bạn cần máy ảnh đối mặt với một nút cụ thể.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Mạnh mẽ, Hiệu Suất & Khả Năng Mở Rộng
+     Mạnh mẽ, Hiệu suất & amp; Khả năng mở rộng
     </h2>
     <p>
-     Aspose.3D for Java là được thiết kế để thực hiện tốt như nhau trên các máy chủ hoặc khách hàng-Side. Nó là một duy nhất Java lắp ráp có thể được triển khai với bất kỳ Java ứng dụng bằng cách đơn giản chỉ cần thêm của nó để tham khảo. Bạn không cần phải lo lắng về các dịch vụ khác hoặc Modules trong khi làm việc với API.
+     Aspose.3D for Java được thiết kế để hoạt động tốt như nhau trên máy chủ hoặc phía máy khách. Nó là một tập hợp Java duy nhất có thể được triển khai với bất kỳ ứng dụng Java nào bằng cách chỉ cần thêm tham chiếu của nó. Bạn không phải lo lắng về các dịch vụ hoặc mô-đun khác khi làm việc với API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,30 +556,30 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Học Tập Tài Nguyên" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API tài liệu tham khảo" href="https://apireference.aspose.com/3d/java" >}}
-{{< blocks/products/pf/slr-element name="Hướng dẫn Video" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Sản phẩm Hỗ Trợ" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ Trợ miễn phí" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Thanh toán Hỗ Trợ" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Ghi Chú phát hành" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.3D for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Khách hàng Danh Sách" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Câu Chuyện Thành Công" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D Cung cấp cá nhân 3D chế biến API cho phổ biến khác phát triển môi trường như được liệt kê dưới đây:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D cung cấp các API xử lý 3D riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

@@ -2,10 +2,10 @@
 title: C# .NET 3D Belge İşleme API - Aspose 
 weight: 1020
 url: /tr/net/ 
-description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono uygulamalarında 3D dosyaları okuma dönüştürmek ve değiştirmek için
+description: Windows Forms Web Hizmetleri ve Mono uygulamalarında okuma dönüştürme ve 3D dosyalarını değiştirmek için C# VB.NET ASP.NET kitaplığı
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D Dosya Manipülasyon API\'leri" h2="Herhangi bir .NET tabanlı uygulamada 3D dosya biçimlerini okuyun, yazın, manipüle edin ve dönüştürün." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D Dosya Manipülasyon API\'leri" h2="Herhangi bir .NET tabanlı uygulamada 3D dosya biçimini okuyun, yazın, işleyin ve dönüştürün." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET, herhangi bir 3D modelleme ve yazılım bağımlılığı oluşturmadan belgeleri işlemek için zengin özelliklere sahip bir Gameware ve Bilgisayar Destekli Tasarım (CAD) API 'dir. API Discreet3DS, WavefrontOBJ, FBX (ASCII, İkili), STL (ASCII, İkili), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco dosya formatları ve daha fazlası. Geliştiriciler, 3D belge formatlarının özünü kolayca oluşturabilir, okuyabilir, dönüştürebilir, değiştirebilir ve kontrol edebilir.
+ Aspose.3D for .NET, belgeleri herhangi bir 3D modelleme ve işleme yazılımı bağımlılığı olmadan işlemek için zengin özelliklere sahip bir Oyun Yazılımı ve Bilgisayar Destekli Tasarım (CAD) API'dır. API, Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY destekler, DirectX, Google Draco dosya biçimleri ve daha fazlası. Geliştiriciler, 3D belge biçimlerinin özünü kolayca oluşturabilir, okuyabilir, dönüştürebilir, değiştirebilir ve kontrol edebilir.
 </p>
 
 <p>
- Aspose.3D for .NET API kullanıcı dostudur ve halihazırda yüklenmiş olan diğer hizmetler ve modüller hakkında endişelenmeden kopyalamak kadar kolay herhangi bir .NET uygulamasıyla kullanılabilir.
+ Aspose.3D for .NET API kullanıcı dostudur ve halihazırda kurulu olan diğer hizmetler ve modüller hakkında endişelenmeden kopyalamak kadar kolay bir şekilde herhangi bir .NET uygulamasıyla dağıtılabilir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,7 +25,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API yeteneklerine genel bir bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API özelliklerine genel bakış." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -39,22 +39,22 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
      Sahne
     </li>
     <li>
-     Mesh
+     ağ
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     Düğüm
+     düğüm
     </li>
     <li>
-     Dönüştür
+     dönüştürmek
     </li>
     <li>
-     Kuaternion
+     dördey
     </li>
     <li>
-     Mülkiyet
+     Mülk
     </li>
     <li>
      VertexElementUV
@@ -63,19 +63,19 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     tepe noktası
     </li>
     <li>
      Kutu
     </li>
     <li>
-     Silindir
+     silindir
     </li>
     <li>
      Uçak
     </li>
     <li>
-     Küre
+     küre
     </li>
     <li>
      Torus
@@ -91,28 +91,28 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
    </header>
    <ul>
     <li>
-     Sahneler Oluştur
+     Sahneler Oluşturun
     </li>
     <li>
-     Mesh Yüzey Oluşturun
+     Mesh Yüzeyi Oluştur
     </li>
     <li>
-     Çokgen Üçgenleme
+     çokgen üçgenleme
     </li>
     <li>
-     Malzemeye göre Bölünmüş Mesh
+     Mesh'i Malzemeye Göre Böl
     </li>
     <li>
-     Grafik için Kurulum Normal
+     Grafikler için Normal Kurulum
     </li>
     <li>
-     Grafik için Kurulum UV
+     Grafikler için UV Kurulumu
     </li>
     <li>
-     Üçgen Örgü
+     Üçgen Mesh
     </li>
     <li>
-     Mesh Geometri Verilerini Paylaş
+     Mesh Geometrisi Verilerini Paylaşın
     </li>
     <li>
      Nesneye Malzeme Ekle
@@ -121,10 +121,10 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
      Hedef Kamera Ekle
     </li>
     <li>
-     Görüntüleri Render 3D Görüntüleri Görüntüleyin
+     Resimlerde 3D Görünümü Oluştur
     </li>
     <li>
-     Oyuncular ve Gölgeler Alın
+     Oyuncular &amp; Gölgeler Al
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlık" description="Aspose.3D for .NET .NET çerçevesini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.3D for .NET, .NET çerçevesini destekler." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -194,7 +194,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -205,21 +205,21 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.3D for .NET [Ünlü 3D destekler](https://docs.aspose.com/3d/net/supported-file-formats/)  Dosya formatları." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.3D for .NET [ünlü 3D destekler](https://docs.aspose.com/3d/net/supported-file-formats/)  dosya formatları." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş/Çıkış
+    Giriş çıkış
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2 ila 7.5 (ASCII/İkili)
+     FBX 7,2 - 7,5 (ASCII/İkili)
     </li>
     <li>
      <b>
@@ -271,7 +271,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
     </li>
     <li>
      <b>
-      Taşınabilir Belge Biçimi:
+      Taşınabilir Döküman Formatı:
      </b>
      PDF
     </li>
@@ -289,7 +289,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Sadece giriş
+    Yalnızca Giriş
    </header>
    <ul>
     <li>
@@ -308,7 +308,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
      DXF
     </li>
     <li>
-     3MF (3D Üretim Formatı)
+     3MF (3D Üretim Biçimi)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Sadece Çıktı
+    Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -368,42 +368,42 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D sahne oluşturun ve desteklenen biçimde kaydedin
+     3D sahnesi &amp; desteklenen biçimde kaydedin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dosyaları bir akışa yükleyin, kaydedin ve dönüştürün
+     Yükle, kaydet &amp; dosyaları bir akışa dönüştür
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geometri ve sahne hiyerarşisi ile çalışın
+     Geometri &amp; sahne hiyerarşisi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Örgü geometri verilerini birden çok düğüm arasında paylaşın
+     Mesh geometrisi verilerini birden çok düğüm arasında paylaşın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sahne belgesine animasyon özelliği ekleme
+     Sahne belgesine animasyon özelliği ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vertex'in Özel Bellek Düzeni ile Bir Mesh üçgenleme
+     Vertex'in Özel Bellek Düzeni ile Mesh Üçgeni Oluşturun
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,35 +417,35 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bir Sahnedeki Nesneleri Canlandırma
+     Bir Sahnedeki Nesneleri Canlandırın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Malzemeye göre Bölünmüş Meshes
+     Meshleri Malzemeye Göre Böl
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Görüntü Biçiminde 3D Görünümü Yaratın
+     Resim Formatında bir 3D Görünümü Oluşturun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geometrilerde Gölgeler Alın ve Alın
+     Geometrilerde Gölge Oluşturma ve Alma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Düzlemin yönelimlerine izin ver
+     Düzlemin yönünü değiştirmeye izin ver
     </p>
    </div>
    <div class="col-lg-4">
@@ -459,7 +459,7 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vulkan oluşturlayıcı desteği eklendi
+     Vulkan oluşturucu desteği eklendi
     </p>
    </div>
    <div class="col-lg-4">
@@ -473,40 +473,40 @@ description: C# VB.NET ASP.NET kitaplığı Windows Forms Web Services ve Mono u
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     UV atlas algoritma desteği
+     UV atlas algoritması desteği
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Standart 3d baskı formatı için destek AMF
+     Standart 3B yazdırma biçimi desteği AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX ithalat ve İkili yazma desteği
+     FBX içe aktarma ve İkili yazma desteği
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draco sıkıştırma ile glTF dosyalarını dışa aktarma ve içe aktarma
+     Draco sıkıştırmasıyla glTF dosyayı dışa ve içe aktarın
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Dosya Biçimi Dönüştürme
+     3D Dosya Biçimi Dönüşümü
     </h2>
     <p>
-     Aspose.3d for .NET, 3D dosya biçimi dönüşümü için hepsi bir arada çözüm haline getiren bir dizi gelişmiş algoritma sağlar. Dönüştürme işlemi, dosya uzantısını istenen biçime değiştirmek kadar basittir. Tek yapmanız gereken, kaynak dosyayı bir Sahne örneğinde yüklemek ve uygun bir FileFormat parametresi ile Kaydet yöntemini çağırmaktır. İşte bu kadar!
+     Aspose.3d for .NET, onu 3D dosya biçimi dönüştürme için hepsi bir arada bir çözüm haline getiren bir dizi gelişmiş algoritma sağlar. Dönüştürme işlemi, dosya uzantısını istenen formata değiştirmek kadar basittir. Tek yapmanız gereken, kaynak dosyayı bir Scene örneğine yüklemek ve uygun bir FileFormat parametresiyle Save yöntemini çağırmaktır. Bu kadar!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      3D sahneyi farklı biçimlerde kaydedin- C#
+      3D sahnesini farklı biçimlerde kaydet - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Sahneler Oluşturma
+     3D Sahne Oluşturma
     </h2>
     <p>
-     Aspose.3D for .NET, programcılara herhangi bir 3D modelleme veya oluşturma yazılımı yüklemeye gerek kalmadan sahneleri sıfırdan kolayca oluşturmaları için güç sağlar. 3D .NET API ayrıca, Kaydet yöntemini çağırarak sahneleri formatlarda (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D ve Collada) kaydetmeyi sağlar. Sahne sınıfı nesnesi.
+     Aspose.3D for .NET, programcıların herhangi bir 3D modelleme veya oluşturma yazılımı yüklemeye gerek kalmadan sahneleri kolayca sıfırdan oluşturmasını sağlar. 3D .NET API, aynı zamanda, ekranın Kaydet yöntemini çağırarak sahneleri (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D ve Collada) formatlarında kaydetmeyi sağlar. Sahne sınıfı nesnesi.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Varlık Bilgilerini 3D Sahnesine Ekle
+     3D Sahnesine Varlık Bilgisi Ekle
     </h2>
     <p>
-     Meta veriler, bir bilgi kaynağının alınmasını, kullanılmasını ve yönetilmesini kolaylaştıran yapılandırılmış bilgilerdir. Aspose.3D for .NET API, geliştiricilerin sahne için Meta Verileri tanımlamasına olanak tanır.
+     Meta veriler, bir bilgi kaynağını tanımlayan, konumlandıran ve almayı, kullanmayı ve yönetmeyi kolaylaştıran yapılandırılmış bilgilerdir. Aspose.3D for .NET API, geliştiricilerin sahne için Meta Veri tanımlamasına olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Mesh ve Grafik Şekilleri Oluşturun
+     3D Mesh &amp; Grafik Şekiller
     </h2>
     <p>
-     .NET 3D kitaplığı, geliştiricilerin çeşitli 3D geometrik şekillerden oluşan bir ağ oluşturmasına, kontrol noktalarını ve çokgenleri en basit şekilde tanımlamasına ve bir örgüyü bir şekil türünün birden çok örneğine doğrultmasına olanak tanır. Geliştiriciler ayrıca 3D sahnesinin herhangi bir yerine 3D şekil yerleştirebilir.
+     .NET 3D kitaplığı, geliştiricilerin çeşitli 3D geometrik şekillerden oluşan bir ağ oluşturmasına, ağlar oluşturmak için en basit şekilde kontrol noktalarını ve çokgenleri tanımlamasına ve bir ağı bir şekil türünün birden çok örneğine işaret etmesine olanak tanır. Geliştiriciler ayrıca 3D şeklini 3D sahnesinin herhangi bir yerine yerleştirebilir.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Mesh Geometri Verilerini Çoklu Düğümlerle Paylaşın
+     Mesh Geometrisi Verilerini Çoklu Düğümlerle Paylaşın
     </h2>
     <p>
-     Bellek gereksinimlerini azaltmak için, tek bir Mesh örneği, çeşitli Düğüm örneklerine bağlanabilir. Çok sayıda 3D küpün ayırt edilemez göründüğü bir sisteme ihtiyacınız olduğunu hayal edin; sistem başladığında bir Mesh nesnesi yaparak belleği yedekleyebilirsiniz. Bu noktada, başka bir şekle ihtiyaç duyduğunuzda, başka bir Düğüm nesnesi oluşturursanız, ardından bu düğümü bir Mesh'e işaret edin. API, instacs'ı bu şekilde yönetir.
+     Bellek gereksinimlerini azaltmak için, tek bir Mesh örneği, çeşitli Node.js örneklerine bağlanabilir. Çok sayıda 3D küpün ayırt edilemez göründüğü bir sisteme ihtiyaç duyduğunuzu hayal edin; sistem başladığında bir Mesh nesnesi oluşturarak bellekte yer açabilirsiniz. Bu noktada, başka bir şekle her ihtiyaç duyduğunuzda, başka bir Node nesnesi yaparsınız, ardından o düğümü bir Mesh'e yönlendirirsiniz. API, örneklemeyi bu şekilde yönetir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vertex'in Özel Bellek Düzeni ile Üçgen Mesh
+     Vertex'in Özel Bellek Düzeni ile Mesh Üçgeni
     </h2>
     <p>
-     Bir ağı üçgen ağa dönüştürün, çünkü herhangi bir karmaşık yapı bir grup üçgen olarak temsil edilebilir. Grafik yazılım paketleri ve donanım cihazları üçgenler üzerinde daha verimli çalışır. Vertex'in bellek düzeni, GPU'yu (Grafik İşleme Birimi) beslemek için de önemlidir, çünkü GPU'nun arabellekten doğru nitelikleri çıkarmak için tepe düzenini de bilmesi gerekir.
+     Bir ağı üçgen ağa dönüştürün, çünkü herhangi bir karmaşık yapı bir grup üçgen olarak temsil edilebilir. Grafik yazılım paketleri ve donanım aygıtları üçgenler üzerinde daha verimli çalışır. Vertex'in bellek düzeni, GPU'yu (Grafik İşlem Birimi) beslemek için de önemlidir, çünkü GPU, arabellekten doğru öznitelikleri çıkarmak için köşe düzeni hakkında da bilgi sahibi olmalıdır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Herhangi bir Harici Yazılım Kurulumundan bağımsız
+     Herhangi bir Harici Yazılım Kurulumundan Bağımsız
     </h2>
     <p>
-     Aspose.3D API, 3D dosyalarıyla çalışmak için makinedeki herhangi bir harici API veya yazılım kurulumuna asla bağlı olmayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir şekilde özelleştirilmiş bir çözümdür.
+     Aspose.3D API, 3D dosyalarıyla çalışmak için hiçbir zaman harici API'ye veya makinedeki yazılım kurulumuna bağlı olmayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel şekilde özelleştirilmiş bir çözümdür.
     </p>
    </div>
   </div>
@@ -591,29 +591,29 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/3d/net/" >}}
-{{< blocks/products/pf/slr-element name="Kaynak Kodu" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/3d/net/" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="API Referans" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Ürün Desteği" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Sürüm Notları" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Sürüm notları" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.3D for .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteriler Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Hikayeleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D, aşağıda listelenen diğer popüler geliştirme ortamları için bireysel 3D işleme API\'leri sunar:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı 3D işleme API\'leri sunar:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

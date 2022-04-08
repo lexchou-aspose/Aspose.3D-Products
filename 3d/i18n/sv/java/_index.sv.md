@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D Filer Manipulation och konvertering 
+title: Java 3D API | 3D Filhantering och konvertering 
 weight: 2820
 url: /sv/java/ 
-description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och ändra 3D filformat inom Java program.
+description: Spelprogram och CAD 3D-bibliotek för att skapa läskonvertera och ändra 3D filformat i Java applikationer
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Filbehandling API" h2="Skapa, Manipulera & Spara 3D filer till flera format utan att kräva någon extern modellering & rendering programvara." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Filbearbetning API" h2="Skapa, manipulera och spara 3D-filer i flera format utan att behöva någon extern modell- och renderingsprogramvara." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java är en fristående spelprogram och CAD API för att manipulera 3D filer. API stöder de flesta av de populära 3D filformat och program kan skapa, läsa, konvertera och ändra filer enkelt. Dessutom hjälper API utvecklare i modellering och skapande av massiva spelvärldar, fantastiska scener för design visualisering, engagera virtuell verklighet upplevelser, lägga till Animationsegenskaper i scenefil, formatelement med hjälp av transformationer och mycket mer.
+ Aspose.3D for Java är ett fristående spelprogram och CAD API för att manipulera 3D filer. API stöder de flesta av de populära 3D filformaten och applikationer kan skapa, läsa, konvertera &amp; ändra filer enkelt. Dessutom hjälper API utvecklare med att modellera och skapa enorma spelvärldar, fantastiska scener för designvisualisering, engagera virtuella verklighetsupplevelser, lägga till Animation-egenskap till scenfil, formatera element med hjälp av transformationer och mycket mer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,18 +21,18 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Vid en öga" description="En översikt av API." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    ObjektmodellName
+    Objektmodell
    </header>
    <ul>
     <li>
-     Scene
+     Scen
     </li>
     <li>
      Maska
@@ -44,16 +44,16 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
      Nod
     </li>
     <li>
-     Omvandlar
+     Omvandla
     </li>
     <li>
-     Quaternion
+     Kvaternion
     </li>
     <li>
-     Egenskap
+     Fast egendom
     </li>
     <li>
-     VertexElementUVName
+     VertexElementUV
     </li>
     <li>
      VertexElementNormal
@@ -62,16 +62,16 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
      Vertex
     </li>
     <li>
-     Ruta
+     Låda
     </li>
     <li>
      Cylinder
     </li>
     <li>
-     Planet
+     Plan
     </li>
     <li>
-     Sfären
+     Sfär
     </li>
     <li>
      Torus
@@ -83,41 +83,41 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
    <header>
     <i class="fa fa-bars">
     </i>
-    Allmänt
+    Allmän
    </header>
    <ul>
     <li>
      Skapa scener
     </li>
     <li>
-     Skapa meshyta
+     Skapa nätyta
     </li>
     <li>
-     Polygontriangelning
+     Polygontriangulering
     </li>
     <li>
-     Split mask efter material
+     Delat nät efter material
     </li>
     <li>
-     Ställ in normal för grafik
+     Inställning Normal för grafik
     </li>
     <li>
      Ställ in UV för grafik
     </li>
     <li>
-     Triangulera mask
+     Triangulärt nät
     </li>
     <li>
-     Data för geomet för dela mesh
+     Dela Mesh Geometry Data
     </li>
     <li>
-     Lägg till material i objekt
+     Lägg till material till objekt
     </li>
     <li>
      Lägg till målkamera
     </li>
     <li>
-     Kasta och ta emot skuggar
+     Cast &amp; Ta emot skuggor
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattform Oberoendet" description="Aspose.3D for Java stöder Java körtiden." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.3D for Java stöder körtiden Java." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,14 +153,14 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Löptidsmiljön
+    Java Runtime Environment
    </header>
    <ul>
     <li>
-     Tillämpning av JSP/JSF
+     JSP/JSF-applikation
     </li>
     <li>
-     Skrivbordsprogram
+     Skrivbordsapplikation
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="API stödjar [Listade filformat](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="API stöder [listade filformat](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Inmatning/Utmatning
+    Ingång/utgång
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7, 2 till 7, 5 (ASCII/binär)
+     FBX 7,2 till 7,5 (ASCII/binär)
     </li>
     <li>
-     STL (ASCII/Binary)
+     STL (ASCII/binär)
     </li>
     <li>
      <b>
@@ -227,9 +227,9 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
     </li>
     <li>
      <b>
-      GL Överföring:
+      GL transmission:
      </b>
-     glTF (ASCII/Binary)
+     glTF (ASCII/binär)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
      <b>
       RVM
      </b>
-     (Text/Binar)
+     (Text/binär)
     </li>
     <li>
      <b>
-      Bärbart dokumentformat:
+      Portabelt dokumentformat:
      </b>
      PDF
     </li>
@@ -263,7 +263,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Inmatning
+    Endast ingång
    </header>
    <ul>
     <li>
@@ -297,7 +297,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utmatning
+    Endast utgång
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     Java
    </small>
@@ -352,7 +352,7 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ladda, spara och teckna 3D dokument till en ströma
+     Ladda, spara och återge 3D dokument till en ström
     </p>
    </div>
    <div class="col-lg-4">
@@ -366,28 +366,28 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dela data för maskgeometri inom flera noder
+     Dela mesh-geometridata inom flera noder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till animationsegenskapen i scenfilen
+     Lägg till animationsegenskap till scenfilen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulera en Mesh med anpassad layout av vertex
+     Triangulera ett nät med anpassad minneslayout för vertex
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till en målkamera och animera objekt i en 3D scena
+     Lägg till en målkamera och animera objekt i en 3D-scen
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,14 +399,14 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Delade maskor per material
+     Dela maskor efter material
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ändra planets orientering genom att ange en upp normalt
+     Ändra planets orientering genom att ange en upp normal
     </p>
    </div>
    <div class="col-lg-4">
@@ -427,33 +427,33 @@ description: Spelprogram och CAD 3D bibliotek för att skapa läskonvertera och 
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arkivbaserat filformat upptäckt
+     Arkivbaserad filformatsidentifiering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd för AMF format
+     stöd för formatet AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importera och exportera glTF dokument med Draco komprimering
+     Importera och exportera glTF dokument med Draco-komprimering
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konverteringsfiler
+     Inter-konvertera scenfiler
     </h2>
     <p>
-     API ger stöd för konvertering av 3D filformat på ett enkelt sätt. Utvecklare kan ladda källdokumentet i en Scene instans, och använda dess Spara funktion med Parametern FileFormat. Så ja!
+     API ger stöd för konvertering av 3D filformat på ett enkelt sätt. Utvecklare kan ladda källdokumentet i en Scene-instans och använda dess Save-funktion med parametern FileFormat. Det är allt!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spara 3D scenen i olika format - Java
+      Spara 3D scen i olika format - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,10 +483,10 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Skapa 3D Scener via API
+     Skapa 3D scener via API
     </h2>
     <p>
-     Aspose.3D for Java låter utvecklarna skapa scener från grunden utan beroende av någon modelleringsprogram. Java API bemyndigar också utvecklarna att spara scener i något av de format som stöds, t.ex. (STL, FBX, Discreet3DS, WavefrontOBJ, Collada och Universal3D.
+     Aspose.3D for Java låter utvecklarna skapa scener från grunden utan att vara beroende av någon modellprogramvara. Java API ger också utvecklarna möjlighet att spara scenerna i något av de format som stöds som (STL, FBX, Discreet3DS, WavefrontOBJ, Collada och Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bygg nodehierarki på ett enkelt sätt
+     Bygg nodhierarki på ett enkelt sätt
     </h2>
     <p>
-     Aspose.3D for Java API ger möjlighet att bygga en nodehierarki där en nod är grundläggande byggsten. av en scen. En hierarki av noder definierar den logiska strukturen och ger synligt innehåll genom att fästa geometrier, ljus och kameror till noderna.
+     Aspose.3D for Java API ger möjlighet att bygga en nodhierarki där en nod är den grundläggande byggstenen i en scen. En hierarki av noder definierar den logiska strukturen och ger synligt innehåll genom att fästa geometrier, lampor och kameror till noderna.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Lägg till animationsegenskaper i scene
+     Lägg till animeringsegenskap till scenen
     </h2>
     <p>
-     Aspose.3D for Java API ger stöd för tangentframe- animation via CurveMapping som kartlägger komponenter i en egenskap till olika kurvar .. Dessutom gäller följande: biblioteket erbjuder att ställa in målkameran i en 3D-fil som är användbart i animationen när du behöver kameran för att möta en viss nod ..
+     Aspose.3D for Java API ger stöd för nyckelbildsanimering via CurveMapping som mappar komponenter i en egenskap till olika kurvor. Dessutom erbjuder biblioteket att ställa in målkameran i en 3D-fil som är användbar vid animering när du behöver kameran för att möta en viss nod.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Robustness, prestanda och skal
+     Robusthet, prestanda &amp; Skalbarhet
     </h2>
     <p>
-     Aspose.3D for Java är utformad för att prestera lika bra på servern eller klientsidan. Det är en enda Java-montering som kan användas med en Java-applikation genom att lägga till sin referens. Du behöver inte oroa dig för andra tjänster eller moduler när du arbetar med API.
+     Aspose.3D for Java är utformad för att fungera lika bra på server- eller klientsidan. Det är en enda Java-sammansättning som kan distribueras med vilken Java-applikation som helst genom att helt enkelt lägga till dess referens. Du behöver inte oroa dig för andra tjänster eller moduler när du arbetar med API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,30 +556,30 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Inlärningsresurser" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/3d/java/" >}}
-{{< blocks/products/pf/slr-element name="Källkod:" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referenser" href="https://apireference.aspose.com/3d/java" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Produktstöd" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis stöd" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Betalt stöd" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Utgivningsmeddelanden" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.3D for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlistan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångshistoriar" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D erbjuder individuella 3D bearbetning av API för andra populära utvecklingsmiljöer som anges nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D erbjuder individuella 3D bearbetnings-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

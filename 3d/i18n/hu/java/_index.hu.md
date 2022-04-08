@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D fájlok manipulálása és konverziója 
+title: Java 3D API | 3D Fájlkezelés és átalakítás 
 weight: 2820
 url: /hu/java/ 
-description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertálni és módosítani 3D fájlformátumokat Java alkalmazásokon belül
+description: Játékprogram és CAD 3D könyvtár olvasási konvertáláshoz és 3D fájlformátumok módosításához Java alkalmazáson belül
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D fájlfeldolgozás API" h2="Hozzon létre, manipuláljon és mentse a 3D fájlokat több formátumra anélkül, hogy bármilyen külső modellezési és renderezési szoftvert igényel volna." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Fájlfeldolgozás API" h2="Hozzon létre, manipuláljon és mentsen el 3D fájlt több formátumba anélkül, hogy külső modellező és megjelenítő szoftverre lenne szüksége." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java egy önálló játékprogram, CAD API pedig 3D fájlok manipulálására. API támogatja a legtöbb népszerű 3D fájlformátumok és alkalmazások lehet létrehozni, olvasni, konvertálni és módosítani fájlokat könnyen. Ráadásul API segíti a fejlesztőket a hatalmas játékvilágok modellezésében és megteremtésében, a design vizualizációjához szükséges kiváló jelenetek, virtuális valóság élmények bevonásával, animációs tulajdonság hozzáadásával a jelenet fájljához, formátum elemek segítségével átalakítások és még sok más.
+ A Aspose.3D for Java egy önálló játékprogram és a CAD API, amellyel 3D fájlt kezelhet. A API támogatja a legtöbb népszerű 3D fájlformátumot, és az alkalmazások létrehozhatnak, olvashatnak, konvertálhatnak és konvertálhatnak; könnyen módosíthatja a fájlokat. Ezenkívül a API segítséget nyújt a fejlesztőknek a modellezésben és hatalmas játékvilágok létrehozásában, kiváló jelenetek tervezésében, a virtuális valóság élményében, animációs tulajdonság hozzáadásával a jelenetfájlhoz, az elemek átalakításokkal történő formázásához és még sok máshoz.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,7 +21,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Egy pillantásra" description="A API áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A(z) API áttekintése." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -32,7 +32,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
    </header>
    <ul>
     <li>
-     Jelenet
+     Színhely
     </li>
     <li>
      Háló
@@ -41,25 +41,25 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
      PolygonBuilder
     </li>
     <li>
-     Node
+     Csomópont
     </li>
     <li>
-     Transform
+     Átalakítani
     </li>
     <li>
-     Kvaternion
+     Négy részből álló
     </li>
     <li>
-     Tulajdonság
+     Ingatlan
     </li>
     <li>
-     Vertexelementuv
+     VertexElementUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Csúcs
     </li>
     <li>
      Doboz
@@ -68,7 +68,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
      Henger
     </li>
     <li>
-     Sík
+     Repülőgép
     </li>
     <li>
      Gömb
@@ -83,41 +83,41 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-bars">
     </i>
-    Általános
+    Tábornok
    </header>
    <ul>
     <li>
      Jelenetek létrehozása
     </li>
     <li>
-     Hozzon létre háló felületet
+     Hálós felület létrehozása
     </li>
     <li>
-     Sokszög-háromszögelés
+     Sokszög háromszögelés
     </li>
     <li>
-     Osztott háló anyagból
+     A háló felosztása anyag szerint
     </li>
     <li>
-     Beállítás normál grafika
+     Állítsa be a Normál grafikát
     </li>
     <li>
-     Uv beállítása grafika
+     Állítsa be az UV-t a grafika számára
     </li>
     <li>
-     Háromszögű háló
+     Háromszögletű háló
     </li>
     <li>
-     Megosztás háló geometria adatok
+     Ossza meg a háló geometriai adatait
     </li>
     <li>
-     Anyag hozzáadása objektumhoz
+     Anyag hozzáadása az objektumhoz
     </li>
     <li>
-     Hozzáadása célkamera
+     Adja hozzá a cél kamerát
     </li>
     <li>
-     Cast & receive shadows
+     Cast &amp; Árnyékok fogadása
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform independence" description="Aspose.3D for Java támogatja a Java futási időt." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.3D for Java támogatja a Java futtatókörnyezetét." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,11 +153,11 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java futási környezet
+    Java Futási környezet
    </header>
    <ul>
     <li>
-     Jsp/jsf alkalmazás
+     JSP/JSF alkalmazás
     </li>
     <li>
      Asztali alkalmazás
@@ -175,7 +175,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="API támogatja [Felsorolt fájlformátumok](https://docs.aspose.com/3d/java/supported-file-formats/)A \"\", a \"\" \", a\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\" \"\"." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="API támogatja [felsorolt fájlformátumok](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet/kimenet
+    Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7,2-7,5 (ascii/bináris)
+     FBX 7.2–7.5 (ASCII/bináris)
     </li>
     <li>
-     STL (ascii/bináris)
+     STL (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -227,9 +227,9 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
     </li>
     <li>
      <b>
-      Gl átvitel:
+      GL sebességváltó:
      </b>
-     glTF (ascii/bináris)
+     glTF (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -263,14 +263,14 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Csak bemenet
+    Csak bevitel
    </header>
    <ul>
     <li>
      <b>
-      Directx:
+      DirectX:
      </b>
-     X (ascii/bináris)
+     X (ASCII/bináris)
     </li>
     <li>
      <b>
@@ -291,7 +291,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
      VRML
     </li>
     <li>
-     Directx: x
+     DirectX: X
     </li>
    </ul>
    <header>
@@ -316,7 +316,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Továbbfejlesztett Java 3D API funkciók
+    Speciális Java 3D API funkciók
    </h2>
    <p>
    </p>
@@ -345,49 +345,49 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Jelenet generálása és mentése támogatott formátumokban
+     Jelenet létrehozása és mentése támogatott formátumokba
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D dokumentum betöltése, mentése és renderelése egy folyamba
+     3D dokumentum betöltése, mentése és megjelenítése adatfolyamba
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Munka geometriával és jelenet hierarchia
+     Dolgozzon geometriával és jelenethierarchiával
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Megosztás háló geometria adatok több csomóponton belül
+     Megoszthatja a háló geometriai adatait több csomóponton belül
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Animációs tulajdonság hozzáadása a jelenet fájlba
+     Animációs tulajdonság hozzáadása a jelenetfájlhoz
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a háló egyedi memória elrendezése a csúcs
+     Háló háromszögelése a csúcs egyéni memóriaelrendezésével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Egy célfényképezőgép hozzáadása, valamint objektumok animálása 3D jelenetben
+     Adjon hozzá egy célkamerát, valamint animáljon objektumokat egy 3D jelenetben
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,28 +399,28 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Osztott hálók anyagból
+     Ossza meg a hálókat anyag szerint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     A sík orientációjának módosítása egy felfelé normális megadásával
+     Módosítsa a sík tájolását egy felfelé normál megadásával
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hozzon létre geometria extrudálásával alakzatok
+     Hozzon létre geometriát alakzatok extrudálásával
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fokozza a palack létrehozását
+     Fokozza a henger létrehozását
     </p>
    </div>
    <div class="col-lg-4">
@@ -434,26 +434,26 @@ description: Gameware és CAD 3D könyvtár létrehozásához olvasni konvertál
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     AMF formátum támogatása
+     a AMF formátum támogatása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     glTF dokumentumok importálása és exportálása Draco tömörítéssel
+     glTF dokumentum importálása és exportálása Draco tömörítéssel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-konvertálás jelenet fájlok
+     A jelenetfájlok egymás közötti konvertálása
     </h2>
     <p>
-     API egyszerű módon támogatja a 3D fájlformátumú konverziót. A fejlesztők a forrásdokumentumot egy jelenet-példányban tölthetik fel, és annak mentési funkcióját a fájlformátum paraméterrel használhatják. Itt van!
+     A API egyszerű módon támogatja a 3D fájlformátum konvertálását. A fejlesztők betölthetik a forrásdokumentumot egy Scene példányba, és használhatják a Mentés funkcióját a FileFormat paraméterrel. Ez az!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      A 3D jelenet mentése különböző formátumokban- Java
+      3D jelenet mentése különböző formátumokban – Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D jelenetek létrehozása API segítségével
+     3D jelenet létrehozása a következőn keresztül: API
     </h2>
     <p>
-     Aspose.3D for Java lehetővé teszi, hogy a fejlesztők a semmiből jeleneteket hozzanak létre minden modellező szoftver függése nélkül. A Java API is felhatalmazza a fejlesztőket, hogy a jeleneteket bármelyik támogatott formátumban mentsék, mint például (STL, FBX, Discreet3DS, WavefrontOBJ, Collada és Universal3D).
+     A Aspose.3D for Java lehetővé teszi a fejlesztők számára, hogy a semmiből készítsenek jeleneteket anélkül, hogy bármilyen modellező szoftvertől függnének. A Java API arra is felhatalmazza a fejlesztőket, hogy a jeleneteket a támogatott formátumok bármelyikében elmentsék, például (STL, FBX, Discreet3DS, WavefrontOBJ, Collada és Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Hozzon létre egy jelenetet primitív 3D alakzatokkal- Java
+      Jelenet létrehozása primitív 3D alakzatokkal – Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Csomópont hierarchia építése egyszerű módon
+     Építsen fel csomóponti hierarchiát egyszerű módon
     </h2>
     <p>
-     Aspose.3D for Java API lehetőséget biztosít egy csomópont-hierarchia kiépítésére, ahol egy csomópont a jelenet alapeleme. A csomópontok hierarchiája határozza meg a logikai struktúrát, és látható tartalmat biztosít úgy, hogy geometriákat, fényeket és kamerákat csatolnak a csomópontokhoz.
+     Aspose.3D for Java API lehetőséget biztosít egy csomópont-hierarchia felépítésére, ahol a csomópont a jelenet alapvető építőköve. A csomópontok hierarchiája határozza meg a logikai struktúrát, és látható tartalmat biztosít azáltal, hogy geometriákat, fényeket és kamerákat csatol a csomópontokhoz.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -529,15 +529,15 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      Animációs tulajdonság hozzáadása a jelenethez
     </h2>
     <p>
-     Aspose.3D for Java API támogatja a keyframe animációt a curvemapping-on keresztül, amely egy tulajdonság összetevőit különböző görbékre térképezi. Továbbá, a könyvtár kínál, hogy állítsa be a célfényképezőgép egy 3D fájl, amely hasznos animáció, ha szüksége van a kamera, hogy szembe egy adott csomópont.
+     A Aspose.3D for Java API kulcskép-animációt biztosít a CurveMapping segítségével, amely egy tulajdonság összetevőit különböző görbékre képezi le. Ezenkívül a könyvtár felajánlja a célkamera beállítását egy 3D fájlban, ami hasznos az animációban, amikor egy adott csomóponthoz kell néznie a kamerának.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Robusztusság, teljesítmény és skálázhatóság
+     Robusztusság, teljesítmény és amp; Méretezhetőség
     </h2>
     <p>
-     Aspose.3D for Java úgy tervezték, hogy a szerver vagy a kliens oldalán is ugyanolyan jól teljesítsen. Ez egy Java összeszerelés, amely bármely Java alkalmazással telepíthető, egyszerűen hozzáadva a hivatkozását. Nem kell aggódnia más szolgáltatásokkal vagy modulokkal, miközben API-vel dolgozik.
+     Aspose.3D for Java úgy lett kialakítva, hogy egyformán jól teljesítsen a szerveren és a kliens oldalon is. Ez egyetlen Java-összeállítás, amely bármely Java-alkalmazással telepíthető, egyszerűen hozzáadva a hivatkozást. Nem kell aggódnia más szolgáltatások vagy modulok miatt, miközben a API-szal dolgozik.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,18 +556,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Tanulási erőforrások" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API hivatkozások" href="https://apireference.aspose.com/3d/java" >}}
-{{< blocks/products/pf/slr-element name="Bemutató videók" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Termék támogatás" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Kiadási jegyzetek" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.3D for Java" tabId="success-stories" >}}
@@ -579,7 +579,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D kínál egyedi 3D feldolgozó api-k más népszerű fejlesztési környezetek, mint az alábbiakban:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="A Aspose.3D egyedi 3D feldolgozási API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

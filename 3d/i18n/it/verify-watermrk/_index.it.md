@@ -1,5 +1,5 @@
 ﻿---
-title: 3D soluzione di verifica della filigrana del formato 
+title: 3D Formattare la soluzione di verifica della filigrana 
 weight: 7730
 url: /it/verify-watermark
 limit: 

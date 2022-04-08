@@ -14,23 +14,23 @@ otherformats: PDF FBX RVM DAE ASE AMF OBJ PLY
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="تصدير USDZ مشهد باسم 3MF مع C#" %}}
-1. تحميل USDZ ملف باستخدام مُنشئ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) فئة2. اتصل [المشهد. حفظ](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
-3. تمرير اسم ملف الإخراج مع امتداد. 3mf كمعلمة أولى
-4. حدد قيمة الحقل "Microsoft3MF' من [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) فئة
+{{% blocks/products/pf/agp/feature-section-col title="تصدير USDZ المشهد كـ 3MF بـ C#" %}}
+1. تحميل ملف USDZ باستخدام مُنشئ لـ [مشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene) صف دراسي2. الاتصال [المشهد](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) طريقة
+3. قم بتمرير اسم ملف الإخراج بامتداد .3mf كمعامل أول
+4. حدد قيمة الحقل "Microsoft3MF" من [تنسيق الملف](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) صف دراسي
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D تنسيق التحويل API for .NET" %}}
-قم بالتثبيت من سطر الأوامر باسم ''nuget install Aspose.3d'' أو عبر Package Manager Console of Visual Studio مع '''' تثبيت-حزمة Aspose.3D''.
+قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.3d '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.3D ''.
 
-بدلاً من ذلك ، احصل على مثبت MSI أو DLLs غير المتصل بالإنترنت في ملف ZIP من [التنزيلات](https://downloads.aspose.com/3d/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# كود لـ USDZ إلى 3MF تحويل" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# رمز التحويل من USDZ إلى 3MF" gistPath="" %}}
 ```cs
 // تحميل USDZ في كائن من المشهد 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// احفظ USDZ ك3MF 
+// حفظ USDZ باسم 3MF 
 scene.Save("output.3mf", Aspose.ThreeD.FileFormat.Microsoft3MF);
 
 ```

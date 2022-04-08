@@ -101,7 +101,7 @@ document.save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="3DS to STL Conversion Live Demos" sectionDescription="[Convert 3DS to STL](https://products.aspose.app/3d/conversion/3ds-to-stl) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="3DS to STL Conversion Live Demos" sectionDescription="[Convert 3DS to STL](https://products.aspose.app/3d/conversion/3ds-to-stl) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your 3DS file, it will be converted instantly to STL." >}}
@@ -133,7 +133,7 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

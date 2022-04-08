@@ -100,7 +100,7 @@ document.save("output.drc", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AMF to DRC Conversion Live Demos" sectionDescription="[Convert AMF to DRC](https://products.aspose.app/3d/conversion/amf-to-drc) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox-app sectionTitle="AMF to DRC Conversion Live Demos" sectionDescription="[Convert AMF to DRC](https://products.aspose.app/3d/conversion/amf-to-drc) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your AMF file, it will be converted instantly to DRC." >}}
@@ -130,7 +130,7 @@ A file with .drc extension is a compressed 3D file format created with Google Dr
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
 
 <!-- aboutfile Ends -->
 

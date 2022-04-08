@@ -1,7 +1,7 @@
 ﻿---
 title: 通过 C# 将 GLTF 转换为 U3D 
 url: /zh/net/conversion/gltf-to-u3d/ 
-description: GLTF 到 U3D C# 转换的示例代码。在VB.NET，Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 GLTF 文件转换为 U3D。
+description: GLTF 到 U3D C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 GLTF 文件批量转换为 U3D。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 GLTF 转换为 U3D" h2="将 GLTF 渲染为 U3D，无需任何 3D 建模和渲染软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="U3D" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="GLTF" >}}
@@ -13,11 +13,11 @@ description: GLTF 到 U3D C# 转换的示例代码。在VB.NET，Asp.NET 或任�
 
  为了将 GLTF 转换为 U3D，我们将使用
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
- API 这是一个功能丰富，功能强大且易于使用的文档操作和转换 API，适用于 C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.3d) 
  包管理器，搜索
  Aspose.3D 
- 并安装。您也可以使用包管理器控制台中的以下命令。
+ 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -38,11 +38,11 @@ PM> Install-Package Aspose.3D
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET 程序员只需几行代码就可以轻松地将 GLTF 文件加载和转换为 U3D。
+ .NET 程序员只需几行代码即可轻松加载 GLTF 文件并将其转换为 U3D。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通过场景类的构造函数加载 GLTF 文件1. 创建AmfSaveOptions实例1. 为高级转换设置 U3D 特定属性1. 调用场景。保存方法1. 传递带有 U3D 文件扩展名和U3dSaveOptions对象的输出路径1. 检查指定路径处的结果 U3D 文件
+1. 通过 Scene 类的构造函数加载 GLTF 文件1. 创建 AmfSaveOptions 的实例1. 为高级转换设置 U3D 个特定属性1. 调用 Scene.Save 方法1. 传递带有 U3D 文件扩展名和 U3dSaveOptions 对象的输出路径1. 检查指定路径的结果 U3D 文件
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -53,15 +53,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows或具有 .NET 框架，.NET 核心，Mono 的兼容操作系统。- 像微软Visual Studio这样的开发环境。- 项目中引用的 Aspose.3D for .NET DLL。
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.3D for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示 GLTF 到 U3D C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 GLTF 到 U3D C# 转换" offSpacer="" %}}
 
 ```cs
-// 加载场景对象中的 GLTF 
+// 在 Scene 对象中加载 GLTF 
 var document = new Aspose.ThreeD.Scene("template.gltf");
-// 创建U3dSaveOptions实例 
+// 创建一个 U3dSaveOptions 的实例 
 var options = new Aspose.ThreeD.Formats.U3dSaveOptions();
 // 将 GLTF 保存为 U3D 
 document.Save("output.u3d", options); 
@@ -78,15 +78,15 @@ document.Save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="免费应用程序将 GLTF 转换为 U3D" sectionDescription="查看我们的实时演示 [GLTF 到 U3D 转换](https://products.aspose.app/3d/conversion/gltf-to-u3d) 有以下好处。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 不需要下载或设置任何东西。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 GLTF 文件，然后点击 “转换” 按钮。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得结果 U3D 文件的下载链接。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 GLTF 转换为 U3D 的免费应用程序" sectionDescription="查看我们的现场演示 [GLTF 到 U3D 的转换](https://products.aspose.app/3d/conversion/gltf-to-u3d) 具有以下好处。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 GLTF 文件并点击“转换”按钮。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得生成的 U3D 文件的下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 一个 3D 文件处理库，用于操作 3D 文件，而无需任何建模和渲染软件。3D API 支持 Discreet3DS 、 WavefrontOBJ 、 FBX (ASCII，二进制) 、 STL (ASCII，二进制) 、 Universal3D 、 Collada 、 glTF 、 GLB 、 PLY 、DirectX、 Google Draco 文件格式和更多。开发人员可以轻松创建，阅读，转换，修改和控制 3D 文档格式的实质。
+ 3D 文件处理库，无需任何建模和渲染软件即可操作 3D 文件。 3D API 支持 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY、DirectX、Google Draco 文件格式等。开发人员可以轻松地创建、读取、转换、修改和控制 3D 文档格式的内容。
 
 
 
@@ -95,12 +95,12 @@ document.Save("output.u3d", options);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GLTF" readMoreLink="https://docs.fileformat.com/3d/gltf/" >}}
-glTF (GL传输格式) 是 3D 文件格式，以JSON格式存储 3D 模型信息。JSON的使用最小化了 3D 资产的大小以及解包和使用这些资产所需的运行时处理。它被应用程序用于 3D 场景和模型的有效传输和加载。glTF 由Khronos Group 3D Formats工作组开发，其创建者也将其描述为 3D 的JPEG。该格式为 3D 内容工具和服务定义了一种可扩展的通用发布格式，该格式简化了创作工作流并使整个行业的内容可互操作使用。创建 glTF 文件格式的目的是为 3D 内容工具和服务定义一种可扩展的通用发布格式，该格式应简化创作工作流程并使整个行业的内容可互操作使用。它最大限度地减少了使用WebGL和其他api的应用程序的运行时处理。
+glTF（GL 传输格式）是一种 3D 文件格式，以 JSON 格式存储 3D 模型信息。 JSON 的使用最大限度地减少了 3D 资产的大小以及解压缩和使用这些资产所需的运行时处理。用于应用程序对3D场景和模型的高效传输和加载。 glTF 由 Khronos Group 3D 格式工作组开发，也被其创建者描述为 3D 的 JPEG。该格式为 3D 内容工具和服务定义了一种可扩展的通用发布格式，从而简化了创作工作流程并实现了跨行业内容的互操作使用。创建 glTF 文件格式的目的是为 3D 内容工具和服务定义可扩展的通用发布格式，以简化创作工作流程并实现跨行业内容的互操作使用。它最大限度地减少了使用 WebGL 和其他 API 的应用程序的运行时处理。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="u3d" readMoreLink="https://docs.fileformat.com/3d/u3d/" >}}
-U3D (Universal 3D) 是用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格，照明，阴影，运动数据，带有颜色和结构的线和点。该格式在2005年8月中被接受为ECMA-363标准。3D PDF 文档支持 U3D 对象嵌入，可以在Adobe Reader (版本7及以上) 中查看。考虑到建立三维数据存储和交换的通用标准的目的，制定了 U3D 格式。但是，该格式在 3D PDF 的编码中找到了其主要用途，而不是用作交换格式。Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或PRC。
+U3D (Universal 3D) 是用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格、照明、阴影、运动数据、具有颜色和结构的线和点。该格式于 2005 年 8 月被接受为 ECMA-363 标准。3D PDF 文档支持 U3D 对象嵌入并且可以在 Adobe Reader（版本 7 及更高版本）中查看。 U3D 格式的开发着眼于建立三维数据存储和交换的通用标准。但是，该格式主要用于编码 3D PDF，而不是用作交换格式。 Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或 PRC。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

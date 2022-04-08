@@ -1,9 +1,9 @@
 ﻿---
-title: 3D โซลูชั่นการควบรวมกิจการ 
+title: 3D โซลูชันการควบรวมกิจการ 
 weight: 7730
 url: /th/merger
 limit: 
-description: ผสาน FBX, OBJ, STL, DAE, GLTF และอื่นๆไปยังไฟล์ 3D เดียวในรูปแบบที่สนับสนุนใดๆ
-widgetUrl: http://localhost:5000/3d/merger/embed
+description: รวม FBX, OBJ, STL, DAE, GLTF และอื่นๆ เป็นไฟล์ 3D ไฟล์เดียวในรูปแบบที่รองรับ
+widgetUrl: "https://products.aspose.com/3d/merger/embed"
 ---
 {{< blocks/products/pf/agp/i18n/feature-solution-app url="https://products.aspose.app/3d/merger/embed" >}} 

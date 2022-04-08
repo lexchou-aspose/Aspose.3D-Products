@@ -1,6 +1,6 @@
 ﻿---
-title: Convertire da USD a HTML tramite C# 
-description: Convertire USD e altri 3D file utilizzando .NET API
+title: Converti USD in HTML tramite C# 
+description: Converti USD e altri 3D file utilizzando .NET API
 url: /it/net/conversion/usd-to-html/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: HTML
 otherformats: PLY PDF RVM JT ASE DXF DAE FBX 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertire da USD a HTML tramite C#" h2="Esporta USD e altri 3D file utilizzando .NET Framework, .NET Core e Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti USD in HTML tramite C#" h2="Esporta file USD e altri 3D utilizzando .NET Framework, .NET Core e Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Esporta USD scena come HTML con C#" %}}
-1. Carica USD file utilizzando un costruttore di [Scena](https://apireference.aspose.com/3d/net/aspose.threed/scene) Classe2. Chiama [Scena. Salva](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Metodo
-3. Passare il nome del file di output con. Estensione html come primo parametro
-4. Specificare il valore del campo HTML5 [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Classe
+1. Carica il file USD utilizzando un costruttore di [Scena](https://apireference.aspose.com/3d/net/aspose.threed/scene) classe2. Chiama [Scene.Salva](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) metodo
+3. Passa il nome del file di output con estensione .html come primo parametro
+4. Specificare il valore del campo `HTML5` da [Formato del file](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) classe
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D conversione del formato API for .NET" %}}
-Installa dalla riga di comando come '''nugget install Aspose.3d''' o tramite Package Manager Console di Visual Studio con '''Installa-Package Aspose.3D'''.
+{{% blocks/products/pf/agp/feature-section-col title="3D Conversione formato API for .NET" %}}
+Installa dalla riga di comando come ```nuget install Aspose.3d``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.3D```.
 
-In alternativa, ottieni il programma di installazione o le DLL MSI offline in un file ZIP da [Download](https://downloads.aspose.com/3d/net).
+In alternativa, ottieni il programma di installazione MSI offline o le DLL in un file ZIP da [download](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# codice per la conversione da USD a HTML" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Codice per la conversione da USD a HTML" gistPath="" %}}
 ```cs
-// Caricare il USD in un oggetto di scena 
+// carica USD in un oggetto di Scene 
 var scene = new Aspose.ThreeD.Scene("template.usd");
-// Salva USD come HTML 
+// salva USD come HTML 
 scene.Save("output.html", Aspose.ThreeD.FileFormat.HTML5);
 
 ```

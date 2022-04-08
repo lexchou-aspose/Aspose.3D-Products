@@ -1,5 +1,5 @@
 ﻿---
-title: 3D 포맷 워터마크 검증 솔루션 
+title: 3D 형식 워터마크 확인 솔루션 
 weight: 7730
 url: /ko/verify-watermark
 limit: 

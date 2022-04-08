@@ -2,7 +2,7 @@
 title: 通过 C# 将 U3D 转换为 JT 
 weight: 530
 url: /zh/net/conversion/u3d-to-jt/ 
-description: U3D 到 JT C# 转换的示例代码。在VB.NET，Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 U3D 文件转换为 JT。
+description: U3D 到 JT C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 U3D 文件批量转换为 JT。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 U3D 转换为 JT" h2="将 U3D 渲染为 JT，无需任何 3D 建模和渲染软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="U3D" >}}
@@ -14,11 +14,11 @@ description: U3D 到 JT C# 转换的示例代码。在VB.NET，Asp.NET 或任何
 
  为了将 U3D 转换为 JT，我们将使用
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
- API 这是一个功能丰富，功能强大且易于使用的文档操作和转换 API，适用于 C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.3d) 
  包管理器，搜索
  Aspose.3D 
- 并安装。您也可以使用包管理器控制台中的以下命令。
+ 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.3D
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET 程序员只需几行代码就可以轻松地将 U3D 文件加载和转换为 JT。
+ .NET 程序员只需几行代码即可轻松加载 U3D 文件并将其转换为 JT。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通过场景类的构造函数加载 U3D 文件1. 使用 JT 的格式调用Scene.Save方法。1. 检查指定路径处的结果 JT 文件
+1. 通过 Scene 类的构造函数加载 U3D 文件1. 使用 JT 的格式调用 Scene.Save 方法。1. 检查指定路径的结果 JT 文件
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -54,15 +54,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows或具有 .NET 框架，.NET 核心，Mono 的兼容操作系统。- 像微软Visual Studio这样的开发环境。- 项目中引用的 Aspose.3D for .NET DLL。
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.3D for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示 U3D 到 JT C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 U3D 到 JT C# 转换" offSpacer="" %}}
 
 ```cs
 // 加载源 Universal 3D 文件
 Scene scene = new Scene("sourceFile.u3d");
-// 将 3D 场景转换为西门子 JT 格式的文件
+// 将 3D 场景转换为 Siemens JT 格式的文件
 scene.Save("output.jt", FileFormat.SiemensJT9)
 
 ```
@@ -76,15 +76,15 @@ scene.Save("output.jt", FileFormat.SiemensJT9)
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="免费应用程序将 U3D 转换为 JT" sectionDescription="查看我们的实时演示 [U3D 到 JT 转换](https://products.aspose.app/3d/conversion/u3d-to-jt) 有以下好处。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 不需要下载或设置任何东西。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 U3D 文件，然后点击 “转换” 按钮。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得结果 JT 文件的下载链接。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 U3D 转换为 JT 的免费应用程序" sectionDescription="查看我们的现场演示 [U3D 到 JT 的转换](https://products.aspose.app/3d/conversion/u3d-to-jt) 具有以下好处。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 U3D 文件并点击“转换”按钮。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得生成的 JT 文件的下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 一个 3D 文件处理库，用于操作 3D 文件，而无需任何建模和渲染软件。3D API 支持 Discreet3DS 、 WavefrontOBJ 、 FBX (ASCII，二进制) 、 STL (ASCII，二进制) 、 Universal3D 、 Collada 、 glTF 、 GLB 、 PLY 、DirectX、 Google Draco 文件格式和更多。开发人员可以轻松创建，阅读，转换，修改和控制 3D 文档格式的实质。
+ 3D 文件处理库，无需任何建模和渲染软件即可操作 3D 文件。 3D API 支持 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY、DirectX、Google Draco 文件格式等。开发人员可以轻松地创建、读取、转换、修改和控制 3D 文档格式的内容。
 
 
 
@@ -93,12 +93,12 @@ scene.Save("output.jt", FileFormat.SiemensJT9)
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="U3D" readMoreLink="https://docs.fileformat.com/3d/u3d/" >}}
-U3D (Universal 3D) 是用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格，照明，阴影，运动数据，带有颜色和结构的线和点。该格式在2005年8月中被接受为ECMA-363标准。3D PDF 文档支持 U3D 对象嵌入，可以在Adobe Reader (版本7及以上) 中查看。考虑到建立三维数据存储和交换的通用标准的目的，制定了 U3D 格式。但是，该格式在 3D PDF 的编码中找到了其主要用途，而不是用作交换格式。Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或PRC。
+U3D (Universal 3D) 是用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格、照明、阴影、运动数据、具有颜色和结构的线和点。该格式于 2005 年 8 月被接受为 ECMA-363 标准。3D PDF 文档支持 U3D 对象嵌入并且可以在 Adobe Reader（版本 7 及更高版本）中查看。 U3D 格式的开发着眼于建立三维数据存储和交换的通用标准。但是，该格式主要用于编码 3D PDF，而不是用作交换格式。 Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或 PRC。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="jt" readMoreLink="https://docs.fileformat.com/3d/jt/" >}}
-JT (Jupiter Tessellation) 是由西门子PLM软件开发的一种高效、以行业为中心且灵活的ISO标准化 3D 数据格式。航空航天，汽车工业和重型设备的机械 CAD 领域使用 JT 作为其最领先的 3D 可视化格式。
+JT（Jupiter Tessellation）是一种高效、专注于行业且灵活的 ISO 标准化 3D 数据格式，由 Siemens PLM Software 开发。航空航天、汽车工业和重型设备的机械 CAD 领域使用 JT 作为其最领先的 3D 可视化格式。
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -107,19 +107,19 @@ JT (Jupiter Tessellation) 是由西门子PLM软件开发的一种高效、以行
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 U3D 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 U3D 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-gltf/" name="U3D 至 GLTF" description="GL传输格式文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-glb/" name="U3D 至 GLB" description="二进制GL传输格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-pdf/" name="U3D 至 PDF" description="可移植文档格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-glb/" name="U3D 至 GLB" description="二进制 GL 传输格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-pdf/" name="U3D 至 PDF" description="便携式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-fbx/" name="U3D 至 FBX" description="Autodesk FBX 交换文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-stl/" name="U3D 至 STL" description="立体光刻文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-obj/" name="U3D 至 OBJ" description="Wavefront 3D 对象文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-3ds/" name="U3D 至 3DS" description="3D 演播室场景" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-3ds/" name="U3D 至 3DS" description="3D 工作室场景" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-dae/" name="U3D 至 DAE" description="数字资产交换文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-ply/" name="U3D 至 PLY" description="多边形文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-drc/" name="U3D 至 DRC" description="Google Draco 文件格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-rvm/" name="U3D 至 RVM" description="AVEVA RVM" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-rvm/" name="U3D 至 RVM" description="爱华RVM" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-jt/" name="U3D 至 JT" description="JT 打开 CAD 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-amf/" name="U3D 至 AMF" description="增材制造文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/u3d-to-html/" name="U3D 至 HTML" description="超文本标记语言" >}}

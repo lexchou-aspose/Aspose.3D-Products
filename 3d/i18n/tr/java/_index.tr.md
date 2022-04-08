@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D Dosyalar Manipülasyon ve Dönüşüm 
+title: Java 3D API | 3D Dosya Manipülasyonu ve Dönüştürme 
 weight: 2820
 url: /tr/java/ 
-description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulamaları içinde 3D dosya biçimlerini değiştirmek için
+description: Oyun yazılımı ve CAD 3D kitaplığı okuma oluşturmak için Java uygulama içinde 3D dosya biçimlerini dönüştürün ve değiştirin
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Dosya İşleme API" h2="Herhangi bir harici modelleme ve işleme yazılımı gerektirmeden 3D dosyalarını birden çok formatta oluşturun, Yönlendirin ve Kaydet." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Dosya İşleme API" h2="Herhangi bir harici modelleme ve işleme yazılımı gerektirmeden 3D dosyaları birden çok formatta oluşturun, yönetin ve kaydedin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java, 3D dosyaları işlemek için bağımsız bir Gameware ve CAD API. API popüler 3D dosya formatlarının çoğunu destekler ve uygulamalar dosyaları kolayca oluşturabilir, okuyabilir, dönüştürebilir ve değiştirebilir. Dahası, API geliştiricilere devasa oyun dünyalarının modellenmesi ve yaratılması, tasarım görselleştirmesi için mükemmel sahneler, sanal gerçeklik deneyimleriyle etkileşim kurma, sahne dosyasına Animasyon özelliği ekleme, dönüşümleri kullanarak öğeleri biçimlendirme ve çok daha fazlası.
+ Aspose.3D for Java, bağımsız bir Oyun Yazılımıdır ve CAD API, 3D dosyalarını işlemek için kullanılır. API, popüler 3D dosya biçimlerinin çoğunu destekler ve uygulamalar oluşturabilir, okuyabilir, dönüştürebilir &amp; dosyaları kolayca değiştirin. Ayrıca, API geliştiricilere devasa oyun dünyalarını modelleme ve oluşturma, tasarım görselleştirmesi için mükemmel sahneler, sanal gerçeklik deneyimleriyle etkileşim kurma, sahne dosyasına Animasyon özelliği ekleme, dönüşümleri kullanarak öğeleri biçimlendirme ve çok daha fazlasında yardımcı olur.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,7 +21,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API \'e genel bir bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API\'e genel bakış." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -35,22 +35,22 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
      Sahne
     </li>
     <li>
-     Mesh
+     ağ
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     Düğüm
+     düğüm
     </li>
     <li>
-     Dönüştür
+     dönüştürmek
     </li>
     <li>
-     Kuaternion
+     dördey
     </li>
     <li>
-     Mülkiyet
+     Mülk
     </li>
     <li>
      VertexElementUV
@@ -59,19 +59,19 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     tepe noktası
     </li>
     <li>
      Kutu
     </li>
     <li>
-     Silindir
+     silindir
     </li>
     <li>
      Uçak
     </li>
     <li>
-     Küre
+     küre
     </li>
     <li>
      Torus
@@ -87,28 +87,28 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
    </header>
    <ul>
     <li>
-     Sahneler Oluştur
+     Sahneler Oluşturun
     </li>
     <li>
-     Mesh Yüzey Oluşturun
+     Mesh Yüzeyi Oluştur
     </li>
     <li>
-     Çokgen Üçgenleme
+     çokgen üçgenleme
     </li>
     <li>
-     Malzemeye göre Bölünmüş Mesh
+     Mesh'i Malzemeye Göre Böl
     </li>
     <li>
-     Grafik için Kurulum Normal
+     Grafikler için Normal Kurulum
     </li>
     <li>
      Grafikler için UV'yi ayarlayın
     </li>
     <li>
-     Üçgen Örgü
+     Üçgen Mesh
     </li>
     <li>
-     Mesh Geometri Verilerini Paylaş
+     Mesh Geometrisi Verilerini Paylaşın
     </li>
     <li>
      Nesneye Malzeme Ekle
@@ -117,7 +117,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
      Hedef Kamera Ekle
     </li>
     <li>
-     Oyuncular ve Gölgeler Alın
+     Oyuncular &amp; Gölgeler Al
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlık" description="Aspose.3D for Java Java çalışma zamanını destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.3D for Java, Java çalışma zamanını destekler." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -160,7 +160,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
      JSP/JSF Uygulaması
     </li>
     <li>
-     Masaüstü Uygulaması
+     Masaüstü uygulaması
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     Java
    </small>
@@ -186,21 +186,21 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="API destekler [Listelenen dosya formatları](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="API destekler [Listelenen dosya biçimleri](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş/Çıkış
+    Giriş çıkış
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2 ila 7.5 (ASCII/İkili)
+     FBX 7,2 - 7,5 (ASCII/İkili)
     </li>
     <li>
      STL (ASCII/İkili)
@@ -245,7 +245,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
     </li>
     <li>
      <b>
-      Taşınabilir Belge Biçimi:
+      Taşınabilir Döküman Formatı:
      </b>
      PDF
     </li>
@@ -263,7 +263,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Sadece giriş
+    Yalnızca Giriş
    </header>
    <ul>
     <li>
@@ -297,7 +297,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Sadece Çıktı
+    Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     Java
    </small>
@@ -352,7 +352,7 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D belgesini bir akışa yükleyin, kaydedin ve işleyin
+     3D belgesini bir akışa yükleyin, kaydedin ve oluşturun
     </p>
    </div>
    <div class="col-lg-4">
@@ -366,28 +366,28 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Örgü geometri verilerini birden çok düğüm içinde paylaşın
+     Mesh geometrisi verilerini birden çok düğüm içinde paylaşın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sahne dosyasına animasyon özelliği ekle
+     Sahne dosyasına animasyon özelliği ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Köşenin özel bellek düzenine sahip bir Mesh'i üçgenleme
+     Köşenin özel bellek düzeniyle bir Mesh üçgenleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bir hedef kamera ekleyin ve 3D sahnesine nesneleri canlandırın
+     Bir 3D sahnesinde nesneleri canlandırmanın yanı sıra bir hedef kamera ekleyin
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,14 +399,14 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Malzemeye göre bölünmüş ağlar
+     Meshleri malzemeye göre bölme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bir normal belirleyerek uçağın yönünü değiştirin
+     Bir yukarı normal belirterek düzlemin yönünü değiştirin
     </p>
    </div>
    <div class="col-lg-4">
@@ -427,33 +427,33 @@ description: Gameware ve CAD 3D kitaplığı okuma dönüştürmek ve 3D uygulam
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arşiv tabanlı dosya formatı algılama
+     Arşiv tabanlı dosya biçimi algılama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     AMF formatının desteği
+     AMF biçimi desteği
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draco sıkıştırma kullanarak glTF belgelerini içe aktarma ve dışa aktarma
+     Draco sıkıştırmasını kullanarak glTF belgeyi içe ve dışa aktarın
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-dönüşüm Sahne Dosyaları
+     Sahne Dosyalarını Dönüştürme
     </h2>
     <p>
-     API, 3D dosya formatı dönüşümünün basit bir şekilde desteklenmesini sağlar. Geliştiriciler, kaynak belgeyi bir Sahne örneğinde yükleyebilir ve FileFormat parametresi ile Kaydet işlevini kullanabilir. İşte bu kadar!
+     API, 3D dosya biçimi dönüştürme desteğini basit bir şekilde sağlar. Geliştiriciler, kaynak belgeyi bir Scene örneğine yükleyebilir ve Save işlevini FileFormat parametresiyle kullanabilir. Bu kadar!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      3D sahneyi farklı biçimlerde kaydedin- Java
+      3D sahnesini farklı biçimlerde kaydet - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     API aracılığıyla 3D Sahneler oluşturun
+     API aracılığıyla 3D Sahne oluşturun
     </h2>
     <p>
-     Aspose.3D for Java, geliştiricilerin herhangi bir modelleme yazılımına bağlı olmadan sıfırdan sahneler oluşturmasına olanak tanır. Java API ayrıca geliştiricilere sahneleri (STL, FBX, Discreet3DS, WavefrontOBJ, Collada ve Universal3D) gibi desteklenen formatlardan herhangi birine kaydetme yetkisi verir.
+     Aspose.3D for Java, geliştiricilerin herhangi bir modelleme yazılımına bağımlı olmadan sıfırdan sahneler oluşturmasına olanak tanır. Java API ayrıca geliştiricilere sahneleri (STL, FBX, Discreet3DS, WavefrontOBJ, Collada ve Universal3D) gibi desteklenen herhangi bir formatta kaydetme yetkisi verir.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      İlkel 3D şekilleriyle bir sahne oluşturun- Java
+      İlkel 3D şekillerle bir sahne oluşturun - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Düğüm Hiyerarşisini Basit Bir Şekilde Oluşturun
+     Basit Bir Şekilde Düğüm Hiyerarşisi Oluşturun
     </h2>
     <p>
-     Aspose.3D for Java API, bir Düğümün bir sahnenin temel yapı taşı olduğu bir Düğüm hiyerarşisi oluşturma yeteneği sağlar. Bir düğüm hiyerarşisi mantıksal yapıyı tanımlar ve düğümlere geometrileri, ışıkları ve kameraları düğümlere ekleyerek görünür içerik sağlar.
+     Aspose.3D for Java API, bir Düğümün bir sahnenin temel yapı taşı olduğu bir Düğüm hiyerarşisi oluşturma yeteneği sağlar. Bir düğüm hiyerarşisi mantıksal yapıyı tanımlar ve düğümlere geometriler, ışıklar ve kameralar ekleyerek görünür içerik sağlar.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sahneye Animasyon Özelliği Ekleyin
+     Sahneye Animasyon Özelliği Ekle
     </h2>
     <p>
-     Aspose.3D for Java API, bir özelliğin bileşenlerini farklı eğrilere eşleyen CurveMapping aracılığıyla anahtar kare animasyonu için destek sağlar. Dahası, kitaplık, kameranın belirli bir düğümle yüzleşmesi gerektiğinde animasyonda yararlı olan bir 3D dosyasında hedef kamerayı ayarmayı teklif eder.
+     Aspose.3D for Java API, bir özelliğin bileşenlerini farklı eğrilere eşleyen CurveMapping aracılığıyla ana kare animasyonu için destek sağlar. Ayrıca kitaplık, kameranın belirli bir düğümle yüzleşmesine ihtiyaç duyduğunuzda animasyonda yararlı olan bir 3D dosyasında hedef kamerayı kurmayı önerir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sağlamlık, Performans ve Ölçeklenebilirlik
+     Sağlamlık, Performans & amp; ölçeklenebilirlik
     </h2>
     <p>
-     Aspose.3D for Java, sunucu veya istemci tarafında eşit derecede iyi performans gösterebilmek için tasarlanmıştır. Sadece referansını ekleyerek herhangi bir Java uygulamasıyla konuşlandırılabilen tek bir Java düzeneğidir. API ile çalışırken diğer hizmetler veya modüller hakkında endişelenmenize gerek yok.
+     Aspose.3D for Java, sunucu veya istemci tarafında eşit derecede iyi performans gösterecek şekilde tasarlanmıştır. Yalnızca referansını ekleyerek herhangi bir Java uygulamasıyla dağıtılabilen tek bir Java derlemesidir. API ile çalışırken diğer hizmetler veya modüller için endişelenmenize gerek yok.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -557,29 +557,29 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/3d/java/" >}}
-{{< blocks/products/pf/slr-element name="Kaynak Kodu" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/3d/java/" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API Referans" href="https://apireference.aspose.com/3d/java" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Ürün Desteği" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Sürüm Notları" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Sürüm notları" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.3D for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteriler Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Hikayeleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D, aşağıda listelenen diğer popüler geliştirme ortamları için bireysel 3D işleme API\'leri sunar:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı 3D işleme API\'leri sunar:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

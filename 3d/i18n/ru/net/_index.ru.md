@@ -2,10 +2,10 @@
 title: C# .NET 3D Обработка документов API - Aspose 
 weight: 1020
 url: /ru/net/ 
-description: Библиотека C# VB.NET ASP.NET для создания файлов для преобразования чтения и изменения 3D файлов в веб-службах Windows Forms и приложениях Mono
+description: Библиотека C# VB.NET ASP.NET для создания чтения, преобразования и изменения файлов 3D в веб-службах Windows Forms и приложениях Mono
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D API-интерфейса с файловой манипуляцией" h2="Читать, писать, манипулировать и конвертировать форматы файлов 3D в любом приложении на основе .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3DAPI для управления файлами" h2="Чтение, запись, обработка и преобразование форматов файлов 3D в любом приложении на основе .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET-это многофункциональный Gameware и Computer-Aided-Designing (CAD) API для управления документами без каких-либо 3D зависимостей моделирования и рендеринга программного обеспечения. API поддерживает Discreet3DS, WavefrontOBJ, FBX (ASCII, двоичный), STL (ASCII, двоичный), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco форматы файлов и многое другое. Разработчики могут легко создавать, читать, преобразовывать, изменять и контролировать содержание форматов документов 3D.
+ Aspose.3D for .NET – это многофункциональное программное обеспечение для игр и автоматизированного проектирования (CAD) API для управления документами без каких-либо 3D зависимостей программного обеспечения для моделирования и рендеринга. API поддерживает Discreet3DS, WavefrontOBJ, FBX (ASCII, двоичный), STL (ASCII, двоичный), Universal3D, Collada, glTF, GLB, PLY, DirectX, форматы файлов Google Draco и многое другое. Разработчики могут легко создавать, читать, преобразовывать, изменять и контролировать содержание форматов документов 3D.
 </p>
 
 <p>
- Aspose.3D for .NET API удобен для пользователя и может быть развернут с любым приложением .NET так же просто, как копирование, не беспокоясь о других уже установленных службах и модулях.
+ Aspose.3D for .NET API удобен для пользователя и может быть развернут с любым приложением .NET так же просто, как его копирование, не беспокоясь о других уже установленных службах и модулях.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,7 +25,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Краткий обзор" description="Обзор возможностей API." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор возможностей API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -48,7 +48,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
      Узел
     </li>
     <li>
-     Преобразование
+     Трансформировать
     </li>
     <li>
      Кватернион
@@ -63,7 +63,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
      VertexElementNormal
     </li>
     <li>
-     Вертекс
+     Вершина
     </li>
     <li>
      Коробка
@@ -78,7 +78,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
      Сфера
     </li>
     <li>
-     Торус
+     Тор
     </li>
    </ul>
   </div>
@@ -87,44 +87,44 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
    <header>
     <i class="fa fa-bars">
     </i>
-    Общие
+    Общий
    </header>
    <ul>
     <li>
      Создание сцен
     </li>
     <li>
-     Создать поверхность сетки
+     Создать сетчатую поверхность
     </li>
     <li>
-     Многоугольная триангуляция
+     Полигональная триангуляция
     </li>
     <li>
-     Сплит сетка по материалу
+     Разделить сетку по материалу
     </li>
     <li>
-     Настройка Normal для графики
+     Настройка нормального для графики
     </li>
     <li>
      Настройка UV для графики
     </li>
     <li>
-     Тречатая сетка
+     Треугольная сетка
     </li>
     <li>
-     Доля данных геометрии сетки
+     Совместное использование данных геометрии сетки
     </li>
     <li>
-     Добавить материал в объект
+     Добавить материал к объекту
     </li>
     <li>
      Добавить целевую камеру
     </li>
     <li>
-     Просмотр в изображениях Render 3D
+     Рендеринг 3D Просмотр в изображениях
     </li>
     <li>
-     Тени для актеров и получения
+     Актеры и усилители Получить тени
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
   <footer>
    <small>
     <em>
-     Для
+     за
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.3D for .NET поддерживает .NET фреймворк." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.3D for .NET поддерживает структуру .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -165,7 +165,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    .NET Платформа
    </header>
    <!-- <ul>
 
@@ -180,7 +180,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
    <header>
     <i class="fa fa-cubes">
     </i>
-    Ядро .NET
+    .NET Ядро
    </header>
   </div>
   <!--/right-->
@@ -194,7 +194,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
   <footer>
    <small>
     <em>
-     Для
+     за
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.3D for .NET [Поддерживает знаменитые 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Форматы файлов." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.3D for .NET [поддерживает известные 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  форматы файлов." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Вход/выход
+    Ввод, вывод
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      Автодеск:
      </b>
-     FBX 7,2-7,5 (ASCII/двоичный)
+     FBX от 7,2 до 7,5 (ASCII/двоичный код)
     </li>
     <li>
      <b>
-      Системы 3D:
+      3D Системы CAD:
      </b>
-     STL (ASCII/двоичный)
+     STL (ASCII/Двоичный)
     </li>
     <li>
      <b>
@@ -235,7 +235,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
     </li>
     <li>
      <b>
-      Discreet 3D Студия:
+      Студия Discreet 3D:
      </b>
      3DS
     </li>
@@ -253,9 +253,9 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
     </li>
     <li>
      <b>
-      GL Трансмиссия:
+      Трансмиссия ГЛ:
      </b>
-     glTF (ASCII/двоичный)
+     glTF (ASCII/Двоичный)
     </li>
     <li>
      <b>
@@ -279,7 +279,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
      <b>
       Другие:
      </b>
-     AMF, PLY (ASCII/двоичный), A3DW
+     AMF, PLY (ASCII/Двоичный), A3DW
     </li>
    </ul>
   </div>
@@ -289,7 +289,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Только вход
+    Только ввод
    </header>
    <ul>
     <li>
@@ -308,7 +308,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
      DXF
     </li>
     <li>
-     3MF (3D формат производства)
+     3MF (3D Производственный формат)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Только выход
+    Только вывод
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
   <footer>
    <small>
     <em>
-     Для
+     за
     </em>
     .NET
    </small>
@@ -360,7 +360,7 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Дополнительные характеристики .NET 3D API
+    Дополнительные .NET 3D API функции
    </h2>
    <p>
    </p>
@@ -368,21 +368,21 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создайте сцену 3D и сохраните в поддерживаемом формате
+     Создать 3D сцену &amp; сохранить в поддерживаемом формате
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Загрузка, сохранение и преобразование файлов в поток
+     Загрузить, сохранить и усилить конвертировать файлы в поток
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Работа с геометрией и иерархией сцен
+     Работа с геометрией &amp; иерархия сцен
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,42 +403,42 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Триангулировать сетку с пользовательской компоновкой памяти вертекса
+     Триангуляция сетки с пользовательской компоновкой памяти вершины
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Добавить целевую камеру в сцене
+     Добавьте целевую камеру в сцену
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Анимировать объекты в сцене
+     Анимация объектов в сцене
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Разделенные сетки по материалу
+     Разделить сетки по материалу
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Отменить вид 3D в формате изображения
+     Визуализация вида 3D в формате изображения
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     В ролях и получайте тени на геометрии
+     Отбрасывайте и получайте тени на геометрии
     </p>
    </div>
    <div class="col-lg-4">
@@ -459,54 +459,54 @@ description: Библиотека C# VB.NET ASP.NET для создания фа
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Добавлена поддержка vulkan renderer
+     Добавлена поддержка рендерера vulkan.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создание геометрии путем экструзии форм
+     Создание геометрии путем выдавливания фигур
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддержка алгоритма UV atlas
+     Поддержка алгоритма УФ-атласа
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддержка стандартного формата 3d печати AMF
+     Поддержка стандартного формата 3D-печати AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX импорт и поддержка двоичной записи
+     Поддержка импорта FBX и двоичной записи
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Экспорт и импорт glTF файлов с сжатием draco
+     Экспорт и импорт файлов glTF со сжатием draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование формата файла 3D
+     3D Преобразование формата файла
     </h2>
     <p>
-     Aspose.3d for .NET предоставляет массив передовых алгоритмов, что делает его универсальное решение для преобразования формата файлов 3D. Процесс преобразования так же прост, как изменение расширения файла на желаемый формат. Все, что вам нужно сделать, это загрузить исходный файл в экземпляре сцены и вызвать его метод Save с соответствующим параметром FileFormat. Все!
+     Aspose.3d for .NET предоставляет набор передовых алгоритмов, что делает его универсальным решением для преобразования форматов файлов 3D. Процесс преобразования так же прост, как изменение расширения файла на нужный формат. Все, что вам нужно сделать, это загрузить исходный файл в экземпляр Scene и вызвать его метод Save с соответствующим параметром FileFormat. Вот и все!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Сохранить 3D сцены в разных форматах- C#
+      Сохранить 3D сцену в разных форматах - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -521,26 +521,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Создание 3D сцен
+     3D Создание сцен
     </h2>
     <p>
-     Aspose.3D for .NET позволяет программистам легко создавать сцены с нуля без необходимости установки 3D программного обеспечения для моделирования или рендеринга. 3D .NET API также позволяет сохранять сцены в форматах (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D и Collada), вызывая метод Save объекта класса Scene.
+     Aspose.3D for .NET позволяет программистам легко создавать сцены с нуля без необходимости установки какого-либо 3D программного обеспечения для моделирования или рендеринга. 3D .NET API также позволяет сохранять сцены в форматах (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D и Collada), вызывая метод Save объекта Объект класса сцены.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Добавить информацию об активе в 3D Сцена
+     Добавить информацию об объекте в сцену 3D
     </h2>
     <p>
-     Метаданные-это структурированная информация, которая описывает, находит и упрощает извлечение, использование и управление информационным ресурсом. Aspose.3D for .NET API позволяет разработчикам определять метаданные для сцены.
+     Метаданные — это структурированная информация, которая описывает, находит и упрощает поиск, использование и управление информационным ресурсом. Aspose.3D for .NET API позволяет разработчикам определять метаданные для сцены.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Создание сетчатой и графической формы 3D
+     Создать сетку 3D &amp; Графические формы
     </h2>
     <p>
-     Библиотека .NET 3D позволяет разработчикам создавать сетку из различных 3D геометрических форм, определять контрольные точки и полигоны самым простым способом для создания сеток и указывать сетку на несколько экземпляров типа формы. Разработчики также могут размещать формы 3D в любом месте сцены 3D.
+     Библиотека .NET 3D позволяет разработчикам создавать сетку из различных 3D геометрических фигур, определять контрольные точки и многоугольники самым простым способом для создания сеток и связывать сетку с несколькими экземплярами типа формы. Разработчики также могут размещать фигуры 3D в любом месте сцены 3D.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Доля данных геометрии сетки с несколькими узлами
+     Совместное использование данных геометрии сетки с несколькими узлами
     </h2>
     <p>
-     Чтобы уменьшить потребности в памяти, один экземпляр Mesh может быть привязан к различным экземплярам Node. Представьте, что вам нужна система, в которой большое количество 3D кубов казалось неотличимым; вы можете сэкономить память, сделав один объект Mesh, когда система заработает. В этот момент каждый раз, когда вам требуется другая форма, вы делаете еще один объект Node, а затем указываете этот узел на одну сетку. Так API справляется с инстансингом.
+     Чтобы уменьшить потребность в памяти, один экземпляр Mesh можно связать с несколькими экземплярами Node. Представьте, что вам нужна система, в которой большое количество кубов 3D кажется неразличимым; вы можете сэкономить память, создав один объект Mesh при запуске системы. В этот момент каждый раз, когда вам требуется другая форма, вы создаете другой объект Node, а затем указываете этот узел на одну сетку. Вот как API управляет созданием экземпляров.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Треганчатая сетка с пользовательской компоновкой памяти Vertex
+     Триангулировать сетку с пользовательской компоновкой памяти вершин
     </h2>
     <p>
-     Преобразуйте сетку в треугольную сетку, потому что любая сложная структура может быть представлена как группа треугольников. Графические программные пакеты и аппаратные устройства работают более эффективно на треугольниках. Компоновка памяти Vertex также важна для подачи GPU (Graphics Processing Unit), потому что GPU также должен знать о компоновке вершины, чтобы извлечь правильные атрибуты из буфера.
+     Преобразуйте сетку в сетку треугольников, потому что любую сложную структуру можно представить как группу треугольников. Графические программные пакеты и аппаратные устройства более эффективно работают с треугольниками. Структура памяти Vertex также важна для питания GPU (графического процессора), потому что GPU также должен знать о структуре вершин, чтобы извлекать правильные атрибуты из буфера.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Независимый от любой внешней установки программного обеспечения
+     Независимость от какой-либо внешней установки программного обеспечения
     </h2>
     <p>
-     Aspose.3D API создан с использованием управляемого кода, который никогда не зависит от внешнего API или установки программного обеспечения на компьютере для работы с 3D файлами. Это идеально настраиваемое решение с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
+     Aspose.3D API построен с использованием управляемого кода, который никогда не зависит от какой-либо внешней установки API или программного обеспечения на компьютере для работы с файлами 3D. Это идеально настроенное решение с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
     </p>
    </div>
   </div>
@@ -590,11 +590,11 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Учебные ресурсы" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API ссылки" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Учебник Видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D предлагает индивидуальные API обработки 3D для других популярных сред разработки, как указано ниже:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D предлагает отдельные API обработки 3D для других популярных сред разработки, перечисленных ниже:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

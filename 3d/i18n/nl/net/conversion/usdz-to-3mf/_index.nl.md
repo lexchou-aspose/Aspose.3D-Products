@@ -1,6 +1,6 @@
 ﻿---
-title: USDZ converteren naar 3MF via C# 
-description: USDZ en andere 3D bestanden converteren met .NET API
+title: Converteer USDZ naar 3MF via C# 
+description: Converteer USDZ en andere 3D bestanden met .NET API
 url: /nl/net/conversion/usdz-to-3mf/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: 3MF
 otherformats: PDF FBX RVM DAE ASE AMF OBJ PLY 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="USDZ converteren naar 3MF via C#" h2="Exporteer USDZ en andere 3D bestanden met .NET Framework, .NET Core en Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer USDZ naar 3MF via C#" h2="Exporteer USDZ en andere 3D bestanden met .NET Framework, .NET Core en Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exporteer USDZ scene als 3MF met C#" %}}
-1. Laad USDZ bestand met behulp van een constructor van [Scène](https://apireference.aspose.com/3d/net/aspose.threed/scene) Klasse2. Bel [Scène. Opslaan](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Methode
-3. Pass output bestandsnaam met. 3mf extensie als eerste parameter
-4. Geef de veldwaarde 'Microsoft3MF' op vanaf [Bestandformaat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Klasse
+{{% blocks/products/pf/agp/feature-section-col title="Exporteer USDZ Scene als 3MF met C#" %}}
+1. Laad USDZ bestand met een constructor van [Tafereel](https://apireference.aspose.com/3d/net/aspose.threed/scene) klas2. Bel [Scène.Opslaan](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) methode
+3. Geef de naam van het uitvoerbestand door met de extensie .3mf als eerste parameter
+4. Geef de veldwaarde 'Microsoft3MF' op van [Bestandsformaat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) klas
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D Formaatconversie API for .NET" %}}
-Installeer vanaf de opdrachtregel als ''nuget install Aspose.3d'' of via Package Manager Console van Visual Studio met '''' Install-Package Aspose.3D''.
+Installeer vanaf de opdrachtregel als ```nuget install Aspose.3d``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.3D```.
 
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP bestand downloaden van [Downloads](https://downloads.aspose.com/3d/net).
+kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# code voor USDZ tot 3MF conversie" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Code voor USDZ naar 3MF conversie" gistPath="" %}}
 ```cs
-// Laad de USDZ in een object van Scene 
+// laad de USDZ in een object van Scene 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Bespaar USDZ als 3MF 
+// sla USDZ op als een 3MF 
 scene.Save("output.3mf", Aspose.ThreeD.FileFormat.Microsoft3MF);
 
 ```

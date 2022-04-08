@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D manipulasi dan konversi file 
+title: Java 3D API | 3D Manipulasi dan Konversi File 
 weight: 2820
 url: /id/java/ 
-description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi dan memodifikasi 3D format file dalam Java aplikasi
+description: Gameware dan pustaka CAD 3D untuk membuat baca, konversi, dan modifikasi 3D format file dalam Java aplikasi
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D pemrosesan File API" h2="Membuat, memanipulasi & menyimpan 3D file ke berbagai format tanpa memerlukan pemodelan & rendering perangkat lunak eksternal." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Pemrosesan Berkas API" h2="Buat, Manipulasi & Simpan 3D file ke berbagai format tanpa memerlukan perangkat lunak pemodelan & rendering eksternal." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java adalah Gameware mandiri dan CAD API untuk memanipulasi file 3D. API mendukung sebagian besar format file 3D yang populer dan aplikasi dapat membuat, membaca, mengonversi & memodifikasi file dengan mudah. Selain itu, API membantu pengembang dalam pemodelan dan penciptaan dunia game besar, adegan luar biasa untuk visualisasi desain, melibatkan pengalaman realitas virtual, menambahkan properti animasi ke file adegan, format elemen menggunakan transformasi dan banyak lagi.
+ Aspose.3D for Java adalah Gameware mandiri dan CAD API untuk memanipulasi 3D file. API mendukung sebagian besar format file 3D populer dan aplikasi dapat membuat, membaca, mengonversi &amp; memodifikasi file dengan mudah. Selain itu, API membantu pengembang dalam pemodelan dan pembuatan dunia game besar, adegan luar biasa untuk visualisasi desain, melibatkan pengalaman realitas virtual, menambahkan properti Animasi ke file adegan, elemen format menggunakan transformasi dan banyak lagi.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,57 +21,57 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas saja" description="Ikhtisar dari API." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar tentang API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Model objek
+    Model Objek
    </header>
    <ul>
     <li>
-     Pemandangan indah
+     Tempat kejadian
     </li>
     <li>
-     Jala jala
+     jala
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     Simpul Node
+     simpul
     </li>
     <li>
      Mengubah
     </li>
     <li>
-     Quaternion
+     Angka empat
     </li>
     <li>
      Properti
     </li>
     <li>
-     VertexElementUV
+     VertexElemenUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Puncak
     </li>
     <li>
-     Kotak penyimpanan
+     Kotak
     </li>
     <li>
-     Silinder silinder
+     Silinder
     </li>
     <li>
      Pesawat terbang
     </li>
     <li>
-     Bola lampu
+     Bola
     </li>
     <li>
      Torus
@@ -83,41 +83,41 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
    <header>
     <i class="fa fa-bars">
     </i>
-    Umum sekali
+    Umum
    </header>
    <ul>
     <li>
-     Membuat adegan
+     Buat Adegan
     </li>
     <li>
-     Membuat permukaan jaring
+     Buat Permukaan Mesh
     </li>
     <li>
-     Poligon triangulasi
+     triangulasi poligon
     </li>
     <li>
-     Pisah jala dengan bahan
+     Split Mesh dengan Bahan
     </li>
     <li>
-     Pengaturan Normal untuk grafis
+     Pengaturan Normal untuk Grafik
     </li>
     <li>
-     UV Set up untuk grafis
+     Siapkan UV untuk Grafik
     </li>
     <li>
-     Rajutan triangulasi
+     Jaring segitiga
     </li>
     <li>
-     Data geometri jala berbagi
+     Bagikan Data Geometri Mesh
     </li>
     <li>
-     Tambahkan bahan ke objek
+     Tambahkan Bahan ke Objek
     </li>
     <li>
-     Tambah kamera Target
+     Tambahkan Kamera Target
     </li>
     <li>
-     Melemparkan & menerima bayangan
+     Pemeran &amp; Terima Bayangan
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform kemerdekaan" description="Aspose.3D for Java mendukung waktu proses Java." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.3D for Java mendukung Java waktu proses." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,7 +153,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java lingkungan waktu proses
+    Java Lingkungan Waktu Proses
    </header>
    <ul>
     <li>
@@ -175,7 +175,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang didukung" description="API mendukung [Format file terdaftar](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="API mendukung [format file yang terdaftar](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/Output
+    Input output
    </header>
    <ul>
     <li>
      <b>
-      Autodesk:
+      Meja Otomatis:
      </b>
-     FBX 7.2 hingga 7.5 (ASCII/biner)
+     FBX 7,2 hingga 7,5 (ASCII/Binary)
     </li>
     <li>
-     STL (ASCII/biner)
+     STL (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -229,7 +229,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
      <b>
       Transmisi GL:
      </b>
-     glTF (ASCII/biner)
+     glTF (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
      <b>
       RVM
      </b>
-     (Teks/biner)
+     (Teks/Biner)
     </li>
     <li>
      <b>
-      Format dokumen portabel:
+      Format Dokumen Portabel:
      </b>
      PDF
     </li>
@@ -263,14 +263,14 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Masukkan saja
+    Masukan Saja
    </header>
    <ul>
     <li>
      <b>
       DirectX:
      </b>
-     X (ASCII/biner)
+     X (ASCII/Biner)
     </li>
     <li>
      <b>
@@ -297,7 +297,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Keluaran saja
+    Keluaran Saja
    </header>
    <ul>
     <li>
@@ -316,7 +316,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
   <footer>
    <small>
     <em>
-     Untuk
+     untuk
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fitur canggih Java 3D API
+    Fitur Java 3D API Lanjutan
    </h2>
    <p>
    </p>
@@ -345,49 +345,49 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menghasilkan adegan dan menyimpan dalam format yang didukung
+     Hasilkan adegan dan simpan dalam format yang didukung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Memuat, menyimpan, dan merender dokumen 3D ke stream
+     Muat, simpan, dan render 3D dokumen ke aliran
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bekerja dengan geometri dan hierarki adegan
+     Bekerja dengan geometri dan hierarki pemandangan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bagikan data geometri jaring dalam beberapa node
+     Bagikan data geometri mesh dalam beberapa node
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menambahkan properti animasi ke file adegan
+     Tambahkan properti animasi ke file adegan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Melakukan pelacakan dengan tata letak memori kustom dari simpul
+     Triangulasi Mesh dengan tata letak memori kustom dari vertex
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tambahkan kamera target serta menganimasikan objek dalam adegan 3D
+     Tambahkan kamera target serta objek animasi dalam 3D adegan
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,14 +399,14 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Membagi jaring dengan bahan
+     Pisahkan jerat berdasarkan bahan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ubah orientasi pesawat dengan menentukan normal
+     Ubah orientasi bidang dengan menentukan naik normal
     </p>
    </div>
    <div class="col-lg-4">
@@ -420,40 +420,40 @@ description: Gameware dan CAD 3D perpustakaan untuk membuat membaca mengkonversi
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Meningkatkan penciptaan silinder
+     Tingkatkan pembuatan silinder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Format file berbasis Arsip-deteksi
+     Deteksi format file berbasis arsip
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mendukung format AMF
+     dukungan dari AMF format
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Impor dan Ekspor glTF dokumen menggunakan kompresi Draco
+     Impor dan ekspor glTF dokumen menggunakan kompresi Draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Antar-mengkonversi file adegan
+     Antar-konversi File Adegan
     </h2>
     <p>
-     API menyediakan dukungan konversi format berkas 3D dengan cara yang sederhana. Pengembang bisa memuat dokumen sumber dalam instans suasana, dan menggunakan fungsi simpan dengan parameter FileFormat. Itu saja!
+     API memberikan dukungan 3D konversi format file dengan cara yang sederhana. Pengembang dapat memuat dokumen sumber dalam contoh Scene, dan menggunakan fungsi Simpan dengan parameter FileFormat. Itu dia!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Simpan 3D adegan dalam format yang berbeda- Java
+      Simpan 3D adegan dalam format berbeda - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Menghasilkan 3D adegan melalui API
+     Hasilkan 3D Adegan melalui API
     </h2>
     <p>
-     Aspose.3D for Java memungkinkan pengembang membuat adegan dari awal tanpa ketergantungan perangkat lunak pemodelan apa pun. Java API juga memberdayakan para pengembang untuk menyimpan adegan dalam format apa pun yang didukung seperti (STL, FBX, Discreet3DS, WavefrontOBJ, Collada dan Universal3D).
+     Aspose.3D for Java memungkinkan pengembang membuat adegan dari awal tanpa ketergantungan perangkat lunak pemodelan apa pun. Java API juga memberdayakan pengembang untuk menyimpan adegan dalam salah satu format yang didukung seperti (STL, FBX, Discreet3DS, WavefrontOBJ, Collada dan Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Buat pemandangan dengan bentuk primitif 3D- Java
+      Buat adegan dengan bentuk 3D primitif - Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Membangun hierarki simpul dengan cara yang sederhana
+     Bangun Hirarki Node dengan Cara Sederhana
     </h2>
     <p>
-     Aspose.3D for Java API menyediakan kemampuan untuk membangun hierarki Node di mana simpul adalah blok bangunan dasar dari suatu adegan. Hierarki node mendefinisikan struktur logis dan menyediakan konten yang terlihat dengan melampirkan geometri, lampu, dan kamera ke node.
+     Aspose.3D for Java API memberikan kemampuan untuk membangun hierarki Node di mana Node adalah blok pembangun dasar dari sebuah adegan. Hirarki node mendefinisikan struktur logis dan menyediakan konten yang terlihat dengan melampirkan geometri, lampu, dan kamera ke node.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Menambahkan properti animasi ke latar
+     Tambahkan Properti Animasi ke Scene
     </h2>
     <p>
-     Aspose.3D for Java API memberikan dukungan untuk animasi bingkai kunci melalui pemetaan jalan yang memetakan komponen properti ke kurva yang berbeda. Selain itu, perpustakaan menawarkan untuk menyiapkan kamera target dalam file 3D yang berguna dalam animasi saat Anda membutuhkan kamera untuk menghadapi simpul tertentu.
+     Aspose.3D for Java API memberikan dukungan untuk animasi bingkai utama melalui CurveMapping yang memetakan komponen properti ke kurva yang berbeda. Selain itu, perpustakaan menawarkan untuk menyiapkan kamera target dalam file 3D yang berguna dalam animasi saat Anda membutuhkan kamera untuk menghadapi node tertentu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ketahanan, kinerja, & skalabilitas
+     Kekokohan, Performa &amp; Skalabilitas
     </h2>
     <p>
-     Aspose.3D for Java dirancang untuk tampil sama baiknya di server atau sisi klien. Ini adalah perakitan Java tunggal yang dapat digunakan dengan aplikasi Java hanya dengan menambahkan referensinya. Anda tidak perlu khawatir tentang layanan atau modul lain saat bekerja dengan API.
+     Aspose.3D for Java dirancang untuk berkinerja sama baiknya di sisi server atau klien. Ini adalah rakitan Java tunggal yang dapat digunakan dengan aplikasi Java apa pun hanya dengan menambahkan referensinya. Anda tidak perlu khawatir tentang layanan atau modul lain saat bekerja dengan API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,30 +556,30 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Sumber daya pembelajaran" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API referensi" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="API Referensi" href="https://apireference.aspose.com/3d/java" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan gratis" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Dukungan berbayar" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Rilis catatan" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.3D for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Daftar pelanggan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Kisah sukses" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D menawarkan api pemrosesan 3D individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D menawarkan 3D API pemrosesan individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

@@ -2,10 +2,10 @@
 title: Java 3D API | 3D Manipulacja i konwersja plików 
 weight: 2820
 url: /pl/java/ 
-description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i modyfikowania 3D formatów plików w Java aplikacjach
+description: Oprogramowanie do gier i biblioteka CAD3D do tworzenia odczytów, konwersji i modyfikacji 3D formatów plików w Java aplikacjach
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Przetwarzanie plików API Java 3D" h2="Tworzenie, manipulowanie i zapisywanie 3D plików w wielu formatach bez konieczności stosowania zewnętrznego oprogramowania do modelowania i renderowania." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Przetwarzanie plików API" h2="Twórz, manipuluj i zapisuj 3D pliki w wielu formatach bez konieczności używania zewnętrznego oprogramowania do modelowania i renderowania." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java to samodzielny program Gameware i CAD API do manipulowania plikami 3D. API obsługuje większość popularnych 3D formatów plików, a aplikacje mogą łatwo tworzyć, czytać, konwertować i modyfikować pliki. Co więcej, API pomaga programistom w modelowaniu i tworzeniu ogromnych światów gier, doskonałych scen do wizualizacji projektowania, angażowania doświadczeń wirtualnej rzeczywistości, dodawania właściwości animacji do pliku sceny, elementów formatowania za pomocą transformacji i wielu innych.
+ Aspose.3D for Java to samodzielny Gameware i CAD API do manipulowania 3D plikami. API obsługuje większość popularnych 3D formatów plików, a aplikacje mogą tworzyć, odczytywać, konwertować i konwertować; łatwo modyfikować pliki. Ponadto API pomaga programistom w modelowaniu i tworzeniu ogromnych światów gier, wspaniałych scen do wizualizacji projektów, angażowaniu doświadczeń wirtualnej rzeczywistości, dodawaniu właściwości Animation do pliku sceny, formatowaniu elementów przy użyciu transformacji i wielu innych.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,7 +28,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Model obiektu
+    Model obiektowy
    </header>
    <ul>
     <li>
@@ -44,10 +44,10 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      Węzeł
     </li>
     <li>
-     Przekształć
+     Przekształcać
     </li>
     <li>
-     Czwartonik
+     Kwaternion
     </li>
     <li>
      Nieruchomość
@@ -62,7 +62,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      Wierzchołek
     </li>
     <li>
-     Pudełko
+     Skrzynka
     </li>
     <li>
      Cylinder
@@ -83,32 +83,32 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
    <header>
     <i class="fa fa-bars">
     </i>
-    Generał
+    Ogólny
    </header>
    <ul>
     <li>
-     Tworzenie scen
+     Twórz sceny
     </li>
     <li>
-     Stwórz siatkową powierzchnię
+     Utwórz powierzchnię siatki
     </li>
     <li>
-     Triangulacja wielokątów
+     Triangulacja wieloboków
     </li>
     <li>
-     Podzielona siatka według materiału
+     Podziel siatkę według materiału
     </li>
     <li>
-     Konfiguracja Normalna dla grafiki
+     Konfiguracja normalna dla grafiki
     </li>
     <li>
-     Konfiguracja UV dla grafiki
+     Skonfiguruj UV dla grafiki
     </li>
     <li>
      Trójkątna siatka
     </li>
     <li>
-     Udostępnij dane geometrii siatkowej
+     Udostępnij dane geometrii siatki
     </li>
     <li>
      Dodaj materiał do obiektu
@@ -117,7 +117,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      Dodaj kamerę docelową
     </li>
     <li>
-     Obsada i odbieranie cieni
+     Przesyłaj &amp; Otrzymuj cienie
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
   <footer>
    <small>
     <em>
-     Dla
+     dla
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność platformy" description="Aspose.3D for Java obsługuje Java runtime." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność od platformy" description="Aspose.3D for Java obsługuje środowisko wykonawcze Java." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,14 +153,14 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Środowisko uruchomieniowe
+    Java Środowisko wykonawcze
    </header>
    <ul>
     <li>
      Aplikacja JSP/JSF
     </li>
     <li>
-     Aplikacja stacjonarna
+     Aplikacja pulpitu
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
   <footer>
    <small>
     <em>
-     Dla
+     dla
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="API obsługuje [Wymienione formaty plików](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="API obsługuje [wymienione formaty plików](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Wejście/wyjście
+    Wejście wyjście
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7.2 do 7.5 (ASCII/Binary)
+     FBX 7,2 do 7,5 (ASCII/binarny)
     </li>
     <li>
-     STL (ASCII/Binarny)
+     STL (ASCII/binarny)
     </li>
     <li>
      <b>
@@ -229,7 +229,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      <b>
       Transmisja GL:
      </b>
-     glTF (ASCII/Binarny)
+     glTF (ASCII/binarny)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      <b>
       RVM
      </b>
-     (Tekst/Binarny)
+     (tekstowe/binarne)
     </li>
     <li>
      <b>
-      Przenośny format dokumentu:
+      Format dokumentu przenośnego:
      </b>
      PDF
     </li>
@@ -270,7 +270,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
      <b>
       DirectX:
      </b>
-     X (ASCII/Binarny)
+     X (ASCII/binarny)
     </li>
     <li>
      <b>
@@ -316,7 +316,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
   <footer>
    <small>
     <em>
-     Dla
+     dla
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Zaawansowane Java 3D API Funkcje
+    Zaawansowane Java 3D API funkcje
    </h2>
    <p>
    </p>
@@ -345,28 +345,28 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generowanie sceny i zapisywanie w obsługiwanych formatach
+     Generuj scenę i zapisuj w obsługiwanych formatach
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Załaduj, zapisz i renderuj dokument 3D do strumienia
+     Załaduj, zapisz i wyrenderuj 3D dokument do strumienia
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pracuj z geometrią i hierarchią sceny
+     Praca z geometrią i hierarchią scen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Udostępnij dane geometrii siatki w wielu węzłach
+     Udostępniaj dane geometrii siatki w wielu węzłach
     </p>
    </div>
    <div class="col-lg-4">
@@ -380,14 +380,14 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a Mesh z niestandardowym układem pamięci wierzchołka
+     Trianguluj siatkę z niestandardowym układem pamięci wierzchołka
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dodaj kamerę docelową, a także animować obiekty w scenie 3D
+     Dodaj kamerę docelową oraz animuj obiekty w scenie 3D
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,7 +399,7 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dzielone siatki według materiału
+     Podziel siatki według materiału
     </p>
    </div>
    <div class="col-lg-4">
@@ -413,47 +413,47 @@ description: Gameware i CAD 3D biblioteki do tworzenia konwertowania odczytu i m
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stwórz geometrię poprzez wytłaczanie kształtów
+     Twórz geometrię przez wytłaczanie kształtów
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wzmocnij tworzenie cylindra
+     Popraw tworzenie cylindra
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Archiwum-format plików-wykrywanie
+     Wykrywanie formatu plików na podstawie archiwum
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obsługa formatu AMF
+     obsługa formatu AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importowanie i eksportowanie glTF dokumentów przy użyciu kompresji Draco
+     Importuj i eksportuj glTF dokumenty przy użyciu kompresji Draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-convert plików sceny
+     Interkonwertowanie plików scen
     </h2>
     <p>
-     API obsługuje konwersję formatu plików 3D w prosty sposób. Programiści mogą załadować dokument źródłowy w instancji Scena i użyć jego funkcji Zapisz z parametrem FileFormat. To jest to!
+     API zapewnia obsługę konwersji formatu plików 3D w prosty sposób. Deweloperzy mogą załadować dokument źródłowy w instancji Scene i użyć jego funkcji Save z parametrem FileFormat. Otóż to!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Zapisz 3D sceny w różnych formatach- Java
+      Zapisz 3D scenę w różnych formatach - Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Wygeneruj 3D scen przez API
+     Wygeneruj 3D Sceny przez API
     </h2>
     <p>
-     Aspose.3D for Java pozwala programistom tworzyć sceny od podstaw bez zależności jakiegokolwiek oprogramowania do modelowania. Java API umożliwia również programistom zapisywanie scen w dowolnym z obsługiwanych formatów, takich jak (STL, FBX, Discreet3DS, WavefrontOBJ, Collada i Universal3D).
+     Aspose.3D for Java umożliwia programistom tworzenie scen od podstaw bez konieczności korzystania z żadnego oprogramowania do modelowania. Java API umożliwia również programistom zapisywanie scen w dowolnym z obsługiwanych formatów, takich jak (STL, FBX, Discreet3DS, WavefrontOBJ, Collada i Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Utwórz scenę z prymitywnymi kształtami 3D- Java
+      Utwórz scenę z prymitywnych 3D kształtów — Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -514,7 +514,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      Zbuduj hierarchię węzłów w prosty sposób
     </h2>
     <p>
-     Aspose.3D for Java API zapewnia możliwość zbudowania hierarchii węzła, w której węzeł jest podstawowym elementem składowym sceny. Hierarchia węzłów definiuje strukturę logiczną i zapewnia widoczną zawartość poprzez dołączenie geometrii, świateł i kamer do węzłów.
+     Aspose.3D for Java API umożliwia budowanie hierarchii węzłów, w której węzeł jest podstawowym budulcem sceny. Hierarchia węzłów definiuje strukturę logiczną i zapewnia widoczną zawartość, dołączając do węzłów geometrie, światła i kamery.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -529,15 +529,15 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      Dodaj właściwość animacji do sceny
     </h2>
     <p>
-     Aspose.3D for Java API zapewnia obsługę animacji klatek kluczowych za pośrednictwem CurveMapping, która odwzorowuje składniki właściwości na różne krzywe. Co więcej, biblioteka oferuje konfigurację kamery docelowej w pliku 3D, który jest przydatny w animacji, gdy potrzebujesz kamery, aby zmierzyć się z określonym węzłem.
+     Aspose.3D for Java API zapewnia obsługę animacji klatek kluczowych za pomocą mapowania krzywych, które odwzorowuje składniki właściwości na różne krzywe. Ponadto biblioteka oferuje możliwość ustawienia kamery docelowej w pliku 3D, co jest przydatne w animacji, gdy kamera musi być skierowana w stronę konkretnego węzła.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Solidność, wydajność i skalowalność
+     Solidność, wydajność i; Skalowalność
     </h2>
     <p>
-     Aspose.3D for Java został zaprojektowany tak, aby działał równie dobrze po stronie serwera lub klienta. Jest to pojedynczy zestaw Java, który można wdrożyć w dowolnej aplikacji Java, po prostu dodając jej odniesienie. Nie musisz martwić się o inne usługi lub moduły podczas pracy z API.
+     Aspose.3D for Java ma działać równie dobrze po stronie serwera, jak i klienta. Jest to pojedynczy zestaw Java, który można wdrożyć z dowolną aplikacją Java, po prostu dodając jego odwołanie. Nie musisz martwić się o inne usługi lub moduły podczas pracy z API.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -564,22 +564,22 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Darmowe wsparcie" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Uwagi dotyczące wydania" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Informacje o wydaniu" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.3D for Java" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historie sukcesu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D oferuje indywidualne interfejsy API do przetwarzania 3D dla innych popularnych środowisk programistycznych wymienionych poniżej:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D oferuje indywidualne 3D interfejsy API przetwarzania dla innych popularnych środowisk programistycznych, jak podano poniżej:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

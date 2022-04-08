@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D 문서 처리 API-Aspose 
+title: C# .NET 3D 문서 처리 API - Aspose 
 weight: 1020
 url: /ko/net/ 
-description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환을 만들고 3D 파일을 Windows 양식 웹 서비스 및 Mono 응용 프로그램에서 수정합니다.
+description: Windows Forms 웹 서비스 및 Mono 애플리케이션에서 읽기 변환 및 3D 파일 수정을 위한 C# VB.NET ASP.NET 라이브러리
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D 파일 조작 APIs" h2=".NET 기반 응용 프로그램 내에서 3D 파일 형식을 읽고, 쓰고, 조작하고, 변환합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D 파일 조작 API" h2="모든 .NET 기반 애플리케이션 내에서 3D 파일 형식을 읽고, 쓰고, 조작하고, 변환합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET 은 3D 모델링 및 렌더링 소프트웨어 종속성없이 문서를 조작하는 기능이 풍부한 게임웨어 및 컴퓨터 지원 설계 (CAD) API 입니다. API 는 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco 파일 형식 등. 개발자는 3D 문서 형식의 내용을 쉽게 생성, 읽기, 변환, 수정 및 제어 할 수 있습니다.
+ Aspose.3D for .NET은(는) 모델링 및 렌더링 소프트웨어 종속성 없이 문서를 조작할 수 있는 기능이 풍부한 게임웨어 및 컴퓨터 지원 설계(CAD)API입니다. API는 Discreet3DS, WavefrontOBJ, FBX(ASCII, 바이너리), STL(ASCII, 바이너리), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco 파일 형식 등 개발자는 3D 문서 형식의 내용을 쉽게 생성, 읽기, 변환, 수정 및 제어할 수 있습니다.
 </p>
 
 <p>
- Aspose.3D for .NET API 는 사용자 친화적이며 이미 설치된 다른 서비스 및 모듈에 대한 걱정없이 쉽게 복사 할 수있는 .NET 응용 프로그램과 함께 배포 할 수 있습니다.
+ Aspose.3D for .NET API은(는) 사용자 친화적이며 이미 설치된 다른 서비스 및 모듈에 대해 걱정할 필요 없이 복사하는 것처럼 쉽게 모든 .NET 애플리케이션과 함께 배포할 수 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,45 +25,45 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="API 의 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="API의 기능에 대한 개요입니다." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    객체 모델
+    개체 모델
    </header>
    <ul>
     <li>
      장면
     </li>
     <li>
-     메쉬
+     망사
     </li>
     <li>
      PolygonBuilder
     </li>
     <li>
-     노드
+     마디
     </li>
     <li>
      변환
     </li>
     <li>
-     쿼터니온
+     쿼터니언
     </li>
     <li>
      재산
     </li>
     <li>
-     VertexElementUV
+     정점요소UV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     정점
+     꼭지점
     </li>
     <li>
      상자
@@ -75,10 +75,10 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
      비행기
     </li>
     <li>
-     구
+     구체
     </li>
     <li>
-     토러스
+     큰 쇠시리
     </li>
    </ul>
   </div>
@@ -87,35 +87,35 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
    <header>
     <i class="fa fa-bars">
     </i>
-    일반
+    일반적인
    </header>
    <ul>
     <li>
      장면 만들기
     </li>
     <li>
-     메쉬 표면 만들기
+     메쉬 표면 생성
     </li>
     <li>
      다각형 삼각 측량
     </li>
     <li>
-     물자에 의해 분할 메쉬
+     재료별 메쉬 분할
     </li>
     <li>
-     그래픽 설정 정상
+     그래픽에 대해 일반 설정
     </li>
     <li>
-     그래픽 설정 UV
+     그래픽용 UV 설정
     </li>
     <li>
-     삼각 메시
+     메쉬 삼각형
     </li>
     <li>
-     메시 기하학 데이터 공유
+     메쉬 지오메트리 데이터 공유
     </li>
     <li>
-     물체에 재료 추가
+     객체에 재료 추가
     </li>
     <li>
      대상 카메라 추가
@@ -124,7 +124,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
      이미지에서 3D 보기 렌더링
     </li>
     <li>
-     캐스트 및 수신 그림자
+     캐스트 &amp; 그림자 받기
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
   <footer>
    <small>
     <em>
-     를 위해
+     ~을위한
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립" description="Aspose.3D for .NET 은 .NET 프레임워크를 지원한다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.3D for .NET은(는) .NET 프레임워크를 지원합니다." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -194,7 +194,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
   <footer>
    <small>
     <em>
-     를 위해
+     ~을위한
     </em>
     .NET
    </small>
@@ -205,27 +205,27 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Aspose.3D for .NET [지원 유명한 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  파일 형식." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Aspose.3D for .NET [유명한 3D 지원](https://docs.aspose.com/3d/net/supported-file-formats/)  파일 형식." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    입력/출력
+    입출력
    </header>
    <ul>
     <li>
      <b>
-      오토 데스크:
+      오토데스크:
      </b>
-     FBX 7.2 7.5 (ASCII/Binary)
+     FBX 7.2 ~ 7.5(ASCII/바이너리)
     </li>
     <li>
      <b>
       3D 시스템 CAD:
      </b>
-     STL (ASCII/Binary)
+     STL(ASCII/바이너리)
     </li>
     <li>
      <b>
@@ -255,7 +255,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
      <b>
       GL 전송:
      </b>
-     glTF (ASCII/Binary)
+     glTF(ASCII/바이너리)
     </li>
     <li>
      <b>
@@ -277,9 +277,9 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     </li>
     <li>
      <b>
-      다른 사람:
+      기타:
      </b>
-     AMF, PLY (ASCII/Binary), A3DW
+     AMF, PLY(ASCII/바이너리), A3DW
     </li>
    </ul>
   </div>
@@ -294,13 +294,13 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
    <ul>
     <li>
      <b>
-      DirectX:
+      다이렉트X:
      </b>
-     X (ASCII/Binary)
+     X(ASCII/바이너리)
     </li>
     <li>
      <b>
-      Siemens:
+      지멘스:
      </b>
      JT
     </li>
@@ -308,7 +308,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
      DXF
     </li>
     <li>
-     3MF (3D 제조 형식)
+     3MF(3D 제조 형식)
     </li>
     <li>
      ASE
@@ -320,7 +320,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    출력 전용
+    출력만
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
   <footer>
    <small>
     <em>
-     를 위해
+     ~을위한
     </em>
     .NET
    </small>
@@ -368,28 +368,28 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D 장면 만들기 및 지원되는 형식으로 저장
+     3D 장면 만들기 &amp; 지원되는 형식으로 저장
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     파일을 스트림으로 로드, 저장 및 변환
+     로드, 저장 및 파일을 스트림으로 변환
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     기하학 및 장면 계층 구조 작업
+     기하학 및 작업 장면 계층
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     여러 노드간에 메쉬 기하학 데이터 공유
+     여러 노드 간에 메쉬 지오메트리 데이터 공유
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     정점의 사용자 정의 메모리 레이아웃으로 메쉬를 삼각 측량
+     정점의 사용자 지정 메모리 레이아웃으로 메쉬 삼각 측량
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,49 +424,49 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     재료에 의한 분할 메시
+     재질별로 메쉬 분할
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D 보기를 이미지 형식으로 렌더링합니다.
+     이미지 형식으로 3D 보기 렌더링
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     기하학에 그림자를 드리 우고 수신
+     지오메트리에 그림자 투사 및 수신
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     비행기의 방향을 바꿀 수 있습니다
+     평면 방향 변경 허용
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     실린더의 생성을 강화
+     실린더 생성 향상
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     추가 vulkan 렌더러 지원
+     추가된 vulkan 렌더러 지원
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     모양을 압출하여 기하학을 만듭니다.
+     모양을 돌출시켜 지오메트리 생성
     </p>
    </div>
    <div class="col-lg-4">
@@ -480,7 +480,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     지원 표준 3d 인쇄 형식 AMF
+     표준 3D 인쇄 형식 지원 AMF
     </p>
    </div>
    <div class="col-lg-4">
@@ -494,7 +494,7 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draco 압축으로 glTF 파일 내보내기 및 가져오기
+     draco 압축으로 glTF 파일 내보내기 및 가져오기
     </p>
    </div>
    <div class="col-lg-12">
@@ -502,11 +502,11 @@ description: C# VB .NET ASP .NET 라이브러리를 사용하여 읽기 변환�
      3D 파일 형식 변환
     </h2>
     <p>
-     Aspose.3d for .NET 은 3D 파일 형식 변환을위한 올인원 솔루션을 만드는 고급 알고리즘 배열을 제공합니다. 변환 프로세스는 파일 확장자를 원하는 형식으로 변경하는 것만 큼 간단합니다. 당신은 장면의 인스턴스에 소스 파일을 로드하고 적절한 파일 형식 매개 변수를 사용하여 저장 방법을 호출하는 것입니다. 그게 다야!
+     Aspose.3d for .NET은(는) 3D 파일 형식 변환을 위한 올인원 솔루션을 만드는 고급 알고리즘의 배열을 제공합니다. 변환 프로세스는 파일 확장자를 원하는 형식으로 변경하는 것만큼 간단합니다. Scene 인스턴스에서 소스 파일을 로드하고 적절한 FileFormat 매개변수를 사용하여 해당 Save 메서드를 호출하기만 하면 됩니다. 그게 다야!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      3D 장면을 다른 형식으로 저장-C#
+      3D 장면을 다른 형식으로 저장 - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -524,7 +524,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      3D 장면 생성
     </h2>
     <p>
-     Aspose.3D for .NET 은 프로그래머가 3D 모델링 또는 렌더링 소프트웨어를 설치하지 않고도 처음부터 장면을 쉽게 생성할 수 있도록 지원합니다. 3D .NET API 를 사용하면 장면을 형식 (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D 및 Collada) 은 장면 클래스 객체의 저장 메서드를 호출합니다.
+     Aspose.3D for .NET 프로그래머는 3D 모델링 또는 렌더링 소프트웨어를 설치할 필요 없이 처음부터 장면을 쉽게 생성할 수 있습니다. 3D .NET API는 또한 의 Save 메소드를 호출하여 형식(FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D 및 Collada)으로 장면을 저장할 수 있습니다. 장면 클래스 개체입니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -532,15 +532,15 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      3D 장면에 자산 정보 추가
     </h2>
     <p>
-     메타데이터는 정보 리소스를 더 쉽게 검색, 사용 및 관리할 수 있도록 설명, 위치 및 위치를 지정하는 구조화된 정보입니다. Aspose.3D for .NET API 를 사용하면 개발자가 장면에 대한 메타데이터를 정의할 수 있습니다.
+     메타데이터는 정보 자원을 설명하고 찾고 이를 쉽게 검색, 사용 및 관리할 수 있도록 하는 구조화된 정보입니다. Aspose.3D for .NET API를 사용하면 개발자가 장면에 대한 메타데이터를 정의할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D 메쉬 및 그래픽 모양 만들기
+     3D 메쉬 &amp; 그래픽 모양
     </h2>
     <p>
-     .NET 3D 라이브러리를 사용하면 개발자가 다양한 3D 기하학적 모양의 메쉬를 만들 수 있습니다. 가장 간단한 방법으로 제어점과 다각형을 정의하여 메시를 모양 유형의 여러 인스턴스에 지정합니다. 개발자는 3D 장면 어디에서나 3D 도형을 배치 할 수도 있습니다.
+     .NET 3D 라이브러리를 사용하면 개발자가 다양한 3D 기하학적 모양의 메시를 만들고, 가장 간단한 방법으로 제어점과 다각형을 정의하여 메시를 만들고, 모양 유형의 여러 인스턴스를 가리킬 수 있습니다. 개발자는 또한 3D 장면의 아무 곳에나 3D 모양을 배치할 수 있습니다.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -559,26 +559,26 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     여러 노드와 메쉬 기하학 데이터 공유
+     여러 노드와 메쉬 지오메트리 데이터 공유
     </h2>
     <p>
-     메모리 필수품을 감소시키기 위해, 메쉬의 단일 인스턴스는 노드의 다양한 인스턴스에 바인딩될 수 있다. 많은 수의 3D 큐브를 구별 할 수없는 것처럼 보이는 시스템이 필요하다고 생각합니다. 시스템이 시작될 때 하나의 메쉬 객체를 만들어 메모리를 절약 할 수 있습니다. 이 시점에서 다른 모양이 필요할 때마다 다른 노드 객체를 만든 다음 해당 노드를 하나의 메쉬로 향하게합니다. 이것이 API 이 설치를 관리하는 방법입니다.
+     필요한 메모리를 줄이기 위해 단일 Mesh 인스턴스를 다양한 Node.js 인스턴스에 바인딩할 수 있습니다. 많은 수의 3D 큐브를 구별할 수 없는 것처럼 보이는 시스템이 필요하다고 상상해 보십시오. 시스템이 시작될 때 하나의 Mesh 개체를 만들어 메모리를 절약할 수 있습니다. 그 시점에서 다른 모양이 필요할 때마다 다른 노드 개체를 만든 다음 해당 노드를 하나의 메시로 가리킵니다. 이것이 API이 인스턴스를 관리하는 방법입니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     정점의 사용자 정의 메모리 레이아웃으로 Triangulate 메쉬
+     정점의 사용자 지정 메모리 레이아웃으로 메쉬 삼각 측량
     </h2>
     <p>
-     복잡한 구조가 여러 개의 삼각형으로 표현 될 수 있기 때문에 메시를 삼각형 메시로 변환하십시오. 그래픽 소프트웨어 패키지와 하드웨어 장치는 삼각형에서보다 효율적으로 작동합니다. Vertex의 메모리 레이아웃은 GPU (그래픽 처리 장치) 를 공급하는 데 중요합니다. 왜냐하면 gpu는 버퍼에서 올바른 속성을 추출하기 위해 꼭지점 레이아웃에 대해서도 알아야합니다.
+     복잡한 구조는 삼각형 묶음으로 나타낼 수 있으므로 메쉬를 삼각형 메쉬로 변환하십시오. 그래픽 소프트웨어 패키지와 하드웨어 장치는 삼각형에서 보다 효율적으로 작동합니다. 버텍스의 메모리 레이아웃은 GPU(그래픽 처리 장치)를 공급하는 데도 중요합니다. GPU는 버퍼에서 올바른 속성을 추출하기 위해 꼭짓점 레이아웃도 알아야 하기 때문입니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     외부 소프트웨어 설치와 독립적으로
+     외부 소프트웨어 설치와 무관
     </h2>
     <p>
-     Aspose.3D API 은 외부 API 또는 컴퓨터의 소프트웨어 설치에 의존하지 않는 관리 코드를 사용하여 3D 파일로 작동합니다. 지원되는 기능, 보안, 안정성, 확장 성, 속도 및 가격 측면에서 완벽하게 사용자 정의 된 솔루션입니다.
+     Aspose.3D API은(는) 3D 파일과 함께 작동하기 위해 외부 API 또는 시스템의 소프트웨어 설치에 의존하지 않는 관리 코드를 사용하여 빌드됩니다. 지원되는 기능, 보안, 안정성, 확장성, 속도 및 가격 면에서 완벽하게 맞춤화된 솔루션입니다.
     </p>
    </div>
   </div>
@@ -590,8 +590,8 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 자원" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="문서" href="https://docs.aspose.com/3d/net/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
@@ -599,9 +599,9 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/slr-tab tabTitle="제품 지원" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="유급 지원" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="릴리스 노트" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.3D for .NET" tabId="success-stories" >}}
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 는 아래 나열된 다른 인기있는 개발 환경에 대해 개별 3D 처리 APis를 제공합니다." >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D은(는) 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 3D 처리 API를 제공합니다." >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

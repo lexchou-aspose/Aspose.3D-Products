@@ -1,8 +1,8 @@
 ﻿---
-title: 3D định dạng Điểm-Đám Mây Giải Pháp 
+title: 3D Định dạng giải pháp đám mây điểm 
 weight: 7730
 url: /vi/point-cloud
 limit: 
-description: Tạo ra và xem trước đám mây điểm từ của bạn 3D các tập tin
+description: Tạo và xem trước đám mây điểm từ tệp 3D của bạn
 ---
 {{< blocks/products/pf/agp/i18n/feature-solution-app url="https://products.aspose.app/3d/point-cloud/embed&h1&h2" >}} 

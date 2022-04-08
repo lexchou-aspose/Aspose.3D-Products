@@ -2,7 +2,7 @@
 title: 通过 C# 将 PDF 转换为 OBJ 
 weight: 270
 url: /zh/net/conversion/pdf-to-obj/ 
-description: PDF 到 OBJ C# 转换的示例代码。在VB.NET，Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 PDF 文件转换为 OBJ。
+description: PDF 到 OBJ C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 PDF 文件批量转换为 OBJ。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 PDF 转换为 OBJ" h2="将 PDF 渲染为 OBJ，无需任何 3D 建模和渲染软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OBJ" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PDF" >}}
@@ -14,11 +14,11 @@ description: PDF 到 OBJ C# 转换的示例代码。在VB.NET，Asp.NET 或任�
 
  为了将 PDF 转换为 OBJ，我们将使用
  [Aspose.3D for .NET](https://products.aspose.com/3d/net) 
- API 这是一个功能丰富，功能强大且易于使用的文档操作和转换 API，适用于 C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.3d) 
  包管理器，搜索
  Aspose.3D 
- 并安装。您也可以使用包管理器控制台中的以下命令。
+ 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.3D
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET 程序员只需几行代码就可以轻松地将 PDF 文件加载和转换为 OBJ。
+ .NET 程序员只需几行代码即可轻松加载 PDF 文件并将其转换为 OBJ。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通过场景类的构造函数加载 PDF 文件1. 创建ObjSaveOptions实例1. 为高级转换设置 OBJ 特定属性1. 调用场景。保存方法1. 传递带有 OBJ 文件扩展名的输出路径 & ObjSaveOptions的对象1. 检查指定路径处的结果 OBJ 文件
+1. 通过 Scene 类的构造函数加载 PDF 文件1. 创建 ObjSaveOptions 的实例1. 为高级转换设置 OBJ 个特定属性1. 调用 Scene.Save 方法1. 传递带有 OBJ 文件扩展名和 ObjSaveOptions 对象的输出路径1. 检查指定路径的结果 OBJ 文件
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -54,15 +54,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows或具有 .NET 框架，.NET 核心，Mono 的兼容操作系统。- 像微软Visual Studio这样的开发环境。- 项目中引用的 Aspose.3D for .NET DLL。
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.3D for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示 PDF 到 OBJ C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 PDF 到 OBJ C# 转换" offSpacer="" %}}
 
 ```cs
-// 加载场景对象中的 PDF 
+// 在 Scene 对象中加载 PDF 
 var document = new Aspose.ThreeD.Scene("template.pdf");
-// 创建ObjSaveOptions实例 
+// 创建 ObjSaveOptions 的实例 
 var options = new Aspose.ThreeD.Formats.ObjSaveOptions();
 // 将 PDF 保存为 OBJ 
 document.Save("output.obj", options); 
@@ -79,15 +79,15 @@ document.Save("output.obj", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="免费应用程序将 PDF 转换为 OBJ" sectionDescription="查看我们的实时演示 [PDF 到 OBJ 转换](https://products.aspose.app/3d/conversion/pdf-to-obj) 有以下好处。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 不需要下载或设置任何东西。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 不需要编写任何代码。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 PDF 文件，然后点击 “转换” 按钮。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得结果 OBJ 文件的下载链接。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 PDF 转换为 OBJ 的免费应用程序" sectionDescription="查看我们的现场演示 [PDF 到 OBJ 的转换](https://products.aspose.app/3d/conversion/pdf-to-obj) 具有以下好处。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 PDF 文件并点击“转换”按钮。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将立即获得生成的 OBJ 文件的下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 一个 3D 文件处理库，用于操作 3D 文件，而无需任何建模和渲染软件。3D API 支持 Discreet3DS 、 WavefrontOBJ 、 FBX (ASCII，二进制) 、 STL (ASCII，二进制) 、 Universal3D 、 Collada 、 glTF 、 GLB 、 PLY 、DirectX、 Google Draco 文件格式和更多。开发人员可以轻松创建，阅读，转换，修改和控制 3D 文档格式的实质。
+ 3D 文件处理库，无需任何建模和渲染软件即可操作 3D 文件。 3D API 支持 Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY、DirectX、Google Draco 文件格式等。开发人员可以轻松地创建、读取、转换、修改和控制 3D 文档格式的内容。
 
 
 
@@ -96,12 +96,12 @@ document.Save("output.obj", options);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
-可移植文档格式 (PDF) 是Adobe在20世纪90年代中创建的一种文档。此文件格式的目的是引入一种标准，以独立于应用软件，硬件和操作系统的格式表示文档和其他参考材料。PDF 文件可以在Adobe Acrobat Reader/Writer中打开，也可以在大多数现代浏览器 (如Chrome，Safari，Firefox) 中通过扩展/插件打开。大多数市售软件套件还提供将其文档转换为 PDF 文件格式，而无需任何其他软件组件。因此，PDF 文件格式具有完整的功能，可以包含文本、图像、超链接、表单字段、富媒体、数字签名、附件、元数据、地理空间特征和 3D 对象等信息，这些信息可以成为源文件的一部分。
+可移植文档格式 (PDF) 是 Adobe 在 1990 年代创建的一种文档。这种文件格式的目的是引入一种标准，用于以独立于应用软件、硬件和操作系统的格式来表示文档和其他参考资料。 PDF 文件可以通过扩展程序/插件在 Adobe Acrobat Reader/Writer 以及大多数现代浏览器（如 Chrome、Safari、Firefox）中打开。大多数商用软件套件还提供将其文档转换为 PDF 文件格式的功能，而无需任何额外的软件组件。因此，PDF 文件格式具有包含文本、图像、超链接、表单域、富媒体、数字签名、附件、元数据、地理空间特征和 3D 对象等信息的全部功能，这些信息可以成为源的一部分文档。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="obj" readMoreLink="https://docs.fileformat.com/3d/obj/" >}}
-OBJ 文件由 Wavefront 的高级Visualizer应用程序用于定义和存储几何对象。通过 OBJ 文件使几何数据的向后和向前传输成为可能。多边形几何像点、线、纹理顶点、面和自由形式几何 (曲线和曲面) 都由 OBJ 格式支持。这种格式不支持动画或与场景的光线和位置相关的信息。OBJ 文件通常是由 CAD (计算机辅助设计) 生成的 3D 建模过程的最终产物。存储顶点的默认顺序是逆时针的，避免显式声明面法线。尽管 OBJ 文件在注释行中声明比例信息，但尚未声明 OBJ 坐标的单位。
+Wavefront 的 Advanced Visualizer 应用程序使用 OBJ 文件来定义和存储几何对象。通过 OBJ 文件可以实现几何数据的前后传输。 OBJ 格式支持点、线、纹理顶点、面和自由形式几何（曲线和曲面）等多边形几何。此格式不支持动画或与场景的灯光和位置相关的信息。 OBJ 文件通常是由 CAD（计算机辅助设计）生成的 3D 建模过程的最终产品。存储顶点的默认顺序是逆时针方向，避免显式声明面法线。尽管 OBJ 文件在注释行中声明了比例信息，但尚未为 OBJ 坐标声明任何单位。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -111,16 +111,16 @@ OBJ 文件由 Wavefront 的高级Visualizer应用程序用于定义和存储几�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 PDF 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 PDF 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-3ds/" name="PDF 至 3DS" description="3D 工作室DOS网格" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-amf/" name="PDF 至 AMF" description="增材制造格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-dae/" name="PDF 至 DAE" description="数字资产交换" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-3ds/" name="PDF 至 3DS" description="3D Studio DOS 网格" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-amf/" name="PDF 至 AMF" description="增材制造形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-dae/" name="PDF 至 DAE" description="数字资产交易所" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-fbx/" name="PDF 至 FBX" description="3D 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-html/" name="PDF 至 HTML" description="超文本标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-ply/" name="PDF 至 PLY" description="多边形文件格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-rvm/" name="PDF 至 RVM" description="AVEVA工厂设计模型" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-stl/" name="PDF 至 STL" description="可互换的 3D 曲面几何形状" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-rvm/" name="PDF 至 RVM" description="AVEVA 工厂设计模型" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-stl/" name="PDF 至 STL" description="可互换的 3D 表面几何形状" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/pdf-to-u3d/" name="PDF 至 U3D" description="Universal 3D" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

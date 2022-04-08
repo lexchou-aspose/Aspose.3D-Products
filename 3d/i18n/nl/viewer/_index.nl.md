@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Oplossing voor formaatviewers 
+title: 3D Viewer-oplossing formatteren 
 weight: 7730
 url: /nl/viewer
 limit: 

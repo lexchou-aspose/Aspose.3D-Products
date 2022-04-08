@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D ファイルの操作と変換 
+title: Java 3D API | 3Dファイルの操作と変換 
 weight: 2820
 url: /ja/java/ 
-description: ゲームウェアと CAD 3D ライブラリを作成し、 Java アプリケーション内で 3D ファイル形式を変更します
+description: ゲームウェアとCAD3Dライブラリを使用して、Javaアプリケーション内で3Dファイル形式を読み取り変換および変更します
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D ファイル処理 API" h2="外部モデリングおよびレンダリングソフトウェアを必要とせずに、 3D 個のファイルを複数の形式に作成、操作、保存します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java3Dファイル処理API" h2="外部のモデリングおよびレンダリングソフトウェアを必要とせずに、3Dファイルを作成、操作、および複数の形式で保存します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java はスタンドアロンのゲームウェアで、 CAD API は 3D ファイルを操作できます。 API は人気のある 3D ファイル形式のほとんどをサポートしており、アプリケーションはファイルを簡単に作成、読み取り、変換、変更できます。さらに、 API は、開発者が大規模なゲームの世界のモデリングと作成、デザインの視覚化のための優れたシーン、仮想現実体験のエンゲージメント、シーンファイルへのアニメーションプロパティの追加、変換を使用した要素のフォーマットなどを支援します。
+ Aspose.3D for Javaはスタンドアロンのゲームウェアであり、3Dファイルを操作するためのCADAPIです。 APIは、一般的な3Dファイル形式のほとんどをサポートしており、アプリケーションは作成、読み取り、変換、および変換できます。ファイルを簡単に変更できます。さらに、APIは、開発者が大規模なゲームワールドのモデリングと作成、デザインの視覚化のための優れたシーン、バーチャルリアリティ体験のエンゲージメント、シーンファイルへのアニメーションプロパティの追加、変換を使用した要素のフォーマットなどを支援します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,7 +21,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="API の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目で" description="APIの概要。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -50,7 +50,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
      クォータニオン
     </li>
     <li>
-     プロパティ
+     財産
     </li>
     <li>
      VertexElementUV
@@ -59,10 +59,10 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
      VertexElementNormal
     </li>
     <li>
-     頂点
+     バーテックス
     </li>
     <li>
-     ボックス
+     箱
     </li>
     <li>
      シリンダー
@@ -71,7 +71,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
      飛行機
     </li>
     <li>
-     スフィア
+     球
     </li>
     <li>
      トーラス
@@ -83,41 +83,41 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
    <header>
     <i class="fa fa-bars">
     </i>
-    一般
+    全般的
    </header>
    <ul>
     <li>
-     シーンの作成
+     シーンを作成する
     </li>
     <li>
-     メッシュ表面の作成
+     メッシュサーフェスを作成する
     </li>
     <li>
-     ポリゴン三角測量
+     ポリゴンの三角形分割
     </li>
     <li>
-     材料による分割メッシュ
+     材料によるメッシュの分割
     </li>
     <li>
      グラフィックスの通常のセットアップ
     </li>
     <li>
-     グラフィックス用UVをセットアップする
+     グラフィック用にUVを設定する
     </li>
     <li>
-     三角メッシュ
+     メッシュを三角測量
     </li>
     <li>
-     メッシュ幾何学データの共有
+     メッシュジオメトリデータの共有
     </li>
     <li>
      オブジェクトにマテリアルを追加する
     </li>
     <li>
-     ターゲットカメラを追加
+     ターゲットカメラを追加する
     </li>
     <li>
-     キャスト & 影を受け取る
+     キャスト＆amp;影を受け取る
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.3D for Java は Java ランタイムをサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.3Dfor JavaはJavaランタイムをサポートします。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,7 +153,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java ランタイム環境
+    Javaランタイム環境
    </header>
    <ul>
     <li>
@@ -175,7 +175,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     Java
    </small>
@@ -186,28 +186,28 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされるファイル形式" description="API サポート [リストされたファイル形式](https://docs.aspose.com/3d/java/supported-file-formats/)を使用します。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="APIはサポートします [リストされたファイル形式](https://docs.aspose.com/3d/java/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入力/出力
+    入出力
    </header>
    <ul>
     <li>
      <b>
-      オートデスク:
+      オートデスク：
      </b>
-     FBX 7.2 ~ 7.5 (ASCII/バイナリ)
+     FBX 7.2〜7.5（ASCII /バイナリ）
     </li>
     <li>
-     STL (ASCII/バイナリ)
+     STL（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      Wavefront:
+      Wavefront：
      </b>
      OBJ
     </li>
@@ -221,19 +221,19 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     </li>
     <li>
      <b>
-      Collada:
+      Collada：
      </b>
      DAE
     </li>
     <li>
      <b>
-      GLトランスミッション:
+      GLトランスミッション：
      </b>
-     glTF (ASCII/バイナリ)
+     glTF（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      Google Draco:
+      Google Draco：
      </b>
      DRC
     </li>
@@ -241,11 +241,11 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
      <b>
       RVM
      </b>
-     (テキスト/バイナリ)
+     （テキスト/バイナリ）
     </li>
     <li>
      <b>
-      ポータブルドキュメント形式:
+      ポータブルドキュメントフォーマット：
      </b>
      PDF
     </li>
@@ -268,13 +268,13 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
    <ul>
     <li>
      <b>
-      DirectX:
+      DirectX：
      </b>
-     X (ASCII/バイナリ)
+     X（ASCII /バイナリ）
     </li>
     <li>
      <b>
-      シーメンス:
+      シーメンス：
      </b>
      JT
     </li>
@@ -291,7 +291,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
      VRML
     </li>
     <li>
-     DirectX: X
+     DirectX：X
     </li>
    </ul>
    <header>
@@ -316,7 +316,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
   <footer>
    <small>
     <em>
-     のための
+     にとって
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度な Java 3D API 機能
+    高度なJava3DAPI機能
    </h2>
    <p>
    </p>
@@ -345,14 +345,14 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シーンを生成し、サポートされている形式で保存する
+     シーンを生成し、サポートされている形式で保存します
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D ドキュメントをストリームにロードして保存し、レンダリングする
+     3Dドキュメントをロード、保存、およびストリームにレンダリング
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,21 +373,21 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シーンファイルにアニメーションプロパティを追加する
+     アニメーションプロパティをシーンファイルに追加します
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     頂点のカスタムメモリレイアウトでメッシュを三角測量する
+     頂点のカスタムメモリレイアウトを使用してメッシュを三角測量します
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     3D シーンでオブジェクトをアニメーション化するだけでなく、ターゲットカメラを追加する
+     ターゲットカメラを追加し、3Dシーンでオブジェクトをアニメートします
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,14 +399,14 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     材料による分割メッシュ
+     メッシュをマテリアルで分割
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     アップノーマルを指定して平面の向きを変更する
+     上法線を指定して平面の方向を変更します
     </p>
    </div>
    <div class="col-lg-4">
@@ -420,7 +420,7 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シリンダーの作成を高めて下さい
+     円柱の作成を強化する
     </p>
    </div>
    <div class="col-lg-4">
@@ -434,26 +434,26 @@ description: ゲームウェアと CAD 3D ライブラリを作成し、 Java �
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     AMF 形式のサポート
+     AMF形式のサポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draco 圧縮を使用した glTF ドキュメントのインポートとエクスポート
+     Draco圧縮を使用してglTFドキュメントをインポートおよびエクスポートします
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-convertシーンファイル
+     シーンファイルの相互変換
     </h2>
     <p>
-     API は、簡単な方法で 3D ファイル形式の変換をサポートしています。開発者は、ソースドキュメントをSceneインスタンスにロードし、保存機能をFileFormatパラメーターとともに使用できます。それだけだ!
+     APIは、簡単な方法で3Dファイル形式変換のサポートを提供します。開発者は、Sceneインスタンスにソースドキュメントをロードし、FileFormatパラメーターでその保存機能を使用できます。それでおしまい！
     </p>
     <div class="codeblock" id="code">
      <h3>
-      3D シーンをさまざまな形式で保存- Java
+      3Dシーンをさまざまな形式で保存します-Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     API 経由で 3D シーンを生成
+     APIを介して3Dシーンを生成する
     </h2>
     <p>
-     Aspose.3D for Java を使用すると、開発者はモデリングソフトウェアに依存することなくシーンをゼロから作成できます。 Java API は、開発者が (STL 、 FBX 、 Discreet3DS 、 WavefrontOBJ 、 Collada 、 Universal3D) などのサポートされている形式のシーンを保存できるようにします。
+     Aspose.3D for Javaを使用すると、開発者はモデリングソフトウェアに依存することなく、シーンを最初から作成できます。 Java APIは、開発者が（STL、FBX、Discreet3DS、WavefrontOBJ、Collada、Universal3D）などのサポートされている形式のいずれかでシーンを保存できるようにします。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      プリミティブ 3D 形のシーンを作成する- Java
+      プリミティブな3Dシェイプのシーンを作成します-Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -514,7 +514,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      簡単な方法でノード階層を構築する
     </h2>
     <p>
-     Aspose.3D for Java API は、ノードがシーンの基本ビルディングブロックであるノード階層を構築する機能を提供します。ノードの階層は、論理構造を定義し、ノードにジオメトリ、ライト、およびカメラを接続することにより、可視コンテンツを提供します。
+     Aspose.3D for Java APIは、ノードがシーンの基本的な構成要素であるノード階層を構築する機能を提供します。ノードの階層は論理構造を定義し、ジオメトリ、ライト、カメラをノードに接続することで、目に見えるコンテンツを提供します。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,10 +526,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     シーンにアニメーションのプロパティを追加する
+     アニメーションプロパティをシーンに追加する
     </h2>
     <p>
-     Aspose.3D for Java API は、プロパティのコンポーネントを異なる曲線にマッピングするCurveMappingを介してキーフレームアニメーションをサポートします。さらに、ライブラリでは、ターゲットカメラを 3D ファイルに設定することができます。これは、カメラが特定のノードに面する必要があるときにアニメーションで役立ちます。
+     Aspose.3D for Java APIは、プロパティのコンポーネントをさまざまな曲線にマップするCurveMappingを介してキーフレームアニメーションをサポートします。さらに、ライブラリは、カメラを特定のノードに向ける必要がある場合のアニメーションで役立つ3Dファイルでターゲットカメラを設定することを提供します。
     </p>
    </div>
    <div class="col-lg-12">
@@ -537,7 +537,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      堅牢性、パフォーマンス、スケーラビリティ
     </h2>
     <p>
-     Aspose.3D for Java は、サーバーまたはクライアント側で同等に機能するように設計されています。これは単一の Java アセンブリであり、参照を追加するだけで任意の Java アプリケーションにデプロイできます。 API を操作しながら、他のサービスやモジュールについて心配する必要はありません。
+     Aspose.3D for Javaは、サーバー側またはクライアント側で同等に機能するように設計されています。これは、参照を追加するだけで、任意のJavaアプリケーションでデプロイできる単一のJavaアセンブリです。 APIを使用している間は、他のサービスやモジュールについて心配する必要はありません。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -557,21 +557,21 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/3d/java/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 件の参照" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="API参照" href="https://apireference.aspose.com/3d/java" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="制品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="无料サポート" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/3d/" >}}
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Aspose.3D for Java の理由" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="お客様リスト" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.3Dfor Java" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -579,7 +579,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D は、以下に示すように、他の一般的な開発環境向けの個別の 3D 処理APIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3Dは、以下に示すように、他の一般的な開発環境向けに個別の3D処理APIを提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Format Görüntüleyici Çözümü 
+title: 3D Biçim Görüntüleyici Çözümü 
 weight: 7730
 url: /tr/viewer
 limit: 

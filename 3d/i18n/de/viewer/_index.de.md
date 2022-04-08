@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Format-Viewer-Lösung 
+title: 3D Format Viewer-Lösung 
 weight: 7730
 url: /de/viewer
 limit: 

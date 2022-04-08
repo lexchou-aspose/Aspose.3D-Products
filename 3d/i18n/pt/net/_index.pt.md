@@ -1,11 +1,11 @@
 ﻿---
-title: C# .NET 3D Processamento de Documentos API - Aspose 
+title: C# .NET 3D Processamento de documentos API - Aspose 
 weight: 1020
 url: /pt/net/ 
-description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modificar 3D arquivos em Windows Forms Web Services e Mono aplicativos
+description: Biblioteca C# VB.NET ASP.NET para criar ler, converter e modificar 3D arquivos em Windows Forms Web Services e Mono aplicativos
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D APIs de manipulação de arquivos" h2="Leia, escreva, manipule e converta 3D formatos de arquivo em qualquer aplicação baseada em .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 3D APIs de manipulação de arquivos" h2="Ler, gravar, manipular e converter formatos de arquivo 3D em qualquer aplicativo baseado em .NET." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
@@ -13,11 +13,11 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for .NET é um Gameware e Computer-Aided-Designing (CAD) API rico em recursos para manipular documentos sem qualquer modelagem de 3D e dependências de software de renderização. API suporta Discreet3DS, WavefrontOBJ, FBX (ASCII, Binário), STL (ASCII, Binário), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco formatos de arquivo e muito mais. Os desenvolvedores podem criar, ler, converter, modificar e controlar a substância de 3D formatos de documento facilmente.
+ Aspose.3D for .NET é um Gameware rico em recursos e design auxiliado por computador (CAD) API para manipular documentos sem quaisquer 3D dependências de software de modelagem e renderização. API suporta Discreet3DS, WavefrontOBJ, FBX (ASCII, binário), STL (ASCII, binário), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco formatos de arquivo e muito mais. Os desenvolvedores podem criar, ler, converter, modificar e controlar a substância de 3D formatos de documentos facilmente.
 </p>
 
 <p>
- Aspose.3D for .NET API é fácil de usar e pode ser implantado com qualquer .NET aplicativo tão fácil quanto copiá-lo sem se preocupar com outros serviços e módulos que já estão instalados.
+ Aspose.3D for .NET API é fácil de usar e pode ser implantado com qualquer aplicativo .NET tão fácil quanto copiá-lo sem se preocupar com outros serviços e módulos que já estão instalados.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,7 +25,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Em um relance" description="Uma visão geral das capacidades de API." >}}
+{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral dos recursos de API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -51,7 +51,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
      Transformar
     </li>
     <li>
-     Quaternião
+     Quaternion
     </li>
     <li>
      Propriedade
@@ -72,7 +72,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
      Cilindro
     </li>
     <li>
-     Avião
+     Plano
     </li>
     <li>
      Esfera
@@ -87,7 +87,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
    <header>
     <i class="fa fa-bars">
     </i>
-    Geral
+    Em geral
    </header>
    <ul>
     <li>
@@ -97,34 +97,34 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
      Criar superfície de malha
     </li>
     <li>
-     Triangulação Polígono
+     Triangulação de polígonos
     </li>
     <li>
-     Malha dividida por material
+     Dividir Malha por Material
     </li>
     <li>
-     Normal Configuração para gráficos
+     Configuração normal para gráficos
     </li>
     <li>
-     Configuração UV para gráficos
+     Configurar UV para gráficos
     </li>
     <li>
-     Malha triangular
+     Malha Triangular
     </li>
     <li>
-     Compartilhe dados de geometria de malha
+     Compartilhar dados de geometria de malha
     </li>
     <li>
      Adicionar material ao objeto
     </li>
     <li>
-     Adicionar Câmera Alvo
+     Adicionar câmera de destino
     </li>
     <li>
-     Renderizar 3D Exibir em Imagens
+     Renderizar 3D Visualizar em Imagens
     </li>
     <li>
-     Elenco e Receber Sombras
+     Elenco &amp; Receber sombras
     </li>
    </ul>
   </div>
@@ -139,7 +139,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
   <footer>
    <small>
     <em>
-     Para
+     por
     </em>
     .NET
    </small>
@@ -150,7 +150,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plataforma Independência" description="Aspose.3D for .NET suporta a estrutura .NET." >}}
+{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.3D for .NET é compatível com a estrutura .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -194,7 +194,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
   <footer>
    <small>
     <em>
-     Para
+     por
     </em>
     .NET
    </small>
@@ -205,7 +205,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.3D for .NET [Suporta famoso 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  Formatos de arquivo." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.3D for .NET [suporta famosos 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  formatos de arquivo." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -235,7 +235,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     </li>
     <li>
      <b>
-      Estúdio discreto 3D:
+      Estúdio 3D discreto:
      </b>
      3DS
     </li>
@@ -289,7 +289,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Apenas entrada
+    Somente entrada
    </header>
    <ul>
     <li>
@@ -320,7 +320,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Apenas saída
+    Somente saída
    </header>
    <ul>
     <li>
@@ -339,7 +339,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
   <footer>
    <small>
     <em>
-     Para
+     por
     </em>
     .NET
    </small>
@@ -368,21 +368,21 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Criar 3D cena e salvar no formato suportado
+     Crie 3D cena &amp; salvar no formato suportado
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Carregar, salvar e converter arquivos em um fluxo
+     Carregar, salvar &amp; converter arquivos para um fluxo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trabalhe com geometria e hierarquia de cenas
+     Trabalhar com geometria &amp; hierarquia de cena
     </p>
    </div>
    <div class="col-lg-4">
@@ -410,7 +410,7 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adicionar uma câmera de destino na cena
+     Adicionar uma câmera alvo na cena
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,35 +424,35 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Malhas divididas por material
+     Dividir malhas por material
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderizar uma visualização 3D no formato de imagem
+     Renderize uma visualização 3D no formato de imagem
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-industry ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Elenco e Receber Sombras nas Geometrias
+     Lançar e receber sombras em geometrias
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Permitir orientações do plano de mudança
+     Permitir alterar as orientações do plano
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Melhorar a criação do cilindro
+     Melhore a criação do cilindro
     </p>
    </div>
    <div class="col-lg-4">
@@ -466,14 +466,14 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Criar geometria por formas de extrusão
+     Criar geometria extrudando formas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporte de algoritmo UV atlas
+     Suporte ao algoritmo do atlas UV
     </p>
    </div>
    <div class="col-lg-4">
@@ -487,26 +487,26 @@ description: C# VB.NET biblioteca ASP.NET para criar leitura converter e modific
     <em class="fa fa-angle-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     FBX importação e suporte para gravação binária
+     FBX suporte para importação e gravação binária
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportar e importar glTF arquivos com compressão draco
+     Exporte e importe glTF arquivos com compressão draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D conversão de formato de arquivo
+     3D Conversão de formato de arquivo
     </h2>
     <p>
-     Aspose.3d for .NET fornece uma matriz de algoritmos avançados que a torna uma solução completa para 3D conversão de formato de arquivo. O processo de conversão é tão simples quanto alterar a extensão do arquivo para o formato desejado. Tudo o que você precisa fazer é carregar o arquivo de origem em uma instância de Cena e chamar seu método Salvar com um parâmetro FileFormat apropriado. É isso aí!
+     Aspose.3d for .NET fornece uma variedade de algoritmos avançados que o tornam uma solução completa para conversão de formato de arquivo 3D. O processo de conversão é tão simples quanto alterar a extensão do arquivo para o formato desejado. Tudo o que você precisa fazer é carregar o arquivo de origem em uma instância de Scene e chamar seu método Save com um parâmetro FileFormat apropriado. É isso!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Salvar 3D cena em diferentes formatos- C#
+      Salve 3D cena em formatos diferentes - C#
      </h3>
      <pre><code class="cs">// load the file to be converted
 
@@ -524,23 +524,23 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      3D Criação de cenas
     </h2>
     <p>
-     Aspose.3D for .NET capacita os programadores a gerar cenas facilmente do zero sem a necessidade de instalar qualquer software de modelagem ou renderização 3D. O 3D .NET API também permite salvar as cenas em formatos (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D e Collada) chamando o método Save do objeto de classe Scene.
+     Aspose.3D for .NET permite que os programadores gerem facilmente cenas do zero sem a necessidade de instalar nenhum software de modelagem ou renderização 3D. O 3D .NET API também permite salvar as cenas em formatos (FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D e Collada) chamando o método Save do Objeto de classe de cena.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Adicionar informações de ativos à cena 3D
+     Adicionar informações de recursos à cena 3D
     </h2>
     <p>
-     Metadados são informações estruturadas que descrevem, localizam e tornam mais fácil recuperar, usar e gerenciar um recurso de informações. Aspose.3D for .NET API permite que os desenvolvedores definam metadados para a cena.
+     Metadados são informações estruturadas que descrevem, localizam e facilitam a recuperação, uso e gerenciamento de um recurso de informação. Aspose.3D for .NET API permite que os desenvolvedores definam metadados para a cena.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Criar 3D formas gráficas e de malha
+     Criar 3D Malha &amp; Formas gráficas
     </h2>
     <p>
-     A biblioteca .NET 3D permite que os desenvolvedores construam uma malha de várias 3D formas geométricas, definam pontos de controle e polígonos da maneira mais simples de criar malhas e apontar uma malha para várias instâncias de um tipo de forma. Os desenvolvedores também podem colocar 3D formas em qualquer lugar da cena 3D.
+     A biblioteca .NET 3D permite que os desenvolvedores criem uma malha de várias 3D formas geométricas, definam pontos de controle e polígonos da maneira mais simples de criar malhas e apontem uma malha para várias instâncias de um tipo de forma. Os desenvolvedores também podem colocar formas 3D em qualquer lugar da cena 3D.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -562,15 +562,15 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      Compartilhe dados de geometria de malha com vários nós
     </h2>
     <p>
-     Para reduzir as necessidades de memória, uma única instância de Mesh pode ser vinculada a várias instâncias de Node. Imagine que você precisa de um sistema onde um grande número de 3D cubos pareça indistinguível; você pode poupar memória criando um objeto Mesh quando o sistema começar. Nesse ponto, cada vez que você precisar de outra forma, faça outro objeto Nó e aponte esse nó para uma Malha. É assim que API gerencia o instanciamento.
+     Para reduzir as necessidades de memória, uma única instância do Mesh pode ser vinculada a várias instâncias do Node. Imagine que você precisa de um sistema em que um grande número de cubos 3D parece ser indistinguível; você pode poupar memória criando um objeto Mesh quando o sistema for inicializado. Nesse ponto, cada vez que você precisar de outra forma, faça outro objeto Node e aponte esse nó para uma Malha. É assim que API gerencia a instância.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Malha triangular com layout de memória personalizado do vértice
+     Malha triangular com layout de memória personalizado de vértice
     </h2>
     <p>
-     Converta uma malha para a malha triângulo porque qualquer estrutura complexa pode ser representada como um monte de triângulos. Os pacotes de software gráfico e dispositivos de hardware operam com mais eficiência em triângulos. O layout de memória do Vertex também é importante para alimentar a GPU (Graphics Processing Unit) porque a GPU também deve saber sobre o layout do vértice para extrair os atributos corretos do buffer.
+     Converta uma malha para a malha triangular porque qualquer estrutura complexa pode ser representada como um monte de triângulos. Os pacotes de software gráfico e dispositivos de hardware operam com mais eficiência em triângulos. O layout de memória do Vertex também é importante para alimentar a GPU (Graphics Processing Unit), pois a GPU também deve conhecer o layout do vértice para extrair os atributos corretos do buffer.
     </p>
    </div>
    <div class="col-lg-12">
@@ -578,7 +578,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
      Independente de qualquer instalação de software externo
     </h2>
     <p>
-     Aspose.3D API é construído usando código gerenciado que nunca depende de qualquer API externo ou instalação de software na máquina para trabalhar com 3D arquivos. É uma solução perfeitamente personalizada em termos de recursos suportados, segurança, estabilidade, escalabilidade, velocidade e preço.
+     Aspose.3D API é criado usando código gerenciado que nunca depende de nenhum API externo ou instalação de software na máquina para funcionar com arquivos 3D. É uma solução perfeitamente personalizada em termos de recursos suportados, segurança, estabilidade, escalabilidade, velocidade e preço.
     </p>
    </div>
   </div>
@@ -594,13 +594,13 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/3d/net/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API Referências" href="https://apireference.aspose.com/net/3d" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Vídeos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
+{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/3d/" >}}
 {{< blocks/products/pf/slr-element name="Notas de lançamento" href="https://docs.aspose.com/3d/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -613,7 +613,7 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D oferece 3D APIs de processamento individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D oferece APIs de processamento 3D individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 

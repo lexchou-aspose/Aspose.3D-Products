@@ -1,6 +1,6 @@
 ﻿---
-title: Convert USDZ to 3DS via C# 
-description: Převést USDZ a další 3D soubory pomocí .NET API
+title: Převést USDZ na 3DS prostřednictvím C# 
+description: Převeďte USDZ a další soubory 3D pomocí .NET API
 url: /cs/net/conversion/usdz-to-3ds/
 family: 3d
 platformtag: net
@@ -10,27 +10,27 @@ outformat: 3DS
 otherformats: OBJ PDF FBX RVM GLTF DRC ASE DXF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert USDZ to 3DS via C#" h2="Exportovat USDZ a další 3D soubory pomocí .NET framework, .NET core a Mono" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést USDZ na 3DS prostřednictvím C#" h2="Exportujte USDZ a další soubory 3D pomocí .NET Framework, .NET Core a Mono" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exportovat scénu USDZ jako 3DS s C#" %}}
-1. Načíst soubor USDZ pomocí konstruktora [Scéna](https://apireference.aspose.com/3d/net/aspose.threed/scene) Třída2. call [Scéna. uložit](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) Metoda
-3. pass output file name with .3ds extension as first parameter
-4. zadejte hodnotu pole Discreet3DS od [Formát souboru](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) Třída
+{{% blocks/products/pf/agp/feature-section-col title="Exportovat scénu USDZ jako 3DS pomocí C#" %}}
+1. Načtěte soubor USDZ pomocí konstruktoru z [Scéna](https://apireference.aspose.com/3d/net/aspose.threed/scene) třída2. Zavolejte [Scene.Save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) metoda
+3. Jako první parametr předejte název výstupního souboru s příponou .3ds
+4. Zadejte hodnotu pole „Discreet3DS“ od [Formát souboru](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) třída
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="3D formát konverzace API for .NET" %}}
-Nainstalovat z příkazového řádku jako "nuget install Aspose.3d" nebo přes konzolu správce balíků visual studio s "" install-package Aspose.3D "".
+{{% blocks/products/pf/agp/feature-section-col title="3D Převod formátu API for .NET" %}}
+Instalujte z příkazového řádku jako ```nuget install Aspose.3d``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.3D```.
 
-Alternativně získejte offline instalační program msi nebo dll v souboru ZIP od [Stahování](https://downloads.aspose.com/3d/net)A.
+Případně můžete získat offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://downloads.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# kód pro převedení USDZ na 3DS-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# Kód pro konverzi USDZ na 3DS" gistPath="" %}}
 ```cs
-// Načíst USDZ v objektu scény 
+// načtěte USDZ do objektu scény 
 var scene = new Aspose.ThreeD.Scene("template.usdz");
-// Uložit USDZ jako 3DS 
+// uložit USDZ jako 3DS 
 scene.Save("output.3ds", Aspose.ThreeD.FileFormat.Discreet3DS);
 
 ```

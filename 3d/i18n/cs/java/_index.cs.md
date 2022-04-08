@@ -1,11 +1,11 @@
 ﻿---
-title: Java 3D API | 3D manipulace a konverze souborů 
+title: Java 3D API | 3D Manipulace se soubory a jejich převod 
 weight: 2820
 url: /cs/java/ 
-description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a měníte 3D formáty souborů v aplikacích Java
+description: Herní software a knihovna CAD 3D pro vytváření formátů souborů pro čtení, konverzi a úpravu 3D v aplikacích Java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D zpracování souboru API" h2="Vytvořit, manipulovat a uložit 3D soubory do více formátů, aniž by vyžadoval externí modelovací a renderovací software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D Zpracování souboru API" h2="Vytvářejte, manipulujte a ukládejte soubory 3D do různých formátů bez nutnosti jakéhokoli externího softwaru pro modelování a vykreslování." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.3D for Java je samostatný gameware a CAD API pro manipulaci s 3D soubory. API podporuje většinu oblíbených formátů souborů 3D a aplikace mohou snadno vytvářet, číst, převést a měnit soubory. Navíc API pomáhá vývojářům modelovat a vytvářet masivní herní světy, vynikající scény pro vizualizaci designu, zapojit zkušenosti s virtuální realitou, přidat vlastnost animace do scény, formát prvků pomocí transformací a mnohem více.
+ Aspose.3D for Java je samostatný herní software a CAD API pro manipulaci se soubory 3D. API podporuje většinu oblíbených formátů souborů 3D a aplikace mohou vytvářet, číst, konvertovat &amp; snadno upravovat soubory. Kromě toho API pomáhá vývojářům při modelování a vytváření masivních herních světů, skvělých scén pro vizualizaci designu, zapojení virtuální reality, přidávání vlastnosti Animation do souboru scény, formátování prvků pomocí transformací a mnoho dalšího.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,21 +21,21 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na pohled" description="Přehled API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-object-ungroup">
     </i>
-    Model objektu
+    Objektový model
    </header>
    <ul>
     <li>
      Scéna
     </li>
     <li>
-     Síť
+     Pletivo
     </li>
     <li>
      PolygonBuilder
@@ -44,22 +44,22 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
      Uzel
     </li>
     <li>
-     Transformace
+     Přeměnit
     </li>
     <li>
-     Kvaternion
+     Čtveřice
     </li>
     <li>
-     Majetek
+     Vlastnictví
     </li>
     <li>
-     Vertexelementuv
+     VertexElementUV
     </li>
     <li>
      VertexElementNormal
     </li>
     <li>
-     Vertex
+     Vrchol
     </li>
     <li>
      Krabice
@@ -83,32 +83,32 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
    <header>
     <i class="fa fa-bars">
     </i>
-    General
+    Všeobecné
    </header>
    <ul>
     <li>
-     Vytvořit scény
+     Vytvářejte scény
     </li>
     <li>
-     Vytvořit povrch ok
+     Vytvořte síťový povrch
     </li>
     <li>
-     Triangulace polygónu
+     Polygonová triangulace
     </li>
     <li>
      Rozdělit síť podle materiálu
     </li>
     <li>
-     Nastavení normální pro grafiku
+     Nastavení Normální pro grafiku
     </li>
     <li>
-     Nastavit uv pro grafiku
+     Nastavte UV pro grafiku
     </li>
     <li>
-     Triangulátní síť
+     Triangulovat síť
     </li>
     <li>
-     Sdílet údaje o geometrii ok
+     Sdílejte data geometrie sítě
     </li>
     <li>
      Přidat materiál k objektu
@@ -117,7 +117,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
      Přidat cílovou kameru
     </li>
     <li>
-     Cast & receive shadows
+     Cast &amp; Přijímejte stíny
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     Java
    </small>
@@ -143,7 +143,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost platformy" description="Aspose.3D for Java podporuje runtime Java." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.3D for Java podporuje běhové prostředí Java." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -153,14 +153,14 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java runtime environment
+    Java Běhové prostředí
    </header>
    <ul>
     <li>
-     Aplikace jsp/jsf
+     Aplikace JSP/JSF
     </li>
     <li>
-     Desktop aplikace
+     Desktopová aplikace
     </li>
    </ul>
   </div>
@@ -175,7 +175,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     Java
    </small>
@@ -186,24 +186,24 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="API podporuje [Vyjmenované formáty souborů](https://docs.aspose.com/3d/java/supported-file-formats/)A." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="API podporuje [uvedené formáty souborů](https://docs.aspose.com/3d/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup/výstup
+    Vstup výstup
    </header>
    <ul>
     <li>
      <b>
       Autodesk:
      </b>
-     FBX 7,2 až 7,5 (ascii/binární)
+     FBX 7,2 až 7,5 (ASCII/binární)
     </li>
     <li>
-     STL (ascii/binární)
+     STL (ASCII/binární)
     </li>
     <li>
      <b>
@@ -227,9 +227,9 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
     </li>
     <li>
      <b>
-      Přenos gl:
+      GL převodovka:
      </b>
-     glTF (ascii/binární)
+     glTF (ASCII/binární)
     </li>
     <li>
      <b>
@@ -241,11 +241,11 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
      <b>
       RVM
      </b>
-     (Text/binární)
+     (Text/Binární)
     </li>
     <li>
      <b>
-      Formát přenosného dokumentu:
+      Přenosný formát dokumentu:
      </b>
      PDF
     </li>
@@ -268,9 +268,9 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
    <ul>
     <li>
      <b>
-      Directx:
+      DirectX:
      </b>
-     X (ascii/binární)
+     X (ASCII/binární)
     </li>
     <li>
      <b>
@@ -291,7 +291,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
      VRML
     </li>
     <li>
-     Directx: x
+     DirectX: X
     </li>
    </ul>
    <header>
@@ -316,7 +316,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     Java
    </small>
@@ -337,7 +337,7 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Rozšířené funkce Java 3D API
+    Pokročilé funkce Java 3D API
    </h2>
    <p>
    </p>
@@ -345,49 +345,49 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generovat scénu a uložit v podporovaných formátech
+     Vygenerujte scénu a uložte ji v podporovaných formátech
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Načíst, uložit a vykreslit dokument 3D do proudu
+     Načíst, uložit a vykreslit 3D dokument do streamu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Práce s geometrií a hierarchií scény
+     Práce s geometrií a hierarchií scén
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sdílet údaje o geometrii ok v rámci více uzlů
+     Sdílejte data geometrie sítě v rámci více uzlů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidat vlastnost animace do souboru scény
+     Přidejte vlastnost animace do souboru scény
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Triangulate a mesh with custom memory layout of the vertex
+     Triangulujte síť s vlastním paměťovým rozložením vrcholu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidat cílovou kameru a animovat objekty v 3D scéně
+     Přidejte cílovou kameru a animujte objekty do scény 3D
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
@@ -399,61 +399,61 @@ description: Gameware a CAD 3D knihovna pro vytvoření čtení konvertujte a m�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rozdělit oky podle materiálu
+     Rozdělte oka podle materiálu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Změnit orientaci roviny tím, že určí normální
+     Změňte orientaci roviny zadáním normály nahoru
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit geometrii vytlačením tvarů
+     Vytvářejte geometrii vytlačováním tvarů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zlepšit tvorbu válce
+     Vylepšete tvorbu válce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formát souboru založený na archivu-detekce
+     Detekce formátu souboru založeného na archivu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora formátu AMF
+     podpora formátu AMF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importovat a exportovat dokumenty glTF pomocí komprese Draco
+     Importujte a exportujte glTF dokumentů pomocí komprese Draco
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Proměnit soubory scény
+     Inter-konvertovat soubory scén
     </h2>
     <p>
-     API poskytuje jednoduchou podporu konverzace 3D formátu souboru. Vývojáři mohou načíst zdrojový dokument do instance scény a použít jeho funkci uložení pomocí parametru formátu souboru. To je ono!
+     API poskytuje podporu převodu formátu souboru 3D jednoduchým způsobem. Vývojáři mohou načíst zdrojový dokument do instance Scene a použít jeho funkci Uložit s parametrem FileFormat. A je to!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Uložit scénu 3D v různých formátech- Java
+      Uložit scénu 3D v různých formátech – Java
      </h3>
      <pre><code class="java">// load the file to be converted
 
@@ -483,14 +483,14 @@ scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Generovat 3D scény prostřednictvím API
+     Vygenerovat 3D scén prostřednictvím API
     </h2>
     <p>
-     Aspose.3D for Java umožňuje vývojářům vytvářet scény od nuly bez závislosti jakéhokoli modelovacího softwaru. The Java API also empowers the developers to save the scenes in any of the supported formats such as (STL, FBX, Discreet3DS, WavefrontOBJ, Collada a Universal3D).
+     Aspose.3D for Java umožňuje vývojářům vytvářet scény od začátku bez závislosti na jakémkoli modelovacím softwaru. Java API také umožňuje vývojářům ukládat scény v jakémkoli z podporovaných formátů, jako jsou (STL, FBX, Discreet3DS, WavefrontOBJ, Collada a Universal3D).
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Vytvořit scénu s primitívními 3D tvary- Java
+      Vytvořte scénu s primitivními tvary 3D – Java
      </h3>
      <pre><code class="java">// initialize a Scene object
 
@@ -511,10 +511,10 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vytvořit hierarchii uzlu jednoduchým způsobem
+     Vybudujte hierarchii uzlů jednoduchým způsobem
     </h2>
     <p>
-     Aspose.3D for Java API poskytuje možnost vytvořit hierarchii uzlu, kde uzel je základní stavební prvek scény. Hierarchie uzlů definuje logickou strukturu a poskytuje viditelný obsah připojením geometrie, světla a kamery k uzlům.
+     Aspose.3D for Java API poskytuje možnost vytvořit hierarchii uzlů, kde je uzel základním stavebním kamenem scény. Hierarchie uzlů definuje logickou strukturu a poskytuje viditelný obsah připojením geometrií, světel a kamer k uzlům.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -526,18 +526,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Přidat vlastnost animace do scény
+     Přidejte vlastnost animace do scény
     </h2>
     <p>
-     Aspose.3D for Java API poskytuje podporu animace keyframe prostřednictvím zakřivení, které mapuje součásti vlastnosti do různých křivek. Knihovna navíc nabízí nastavit cílovou kameru v 3D souboru, který je užitečný v animaci, když potřebujete fotoaparát, aby se postavil určitému uzlu.
+     Aspose.3D for Java API poskytuje podporu pro animaci klíčových snímků prostřednictvím CurveMapping, která mapuje součásti vlastnosti na různé křivky. Navíc knihovna nabízí nastavení cílové kamery v souboru 3D, což je užitečné v animaci, když potřebujete, aby kamera čelila konkrétnímu uzlu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Robustnost, výkon a škálovatelnost
+     Robustnost, výkon & Škálovatelnost
     </h2>
     <p>
-     Aspose.3D for Java je navržen tak, aby fungoval stejně dobře na serveru nebo na klientské straně. Je to jedna sestava Java, která může být nasazena s jakoukoli aplikací Java jednoduše přidáním odkazu. Během práce s API se nemusíte obávat jiných služeb nebo modulů.
+     Aspose.3D for Java je navrženo tak, aby fungovalo stejně dobře na straně serveru i klienta. Jedná se o jediné sestavení Java, které lze nasadit s jakoukoli aplikací Java pouhým přidáním jeho reference. Při práci s API se nemusíte starat o další služby nebo moduly.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -556,18 +556,18 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Zdroje učení" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/3d/java/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-3d/Aspose.3D-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API odkazy" href="https://apireference.aspose.com/3d/java" >}}
-{{< blocks/products/pf/slr-element name="Výukové videa" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Reference" href="https://apireference.aspose.com/3d/java" >}}
+{{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free support" href="https://forum.aspose.com/c/3d" >}}
-{{< blocks/products/pf/slr-element name="Platná podpora" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/3d" >}}
+{{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Poznámky k uvolnění" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/3d/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.3D for Java" tabId="success-stories" >}}
@@ -579,7 +579,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D nabízí individuální apis pro zpracování 3D pro jiné populární vývojové prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D nabízí individuální rozhraní API pro zpracování 3D pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 

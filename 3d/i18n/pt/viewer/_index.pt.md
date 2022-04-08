@@ -1,5 +1,5 @@
 ﻿---
-title: 3D Solução de Visualizador de Formato 
+title: 3D Solução do visualizador de formatos 
 weight: 7730
 url: /pt/viewer
 limit: 
