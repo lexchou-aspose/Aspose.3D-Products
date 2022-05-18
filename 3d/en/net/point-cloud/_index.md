@@ -16,58 +16,8 @@ Developers can easily generate point clouds from 3D files using the 3D library. 
 Developers can easily create 3d point cloud files through the same process listed above. Consider some examples like **3DS to PLY point cloud**. Load 3DS files via scene class objects. Create save options using [PLYSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/plySaveOptions) to create save options and call the scene save method with the output file path and ply options arguments. The API has appropriate options classes for saving into related classes, e.g. [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) and more. Here is the full list of 3D [point cloud formats](https://apireference.aspose.com/3d/net/aspose.threed.formats) options.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for 3DS to PLY Point Cloud" %}}
-```cs
 
-//The source file that needs to generate the point cloud
-string file = "template.3ds";
-
-// create an instance of Scene
-Scene scene = new Scene(file);
-
-//Get pointcloud object of Aspose.3D and generate a point cloud
-var pc = new PointCloud();
-scene.RootNode.Accept((Node n) =>
-{
-    if (n.Entities.Count > 0)
-    {
-        var transform = n.EvaluateGlobalTransform(true);
-        foreach (var entity in n.Entities)
-        {
-            if (entity is Geometry g)
-            {
-                Merge(pc, g, transform);
-            }
-            else if (entity is IMeshConvertible mc)
-            {
-                var mesh = mc.ToMesh();
-                Merge(pc, mesh, transform);
-            }
-        }
-    }
-    return true;
-});
-
-//Merge method for generating point clouds
-private void Merge(PointCloud pc, Geometry g, Matrix4 transform)
-{
-    var tmp = PointCloud.FromGeometry(g, 10);
-    for (int i = 0; i < tmp.ControlPoints.Count; i++)
-    {
-        var pt = transform * tmp.ControlPoints[i];
-        pc.ControlPoints.Add(pt);
-    }
-}
-
-// create an instance of newScene
-var newScene = new Scene(pc);
-
-//When saving, you need to create a SaveOptions object of the save format
-string output=System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".ply";
-PlySaveOptions ply = new PlySaveOptions();
-ply.PointCloud = true;
-newScene.Save(output,ply);
-
-```
+{{< gist "aspose-3d-gists" "9563193e834f0087b554c83130fcf7c7" "Examples-CSharp-PointCloud-products.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

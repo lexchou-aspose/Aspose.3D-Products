@@ -16,27 +16,8 @@ Developers can use the 3D graphics library to easily read, create, transform, up
 Developers can easily view 3d files through the same process listed above. Consider some examples like **3DS to HTML5 viewing**. Load 3DS files via scene class objects. Create save options using [Html5SaveOptions ](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5SaveOptions) to create save options and call the scene save method with the output file path and html5 options arguments. The API has appropriate options classes for saving into related classes, e.g. [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) and more. Here is the full list of 3D [viewer formats](https://apireference.aspose.com/3d/net/aspose.threed.formats) options.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for 3DS to HTML5 Viewer" %}}
-```cs
 
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
-
-// load 3DS scene via an instance of Scene
-var scene = new ThreeD.Scene("template.3ds");
-// create an object of Html5SaveOptions and set properties for formatting
-var options = new ThreeD.Formats.Html5SaveOptions()
-{
-    // turn off the grid
-    ShowGrid = false,
-    // turn off the user interface
-    ShowUI = false
-};
-
-// save 3D scene as HTML5
-scene.Save(output, options);
-// load resultant HTML in default browser
-System.Diagnostics.Process.Start(output);
-
-```
+{{< gist "aspose-3d-gists" "9563193e834f0087b554c83130fcf7c7" "Examples-CSharp-Viewer-products.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

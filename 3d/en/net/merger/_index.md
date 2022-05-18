@@ -16,67 +16,8 @@ Developers can easily merge 3D files using the 3D library. Few formats supported
 Developers can easily merge 3d files through the same process listed above. Consider some examples like **3DS to FBX merger**. Load 3DS files via scene class objects. Create save options using [FbxSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxSaveOptions) to create save options and call the scene save method with the output file path and fbx options arguments. The API has appropriate options classes for saving into related classes, e.g. [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) and more. Here is the full list of 3D [merger formats](https://apireference.aspose.com/3d/net/aspose.threed.formats) options.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for 3DS to FBX Merger" %}}
-```cs
 
-//Multiple source files that need to be merged
-string[] files = {"template.3ds", "template2.3ds" };
-
-//Process file merge to generate usdz file
-Scene scene = new Scene();
-int i = 0;
-foreach (var file in files)
-{
-    using var fs = new FileStream(file, FileMode.Open, FileAccess.Read);
-    FileFormat fmt = FileFormat.Detect(fs, files[i]);
-    var subNode = scene.RootNode.CreateChildNode(files[i]);
-    i++;
-    try
-    {
-        Scene subScene = new Scene();
-        var opt = fmt.CreateLoadOptions();
-        subScene.Open(fs, opt);
-        subNode.Entity = PolygonModifier.MergeMesh(subScene);
-        MoveTo(subScene.RootNode, subNode);
-    }
-        catch (Exception)
-        {
-        }
-}
-var reviewFile = "result.usdz";
-var usdz = new UsdSaveOptions(FileFormat.USDZ)
-{
-    PrimitiveToMesh = false,
-    ExportMetaData = true
-};
-scene.Save(reviewFile, usdz);
-
-//Process usdz files and save them in the format you want
-var scene2 = new Scene();
-var physicalFile = reviewFile;
-using var fs2 = new FileStream(physicalFile, FileMode.Open, FileAccess.Read);
-var fmt2 = FileFormat.Detect(fs2, "result");
-var subScene2 = new Scene();
-var opt2 = fmt2.CreateLoadOptions();
-subScene2.Open(fs2, opt2);
-var newNode = scene2.RootNode.CreateChildNode("");
-double[] value = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 };
-newNode.Transform.TransformMatrix = new Matrix4(value);
-MoveTo(subScene2.RootNode, newNode);
-var output = "merger.fbx";
-scene2.Save(output, FileFormat.FBX7400ASCII); 
-
-//MoveTo class for call processing
-public static void MoveTo(Node subScene, Node parent)
-{
-    while (subScene.ChildNodes.Count > 0)
-    {
-        var node = subScene.ChildNodes[0];
-        subScene.ChildNodes.RemoveAt(0);
-        parent.AddChildNode(node);
-    }
-}
-
-```
+{{< gist "aspose-3d-gists" "9563193e834f0087b554c83130fcf7c7" "Examples-CSharp-Merger-products.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

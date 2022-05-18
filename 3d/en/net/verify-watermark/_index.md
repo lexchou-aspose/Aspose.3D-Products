@@ -16,40 +16,8 @@ Developers can use the 3D library to verify blind watermarks for 3D files. The f
 Developers can easily go through the same process listed above to verify blind watermarks in 3d files. Consider a few examples, such as **3DS File watermark verification**. Load 3DS files via scene class objects. Create save options using [FbxSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/fbxSaveOptions) to create save options and call the scene save method with the output file path and fbx options as parameters. API has appropriate options classes for saving into relevant classes like [A3dwSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/a3dwsaveoptions) [AmfSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/amfsaveoptions) [Discreet3dsSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/discreet3dssaveoptions) [Html5SaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/html5saveoptions) [RvmSaveOptions](https://apireference.aspose.com/3d/net/aspose.threed.formats/rvmsaveoptions) and more. Here is the full list of 3D [Watermark Validation Formats](https://apireference.aspose.com/3d/net/aspose.threed.formats) options.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for 3DS file Watermark Verification" %}}
-```cs
 
-//Source files that need to be watermarked for verification
-string file = "template.3ds";
-
-// create an instance of Scene
-Scene scene = new Scene(file);
-string text =null;
-
-//Add password to verify watermark by DecodeWatermark method
-try
-{
-    scene.RootNode.Accept((Node node) =>
-    {
-        var mesh = node.GetEntity<Mesh>();
-        if (mesh != null)
-        {
-            text = Watermark.DecodeWatermark(mesh, "1234");
-            if (text != null)
-                return false;
-            }
-            return true;
-    });
-}
-catch (UnauthorizedAccessException)
-{
-    return "Password error";
-}
-
-//Returns null if this file has no watermark,If there is a watermark, return the watermark content
-return text;
-
-
-```
+{{< gist "aspose-3d-gists" "9563193e834f0087b554c83130fcf7c7" "Examples-CSharp-VerifyWatermark-products.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
