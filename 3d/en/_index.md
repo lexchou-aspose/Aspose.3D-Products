@@ -12,13 +12,18 @@ google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="/3d/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
 High Code APIs to target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productLink="/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="/3d/aspose_3d-for-java.svg" productLink="/3d/java" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.3D for " title="Python via .NET" imgSrc="/3d/aspose_3d-for-python-via-net.svg" productLink="/3d/python-net" >}}
+Use Python to accelerate the development. Generate and manipulate documents with Python scripts. Our product provides a comprehensive set of features you may need in your software solutions.
+{{< /blocks/products/pf/product >}}
+
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/3d/family/" innerText="View All High Code APIs" >}}
 
@@ -30,7 +35,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 cURL commands to access 3D models & 3D objects hosted on the cloud for easy processing & manipulation.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-net.png" productLink="https://products.aspose.cloud/3d/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="/3d/aspose_3d-for-net.png" productLink="https://products.aspose.cloud/3d/net" >}}
 Enhance your C#, ASP.NET & Visual Studio code to create, transform & convert cloud-based 3D objects & 3D entities.
 {{< /blocks/products/pf/product >}}
 

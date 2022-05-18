@@ -6,11 +6,11 @@ description: Python library to create read convert and modify 3D files in Window
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -133,7 +133,7 @@ description: Python library to create read convert and modify 3D files in Window
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python via .NET 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="Python via .NET 3D APIs" src="/3d/aspose_3d-for-python-via-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -188,7 +188,7 @@ description: Python library to create read convert and modify 3D files in Window
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="3D CAD API for Python via .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="3D CAD API for Python via .NET" src="/3d/aspose_3d-for-python-via-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -333,7 +333,7 @@ description: Python library to create read convert and modify 3D files in Window
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-python-via-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -617,7 +617,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

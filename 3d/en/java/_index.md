@@ -6,11 +6,11 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java 3D File Processing API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="/3d/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -126,7 +126,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="Java 3D APIs" src="/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -169,7 +169,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="3D CAD API for Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="3D CAD API for Java" src="/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -310,7 +310,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg"/>
+  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-java.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -582,7 +582,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
