@@ -63,29 +63,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows VRML to JT C# Conversion" offSpacer="" %}}
-
-```cs
-// Load the source VRML file
-Scene scene = new Scene("sourceFile.wrl");
-// Convert the 3D scene to file in Siemens JT format
-scene.Save("output.jt", FileFormat.SiemensJT9)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert VRML to JT" sectionDescription="Check our live demos for [VRML to JT conversion](https://products.aspose.app/3d/conversion/vrml-to-jt) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VRML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant JT file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -108,7 +94,7 @@ JT (Jupiter Tessellation) is an efficient, industry-focused and flexible ISO-sta
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

@@ -65,32 +65,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows VRML to GLTF C# Conversion" offSpacer="" %}}
-
-```cs
-// load the VRML in an object of Scene 
-var document = new Aspose.ThreeD.Scene("template.vrml");
-// create an instance of GltfSaveOptions 
-var options = new Aspose.ThreeD.Formats.GltfSaveOptions();
-// save VRML as a GLTF 
-document.Save("output.gltf", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert VRML to GLTF" sectionDescription="Check our live demos for [VRML to GLTF conversion](https://products.aspose.app/3d/conversion/vrml-to-gltf) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VRML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GLTF file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -114,7 +97,7 @@ glTF (GL Transmission Format) is a 3D file format that stores 3D model informati
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

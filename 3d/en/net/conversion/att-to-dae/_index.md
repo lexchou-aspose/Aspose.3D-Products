@@ -65,32 +65,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows ATT to DAE C# Conversion" offSpacer="" %}}
-
-```cs
-// load the ATT in an object of Scene 
-var document = new Aspose.ThreeD.Scene("template.att");
-// create an instance of DaeSaveOptions 
-var options = new Aspose.ThreeD.Formats.DaeSaveOptions();
-// save ATT as a DAE 
-document.Save("output.dae", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert ATT to DAE" sectionDescription="Check our live demos for [ATT to DAE conversion](https://products.aspose.app/3d/conversion/att-to-dae) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ATT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant DAE file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -114,7 +97,7 @@ A DAE file is a Digital Asset Exchange file format that is used for exchanging d
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

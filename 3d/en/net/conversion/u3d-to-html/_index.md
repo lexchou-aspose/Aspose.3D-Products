@@ -66,32 +66,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows U3D to HTML C# Conversion" offSpacer="" %}}
-
-```cs
-// load the U3D in an object of Scene 
-var document = new Aspose.ThreeD.Scene("template.u3d");
-// create an instance of HtmlSaveOptions 
-var options = new Aspose.ThreeD.Formats.Html5SaveOptions();
-// save U3D as a HTML 
-document.Save("output.html", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app >}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert U3D to HTML" sectionDescription="Check our live demos for [U3D to HTML conversion](https://products.aspose.app/3d/conversion/u3d-to-html) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your U3D file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant HTML file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -115,7 +98,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
