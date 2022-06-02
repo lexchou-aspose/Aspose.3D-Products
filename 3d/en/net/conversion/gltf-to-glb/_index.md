@@ -69,7 +69,7 @@ PM> Install-Package Aspose.3D
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-{{< blocks/products/pf/agp/demobox-app >}}
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/gltf-to-glb/embed&h1&h2&net">}}
 {{< /blocks/products/pf/agp/demobox-app >}}
  
 <!-- aboutfile Starts -->
