@@ -79,29 +79,15 @@ description: Sample Java conversion code for USD format to DRC file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="USD to DRC Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// Load the source USD file
-Scene scene = new Scene("sourceFile.usd");
-// Convert the 3D scene to file in Google Draco format
-scene.save("output.drc", FileFormat.DRACO)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/usd-to-drc/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="USD to DRC Conversion Live Demos" sectionDescription="[Convert USD to DRC](https://products.aspose.app/3d/conversion/usd-to-drc) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your USD file, it will be converted instantly to DRC." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -128,7 +114,7 @@ A file with .drc extension is a compressed 3D file format created with Google Dr
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

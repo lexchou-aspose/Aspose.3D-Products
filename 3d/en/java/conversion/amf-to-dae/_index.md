@@ -80,32 +80,15 @@ description: Sample Java conversion code for AMF format to DAE file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="AMF to DAE Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the AMF in an object of Scene 
-Scene document = new Scene("template.amf");
-// create an instance of DaeSaveOptions 
-DaeSaveOptions options = new DaeSaveOptions();
-// save AMF as a DAE 
-document.save("output.dae", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/amf-to-dae/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="AMF to DAE Conversion Live Demos" sectionDescription="[Convert AMF to DAE](https://products.aspose.app/3d/conversion/amf-to-dae) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your AMF file, it will be converted instantly to DAE." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ A DAE file is a Digital Asset Exchange file format that is used for exchanging d
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

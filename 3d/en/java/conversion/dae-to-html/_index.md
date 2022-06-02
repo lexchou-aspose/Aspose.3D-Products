@@ -80,32 +80,15 @@ description: Sample Java conversion code for DAE format to HTML file. Use this e
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DAE to HTML Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the DAE in an object of Scene 
-Scene document = new Scene("template.dae");
-// create an instance of HtmlSaveOptions 
-Html5SaveOptions options = new Html5SaveOptions();
-// save DAE as a HTML 
-document.save("output.html", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/dae-to-html/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="DAE to HTML Conversion Live Demos" sectionDescription="[Convert DAE to HTML](https://products.aspose.app/3d/conversion/dae-to-html) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DAE file, it will be converted instantly to HTML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
