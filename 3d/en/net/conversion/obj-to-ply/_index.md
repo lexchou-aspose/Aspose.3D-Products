@@ -66,32 +66,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows OBJ to PLY C# Conversion" offSpacer="" %}}
-
-```cs
-// load the OBJ in an object of Scene 
-var document = new Aspose.ThreeD.Scene("template.obj");
-// create an instance of PlySaveOptions 
-var options = new Aspose.ThreeD.Formats.PlySaveOptions();
-// save OBJ as a PLY 
-document.Save("output.ply", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/obj-to-ply/embed&h1&h2&net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert OBJ to PLY" sectionDescription="Check our live demos for [OBJ to PLY conversion](https://products.aspose.app/3d/conversion/obj-to-ply) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your OBJ file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant PLY file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -115,7 +98,7 @@ PLY, Polygon File Format, represents 3D file format that stores graphical object
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

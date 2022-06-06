@@ -80,32 +80,15 @@ description: Sample Java conversion code for GLTF format to STL file. Use this e
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="GLTF to STL Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the GLTF in an object of Scene 
-Scene document = new Scene("template.gltf");
-// create an instance of StlSaveOptions 
-StlSaveOptions options = new StlSaveOptions();
-// save GLTF as a STL 
-document.save("output.stl", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/gltf-to-stl/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="GLTF to STL Conversion Live Demos" sectionDescription="[Convert GLTF to STL](https://products.aspose.app/3d/conversion/gltf-to-stl) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your GLTF file, it will be converted instantly to STL." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

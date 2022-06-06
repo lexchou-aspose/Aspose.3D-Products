@@ -79,32 +79,15 @@ description: Sample Java conversion code for DRC format to RVM file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DRC to RVM Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the DRC in an object of Scene 
-Scene document = new Scene("template.drc");
-// create an instance of RvmSaveOptions 
-AmfSaveOptions options = new RvmSaveOptions();
-// save DRC as a RVM 
-document.save("output.rvm", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/drc-to-rvm/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="DRC to RVM Conversion Live Demos" sectionDescription="[Convert DRC to RVM](https://products.aspose.app/3d/conversion/drc-to-rvm) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file, it will be converted instantly to RVM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -130,7 +113,7 @@ RVM data files are related to AVEVA PDMS. RVM file is an AVEVA Plant Design Mana
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

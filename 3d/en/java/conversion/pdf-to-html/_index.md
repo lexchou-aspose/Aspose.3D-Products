@@ -79,32 +79,15 @@ description: Sample Java conversion code for PDF format to HTML file. Use this e
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="PDF to HTML Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the PDF in an object of Scene 
-Scene document = new Scene("template.pdf");
-// create an instance of Html5SaveOptions 
-AmfSaveOptions options = new Html5SaveOptions();
-// save PDF as a HTML 
-document.save("output.html", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/pdf-to-html/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="PDF to HTML Conversion Live Demos" sectionDescription="[Convert PDF to HTML](https://products.aspose.app/3d/conversion/pdf-to-html) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PDF file, it will be converted instantly to HTML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -130,7 +113,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

@@ -79,29 +79,15 @@ description: Sample Java conversion code for DXF format to GLB file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DXF to GLB Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// Load the source DXF file
-Scene scene = new Scene("sourceFile.dxf");
-// Convert the 3D scene to file in Binary GLTF format
-scene.save("output.glb", FileFormat.GLTF2_BINARY)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/dxf-to-glb/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="DXF to GLB Conversion Live Demos" sectionDescription="[Convert DXF to GLB](https://products.aspose.app/3d/conversion/dxf-to-glb) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DXF file, it will be converted instantly to GLB." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -128,7 +114,7 @@ GLB is the binary file format representation of 3D models saved in the GL Transm
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

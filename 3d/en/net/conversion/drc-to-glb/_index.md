@@ -63,29 +63,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DRC to GLB C# Conversion" offSpacer="" %}}
-
-```cs
-// Load the source Google Draco file
-Scene scene = new Scene("sourceFile.drc");
-// Convert the 3D scene to file in Binary GLTF format
-scene.Save("output.glb", FileFormat.GLTF2_Binary)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/drc-to-glb/embed&h1&h2&net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DRC to GLB" sectionDescription="Check our live demos for [DRC to GLB conversion](https://products.aspose.app/3d/conversion/drc-to-glb) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GLB file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -108,7 +94,7 @@ GLB is the binary file format representation of 3D models saved in the GL Transm
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

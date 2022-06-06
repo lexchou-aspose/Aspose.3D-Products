@@ -79,29 +79,15 @@ description: Sample Java conversion code for GLB format to FBX file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="GLB to FBX Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// Load the source Binary GLTF file
-Scene scene = new Scene("sourceFile.glb");
-// Convert the 3D scene to file in Autodesk FBX format
-scene.save("output.fbx", FileFormat.FBX7700_BINARY)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/glb-to-fbx/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="GLB to FBX Conversion Live Demos" sectionDescription="[Convert GLB to FBX](https://products.aspose.app/3d/conversion/glb-to-fbx) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your GLB file, it will be converted instantly to FBX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -128,7 +114,7 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

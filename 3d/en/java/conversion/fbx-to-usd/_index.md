@@ -79,29 +79,15 @@ description: Sample Java conversion code for FBX format to USD file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="FBX to USD Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// Load the source Autodesk FBX file
-Scene scene = new Scene("sourceFile.fbx");
-// Convert the 3D scene to file in USD format
-scene.save("output.usd", FileFormat.USD)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/fbx-to-usd/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="FBX to USD Conversion Live Demos" sectionDescription="[Convert FBX to USD](https://products.aspose.app/3d/conversion/fbx-to-usd) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your FBX file, it will be converted instantly to USD." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -128,7 +114,7 @@ A file with .usd extension is a Universal Scene Description file format that enc
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

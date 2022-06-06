@@ -80,32 +80,15 @@ description: Sample Java conversion code for FBX format to OBJ file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="FBX to OBJ Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the FBX in an object of Scene 
-Scene document = new Scene("template.fbx");
-// create an instance of ObjSaveOptions 
-ObjSaveOptions options = new ObjSaveOptions();
-// save FBX as a OBJ 
-document.save("output.obj", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/fbx-to-obj/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="FBX to OBJ Conversion Live Demos" sectionDescription="[Convert FBX to OBJ](https://products.aspose.app/3d/conversion/fbx-to-obj) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your FBX file, it will be converted instantly to OBJ." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ OBJ files are used by Wavefront's Advanced Visualizer application to define and 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

@@ -65,32 +65,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DRC to OBJ C# Conversion" offSpacer="" %}}
-
-```cs
-// load the DRC in an object of Scene 
-var document = new Aspose.ThreeD.Scene("template.drc");
-// create an instance of ObjSaveOptions 
-var options = new Aspose.ThreeD.Formats.ObjSaveOptions();
-// save DRC as a OBJ 
-document.Save("output.obj", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/drc-to-obj/embed&h1&h2&net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DRC to OBJ" sectionDescription="Check our live demos for [DRC to OBJ conversion](https://products.aspose.app/3d/conversion/drc-to-obj) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant OBJ file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -114,7 +97,7 @@ OBJ files are used by Wavefront's Advanced Visualizer application to define and 
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

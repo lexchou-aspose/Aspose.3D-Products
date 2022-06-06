@@ -79,32 +79,15 @@ description: Sample Java conversion code for DRC format to ASE file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DRC to ASE Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the DRC in an object of Scene 
-Scene document = new Scene("template.drc");
-// create an instance of AseSaveOptions 
-AmfSaveOptions options = new AseSaveOptions();
-// save DRC as a ASE 
-document.save("output.ase", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/drc-to-ase/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="DRC to ASE Conversion Live Demos" sectionDescription="[Convert DRC to ASE](https://products.aspose.app/3d/conversion/drc-to-ase) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DRC file, it will be converted instantly to ASE." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -130,7 +113,7 @@ An ASE file is a 2D animation or graphics that contain layers, frames, palettes,
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
