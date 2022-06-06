@@ -80,32 +80,15 @@ description: Sample Java conversion code for VRML format to PLY file. Use this e
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VRML to PLY Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the VRML in an object of Scene 
-Scene document = new Scene("template.vrml");
-// create an instance of PlySaveOptions 
-PlySaveOptions options = new PlySaveOptions();
-// save VRML as a PLY 
-document.save("output.ply", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/vrml-to-ply/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="VRML to PLY Conversion Live Demos" sectionDescription="[Convert VRML to PLY](https://products.aspose.app/3d/conversion/vrml-to-ply) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VRML file, it will be converted instantly to PLY." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ PLY, Polygon File Format, represents 3D file format that stores graphical object
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

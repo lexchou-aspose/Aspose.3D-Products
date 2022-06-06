@@ -63,29 +63,15 @@ PM> Install-Package Aspose.3D
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows GLB to FBX C# Conversion" offSpacer="" %}}
-
-```cs
-// Load the source Binary GLTF file
-Scene scene = new Scene("sourceFile.glb");
-// Convert the 3D scene to file in Autodesk FBX format
-scene.Save("output.fbx", FileFormat.FBX7700Binary)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/glb-to-fbx/embed&h1&h2&net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert GLB to FBX" sectionDescription="Check our live demos for [GLB to FBX conversion](https://products.aspose.app/3d/conversion/glb-to-fbx) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your GLB file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant FBX file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -108,7 +94,7 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

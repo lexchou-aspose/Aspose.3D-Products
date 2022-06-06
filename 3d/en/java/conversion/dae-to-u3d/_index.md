@@ -80,32 +80,15 @@ description: Sample Java conversion code for DAE format to U3D file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DAE to U3D Java Conversion Source Code" offSpacer="" %}}
-
-```cs
-// load the DAE in an object of Scene 
-Scene document = new Scene("template.dae");
-// create an instance of U3dSaveOptions 
-U3dSaveOptions options = new U3dSaveOptions();
-// save DAE as a U3D 
-document.save("output.u3d", options);   
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/dae-to-u3d/embed&h1&h2&java">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="DAE to U3D Conversion Live Demos" sectionDescription="[Convert DAE to U3D](https://products.aspose.app/3d/conversion/dae-to-u3d) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DAE file, it will be converted instantly to U3D." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java 3D Scene Manipulation Library" %}}
 
@@ -133,7 +116,7 @@ U3D (Universal 3D) is a compressed file format and data structure for 3D compute
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
