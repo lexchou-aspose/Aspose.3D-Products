@@ -2,7 +2,7 @@
 title: .NET and Java 3D APIs | 3D File Manipulation and Conversion 
 weight: 10
 url: /family
-description: Create edit and convert 3D documents in .NET and Java applications using the relevant library without any 3D modeling or image rendering software installed
+description: Create, Edit and Convert 3D files in .NET and Java applications without any 3D modeling or image rendering software
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
