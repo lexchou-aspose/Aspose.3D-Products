@@ -66,32 +66,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows JT to RVM Python Conversion" offSpacer="" %}}
-
-```cs
-# load the JT in an object of Scene 
-document = aspose.threed.Scene.from_file("template.jt");
-# create an instance of RvmSaveOptions 
-options = aspose.threed.formats.RvmSaveOptions();
-# save JT as a RVM 
-document.save("output.rvm", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/jt-to-rvm/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert JT to RVM" sectionDescription="Check our live demos for [JT to RVM conversion](https://products.aspose.app/3d/conversion/jt-to-rvm) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your JT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant RVM file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -115,7 +98,7 @@ RVM data files are related to AVEVA PDMS. RVM file is an AVEVA Plant Design Mana
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

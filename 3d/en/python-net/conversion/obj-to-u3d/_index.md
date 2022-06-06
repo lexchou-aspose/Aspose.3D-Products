@@ -66,32 +66,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows OBJ to U3D Python Conversion" offSpacer="" %}}
-
-```cs
-# load the OBJ in an object of Scene 
-document = aspose.threed.Scene.from_file("template.obj");
-# create an instance of U3dSaveOptions 
-options = aspose.threed.formats.U3dSaveOptions();
-# save OBJ as a U3D 
-document.save("output.u3d", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/obj-to-u3d/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert OBJ to U3D" sectionDescription="Check our live demos for [OBJ to U3D conversion](https://products.aspose.app/3d/conversion/obj-to-u3d) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your OBJ file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant U3D file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -115,7 +98,7 @@ U3D (Universal 3D) is a compressed file format and data structure for 3D compute
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

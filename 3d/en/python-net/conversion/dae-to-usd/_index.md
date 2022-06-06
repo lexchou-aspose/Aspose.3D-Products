@@ -63,29 +63,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DAE to USD Python Conversion" offSpacer="" %}}
-
-```cs
-# Load the source Collada DAE file
-Scene scene = new Scene.from_file("sourceFile.dae");
-# Convert the 3D scene to file in USD format
-scene.save("output.usd", FileFormat.USD)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/dae-to-usd/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DAE to USD" sectionDescription="Check our live demos for [DAE to USD conversion](https://products.aspose.app/3d/conversion/dae-to-usd) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DAE file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant USD file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -108,7 +94,7 @@ A file with .usd extension is a Universal Scene Description file format that enc
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

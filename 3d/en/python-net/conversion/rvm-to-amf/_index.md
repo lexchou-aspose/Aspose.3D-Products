@@ -66,32 +66,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows RVM to AMF Python Conversion" offSpacer="" %}}
-
-```cs
-# load the RVM in an object of Scene 
-document = aspose.threed.Scene.from_file("template.rvm");
-# create an instance of AmfSaveOptions 
-options = aspose.threed.formats.AmfSaveOptions();
-# save RVM as a AMF 
-document.save("output.amf", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/rvm-to-amf/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert RVM to AMF" sectionDescription="Check our live demos for [RVM to AMF conversion](https://products.aspose.app/3d/conversion/rvm-to-amf) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your RVM file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant AMF file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -115,7 +98,7 @@ Additive Manufacturing file format (AMF) defines open standards for objects desc
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
