@@ -16,10 +16,10 @@ otherformats: GLTF PLY FBX STL JT AMF DXF DAE
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Export USDZ Scene as FBX with C#" %}}
-1. Load USDZ file using a from_file of [Scene](https://apireference.aspose.com/3d/net/aspose.threed/scene) class
-2. Call [Scene.save](https://apireference.aspose.com/3d/net/aspose.threed/scene/methods/save/index) method
+1. Load USDZ file using a from_file of [Scene](https://apireference.aspose.com/3d/python-net/aspose.threed/scene) class
+2. Call [Scene.save](https://apireference.aspose.com/3d/python-net/aspose.threed/scene/methods/save/index) method
 3. Pass output file name with .fbx extension as first parameter
-4. Specify `FBX7700Binary` field value from [FileFormat](https://apireference.aspose.com/3d/net/aspose.threed/fileformat/fields/index) class
+4. Specify `FBX7700Binary` field value from [FileFormat](https://apireference.aspose.com/3d/python-net/aspose.threed/fileformat/fields/index) class
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="3D Format Conversion API for Python via .NET" %}}

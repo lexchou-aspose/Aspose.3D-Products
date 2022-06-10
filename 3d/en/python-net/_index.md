@@ -6,11 +6,11 @@ description: Python library to create read convert and modify 3D files in Window
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/python-net/" installationsDocsLink="https://docs.aspose.com/3d/python-net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/3d/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -206,7 +206,7 @@ description: Python library to create read convert and modify 3D files in Window
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for Python via .NET [supports famous 3D](https://docs.aspose.com/3d/net/supported-file-formats/)  file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for Python via .NET [supports famous 3D](https://docs.aspose.com/3d/python-net/supported-file-formats/)  file formats." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -593,7 +593,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
@@ -603,7 +603,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/3d/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/3d/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.3D for Python via .NET" tabId="success-stories" >}}
@@ -613,7 +613,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
