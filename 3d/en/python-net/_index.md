@@ -6,7 +6,7 @@ description: Python library to create read convert and modify 3D files in Window
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="/3d/aspose_3d-for-python-via-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Python 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any Python-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-python-via-net.svg" pfName="Aspose.3D" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/3d/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Python via .NET" >}}
 
@@ -618,6 +618,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/3d/aspose_3d-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
