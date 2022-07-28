@@ -65,32 +65,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows DXF to ATT Python Conversion" offSpacer="" %}}
-
-```cs
-# load the DXF in an object of Scene 
-document = aspose.threed.Scene.from_file("template.dxf");
-# create an instance of AttSaveOptions 
-options = aspose.threed.formats.AttSaveOptions();
-# save DXF as a ATT 
-document.save("output.att", options); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/dxf-to-att/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert DXF to ATT" sectionDescription="Check our live demos for [DXF to ATT conversion](https://products.aspose.app/3d/conversion/dxf-to-att) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DXF file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant ATT file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -114,7 +97,7 @@ DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data re
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 

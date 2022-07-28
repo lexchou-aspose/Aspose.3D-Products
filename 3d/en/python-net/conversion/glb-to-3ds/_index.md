@@ -63,29 +63,15 @@ pip install aspose-3d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows GLB to 3DS Python Conversion" offSpacer="" %}}
-
-```cs
-# Load the source Binary GLTF file
-Scene scene = new Scene.from_file("sourceFile.glb");
-# Convert the 3D scene to file in Discreet 3DS format
-scene.save("output.3ds", FileFormat.Discreet3DS)
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
+{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/glb-to-3ds/embed&h1&h2&python-net">}}
+{{< /blocks/products/pf/agp/demobox-app >}}
+ 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox-app sectionTitle="Free App to Convert GLB to 3DS" sectionDescription="Check our live demos for [GLB to 3DS conversion](https://products.aspose.app/3d/conversion/glb-to-3ds) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your GLB file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant 3DS file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -108,7 +94,7 @@ A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Au
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox-app >}}
+
 
 <!-- aboutfile Ends -->
 
