@@ -27,6 +27,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-3d?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/3d/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

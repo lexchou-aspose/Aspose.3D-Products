@@ -596,6 +596,7 @@ scn.save(dir + "output.obj", FileFormat.WAVEFRONT_OBJ);</code></pre>
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/3d" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/3d/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
