@@ -6,7 +6,7 @@ description: Create, Edit and Convert 3D files in .NET and Java applications wit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D File Manipulation APIs" h2="Native APIs to read, edit and convert 3D document formats without any 3D modeling or rendering software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D File Manipulation APIs" h2="Native APIs to read, edit and convert 3D document formats without any 3D modeling or rendering software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D High Code APIs Include" >}}
@@ -43,6 +43,6 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,7 +5,7 @@ url: /hi/family
 description: बिना किसी 3D मॉडलिंग या छवि रेंडरिंग सॉफ़्टवेयर स्थापित किए प्रासंगिक लाइब्रेरी का उपयोग करके .NET और Java एप्लिकेशन में 3D दस्तावेज़ संपादित करें और कनवर्ट करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D फ़ाइल मैनिपुलेशन एपीआई" h2="बिना किसी 3D मॉडलिंग या रेंडरिंग सॉफ़्टवेयर के 3D दस्तावेज़ स्वरूपों को पढ़ने, संपादित करने और परिवर्तित करने के लिए मूल APIs." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D फ़ाइल मैनिपुलेशन एपीआई" h2="बिना किसी 3D मॉडलिंग या रेंडरिंग सॉफ़्टवेयर के 3D दस्तावेज़ स्वरूपों को पढ़ने, संपादित करने और परिवर्तित करने के लिए मूल APIs." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D हाई कोड API में शामिल हैं" >}}
@@ -42,6 +42,6 @@ description: बिना किसी 3D मॉडलिंग या छवि
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

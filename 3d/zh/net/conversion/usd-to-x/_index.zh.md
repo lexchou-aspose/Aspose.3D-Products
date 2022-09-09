@@ -23,7 +23,7 @@ otherformats: PLY FBX AMF ASE 3DS JT HTML STL
 {{% blocks/products/pf/agp/feature-section-col title="3D 格式转换API for .NET" %}}
 从命令行安装为 ```nuget install Aspose.3d``` 或通过 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.3D``` 安装。
 
-或者，从 ZIP 文件中获取脱机 MSI 安装程序或 DLL [下载](https://downloads.aspose.com/3d/net).
+或者，从 ZIP 文件中获取脱机 MSI 安装程序或 DLL [下载](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# USD 到 X 转换的代码" gistPath="" %}}

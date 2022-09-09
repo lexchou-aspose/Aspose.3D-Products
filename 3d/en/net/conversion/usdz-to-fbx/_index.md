@@ -25,7 +25,7 @@ otherformats: GLTF PLY FBX STL JT AMF DXF DAE
 {{% blocks/products/pf/agp/feature-section-col title="3D Format Conversion API for .NET" %}}
 Install from command line as ```nuget install Aspose.3d``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.3D```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/3d/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Code for USDZ to FBX Conversion" gistPath="" %}}

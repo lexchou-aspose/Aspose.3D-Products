@@ -23,7 +23,7 @@ otherformats: AMF JT GLTF HTML DXF STL DRC OBJ
 {{% blocks/products/pf/agp/feature-section-col title="3D Konwersja formatu API for .NET" %}}
 Zainstaluj z wiersza poleceń jako ```nuget install Aspose.3d``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.3D```.
 
-Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://downloads.aspose.com/3d/net).
+Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Kod konwersji USDZ na STL" gistPath="" %}}

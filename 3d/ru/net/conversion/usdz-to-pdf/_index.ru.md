@@ -23,7 +23,7 @@ otherformats: 3MF DRC DXF JT PLY GLTF FBX ASE
 {{% blocks/products/pf/agp/feature-section-col title="3D Преобразование формата API for .NET" %}}
 Установите из командной строки как ```nuget install Aspose.3d``` или через консоль диспетчера пакетов Visual Studio с ```Install-Package Aspose.3D```.
 
-Кроме того, можно получить автономный установщик MSI или библиотеки DLL в файле ZIP из [загрузки](https://downloads.aspose.com/3d/net).
+Кроме того, можно получить автономный установщик MSI или библиотеки DLL в файле ZIP из [загрузки](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Код C# для преобразования USDZ в PDF" gistPath="" %}}

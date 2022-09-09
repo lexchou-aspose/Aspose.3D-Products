@@ -5,7 +5,7 @@ url: /ar/family
 description: يمكنك إنشاء مستندات وتحريرها وتحويلها 3D في تطبيقات .NET و Java باستخدام المكتبة ذات الصلة دون تثبيت أي برنامج 3D لتصميم النماذج أو عرض الصور
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D واجهات برمجة تطبيقات معالجة الملفات" h2="واجهات برمجة التطبيقات الأصلية لقراءة وتحرير وتحويل تنسيقات المستندات 3D بدون أي 3D برامج عرض أو نماذج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D واجهات برمجة تطبيقات معالجة الملفات" h2="واجهات برمجة التطبيقات الأصلية لقراءة وتحرير وتحويل تنسيقات المستندات 3D بدون أي 3D برامج عرض أو نماذج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D تتضمن واجهات برمجة التطبيقات ذات الأكواد العالية" >}}
@@ -42,6 +42,6 @@ description: يمكنك إنشاء مستندات وتحريرها وتحويل�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

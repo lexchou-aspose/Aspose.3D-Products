@@ -53,7 +53,7 @@ Gratisappen erbjuder funktioner för att konvertera 3D-filer till formaten Autod
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användarna har att säga om Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användarna har att säga om Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

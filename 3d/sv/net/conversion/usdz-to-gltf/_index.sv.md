@@ -23,7 +23,7 @@ otherformats: DRC OBJ JT DAE PDF 3MF HTML RVM
 {{% blocks/products/pf/agp/feature-section-col title="3D Formatomvandling API for .NET" %}}
 Installera från kommandoraden som ```nuget install Aspose.3d``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.3D```.
 
-Alternativt kan du hämta offline-MSI-installationsprogrammet eller DLL-filerna i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/3d/net).
+Alternativt kan du hämta offline-MSI-installationsprogrammet eller DLL-filerna i en ZIP-fil från [Nedladdningar](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Kod för omvandling från USDZ till GLTF" gistPath="" %}}

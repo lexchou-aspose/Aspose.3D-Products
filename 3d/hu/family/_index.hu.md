@@ -5,7 +5,7 @@ url: /hu/family
 description: Szerkeszthet és konvertálhat 3D dokumentumokat a .NET és Java alkalmazásokban a megfelelő könyvtár használatával anélkül, hogy 3D modellező vagy képmegjelenítő szoftver lenne telepítve
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D Fájlmanipulációs API-k" h2="Natív API-k 3D dokumentumformátumok olvasásához, szerkesztéséhez és konvertálásához 3D modellező vagy megjelenítő szoftver nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D Fájlmanipulációs API-k" h2="Natív API-k 3D dokumentumformátumok olvasásához, szerkesztéséhez és konvertálásához 3D modellező vagy megjelenítő szoftver nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Magas kódú API-k:" >}}
@@ -42,6 +42,6 @@ Natív Java API-k asztali számítógéphez, webhez vagy bármilyen alkalmazásh
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

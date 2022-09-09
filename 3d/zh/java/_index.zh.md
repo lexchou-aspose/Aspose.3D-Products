@@ -5,11 +5,11 @@ url: /zh/java/
 description: 用于在 Java 应用程序中创建读取转换和修改 3D 文件格式的游戏软件和 CAD 3D 库
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 3D 文件处理API" h2="无需任何外部建模和渲染软件即可创建、操作 3D 文件并将其保存为多种格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 3D 文件处理API" h2="无需任何外部建模和渲染软件即可创建、操作 3D 文件并将其保存为多种格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-java.svg" pfName="Aspose.3D" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-3d" directDownloadLink="https://downloads.aspose.com/3d/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="" nugetPackageName="Autodesk:" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -577,7 +577,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 为其他流行的开发环境提供单独的 3D 处理 API，如下所列：" >}}
 

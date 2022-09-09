@@ -23,7 +23,7 @@ otherformats: DRC OBJ JT DAE PDF 3MF HTML RVM
 {{% blocks/products/pf/agp/feature-section-col title="3D Konversi Format API for .NET" %}}
 Instal dari baris perintah sebagai ```nuget install Aspose.3d``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.3D```.
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://downloads.aspose.com/3d/net).
+Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Kode untuk USDZ ke GLTF Konversi" gistPath="" %}}

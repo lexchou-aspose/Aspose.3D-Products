@@ -23,7 +23,7 @@ otherformats: STL HTML DAE ASE FBX PLY GLTF PDF
 {{% blocks/products/pf/agp/feature-section-col title="3D Formaatconversie API for .NET" %}}
 Installeer vanaf de opdrachtregel als ```nuget install Aspose.3d``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.3D```.
 
-kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/3d/net).
+kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Code voor USD naar RVM conversie" gistPath="" %}}

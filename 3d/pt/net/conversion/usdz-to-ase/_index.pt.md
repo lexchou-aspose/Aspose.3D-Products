@@ -23,7 +23,7 @@ otherformats: PDF 3MF GLTF DRC DXF OBJ FBX DAE
 {{% blocks/products/pf/agp/feature-section-col title="3D Conversão de formato API for .NET" %}}
 Instale a partir da linha de comando como ```nuget install Aspose.3d``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.3D```.
 
-Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP de [Transferências](https://downloads.aspose.com/3d/net).
+Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP de [Transferências](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Código para conversão de USDZ em ASE" gistPath="" %}}

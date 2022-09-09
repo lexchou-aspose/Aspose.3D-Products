@@ -5,7 +5,7 @@ url: /tr/family
 description: Herhangi bir 3D modelleme veya görüntü oluşturma yazılımı yüklü olmadan ilgili kitaplığı kullanarak .NET ve Java uygulamalarında 3D dokümanları düzenleyin ve dönüştürün
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D Dosya Manipülasyon API\'leri" h2="Herhangi bir 3D modelleme veya oluşturma yazılımı olmadan 3D belge biçimini okumak, düzenlemek ve dönüştürmek için yerel API\'ler." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D Dosya Manipülasyon API\'leri" h2="Herhangi bir 3D modelleme veya oluşturma yazılımı olmadan 3D belge biçimini okumak, düzenlemek ve dönüştürmek için yerel API\'ler." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Yüksek Kod API\'leri Dahildir" >}}
@@ -42,6 +42,6 @@ Java SE veya EE'ye dayalı masaüstü, web veya herhangi bir uygulama türü iç
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

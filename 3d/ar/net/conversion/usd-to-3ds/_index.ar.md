@@ -23,7 +23,7 @@ otherformats: OBJ STL HTML FBX RVM JT DAE DXF
 {{% blocks/products/pf/agp/feature-section-col title="3D تنسيق التحويل API for .NET" %}}
 قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.3d '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.3D ''.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/3d/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# رمز التحويل من USD إلى 3DS" gistPath="" %}}

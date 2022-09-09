@@ -23,7 +23,7 @@ otherformats: PLY FBX AMF ASE 3DS JT HTML STL
 {{% blocks/products/pf/agp/feature-section-col title="3D Conversione formato API for .NET" %}}
 Installa dalla riga di comando come ```nuget install Aspose.3d``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.3D```.
 
-In alternativa, ottieni il programma di installazione MSI offline o le DLL in un file ZIP da [download](https://downloads.aspose.com/3d/net).
+In alternativa, ottieni il programma di installazione MSI offline o le DLL in un file ZIP da [download](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Codice per la conversione da USD a X" gistPath="" %}}

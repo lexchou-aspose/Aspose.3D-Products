@@ -23,7 +23,7 @@ otherformats: 3MF DRC DXF JT PLY GLTF FBX ASE
 {{% blocks/products/pf/agp/feature-section-col title="3Dフォーマット変換APIfor .NET" %}}
 コマンドラインから```nuget install Aspose.3d```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.3D```を使用してインストールします。
 
-または、オフラインのMSIインストーラーまたはDLLをZIPファイルから取得します。 [ダウンロード](https://downloads.aspose.com/3d/net)。
+または、オフラインのMSIインストーラーまたはDLLをZIPファイルから取得します。 [ダウンロード](https://releases.aspose.com/3d/net)。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C#USDZからPDFへの変換のコード" gistPath="" %}}

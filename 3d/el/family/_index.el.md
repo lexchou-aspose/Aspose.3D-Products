@@ -5,7 +5,7 @@ url: /el/family
 description: Δημιουργήστε επεξεργασία και μετατροπή 3D εγγράφων σε εφαρμογές .NET και Java χρησιμοποιώντας τη σχετική βιβλιοθήκη χωρίς να έχει εγκατασταθεί κανένα 3D λογισμικό μοντελοποίησης ή απόδοσης εικόνων
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D API χειρισμού αρχείων" h2="Εγγενή API για ανάγνωση, επεξεργασία και μετατροπή 3D μορφών εγγράφων χωρίς κανένα λογισμικό μοντελοποίησης ή απόδοσης 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D API χειρισμού αρχείων" h2="Εγγενή API για ανάγνωση, επεξεργασία και μετατροπή 3D μορφών εγγράφων χωρίς κανένα λογισμικό μοντελοποίησης ή απόδοσης 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Περιλαμβάνονται τα API High Code" >}}
@@ -42,6 +42,6 @@ description: Δημιουργήστε επεξεργασία και μετατρ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

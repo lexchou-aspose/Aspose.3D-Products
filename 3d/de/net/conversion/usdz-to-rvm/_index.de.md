@@ -23,7 +23,7 @@ otherformats: DRC ASE 3MF AMF GLTF OBJ DXF RVM
 {{% blocks/products/pf/agp/feature-section-col title="3D Formatkonvertierung API for .NET" %}}
 Installieren Sie von der Befehlszeile als ```nuget install Aspose.3d``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.3D```.
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei herunterladen [Downloads](https://downloads.aspose.com/3d/net).
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei herunterladen [Downloads](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Code für Umwandlung von USDZ in RVM" gistPath="" %}}

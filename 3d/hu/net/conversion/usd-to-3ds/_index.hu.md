@@ -23,7 +23,7 @@ otherformats: OBJ STL HTML FBX RVM JT DAE DXF
 {{% blocks/products/pf/agp/feature-section-col title="3D Formátumkonverzió API for .NET" %}}
 Telepítés parancssorból ```nuget install Aspose.3d``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.3D``` paraméterrel.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket egy ZIP fájlban innen [letöltések](https://downloads.aspose.com/3d/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket egy ZIP fájlban innen [letöltések](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Kód a(z) USD – 3DS konverzióhoz" gistPath="" %}}

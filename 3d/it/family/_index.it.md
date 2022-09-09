@@ -5,7 +5,7 @@ url: /it/family
 description: Crea modifica e converti 3D documenti in .NET e Java applicazioni utilizzando la libreria pertinente senza alcun 3D software di modellazione o rendering di immagini installato
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D API di manipolazione dei file" h2="API native per leggere, modificare e convertire 3D formati di documenti senza alcun 3D software di modellazione o rendering." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D API di manipolazione dei file" h2="API native per leggere, modificare e convertire 3D formati di documenti senza alcun 3D software di modellazione o rendering." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Le API High Code includono" >}}
@@ -42,6 +42,6 @@ API Java native per desktop, Web o qualsiasi tipo di applicazione basata su Java
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

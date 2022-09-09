@@ -23,7 +23,7 @@ otherformats: DRC OBJ JT DAE PDF 3MF HTML RVM
 {{% blocks/products/pf/agp/feature-section-col title="3D रूपांतरण प्रारूपित करें API for .NET" %}}
 कमांड लाइन से ``nuget install Aspose.3d``` के रूप में या ```इंस्टॉल-पैकेज Aspose.3D``` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
 
-वैकल्पिक रूप से, ऑफ़लाइन MSI इंस्टॉलर या DLL को ZIP फ़ाइल से प्राप्त करें [डाउनलोड](https://downloads.aspose.com/3d/net).
+वैकल्पिक रूप से, ऑफ़लाइन MSI इंस्टॉलर या DLL को ZIP फ़ाइल से प्राप्त करें [डाउनलोड](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# USDZ से GLTF रूपांतरण के लिए कोड" gistPath="" %}}

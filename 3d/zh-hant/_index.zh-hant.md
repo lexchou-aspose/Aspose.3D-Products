@@ -53,7 +53,7 @@ cURL 命令用於訪問託管在雲上的 3D 模型和 3D 對象，以便於處�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

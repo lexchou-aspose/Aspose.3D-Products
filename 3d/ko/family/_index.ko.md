@@ -5,7 +5,7 @@ url: /ko/family
 description: 3D 모델링 또는 이미지 렌더링 소프트웨어를 설치하지 않고도 관련 라이브러리를 사용하여 .NET 및 Java 애플리케이션에서 3D 문서를 편집하고 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D 파일 조작 API" h2="모델링 또는 렌더링 소프트웨어 없이 3D 문서 형식을 읽고 편집하고 변환하는 기본 API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D 파일 조작 API" h2="모델링 또는 렌더링 소프트웨어 없이 3D 문서 형식을 읽고 편집하고 변환하는 기본 API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D 하이 코드 API 포함" >}}
@@ -42,6 +42,6 @@ Windows Forms, ASP.NET, WPF, WCF 또는 .NET Framework 2.0 이상을 기반으�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

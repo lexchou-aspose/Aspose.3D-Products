@@ -5,7 +5,7 @@ url: /cs/family
 description: Vytvářejte, upravujte a převádějte dokumenty 3D v aplikacích .NET a Java pomocí příslušné knihovny bez nainstalovaného softwaru pro modelování nebo vykreslování obrázků 3D
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D Rozhraní API pro manipulaci se soubory" h2="Nativní rozhraní API pro čtení, úpravy a převod formátů dokumentů 3D bez jakéhokoli softwaru pro modelování nebo vykreslování 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D Rozhraní API pro manipulaci se soubory" h2="Nativní rozhraní API pro čtení, úpravy a převod formátů dokumentů 3D bez jakéhokoli softwaru pro modelování nebo vykreslování 3D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Zahrnuje High Code API" >}}
@@ -42,6 +42,6 @@ Nativní rozhraní API Java pro stolní počítače, web nebo jakýkoli druh apl
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

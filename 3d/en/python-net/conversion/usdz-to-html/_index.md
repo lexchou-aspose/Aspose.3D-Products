@@ -25,7 +25,7 @@ otherformats: DRC ASE RVM DAE 3MF AMF JT FBX
 {{% blocks/products/pf/agp/feature-section-col title="3D Format Conversion API for Python via .NET" %}}
 Install from command line as ```pip install aspose-3d``` .
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/3d/python-net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/3d/python-net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Code for USDZ to HTML Conversion" gistPath="" %}}

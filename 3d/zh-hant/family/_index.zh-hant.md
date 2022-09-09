@@ -5,7 +5,7 @@ url: /zh-hant/family
 description: 使用相關庫在 .NET 和 Java 應用程序中創建編輯和轉換 3D 文檔，而無需安裝任何 3D 建模或圖像渲染軟件
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D 文件操作 API" h2="無需任何建模或渲染軟件即可讀取、編輯和轉換 3D 文檔格式的原生 API。3D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D 文件操作 API" h2="無需任何建模或渲染軟件即可讀取、編輯和轉換 3D 文檔格式的原生 API。3D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D 高代碼 API 包括" >}}
@@ -42,6 +42,6 @@ description: 使用相關庫在 .NET 和 Java 應用程序中創建編輯和轉�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

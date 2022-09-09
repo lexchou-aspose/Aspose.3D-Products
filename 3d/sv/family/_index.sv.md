@@ -5,7 +5,7 @@ url: /sv/family
 description: Skapa redigera och konvertera 3D-dokument i .NET- och Java-program med det relevanta biblioteket utan att någon programvara för 3D-modellering eller bildåtergivning är installerad
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D Filhanterings-API:er" h2="Inbyggda API:er för att läsa, redigera och konvertera 3D dokumentformat utan någon 3D-modellerings- eller renderingsprogramvara." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D Filhanterings-API:er" h2="Inbyggda API:er för att läsa, redigera och konvertera 3D dokumentformat utan någon 3D-modellerings- eller renderingsprogramvara." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D High Code API:er inkluderar" >}}
@@ -42,6 +42,6 @@ Inbyggda Java API:er för skrivbordet, webben eller någon form av applikation b
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

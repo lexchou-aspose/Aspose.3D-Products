@@ -23,7 +23,7 @@ otherformats: DRC GLTF FBX 3DS DAE RVM PDF JT
 {{% blocks/products/pf/agp/feature-section-col title="3D Conversion de formats API for .NET" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.3d``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.3D```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/3d/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/3d/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C# Code pour la conversion USD à GLTF" gistPath="" %}}

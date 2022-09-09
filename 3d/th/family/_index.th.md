@@ -5,7 +5,7 @@ url: /th/family
 description: สร้างแก้ไขและแปลงเอกสาร 3D ในแอปพลิเคชัน .NET และ Java โดยใช้ไลบรารีที่เกี่ยวข้องโดยไม่ต้องติดตั้งซอฟต์แวร์สร้างแบบจำลองหรือแสดงภาพ 3D
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="3D API การจัดการไฟล์" h2="Native API เพื่ออ่าน แก้ไข และแปลงรูปแบบเอกสาร 3D โดยไม่ต้องใช้ซอฟต์แวร์สร้างแบบจำลองหรือแสดงผล 3D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://downloads.aspose.com/3d" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="3D API การจัดการไฟล์" h2="Native API เพื่ออ่าน แก้ไข และแปลงรูปแบบเอกสาร 3D โดยไม่ต้องใช้ซอฟต์แวร์สร้างแบบจำลองหรือแสดงผล 3D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d.svg" pfName="Aspose.3D" downloadUrl="https://releases.aspose.com/3d" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D รวม API โค้ดสูง" >}}
@@ -42,6 +42,6 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d" pricingInformationLink="https://purchase.aspose.com/pricing/3d/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
