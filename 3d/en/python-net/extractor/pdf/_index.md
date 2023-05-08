@@ -54,7 +54,7 @@ PM> Install-Package Aspose.3D
 
 {{% blocks/products/pf/agp/text %}}
 
-Before running the Python conversion code, make sure that you have the following prerequisites.
+ Aspose.3D for Python is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
